@@ -2,6 +2,9 @@ import requests, statistics, sys, time
 import os
 import pandas as pd
 from typing import List, Optional
+from datetime import datetime
+import pytz
+
 
 ENDPOINTS = [
     "https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search",
@@ -94,7 +97,8 @@ def median(xs: List[float]) -> Optional[float]:
     return statistics.median(xs) if xs else None
 
 def main():
-    started = time.strftime("%Y-%m-%d %H:%M:%S")
+    eastern = pytz.timezone("America/New_York")
+    started = datetime.now(eastern).strftime("%Y-%m-%d %H:%M:%S %Z")
     buy_prices  = fetch_side("BUY") 
     sell_prices = fetch_side("SELL")
 
