@@ -157,7 +157,8 @@ def main():
     depth_total = (len(buy_prices) + len(sell_prices))
     depth_imbalance = _safe_div((len(buy_prices) - len(sell_prices)), depth_total)
 
-    effective_spread_pct = _safe_div((buy_max - sell_min), mid)  
+    effective_spread_pct = _safe_div((buy_med - sell_med), mid)
+ 
 
     out = {
         "ts": started,
