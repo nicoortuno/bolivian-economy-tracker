@@ -1,1 +1,2 @@
-
+ts,buy_count,buy_min,buy_median,buy_max,sell_count,sell_min,sell_median,sell_max,mid_BOB_per_USDT,best_ask,best_bid,spread_abs,spread_pct,median_gap,depth_imbalance,effective_spread_pct,mid_change_abs,mid_change_pct,rolling_24h_vol,rolling_7d_vol
+2025-11-08 11:13:19 EST,151,10.69,11.2,20.7,242,6.1,10.5,10.68,10.85,10.69,10.68,0.009999999999999787,0.0009216589861750956,0.6999999999999993,-0.23155216284987276,1.3456221198156681,,,,
