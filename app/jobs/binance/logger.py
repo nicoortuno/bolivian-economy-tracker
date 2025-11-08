@@ -1,4 +1,6 @@
 import requests, statistics, sys, time
+import os
+import pandas as pd
 from typing import List, Optional
 
 ENDPOINTS = [
@@ -116,6 +118,32 @@ def main():
         },
         "mid_BOB_per_USDT": mid
     }
+
+    CSV_PATH = "data/bob_p2p_history.csv"
+    os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
+
+    # Flatten the dictionary
+    row = {
+        "timestamp": started,
+        "buy_min": out["buy_page_BOB_per_USDT"]["min"],
+        "buy_median": out["buy_page_BOB_per_USDT"]["median"],
+        "buy_max": out["buy_page_BOB_per_USDT"]["max"],
+        "sell_min": out["sell_page_BOB_per_USDT"]["min"],
+        "sell_median": out["sell_page_BOB_per_USDT"]["median"],
+        "sell_max": out["sell_page_BOB_per_USDT"]["max"],
+        "mid": out["mid_BOB_per_USDT"],
+    }
+
+    # Append or create CSV
+    if os.path.exists(CSV_PATH):
+        df = pd.read_csv(CSV_PATH)
+        df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
+    else:
+        df = pd.DataFrame([row])
+
+    df.to_csv(CSV_PATH, index=False)
+    print(f"[logger] Appended new row to {CSV_PATH}")
+
     print(out)
 
 if __name__ == "__main__":
