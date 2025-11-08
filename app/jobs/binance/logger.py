@@ -126,25 +126,36 @@ def main():
     CSV_PATH = "data/bob_p2p_history.csv"
     os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
 
-    # Flatten the dictionary
-    row = {
-        "timestamp": started,
-        "buy_min": out["buy_page_BOB_per_USDT"]["min"],
-        "buy_median": out["buy_page_BOB_per_USDT"]["median"],
-        "buy_max": out["buy_page_BOB_per_USDT"]["max"],
-        "sell_min": out["sell_page_BOB_per_USDT"]["min"],
-        "sell_median": out["sell_page_BOB_per_USDT"]["median"],
-        "sell_max": out["sell_page_BOB_per_USDT"]["max"],
-        "mid": out["mid_BOB_per_USDT"],
+    COLS = [
+        "ts",
+        "buy_count", "buy_min", "buy_median", "buy_max",
+        "sell_count", "sell_min", "sell_median", "sell_max",
+        "mid_BOB_per_USDT",
+    ]
+
+    new_row = {
+        "ts": started,
+        "buy_count": len(buy_prices),
+        "buy_min": min(buy_prices),
+        "buy_median": buy_med,
+        "buy_max": max(buy_prices),
+        "sell_count": len(sell_prices),
+        "sell_min": min(sell_prices),
+        "sell_median": sell_med,
+        "sell_max": max(sell_prices),
+        "mid_BOB_per_USDT": mid,
     }
 
-    # Append or create CSV
-    if os.path.exists(CSV_PATH):
-        df = pd.read_csv(CSV_PATH)
-        df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
+    file_has_data = os.path.exists(CSV_PATH) and os.path.getsize(CSV_PATH) > 0
+    if file_has_data:
+        try:
+            df = pd.read_csv(CSV_PATH)
+        except Exception:
+            df = pd.DataFrame(columns=COLS)
     else:
-        df = pd.DataFrame([row])
+        df = pd.DataFrame(columns=COLS)
 
+    df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
     df.to_csv(CSV_PATH, index=False)
     print(f"[logger] Appended new row to {CSV_PATH}")
 
