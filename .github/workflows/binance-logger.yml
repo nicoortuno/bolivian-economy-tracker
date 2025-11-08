@@ -30,7 +30,7 @@ jobs:
         run: python app/jobs/binance/logger.py
 
       - name: Copy CSV for UI
-        run: cp data/bob_p2p_history.csv app/ui/public/bob_p2p_history.csv
+        run: cp data/bob_p2p_history.csv app/ui/public/data/bob_p2p_history.csv
 
       - name: Commit updated data (if any)
         run: |
