@@ -22,7 +22,9 @@ HEADERS = {
 
 FIAT = "BOB"
 ASSET = "USDT"
-ROWS  = 20
+ROWS = 20    
+MAX_PAGES = 50     
+PAGE_SLEEP = 0.25 
 TRANS_AMOUNT = None
 COUNTRIES = ["BO"]
 PAY_TYPES: List[str] = []  
@@ -35,13 +37,11 @@ def build_payload(trade_type: str) -> dict:
         "page": 1,
         "rows": ROWS,
         "payTypes": PAY_TYPES,
-        "countries": COUNTRIES,
         "proMerchantAds": False,
         "shieldMerchantAds": False,
         "filterType": "all",
         "publisherType": None,
         "additionalKycVerifyFilter": 0,
-        "classifies": ["mass", "profession"],
     }
     if TRANS_AMOUNT:
         p["transAmount"] = TRANS_AMOUNT
@@ -70,28 +70,64 @@ def extract_prices_from_data_obj(obj) -> List[float]:
             except Exception:
                 continue
     elif isinstance(obj, dict):
-        # Some variants have nested 'data' or 'records'
         for key in ("data", "records", "advertises", "list"):
             if key in obj:
                 prices.extend(extract_prices_from_data_obj(obj[key]))
     return prices
 
 def fetch_side(trade_type: str) -> List[float]:
-    payload = build_payload(trade_type)
-    for url in ENDPOINTS:
-        j = try_post(url, payload)
-        if not j:
-            continue
-        data = j.get("data")
-        if data is None:
-            pass
-        prices = extract_prices_from_data_obj(data)
-        if prices:
-            return prices
-        else:
-            first_keys = list(j.keys())[:6]
-            print(f"[debug] {url} returned 200 but no adv.price found. top_keys={first_keys}")
-    raise RuntimeError(f"No prices found for tradeType={trade_type}. Try a different network/VPN or adjust headers.")
+    """
+    Fetch ALL visible offers for the given side by paging through results.
+    trade_type: "BUY" (you buy USDT with BOB) or "SELL" (you sell USDT for BOB).
+    Returns a flat list of adv.price floats across all pages.
+    """
+    page = 1
+    all_prices: List[float] = []
+    while page <= MAX_PAGES:
+        payload = build_payload(trade_type)
+        payload["page"] = page
+        payload["rows"] = ROWS
+
+        page_prices: List[float] = []
+        got_any = False
+
+        last_err = None
+        for url in ENDPOINTS:
+            j = try_post(url, payload)
+            if not j:
+                continue
+
+            data = j.get("data")
+            if data is None:
+                pass
+
+            prices = extract_prices_from_data_obj(data)
+            if prices:
+                got_any = True
+                page_prices = prices
+                break
+            else:
+                top_keys = list(j.keys())[:6]
+                print(f"[debug] page {page} -> 200 but no adv.price found. keys={top_keys}")
+
+        if not got_any:
+            break
+
+        all_prices.extend(page_prices)
+
+        if len(page_prices) < ROWS:
+            break
+
+        page += 1
+        time.sleep(PAGE_SLEEP)
+
+    if not all_prices:
+        raise RuntimeError(
+            f"No prices found for tradeType={trade_type} across pages 1..{page-1}. "
+            "Try adjusting headers, VPN, or payload filters (payTypes/countries)."
+        )
+
+    return all_prices
 
 def median(xs: List[float]) -> Optional[float]:
     return statistics.median(xs) if xs else None
