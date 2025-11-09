@@ -21,9 +21,7 @@ export default function Currency() {
   const [err, setErr] = useState(null)
   const [showHelp, setShowHelp] = useState(false)
 
-  // Change this granularity if you like (e.g., every 15 minutes)
   const cacheKey = useMemo(() => {
-    // one key per hour
     return Math.floor(Date.now() / (60 * 60 * 1000))
   }, [])
   const CSV_URL = `${RAW_CSV_PATH}?v=${cacheKey}`
@@ -34,7 +32,6 @@ export default function Currency() {
       header: true,
       dynamicTyping: true,
       skipEmptyLines: true,
-      // These headers don't *guarantee* a bypass, but they don't hurt:
       downloadRequestHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
       complete: (res) => {
         const parsed = (res.data || []).filter(r => r && r.ts)
