@@ -1,7 +1,10 @@
 name: Fetch news + curate parquet
 on:
-  schedule: [{ cron: "6 * * * *" }]   # every hour at :06
+  schedule: [{ cron: "6 * * * *" }]
   workflow_dispatch:
+
+permissions:
+  contents: write 
 
 jobs:
   fetch:
@@ -37,3 +40,16 @@ jobs:
       - name: Export summaries JSON (reads parquet only, no ML)
         run: |
           python app/jobs/news/export_summaries_json.py
+
+      - name: Commit updated news JSON/parquet (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # add curated parquet and the UI-facing JSON
+          git add -A data/curated app/ui/public/api/news_latest.json || true
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore(news): refresh El Deber + parquet + UI JSON [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
