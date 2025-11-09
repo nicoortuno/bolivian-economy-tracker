@@ -10,7 +10,7 @@ import MetricHelp from '../components/MetricHelp.jsx'
 
 ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement, Tooltip, Legend)
 
-const CSV_URL = '/data/bob_p2p_history.csv'
+const RAW_CSV_PATH = '/data/bob_p2p_history.csv'
 
 const asNum = (x) => (x === null || x === undefined || x === '' ? null : Number(x))
 const fmt   = (x, d=4) => (x === null || x === undefined || isNaN(x) ? '—' : Number(x).toFixed(d))
@@ -21,20 +21,29 @@ export default function Currency() {
   const [err, setErr] = useState(null)
   const [showHelp, setShowHelp] = useState(false)
 
+  // Change this granularity if you like (e.g., every 15 minutes)
+  const cacheKey = useMemo(() => {
+    // one key per hour
+    return Math.floor(Date.now() / (60 * 60 * 1000))
+  }, [])
+  const CSV_URL = `${RAW_CSV_PATH}?v=${cacheKey}`
+
   useEffect(() => {
     Papa.parse(CSV_URL, {
       download: true,
       header: true,
       dynamicTyping: true,
       skipEmptyLines: true,
+      // These headers don't *guarantee* a bypass, but they don't hurt:
+      downloadRequestHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
       complete: (res) => {
         const parsed = (res.data || []).filter(r => r && r.ts)
-        console.log('[CSV] rows:', parsed.length, 'first row:', parsed[0])
         setRows(parsed)
       },
       error: (e) => setErr(e?.message || 'Failed to load CSV'),
     })
-  }, [])
+  }, [CSV_URL])
+
 
   const latest = rows.at(-1) || null
 
