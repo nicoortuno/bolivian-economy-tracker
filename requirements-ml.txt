@@ -2,3 +2,4 @@ transformers>=4.44
 tokenizers>=0.19
 sentencepiece>=0.1.99
 accelerate>=0.33
+pandas==2.2.2
