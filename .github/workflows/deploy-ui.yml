@@ -7,7 +7,9 @@ on:
       - 'app/ui/**'
       - 'data/**'
   workflow_run:
-    workflows: ["Binance Logger (Hourly)"]
+    workflows:
+      - "Binance Logger (Hourly)"
+      - "Summarize news (ML)"  
     types: [completed]
 
 permissions:
