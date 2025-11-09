@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4>=4.12
+lxml>=5.2
+python-dateutil>=2.9
+pandas==2.2.2
+pyarrow>=16.1
+filelock>=3.15
