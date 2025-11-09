@@ -8,7 +8,7 @@ export default function App() {
   return (
     <>
       <div className="header">
-        <div className="brand">Bolivian Economy Tracker</div>
+        <div className="brand" style={{color:'var(--accent)'}}>Bolivian Economy Tracker</div>
       </div>
 
       <div className="tabs">
