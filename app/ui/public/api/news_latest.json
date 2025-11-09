@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-09T23:21:03.334545+00:00",
+  "generated_at_utc": "2025-11-09T23:29:34.343382+00:00",
   "count": 15,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia eliminará el requisito de visa para viajeros estadounidenses",
+      "url": "https://eldeber.com.bo/economia/bolivia-eliminara-requisito-visa-viajeros-estadounidenses_1762725908",
+      "summary": "La presencia del subsecretario de Estado de Estados Unidos, Christopher Landau, en la investidura del presidente boliviano, Rodrigo Paz, marcó un cambio drástico en el rumbo de las relaciones entre ambos países.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-09T18:23:00-04:00",
+      "published_at_bo": "2025-11-09T18:23:00-04:00",
+      "fetched_at_utc": "2025-11-09T23:20:55.449218+00:00",
+      "day": "2025-11-09"
+    },
     {
       "source": "El Deber",
       "title": "Celac-UE, entre el desarrollo económico y las alianzas políticas",
