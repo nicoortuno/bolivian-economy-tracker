@@ -54,7 +54,7 @@ export default function News() {
         <p>No summaries yet for today.</p>
       )}
 
-      <div className="summary-list" style={{ display: "grid", gap: 12 }}>
+<div className="summary-list">
         {items.map((it, i) => {
           const when = it.published_at_bo || it.published_at_utc || it.fetched_at_utc;
           return (
