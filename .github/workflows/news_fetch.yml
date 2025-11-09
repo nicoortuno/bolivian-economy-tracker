@@ -1,0 +1,61 @@
+name: Fetch economic news (hourly)
+
+on:
+  schedule:
+    - cron: "2 * * * *" 
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-hourly
+  cancel-in-progress: true
+
+jobs:
+  fetch-and-curate:
+    runs-on: ubuntu-latest
+    env:
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      HF_HOME: ~/.cache/huggingface
+      TRANSFORMERS_CACHE: ~/.cache/huggingface
+      HF_HUB_ENABLE_HF_TRANSFER: "1"
+      TZ: America/La_Paz
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # ensure parquet deps are present (if not already in requirements.txt)
+          pip install pandas pyarrow filelock
+
+      - name: Fetch El Deber + curate parquet
+        run: |
+          python app/jobs/news/eldeber_fetch.py --limit 40 --since-hours 6
+          python app/jobs/news/sink_parquet.py --sources eldeber --days 14
+
+      - name: Commit data changes (raw + curated)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw data/curated || true
+          git commit -m "data: news fetch $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push || true

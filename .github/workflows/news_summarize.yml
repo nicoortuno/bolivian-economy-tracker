@@ -1,0 +1,72 @@
+name: Summarize economic news (hourly)
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour at :17 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-summarize
+  cancel-in-progress: true
+
+jobs:
+  summarize-and-export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      HF_HOME: ~/.cache/huggingface
+      TRANSFORMERS_CACHE: ~/.cache/huggingface
+      HF_HUB_ENABLE_HF_TRANSFER: "1"  # faster downloads
+      TZ: America/La_Paz
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-
+
+      - name: Cache Hugging Face model weights
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+          key: hf-${{ runner.os }}-flan-t5-large
+          restore-keys: |
+            hf-${{ runner.os }}-
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # make sure summarization deps are present
+          pip install transformers sentencepiece accelerate torch --extra-index-url https://download.pytorch.org/whl/cpu
+          pip install pandas pyarrow filelock
+
+      - name: Build summaries parquet + export JSON
+        run: |
+          python app/jobs/news/summarize_articles.py
+          python app/jobs/news/export_summaries_json.py   # writes app/ui/public/api/news_latest.json
+
+      - name: Commit summaries + JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/curated app/ui/public/api/news_latest.json || true
+          git commit -m "data: news summaries $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push || true
