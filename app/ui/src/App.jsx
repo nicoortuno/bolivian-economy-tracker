@@ -7,23 +7,26 @@ export default function App() {
   const [tab, setTab] = useState('home')
 
   return (
-    <>
-      <div className="header">
-        <div className="brand" style={{color:'var(--accent)'}}>Bolivian Economy Tracker</div>
-      </div>
+    <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
+      <header className="header">
+        <div className="brand">Bolivian Economy Tracker</div>
+      </header>
 
       <div className="tabs">
-        <button className={`tab ${tab==='home'?'active':''}`} onClick={()=>setTab('home')}>Home</button>
-        <button className={`tab ${tab==='currency'?'active':''}`} onClick={()=>setTab('currency')}>Currency</button>
-        <button className={`tab ${tab==='news'?'active':''}`} onClick={()=>setTab('news')}>News</button> {/* ← new */}
+        <button className={`tab ${tab === 'home' ? 'active' : ''}`} onClick={() => setTab('home')}>Home</button>
+        <button className={`tab ${tab === 'currency' ? 'active' : ''}`} onClick={() => setTab('currency')}>Currency</button>
+        <button className={`tab ${tab === 'news' ? 'active' : ''}`} onClick={() => setTab('news')}>News</button>
       </div>
 
-      <div className="container">
-        {tab === 'home' ? <Home/>
-          : tab === 'currency' ? <Currency/>
-          : <News/>} {/* ← render News */}
-        <div className="footer">v0.1 — hourly data from Binance P2P (USDT/BOB)</div>
-      </div>
-    </>
+      <main className="container" style={{ flex: 1 }}>
+        {tab === 'home' && <Home />}
+        {tab === 'currency' && <Currency />}
+        {tab === 'news' && <News />}
+      </main>
+
+      <footer className="footer">
+        Bolivian Economy Tracker · <span style={{ color: 'var(--muted)' }}>v1.0</span>
+      </footer>
+    </div>
   )
 }

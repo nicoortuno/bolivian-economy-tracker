@@ -17,8 +17,20 @@
   
   html, body, #root { height: 100%; background: var(--bg); color: var(--text); }
   
-  .header { display:flex; align-items:center; padding:16px 20px; border-bottom:1px solid var(--border); }
-  .brand { font-weight:700; letter-spacing:.3px; }
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel);
+  }
+  
+  .brand {
+    font-weight: 700;
+    letter-spacing: .3px;
+    color: var(--accent);
+  }  .brand { font-weight:700; letter-spacing:.3px; }
   
   .tabs { display:flex; gap:8px; padding:12px 20px; border-bottom:1px solid var(--border); }
   .tab { background:transparent; color:var(--muted); border:1px solid var(--border); padding:8px 14px; border-radius:10px; }
