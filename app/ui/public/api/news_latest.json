@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-10T23:23:16.604038+00:00",
+  "generated_at_utc": "2025-11-10T23:32:11.350447+00:00",
   "count": 22,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El dólar paralelo cae a la franja de los Bs 10 tras la posesión del gabinete técnico de Paz",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-cae-franja-bs-10-posesion-gabinete-tecnico-paz_1762813934",
+      "summary": "El dólar paralelo sigue retrocediendo y, por primera vez en meses, muestra una estabilidad clara en la franja de los Bs 10,17 para la venta.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-10T18:31:00-04:00",
+      "published_at_bo": "2025-11-10T18:31:00-04:00",
+      "fetched_at_utc": "2025-11-10T23:23:11.804492+00:00",
+      "day": "2025-11-10"
+    },
     {
       "source": "El Deber",
       "title": "Canciller alemán visita a Bolivia con el litio y las tierras raras en la agenda",
