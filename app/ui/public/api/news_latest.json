@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-10T20:29:01.402807+00:00",
+  "generated_at_utc": "2025-11-10T20:38:05.110065+00:00",
   "count": 20,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Justiniano asume Desarrollo Productivo: promete eficiencia y una evaluación de las empresas estatales",
+      "url": "https://eldeber.com.bo/economia/justiniano-asume-desarrollo-productivo-promete-eficiencia-evaluacion-empresas-estatales_1762800613",
+      "summary": "El Gobierno de Bolivia anunció este lunes la entrega de toda la información y documentación del ministerio de Medio Ambiente a las empresas estatales dependientes de la cartera.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-10T15:43:00-04:00",
+      "published_at_bo": "2025-11-10T15:43:00-04:00",
+      "fetched_at_utc": "2025-11-10T20:28:56.344649+00:00",
+      "day": "2025-11-10"
+    },
     {
       "source": "El Deber",
       "title": "Paz pide a las Fuerzas Armadas de Bolivia evitar la fuga de combustible hacia otros países",
