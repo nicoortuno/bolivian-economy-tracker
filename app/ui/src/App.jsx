@@ -4,19 +4,21 @@ import Currency from './pages/Currency.jsx'
 import News from './pages/News.jsx'
 
 const NAV = [
-  { key: 'home',     label: 'Home' },
+  { key: 'home', label: 'Home' },
   { key: 'currency', label: 'Currency' },
-  { key: 'news',     label: 'News' },
+  { key: 'news', label: 'News' },
 ]
 
 export default function App() {
   const [tab, setTab] = useState('home')
-  const [open, setOpen] = useState(true)
+  const [open, setOpen] = useState(false) 
 
   useEffect(() => {
     const saved = localStorage.getItem('bet.sidebar')
+    if (saved === 'open') setOpen(true)
     if (saved === 'closed') setOpen(false)
   }, [])
+
   useEffect(() => {
     localStorage.setItem('bet.sidebar', open ? 'open' : 'closed')
   }, [open])
@@ -33,7 +35,6 @@ export default function App() {
 
   return (
     <div className={`layout ${open ? 'sb-open' : 'sb-closed'}`}>
-      {/* === Sidebar === */}
       <aside className={`sidebar ${open ? 'open' : 'closed'}`} aria-label="Primary navigation">
         <div className="sidebar-header">
           <button
@@ -68,11 +69,8 @@ export default function App() {
         </div>
       </aside>
 
-      {/* === Main Area === */}
       <div className="main">
-        {/* Top Header */}
         <header className="header slim">
-          {/* Mobile-only toggle */}
           <button
             className="sidebar-toggle only-mobile"
             aria-label={open ? 'Collapse sidebar' : 'Expand sidebar'}
@@ -87,20 +85,17 @@ export default function App() {
           </a>
         </header>
 
-        {/* Page content */}
         <main className="container">
           {tab === 'home' && <Home />}
           {tab === 'currency' && <Currency />}
           {tab === 'news' && <News />}
         </main>
 
-        {/* Footer */}
         <footer className="footer">
           Bolivian Economy Tracker · <span style={{ color: 'var(--muted)' }}>v1.0</span>
         </footer>
       </div>
 
-      {/* Mobile overlay */}
       <div
         className={`scrim ${open ? 'show' : ''}`}
         onClick={() => setOpen(false)}
