@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-10T19:20:09.990224+00:00",
+  "generated_at_utc": "2025-11-10T19:28:57.484789+00:00",
   "count": 19,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Paz pide a las Fuerzas Armadas de Bolivia evitar la fuga de combustible hacia otros países",
+      "url": "https://eldeber.com.bo/economia/paz-pide-fuerzas-armadas-bolivia-evitar-fuga-combustible-otros-paises_1762799915",
+      "summary": "El presidente de Bolivia, Rodrigo Paz, pidió este lunes a las Fuerzas Armadas del país que den su mejor esfuerzo para evitar que el combustible que ha llegado al país en estos días sea \"desviado\" al contrabando y vendido ilegalmente por \"mafias\".",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-10T14:46:00-04:00",
+      "published_at_bo": "2025-11-10T14:46:00-04:00",
+      "fetched_at_utc": "2025-11-10T19:20:05.187286+00:00",
+      "day": "2025-11-10"
+    },
     {
       "source": "El Deber",
       "title": "El sector hidrocarburos está “desestabilizado”, alistan una revisión de precios y auditorías en YPFB",
