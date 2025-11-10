@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-10T14:25:29.625729+00:00",
+  "generated_at_utc": "2025-11-10T14:37:49.135807+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ayala asume la ANH con la presión inmediata de normalizar el suministro de combustibles",
+      "url": "https://eldeber.com.bo/economia/ayala-asume-anh-presion-inmediata-normalizar-suministro-combustibles_1762781652",
+      "summary": "El ministro de Hidrocarburos y Energía, Mauricio Medinacelli, designó este miércoles a Margot Ayala Lino como directora ejecutiva de la Agencia Nacional de hidrocarburo (Anh).",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-10T09:42:00-04:00",
+      "published_at_bo": "2025-11-10T09:42:00-04:00",
+      "fetched_at_utc": "2025-11-10T14:25:27.669869+00:00",
+      "day": "2025-11-10"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia eliminará el requisito de visa para viajeros estadounidenses",
