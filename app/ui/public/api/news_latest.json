@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-10T17:23:01.656381+00:00",
+  "generated_at_utc": "2025-11-10T17:34:32.976465+00:00",
   "count": 18,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El sector hidrocarburos está “desestabilizado”, alistan una revisión de precios y auditorías en YPFB",
+      "url": "https://eldeber.com.bo/economia/sector-hidrocarburos-esta-desestabilizado-alistan-revision-precios-auditorias-ypfb_1762792639",
+      "summary": "El ministro de Hidrocarburos, Mauricio Medinaceli, dio un diagnóstico sin maquillaje: “El sector hidrocarburo en Bolivia está desestabilizado”.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-10T13:17:00-04:00",
+      "published_at_bo": "2025-11-10T13:17:00-04:00",
+      "fetched_at_utc": "2025-11-10T17:22:57.662336+00:00",
+      "day": "2025-11-10"
+    },
     {
       "source": "El Deber",
       "title": "Medinacelli admite el subsidio no se levantará de forma inmediato y dice que el abastecimiento requiere “paciencia”",
