@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-10T21:22:41.229618+00:00",
+  "generated_at_utc": "2025-11-10T21:32:08.292162+00:00",
   "count": 21,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Canciller alemán visita a Bolivia con el litio y las tierras raras en la agenda",
+      "url": "https://eldeber.com.bo/economia/canciller-aleman-visita-bolivia-litio-tierras-raras-agenda-bilateral_1762807741",
+      "summary": "El ministro de Relaciones Exteriores de Alemania, Johann Wadephul, inició este lunes una visita oficial a Bolivia con una agenda centrada en el litio, las tierras raras y las oportunidades para inversión bilateral bajo el nuevo gobierno del presidente Rodrigo Paz Pereira.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-10T17:04:00-04:00",
+      "published_at_bo": "2025-11-10T17:04:00-04:00",
+      "fetched_at_utc": "2025-11-10T21:22:36.314611+00:00",
+      "day": "2025-11-10"
+    },
     {
       "source": "El Deber",
       "title": "Justiniano asume Desarrollo Productivo: promete eficiencia y una evaluación de las empresas estatales",
