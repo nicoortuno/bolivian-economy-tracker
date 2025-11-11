@@ -1,7 +1,43 @@
 {
-  "generated_at_utc": "2025-11-11T15:27:13.055191+00:00",
+  "generated_at_utc": "2025-11-11T15:36:28.413607+00:00",
   "count": 28,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Sepa las cuatro claves del por qué el precio del dólar paralelo cayó a Bs 9,80 y cómo se comportará a futuro",
+      "url": "https://eldeber.com.bo/economia/sepa-cuatro-claves-precio-dolar-paralelo-cayo-bs-9-80-comportara-futuro_1762871821",
+      "summary": "El mercado del dólar paralelo en Bolivia volvió a sacudirse este martes, cuando el precio de la divisa estadounidense cayó al menos Bs 9,25 en Santa Cruz.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T10:57:00-04:00",
+      "published_at_bo": "2025-11-11T10:57:00-04:00",
+      "fetched_at_utc": "2025-11-11T15:27:06.478562+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Paz se reúne con vicepresidenta del BM para \"articular cooperación técnica y financiera\"",
+      "url": "https://eldeber.com.bo/economia/paz-reune-vicepresidenta-bm-articular-cooperacion-tecnica-financiera_1762872324",
+      "summary": "El presidente de Bolivia, Rodrigo Paz, se reunió con la vicepresidenta del B anco Mundial (BM) para América Latina y el Caribe, Susana Cordeiro Guerra, para articular cooperación técnica e financiera.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T10:53:00-04:00",
+      "published_at_bo": "2025-11-11T10:53:00-04:00",
+      "fetched_at_utc": "2025-11-11T15:27:07.435216+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Entre la ilusión y el abuso: jóvenes que trabajan sin las garantías laborales vigentes",
+      "url": "https://eldeber.com.bo/economia/ilusion-abuso-jovenes-trabajan-garantias-laborales-vigentes_1762871337",
+      "summary": "La historia de un joven en Santa Cruz, en el estado mexicano de Puerto Rico, quedó atrapado en una trampa de deuda a través de las redes sociales.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T10:28:00-04:00",
+      "published_at_bo": "2025-11-11T10:28:00-04:00",
+      "fetched_at_utc": "2025-11-11T15:27:08.404366+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "Empresa boliviana denuncia persecución en Paraguay, luego de invertir $us 7,5 millones",
