@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-11T23:22:24.658586+00:00",
+  "generated_at_utc": "2025-11-11T23:31:35.539221+00:00",
   "count": 37,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Riesgo país de Bolivia por debajo de los 1.000 puntos, la calificación más baja en dos años",
+      "url": "https://eldeber.com.bo/economia/riesgo-pais-bolivia-debajo-1-000-puntos-calificacion-baja-dos-anos_1762892991",
+      "summary": "El riesgo para invertir en las economías emergentes volvió a romper la barrera de los 1.000 puntos, lo que es la cifra más baja en más de dos años.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T19:16:00-04:00",
+      "published_at_bo": "2025-11-11T19:16:00-04:00",
+      "fetched_at_utc": "2025-11-11T23:22:20.948837+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "¿Por qué el internet satelital de Starlink necesita licencia para operar en el país?",
