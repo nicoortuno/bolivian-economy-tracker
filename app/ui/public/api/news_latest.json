@@ -1,7 +1,55 @@
 {
-  "generated_at_utc": "2025-11-11T17:22:37.275854+00:00",
+  "generated_at_utc": "2025-11-11T17:35:27.840960+00:00",
   "count": 34,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Javier Díez de Medina: “Bolivia necesita abrirse al mundo, requiere seguridad jurídica”",
+      "url": "https://eldeber.com.bo/economia/javier-diez-medina-bolivia-necesita-abrirse-mundo-requiere-seguridad-juridica_1762881327",
+      "summary": "El presidente de Bolivia, Andrés Manuel López Obrador, se reunió este miércoles en la sede de la Cumbre Económica y Negociosa de Visión, en La Paz, para hablar sobre la situación del sector minero en el país.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T13:15:00-04:00",
+      "published_at_bo": "2025-11-11T13:15:00-04:00",
+      "fetched_at_utc": "2025-11-11T17:22:24.726720+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Ministerio de Hidrocarburos tiene tres semanas para elaborar su plan de subvención",
+      "url": "https://eldeber.com.bo/economia/ministerio-hidrocarburos-tiene-tres-semanas-elaborar-plan-subvencion_1762878397",
+      "summary": "El gobierno de Bolivia anunció este martes la implementación de una nueva estrategia para combatir la crisis de combustibles que atraviesa el país desde el inicio de la campaña electoral.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T13:06:00-04:00",
+      "published_at_bo": "2025-11-11T13:06:00-04:00",
+      "fetched_at_utc": "2025-11-11T17:22:25.690027+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Empresas y productores con nuevos ánimos para exportar y crecer",
+      "url": "https://eldeber.com.bo/economia/empresas-productores-nuevos-animos-exportar-crecer_1762880004",
+      "summary": "El cambio de gobierno en Bolivia volvió a poner al país en el centro de las esperanzas para la exportación de frutas y hortalizas.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T12:53:00-04:00",
+      "published_at_bo": "2025-11-11T12:53:00-04:00",
+      "fetched_at_utc": "2025-11-11T17:22:26.660176+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bolivia puede asegurar $us 4.500 millones de organismos multilaterales en los próximos meses",
+      "url": "https://eldeber.com.bo/economia/bolivia-puede-asegurar-us-4-500-millones-organismos-multilaterales-proximos-meses_1762877990",
+      "summary": "El gobierno de Bolivia anunció este miércoles un programa de apoyo a la economía del país y un desembolso inicial del 15% en el corto plazo.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T12:34:00-04:00",
+      "published_at_bo": "2025-11-11T12:34:00-04:00",
+      "fetched_at_utc": "2025-11-11T17:22:27.651062+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "Soyeros esperan que se canalice correctamente la distribución de diésel",
