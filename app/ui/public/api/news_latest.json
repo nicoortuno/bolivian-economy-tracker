@@ -1,7 +1,43 @@
 {
-  "generated_at_utc": "2025-11-11T12:51:55.120384+00:00",
+  "generated_at_utc": "2025-11-11T13:03:37.738253+00:00",
   "count": 25,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Empresa boliviana denuncia persecución en Paraguay, luego de invertir $us 7,5 millones",
+      "url": "https://eldeber.com.bo/economia/empresa-boliviana-denuncia-persecucion-paraguay-luego-invertir-us-7-5-millones_1762864893",
+      "summary": "El gobierno de Paraguay anunció este viernes que canceló la licencia ambiental de una de las empresas industriales más importantes del país, luego de haber invertido al menos $us 7,5 millones para dedicarse al rubro del construcción en el vecino país.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T08:49:00-04:00",
+      "published_at_bo": "2025-11-11T08:49:00-04:00",
+      "fetched_at_utc": "2025-11-11T12:51:50.612770+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Arce dejó a Bolivia con un día de stock de combustible y el Gobierno de Paz pide paciencia",
+      "url": "https://eldeber.com.bo/economia/bolivia-quedo-dia-stock-gobierno-paz-pide-paciencia_1762860158",
+      "summary": "El Gobierno de Bolivia admitió este miércoles que el país está al borde del desabastecimiento de combustibles y que no hay soluciones mágicas para el problema.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T07:43:00-04:00",
+      "published_at_bo": "2025-11-11T07:43:00-04:00",
+      "fetched_at_utc": "2025-11-11T12:51:51.556207+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Mauricio Zamora: “Vamos a cortar de raíz la práctica del 10% o 15% en las licitaciones”",
+      "url": "https://eldeber.com.bo/economia/mauricio-zamora-vamos-cortar-raiz-practica-10-15-licitaciones_1762860464",
+      "summary": "El secretario general de la Comisión de transición del gobierno de Juan Manuel Santos, Juan Carlos Castillo, se ha convertido en el primer ministro a cargo del ministerio de Obras Públicas.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T07:27:00-04:00",
+      "published_at_bo": "2025-11-11T07:27:00-04:00",
+      "fetched_at_utc": "2025-11-11T12:51:52.508892+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "El dólar paralelo cae a la franja de los Bs 10 tras la posesión del gabinete técnico de Paz",
