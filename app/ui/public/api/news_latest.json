@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-11T20:27:13.863123+00:00",
+  "generated_at_utc": "2025-11-11T20:35:41.407738+00:00",
   "count": 35,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno asegura que la subvención representa hasta el 8% del PIB",
+      "url": "https://eldeber.com.bo/economia/gobierno-asegura-subvencion-representa-8-pib-propone-politica-eficiente_1762890953",
+      "summary": "El debate sobre el subsidio a los carburantes en Perú se ha intensificado y las autoridades esperan con ansias la llegada del diésel o gasolina.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T16:07:00-04:00",
+      "published_at_bo": "2025-11-11T16:07:00-04:00",
+      "fetched_at_utc": "2025-11-11T20:27:02.867863+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "Javier Díez de Medina: “Bolivia necesita abrirse al mundo, requiere seguridad jurídica”",
