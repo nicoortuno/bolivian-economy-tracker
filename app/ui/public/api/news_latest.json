@@ -1,7 +1,31 @@
 {
-  "generated_at_utc": "2025-11-11T16:32:07.100936+00:00",
+  "generated_at_utc": "2025-11-11T16:43:11.835966+00:00",
   "count": 30,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Soyeros esperan que se canalice correctamente la distribución de diésel",
+      "url": "https://eldeber.com.bo/economia/soyeros-esperan-canalice-correctamente-distribucion-diesel_1762876003",
+      "summary": "Los productores de oleaginosas y trigo de Brasil aseguran que el nuevo gobierno de Rodrigo Paz Pereira puede tener buenas condiciones para el verano.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T12:08:00-04:00",
+      "published_at_bo": "2025-11-11T12:08:00-04:00",
+      "fetched_at_utc": "2025-11-11T16:31:56.723690+00:00",
+      "day": "2025-11-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Tatiana Genuzio es posesionada como la nueva viceministra de Industrialización",
+      "url": "https://eldeber.com.bo/economia/tatiana-genuzio-posesionada-nueva-viceministra-industrializacion_1762874372",
+      "summary": "El ministro de Hidrocarburos y Energías, Mauricio Medinaceli, designó este martes a Tatiana Genuzio Patzi como la nueva viceministra de Industrialización, Comercialização, Transporte e Almacenaje de hidrocarburo.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T11:34:00-04:00",
+      "published_at_bo": "2025-11-11T11:34:00-04:00",
+      "fetched_at_utc": "2025-11-11T16:31:57.683044+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "Sepa las cuatro claves del por qué el precio del dólar paralelo cayó a Bs 9,80 y cómo se comportará a futuro",
