@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-11T22:23:37.518759+00:00",
+  "generated_at_utc": "2025-11-11T22:34:58.448327+00:00",
   "count": 36,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Por qué el internet satelital de Starlink necesita licencia para operar en el país?",
+      "url": "https://eldeber.com.bo/economia/internet-satelital-starlink-necesita-licencia-operar-pais_1762898145",
+      "summary": "Los gobiernos de Estados Unidos y Bolivia anunciaron este miércoles acuerdos para acelerar la digitalización de sus telecomunicaciones, que pueden tener beneficios económicos.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-11T18:06:00-04:00",
+      "published_at_bo": "2025-11-11T18:06:00-04:00",
+      "fetched_at_utc": "2025-11-11T22:23:28.091500+00:00",
+      "day": "2025-11-11"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno asegura que la subvención representa hasta el 8% del PIB",
