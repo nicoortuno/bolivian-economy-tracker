@@ -2,11 +2,14 @@ import { useEffect, useState } from 'react'
 import Home from './pages/Home.jsx'
 import Currency from './pages/Currency.jsx'
 import News from './pages/News.jsx'
+import Macro from './pages/Macro.jsx'
+
 
 const NAV = [
   { key: 'home', label: 'Home' },
   { key: 'currency', label: 'Currency' },
   { key: 'news', label: 'News' },
+  { key: 'macro', label: 'Macro' },
 ]
 
 export default function App() {
@@ -88,6 +91,7 @@ export default function App() {
         <main className="container">
           {tab === 'home' && <Home />}
           {tab === 'currency' && <Currency />}
+          {tab === 'macro' && <Macro />}
           {tab === 'news' && <News />}
         </main>
 
