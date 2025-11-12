@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-12T21:23:04.798807+00:00",
+  "generated_at_utc": "2025-11-12T21:32:44.254544+00:00",
   "count": 46,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB destituye a jefe distrital por presunta corrupción en venta de diésel en Riberalta",
+      "url": "https://eldeber.com.bo/economia/ypfb-destituye-jefe-distrital-presunta-corrupcion-venta-diesel-riberalta_1762981637",
+      "summary": "La estatal Yacimientos Petrolíferos Fiscales Bolivianos (YPFB ) informó l a destitución del jefe Distrital Comercial Amazónico , en el marco de las investigaciones por presuntos hechos de corrupción relacionados con la venta irregular de diésel en Riberalta, Beni.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T17:17:00-04:00",
+      "published_at_bo": "2025-11-12T17:17:00-04:00",
+      "fetched_at_utc": "2025-11-12T21:22:58.447596+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "Arce dejó un PGE 2026 con menor inversión pública, mínimo crecimiento y una inflación de dos dígitos",
