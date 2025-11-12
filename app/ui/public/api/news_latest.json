@@ -1,7 +1,31 @@
 {
-  "generated_at_utc": "2025-11-12T16:33:44.298550+00:00",
+  "generated_at_utc": "2025-11-12T16:46:15.214927+00:00",
   "count": 43,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El precio de los alimentos cae en Tarija: el maple de huevo baja de 38 a 20 bolivianos",
+      "url": "https://eldeber.com.bo/economia/precio-alimentos-cae-tarija-maple-huevo-baja-38-20-bolivianos_1762964643",
+      "summary": "La escasez de alimentos en Tarija, la capital de Bolivia, comienza a dar un respiro al abastecimiento de combustibles y el aumento de los precios.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T12:32:00-04:00",
+      "published_at_bo": "2025-11-12T12:32:00-04:00",
+      "fetched_at_utc": "2025-11-12T16:33:37.503078+00:00",
+      "day": "2025-11-12"
+    },
+    {
+      "source": "El Deber",
+      "title": "Intervienen Emapa ante indicios de corrupción: \"Hay una deuda monstruosa\"",
+      "url": "https://eldeber.com.bo/economia/intervienen-emapa-indicios-corrupcion-hay-deuda-monstruosa_1762962502",
+      "summary": "El nuevo Gobierno de Bolivia comienza a ordenar la casa y ordenó la compra de la harina de plástico que se vende en el país desde hace más de dos décadas.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T11:58:00-04:00",
+      "published_at_bo": "2025-11-12T11:58:00-04:00",
+      "fetched_at_utc": "2025-11-12T16:33:38.485000+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "El transporte advierte: levantar el subsidio a los combustibles sería “una bomba de tiempo”",
