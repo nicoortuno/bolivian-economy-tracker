@@ -1,7 +1,31 @@
 {
-  "generated_at_utc": "2025-11-12T12:53:01.946164+00:00",
+  "generated_at_utc": "2025-11-12T13:05:25.492489+00:00",
   "count": 39,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno dice que se normaliza el suministro de combustibles",
+      "url": "https://eldeber.com.bo/economia/gobierno-dice-normaliza-suministro-combustibles_1762947827",
+      "summary": "El ministro de Hidrocarburos y Energías, Mauricio Medinaceli, anunció este martes que regularizará el abastecimiento de carburantes en el resto del país.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T07:43:00-04:00",
+      "published_at_bo": "2025-11-12T07:43:00-04:00",
+      "fetched_at_utc": "2025-11-12T12:52:59.007553+00:00",
+      "day": "2025-11-12"
+    },
+    {
+      "source": "El Deber",
+      "title": "Dólar paralelo cae por debajo de los Bs 10 y el gobierno celebra",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-cae-debajo-bs-10-gobierno-celebra_1762947489",
+      "summary": "El precio del dólar en el mercado paralelo en Bolivia registró una caída histórica el martes, cuando llegó a los Bs 10 en Santa Cruz, Cochabamba y La Paz.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T07:38:00-04:00",
+      "published_at_bo": "2025-11-12T07:38:00-04:00",
+      "fetched_at_utc": "2025-11-12T12:52:59.973886+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "Riesgo país de Bolivia por debajo de los 1.000 puntos, la calificación más baja en dos años",
