@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-12T15:28:20.603720+00:00",
+  "generated_at_utc": "2025-11-12T15:37:59.412665+00:00",
   "count": 41,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El transporte advierte: levantar el subsidio a los combustibles sería “una bomba de tiempo”",
+      "url": "https://eldeber.com.bo/economia/transporte-advierte-levantar-subsidio-combustibles-seria-bomba-tiempo_1762959880",
+      "summary": "En las últimas semanas, los dirigentes del transporte en diferentes regiones de Bolivia advirtieron que una eventual eliminación del subsidio a los combustibles podría desatar la crisis económica y social.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T11:17:00-04:00",
+      "published_at_bo": "2025-11-12T11:17:00-04:00",
+      "fetched_at_utc": "2025-11-12T15:28:15.914124+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "Confianza internacional: proveedores de combustibles amplían crédito al Gobierno de Paz",
