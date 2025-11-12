@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-12T19:21:05.178995+00:00",
+  "generated_at_utc": "2025-11-12T19:29:13.423252+00:00",
   "count": 45,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Arce dejó un PGE 2026 con menor inversión pública, mínimo crecimiento y una inflación de dos dígitos",
+      "url": "https://eldeber.com.bo/economia/arce-dejo-pge-2026-menor-inversion-publica-minimo-crecimiento-inflacion-dos-digitos_1762966085",
+      "summary": "El gobierno de Luis Arce anunció este miércoles que destinará más recursos para la inversión pública y la infraestructura para el próximo año, que será de Bs 3.000 millones menos que el de 2025.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T15:05:00-04:00",
+      "published_at_bo": "2025-11-12T15:05:00-04:00",
+      "fetched_at_utc": "2025-11-12T19:20:57.391266+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia apuesta por una economía verde tras perder $us 100.000 millones por el aislamiento internacional",
