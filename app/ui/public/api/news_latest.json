@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-12T14:26:17.166052+00:00",
+  "generated_at_utc": "2025-11-12T14:38:32.030345+00:00",
   "count": 40,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Confianza internacional: proveedores de combustibles amplían crédito al Gobierno de Paz",
+      "url": "https://eldeber.com.bo/economia/confianza-internacional-proveedores-combustibles-amplian-credito-gobierno-paz_1762956729",
+      "summary": "El ministro de Hidrocarburos de Bolivia, Mauricio Medinacelli, anunció este miércoles la firma de un acuerdo con los traders para regularizar el abastecimiento de combustibles.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T10:23:00-04:00",
+      "published_at_bo": "2025-11-12T10:23:00-04:00",
+      "fetched_at_utc": "2025-11-12T14:26:13.365005+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno dice que se normaliza el suministro de combustibles",
