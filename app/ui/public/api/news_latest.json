@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-12T18:33:28.037894+00:00",
+  "generated_at_utc": "2025-11-12T18:47:19.236981+00:00",
   "count": 44,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia apuesta por una economía verde tras perder $us 100.000 millones por el aislamiento internacional",
+      "url": "https://eldeber.com.bo/economia/bolivia-apuesta-economia-verde-perder-us-100-000-millones-aislamiento-internacional_1762966937",
+      "summary": "El gobierno de Bolivia anunció este miércoles una nueva visión económica y ambiental del país, luego de que el país perdió más de 100.000 millones de dólares en financiamiento internacional por mantener una postura cerrada en los foros ambientales.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-12T14:16:00-04:00",
+      "published_at_bo": "2025-11-12T14:16:00-04:00",
+      "fetched_at_utc": "2025-11-12T18:33:22.122761+00:00",
+      "day": "2025-11-12"
+    },
     {
       "source": "El Deber",
       "title": "El precio de los alimentos cae en Tarija: el maple de huevo baja de 38 a 20 bolivianos",
