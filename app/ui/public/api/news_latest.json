@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T23:23:05.880283+00:00",
+  "generated_at_utc": "2025-11-13T23:31:53.347905+00:00",
   "count": 57,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia recupera terreno en los mercados y registra su índice de riesgo país más bajo desde 2023",
+      "url": "https://eldeber.com.bo/economia/bolivia-recupera-terreno-mercados-registra-indice-riesgo-pais-2023_1763072556",
+      "summary": "El riesgo país de Bolivia registró una caída significativa en los últimos días, con un índice de más de 1.000 puntos, según un experto.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T18:37:00-04:00",
+      "published_at_bo": "2025-11-13T18:37:00-04:00",
+      "fetched_at_utc": "2025-11-13T23:22:59.255664+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Dólar paralelo vuelve a subir, dos veces en una jornada y trepa a los Bs 10,70",
