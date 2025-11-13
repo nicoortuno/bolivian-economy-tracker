@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T15:27:06.313250+00:00",
+  "generated_at_utc": "2025-11-13T15:35:21.808191+00:00",
   "count": 50,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisterneros respiran aliviados porque se agiliza carguío de combustibles en Argentina y Paraguay",
+      "url": "https://eldeber.com.bo/economia/cisterneros-respiran-aliviados-porque-agiliza-carguio-combustibles-argentina-paraguay_1763043125",
+      "summary": "Las largas esperas para cargar combustibles en las plantas de Argentina y Paraguay se van acortando, según un representante de ci filtreros bolivianos.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T11:31:00-04:00",
+      "published_at_bo": "2025-11-13T11:31:00-04:00",
+      "fetched_at_utc": "2025-11-13T15:27:01.520355+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno anuncia controles sobre la economía y la situación económica de BoA",
