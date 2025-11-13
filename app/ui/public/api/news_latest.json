@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T22:24:10.310338+00:00",
+  "generated_at_utc": "2025-11-13T22:35:41.282524+00:00",
   "count": 56,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Dólar paralelo vuelve a subir, dos veces en una jornada y trepa a los Bs 10,70",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-vuelve-subir-dos-veces-jornada-trepa-bs-10-70_1763069755",
+      "summary": "La cotización del dólar físico en Bolivia alcanzó este jueves los Bs 10,70 en las últimas horas de la jornada de este miércoles.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T17:50:00-04:00",
+      "published_at_bo": "2025-11-13T17:50:00-04:00",
+      "fetched_at_utc": "2025-11-13T22:24:04.222381+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Industriales plantean una agenda de reactivación y piden reglas claras al nuevo gobierno",
