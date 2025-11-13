@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T10:28:36.090355+00:00",
+  "generated_at_utc": "2025-11-13T10:40:50.343099+00:00",
   "count": 47,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Intervienen Emapa: hay una “deuda monstruosa” que roza los Bs 1.000 millones",
+      "url": "https://eldeber.com.bo/economia/intervienen-emapa-hay-deuda-monstruosa-roza-bs-1-000-millones_1763029031",
+      "summary": "La primera caja de Pandora en Bolivia se abrió este miércoles en la capital, Emapa, después de que el gobierno de Evo Morales ordenara la intervención de la empresa estatal EL DUBER.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T06:17:00-04:00",
+      "published_at_bo": "2025-11-13T06:17:00-04:00",
+      "fetched_at_utc": "2025-11-13T10:28:34.245088+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "YPFB destituye a jefe distrital por presunta corrupción en venta de diésel en Riberalta",
