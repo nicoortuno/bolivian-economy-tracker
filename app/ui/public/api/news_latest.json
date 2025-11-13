@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T13:36:15.939736+00:00",
+  "generated_at_utc": "2025-11-13T13:47:29.261596+00:00",
   "count": 49,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno anuncia controles sobre la economía y la situación económica de BoA",
+      "url": "https://eldeber.com.bo/economia/gobierno-anuncia-controles-economia-situacion-economica-boa_1763039542",
+      "summary": "El ministro de Obras Públicas, servicios y vivienda, Mauricio Zamora, manifestó el martes que son dos focos de preocupación sobre la aerolínea estatal Boliviana de Aviación (BoA).",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T09:34:00-04:00",
+      "published_at_bo": "2025-11-13T09:34:00-04:00",
+      "fetched_at_utc": "2025-11-13T13:36:12.376433+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Abastecimiento: la espera de 2 o 3 días por diésel se redujo a solo 15 minutos",
