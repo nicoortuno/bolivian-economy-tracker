@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T16:30:09.893186+00:00",
+  "generated_at_utc": "2025-11-13T16:42:07.945184+00:00",
   "count": 51,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Precio del dólar paralelo vuelve a repuntar y se encuentra hasta en Bs 10,30",
+      "url": "https://eldeber.com.bo/economia/precio-dolar-paralelo-vuelve-repuntar-encuentra-bs-10-30_1763047360",
+      "summary": "La caída del dólar paralelo en Bolivia y la cotización de la moneda estadounidense volvió a poner en jaque los precios de juguetes, electrodomésticos e incluso telas.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T11:50:00-04:00",
+      "published_at_bo": "2025-11-13T11:50:00-04:00",
+      "fetched_at_utc": "2025-11-13T16:30:04.620826+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Cisterneros respiran aliviados porque se agiliza carguío de combustibles en Argentina y Paraguay",
