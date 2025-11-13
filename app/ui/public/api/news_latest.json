@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-13T11:22:13.738132+00:00",
+  "generated_at_utc": "2025-11-13T11:32:06.273864+00:00",
   "count": 48,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Abastecimiento: la espera de 2 o 3 días por diésel se redujo a solo 15 minutos",
+      "url": "https://eldeber.com.bo/economia/abastecimiento-espera-2-3-dias-diesel-redujo-solo-15-minutos_1763032770",
+      "summary": "La larga fila de vehículos en los surtidores para abastecerse de diésel y gasolina desde el Desaguadero, en la frontera con Perú, ha desaparecido en Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T07:19:00-04:00",
+      "published_at_bo": "2025-11-13T07:19:00-04:00",
+      "fetched_at_utc": "2025-11-13T11:22:10.924312+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Intervienen Emapa: hay una “deuda monstruosa” que roza los Bs 1.000 millones",
