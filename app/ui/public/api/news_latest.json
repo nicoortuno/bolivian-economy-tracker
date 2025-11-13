@@ -1,7 +1,55 @@
 {
-  "generated_at_utc": "2025-11-13T21:22:52.663337+00:00",
+  "generated_at_utc": "2025-11-13T21:32:15.644204+00:00",
   "count": 55,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Industriales plantean una agenda de reactivación y piden reglas claras al nuevo gobierno",
+      "url": "https://eldeber.com.bo/economia/industriales-plantean-agenda-reactivacion-piden-reglas-claras-nuevo-gobierno_1763066302",
+      "summary": "El sector industrial de Bolivia reiteró este jueves su disposición a trabajar con las nuevas autoridades en el marco de la crisis de hidrocarburos y la falta de divisas.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T17:11:00-04:00",
+      "published_at_bo": "2025-11-13T17:11:00-04:00",
+      "fetched_at_utc": "2025-11-13T21:22:47.818101+00:00",
+      "day": "2025-11-13"
+    },
+    {
+      "source": "El Deber",
+      "title": "Paz designa al directorio del Banco Central de Bolivia",
+      "url": "https://eldeber.com.bo/economia/paz-designa-directorio-interino-banco-central-bolivia_1763064347",
+      "summary": "El ministro de Economía, José Gabriel Espinoza, anunció este jueves la posesión del directorio del Banco Central de Bolivia (BCB), que responde a la meritocracia y capacidad técnica.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T16:35:00-04:00",
+      "published_at_bo": "2025-11-13T16:35:00-04:00",
+      "fetched_at_utc": "2025-11-13T21:22:48.821438+00:00",
+      "day": "2025-11-13"
+    },
+    {
+      "source": "El Deber",
+      "title": "Espinoza posesiona a viceministros del Tesoro y de Presupuesto con las tareas de “reconstruir” la economía",
+      "url": "https://eldeber.com.bo/economia/economia-posesiona-viceministros-tesoro-presupuesto-tareas-reconstruir-economia_1763063764",
+      "summary": "La nueva administración del gobierno de Luis Arce anunció este jueves que iniciará una etapa de reconstrucción de la economía del país, al mismo tiempo que la reforma del Presupuesto General del Estado (PGE) 2026.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T16:13:00-04:00",
+      "published_at_bo": "2025-11-13T16:13:00-04:00",
+      "fetched_at_utc": "2025-11-13T21:22:49.837595+00:00",
+      "day": "2025-11-13"
+    },
+    {
+      "source": "El Deber",
+      "title": "En Emapa, solo se ejecutó el 40% del presupuesto, pero \"no hay plata\"",
+      "url": "https://eldeber.com.bo/economia/emapa-solo-ejecuto-40-presupuesto-no-hay-plata_1763061124",
+      "summary": "El gobierno de Bolivia anunció este jueves que la ejecución presupuestaria de la estatal de infraestructuras estatales (Emapa, por sus siglas en inglés) no llegó a más del 40%.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T15:20:00-04:00",
+      "published_at_bo": "2025-11-13T15:20:00-04:00",
+      "fetched_at_utc": "2025-11-13T21:22:50.837343+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Precio del dólar paralelo vuelve a repuntar y se encuentra hasta en Bs 10,30",
