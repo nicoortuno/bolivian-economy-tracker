@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-14T04:28:59.924023+00:00",
+  "generated_at_utc": "2025-11-14T04:39:19.865091+00:00",
   "count": 58,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El PGE 2026 será clave para el régimen cambiario en el país",
+      "url": "https://eldeber.com.bo/economia/pge-2026-sera-clave-regimen-cambiario-pais_1763082028",
+      "summary": "El ministro de Economía de Bolivia, José Gabriel Espinoza, anunció este jueves que la crisis económica en el país se ha convertido en un error y aseguró que el régimen cambiario se trabajará en la próxima gestión de Gobierno.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-13T22:24:00-04:00",
+      "published_at_bo": "2025-11-13T22:24:00-04:00",
+      "fetched_at_utc": "2025-11-14T04:28:57.849656+00:00",
+      "day": "2025-11-13"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia recupera terreno en los mercados y registra su índice de riesgo país más bajo desde 2023",
