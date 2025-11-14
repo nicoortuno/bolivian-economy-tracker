@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-14T12:50:56.507872+00:00",
+  "generated_at_utc": "2025-11-14T13:02:57.327064+00:00",
   "count": 59,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Descubren presunta mafia de desvío de combustibles en una planta de YPFB",
+      "url": "https://eldeber.com.bo/economia/descubren-presunta-mafia-desvio-combustibles-planta-ypfb_1763122787",
+      "summary": "La nueva directora ejecutiva de la Agencia Nacional de Hidrocarburos, Margot Ayala, confirmó este jueves que hay desvío de combustibles subsidiados en una refinería de El Alto, en Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-14T08:39:00-04:00",
+      "published_at_bo": "2025-11-14T08:39:00-04:00",
+      "fetched_at_utc": "2025-11-14T12:50:54.354066+00:00",
+      "day": "2025-11-14"
+    },
     {
       "source": "El Deber",
       "title": "El PGE 2026 será clave para el régimen cambiario en el país",
