@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-19T10:28:15.380647+00:00",
+  "generated_at_utc": "2025-11-19T10:39:41.209877+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Lluvias y cortes de rutas golpean a los productores cruceños y cochabambinos",
+      "url": "https://eldeber.com.bo/economia/lluvias-cortes-rutas-golpean-productores-crucenos-cochabambinos_1763547952",
+      "summary": "La temporada de lluvias que ha demostrado su fuerza en los valles cruceños, desde la madrugada del lunes, ha puesto en riesgo a los agricultores de casi todo el país.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-19T06:25:00-04:00",
+      "published_at_bo": "2025-11-19T06:25:00-04:00",
+      "fetched_at_utc": "2025-11-19T10:28:13.522004+00:00",
+      "day": "2025-11-19"
+    },
     {
       "source": "El Deber",
       "title": "Posesionaron a nuevas autoridades en la Gestora, la ASFI y Entel",
