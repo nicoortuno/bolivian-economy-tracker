@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-19T12:52:20.936629+00:00",
+  "generated_at_utc": "2025-11-19T13:05:27.094950+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Nueva cúpula de la aviación asume el mando con siete tareas urgentes",
+      "url": "https://eldeber.com.bo/economia/nueva-cupula-aviacion-asume-mando-siete-tareas-urgentes_1763551711",
+      "summary": "La renovación de la cúpula aeronáutica de Bolivia marca el inicio de una etapa decisiva para la aviación boliviana, con nuevos responsables en Naabol y Aeropuertos, el Gobierno de Rodrigo Paz enfrenta al menos siete tareas en este sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-19T07:28:00-04:00",
+      "published_at_bo": "2025-11-19T07:28:00-04:00",
+      "fetched_at_utc": "2025-11-19T12:52:17.673290+00:00",
+      "day": "2025-11-19"
+    },
     {
       "source": "El Deber",
       "title": "Lluvias y cortes de rutas golpean a los productores cruceños y cochabambinos",
