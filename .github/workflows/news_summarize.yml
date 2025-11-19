@@ -1,4 +1,4 @@
-name: Summarize news (ML, CPU-only, low-disk)
+name: Summarize news (ML, CPU-only Torch≥2.6)
 
 on:
   schedule: [{ cron: "12 * * * *" }]
@@ -13,13 +13,14 @@ jobs:
     env:
       HF_HOME: ~/.cache/huggingface
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
-      PIP_NO_CACHE_DIR: "1"    
+      PIP_NO_CACHE_DIR: "1"
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # 🧹 Free ~10 GB so pip can work
       - name: Free disk space
         run: |
           sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android
@@ -46,25 +47,23 @@ jobs:
           restore-keys: |
             hf-${{ runner.os }}-
 
-      - name: Create CPU-only torch constraints
+      # ⚙️  CPU-only Torch 2.6+, prevents CUDA and the CVE block
+      - name: Create Torch constraints
         run: |
           cat > constraints-ml.txt << 'EOF'
-          torch==2.3.1+cpu
-          torchvision==0.18.1+cpu
-          torchaudio==2.3.1+cpu
+          torch==2.6.0+cpu
+          torchvision==0.21.0+cpu
+          torchaudio==2.6.0+cpu
           --find-links https://download.pytorch.org/whl/torch_stable.html
           EOF
           cat constraints-ml.txt
 
-      - name: Upgrade pip
-        run: python -m pip install --upgrade pip
-
-      - name: Install ML deps (CPU-only)
+      - name: Install dependencies (CPU-only)
         run: |
+          python -m pip install --upgrade pip
           pip install --no-cache-dir -r requirements-ml.txt \
             -c constraints-ml.txt \
             --extra-index-url https://download.pytorch.org/whl/cpu
-          # Show disk usage after install
           df -h
 
       - name: Summarize & export
@@ -78,21 +77,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p app/ui/public/api
-          mkdir -p data/curated/news
-          git add app/ui/public/api/news_latest.json || true
-          git add data/curated/news/news_latest.parquet || true
-          git add data/curated/news/news_summaries.parquet || true
-          git add data/curated/news/news_tags.parquet || true
+          mkdir -p app/ui/public/api data/curated/news
+          git add app/ui/public/api/news_latest.json data/curated/news/news_*.parquet || true
           if ! git diff --cached --quiet; then
             git commit -m "🤖 Update news summaries ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           else
             echo "No changes to commit."
           fi
-
-      - name: Cleanup caches (optional)
-        if: always()
-        run: |
-          rm -rf ~/.cache/pip
-          df -h
