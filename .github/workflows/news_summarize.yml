@@ -80,7 +80,7 @@ jobs:
           mkdir -p app/ui/public/api data/curated/news
           git add app/ui/public/api/news_latest.json data/curated/news/news_*.parquet || true
           if ! git diff --cached --quiet; then
-            git commit -m "🤖 Update news summaries ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Update news summaries ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           else
             echo "No changes to commit."
