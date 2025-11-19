@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-19T20:24:42.330518+00:00",
+  "generated_at_utc": "2025-11-19T20:32:25.972607+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno deja en suspenso la Ley de Diferimiento hasta que el TCP se pronuncie",
+      "url": "https://eldeber.com.bo/economia/gobierno-deja-suspenso-ley-diferimiento-tcp-pronuncie_1763579560",
+      "summary": "La Ley de Diferimiento aprobada por los legisladores de la administración del expresidente Luis Arce queda en suspenso hasta que la Justicia indique si es procedente o no.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-19T15:40:00-04:00",
+      "published_at_bo": "2025-11-19T15:40:00-04:00",
+      "fetched_at_utc": "2025-11-19T20:24:40.305051+00:00",
+      "day": "2025-11-19"
+    },
     {
       "source": "El Deber",
       "title": "Nueva cúpula de la aviación asume el mando con siete tareas urgentes",
