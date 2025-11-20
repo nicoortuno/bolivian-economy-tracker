@@ -318,3 +318,15 @@ canvas { filter: drop-shadow(0 0 4px rgba(255,255,255,0.1)); }
     text-align: left;     
   }
 }
+
+.macro-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+@media (max-width: 980px) {
+  .macro-chart-grid {
+    grid-template-columns: 1fr;
+  }
+}

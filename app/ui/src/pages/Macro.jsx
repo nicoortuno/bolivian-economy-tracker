@@ -600,15 +600,7 @@ export default function Macro() {
       )}
 
       {/* Charts grid: max 2 per row on larger screens, 1 per row on phones */}
-      <div
-        className="chart-grid"
-        style={{
-          display:'grid',
-          gap:16,
-          gridTemplateColumns:'repeat(auto-fit, minmax(360px, 1fr))',
-          alignItems:'stretch'
-        }}
-      >
+      <div className="macro-chart-grid">
         {/* CPI */}
         {canRender(cpiYoY) && (
           <div className="card">
