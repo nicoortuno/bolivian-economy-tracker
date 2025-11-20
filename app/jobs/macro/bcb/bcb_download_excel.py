@@ -45,9 +45,9 @@ def main():
             r = requests.get(link, timeout=30)
             r.raise_for_status()
             dest.write_bytes(r.content)
-            print(f"✅ Downloaded {fname}")
+            print(f"Downloaded {fname}")
         except Exception as e:
-            print(f"❌ Failed {fname}: {e}")
+            print(f"Failed {fname}: {e}")
 
     print("\n🎉 Done! All Excel files saved to:", DOWNLOAD_DIR.resolve())
 
