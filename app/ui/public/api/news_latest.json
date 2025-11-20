@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-20T01:53:51.659284+00:00",
+  "generated_at_utc": "2025-11-20T02:10:24.329537+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB abandona temporalmente el pozo Bermejo X46D: ¿Qué significa y por qué no habrá producción hasta 2026?",
+      "url": "https://eldeber.com.bo/economia/ypfb-abandona-temporalmente-pozo-bermejo-x46d-significa-no-habra-produccion-2026_1763597614",
+      "summary": "En medio de la caída estructural de las reservas de gas natural en Bolivia, la estatal petrolera YPFB decidió abandonar temporalmente las operaciones de producción.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-19T20:14:00-04:00",
+      "published_at_bo": "2025-11-19T20:14:00-04:00",
+      "fetched_at_utc": "2025-11-20T01:53:49.561300+00:00",
+      "day": "2025-11-19"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno deja en suspenso la Ley de Diferimiento hasta que el TCP se pronuncie",
