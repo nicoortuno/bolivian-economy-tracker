@@ -9,7 +9,12 @@ import {
 ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement, Tooltip, Legend)
 
 const RAW_CSV_PATH = '/data/bob_p2p_history.csv'
-const FEED_PATH = '/api/news_latest.json'
+const FEED_PATH    = '/api/news_latest.json'
+
+const CPI_CSV     = '/data/macro/bcb_inflation_history.csv'
+const BM_CSV      = '/data/macro/clean/base_monetaria.csv'
+const EXPORTS_CSV = '/data/macro/clean/exports.csv'
+const IMPORTS_CSV = '/data/macro/clean/imports.csv'
 
 const asNum = (x) => (x === null || x === undefined || x === '' ? null : Number(x))
 const fmt   = (x, d=4) => (x === null || x === undefined || isNaN(x) ? '—' : Number(x).toFixed(d))
@@ -19,6 +24,12 @@ const midFromBA = (r) => {
   const bid = asNum(r?.best_bid)
   const ask = asNum(r?.best_ask)
   return (bid == null || ask == null) ? null : (bid + ask) / 2
+}
+
+const pick = (row, candidates) => {
+  if (!row) return undefined
+  for (const k of candidates) if (k in row) return row[k]
+  return undefined
 }
 
 function fmtWhen(iso) {
@@ -39,9 +50,23 @@ export default function Home() {
   const [newsErr, setNewsErr] = useState(null)
   const [loadingNews, setLoadingNews] = useState(true)
 
+  const [cpi, setCpi]   = useState([])
+  const [bm, setBm]     = useState([])
+  const [exp, setExp]   = useState([])
+  const [imp, setImp]   = useState([])
+  const [errCpi, setErrCpi] = useState(null)
+  const [errBm,  setErrBm]  = useState(null)
+  const [errExp, setErrExp] = useState(null)
+  const [errImp, setErrImp] = useState(null)
+
   const bust = useMemo(() => Math.floor(Date.now() / (60 * 60 * 1000)), [])
-  const CSV_URL  = `${RAW_CSV_PATH}?v=${bust}`
-  const NEWS_URL = `${FEED_PATH}?v=${bust}`
+
+  const CSV_URL      = `${RAW_CSV_PATH}?v=${bust}`
+  const NEWS_URL     = `${FEED_PATH}?v=${bust}`
+  const CPI_URL      = `${CPI_CSV}?v=${bust}`
+  const BM_URL       = `${BM_CSV}?v=${bust}`
+  const EXPORTS_URL  = `${EXPORTS_CSV}?v=${bust}`
+  const IMPORTS_URL  = `${IMPORTS_CSV}?v=${bust}`
 
   useEffect(() => {
     Papa.parse(CSV_URL, {
@@ -65,7 +90,7 @@ export default function Home() {
       const rsp = await fetch(NEWS_URL, { cache: 'no-store' })
       if (!rsp.ok) throw new Error(`HTTP ${rsp.status}`)
       const data = await rsp.json()
-      setNews((data.items || []).slice(0, 5))
+      setNews((data.items || []).slice(0, 6))
     } catch (e) {
       setNewsErr(e?.message || 'Failed to load news')
     } finally {
@@ -74,6 +99,87 @@ export default function Home() {
   }
 
   useEffect(() => { loadNews() /* eslint-disable-next-line */ }, [])
+
+  useEffect(() => {
+    Papa.parse(CPI_URL, {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true,
+      downloadRequestHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
+      complete: (res) => setCpi((res.data || []).filter(r => r?.date)),
+      error: (e) => setErrCpi(e?.message || 'Failed to load inflation CSV'),
+    })
+  }, [CPI_URL])
+
+  useEffect(() => {
+    Papa.parse(BM_URL, {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true,
+      downloadRequestHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
+      complete: (res) => setBm((res.data || []).filter(r => r?.date)),
+      error: (e) => setErrBm(e?.message || 'Failed to load base_monetaria CSV'),
+    })
+  }, [BM_URL])
+
+  useEffect(() => {
+    Papa.parse(EXPORTS_URL, {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true,
+      downloadRequestHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
+      complete: (res) => setExp((res.data || []).filter(r => r?.date)),
+      error: (e) => setErrExp(e?.message || 'Failed to load exports CSV'),
+    })
+  }, [EXPORTS_URL])
+
+  useEffect(() => {
+    Papa.parse(IMPORTS_URL, {
+      download: true,
+      header: true,
+      dynamicTyping: true,
+      skipEmptyLines: true,
+      downloadRequestHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
+      complete: (res) => setImp((res.data || []).filter(r => r?.date)),
+      error: (e) => setErrImp(e?.message || 'Failed to load imports CSV'),
+    })
+  }, [IMPORTS_URL])
+
+  const latestCPI = cpi.at(-1) || null
+  const latestBM  = bm.at(-1)  || null
+  const latestExp = exp.at(-1) || null
+  const latestImp = imp.at(-1) || null
+
+  const latestInfYoY = latestCPI ? asNum(latestCPI.infl_yoy) : null
+  const latestInfMoM = latestCPI ? asNum(latestCPI.infl_mom) : null
+
+  const latestRIN = latestBM
+    ? asNum(pick(latestBM, [
+        'Reservas Internacionales Netas RIN = RIB - OECP',
+        'RIN',
+        'Reservas Internacionales Netas (RIN)'
+      ]))
+    : null
+
+  const latestExportsFOB = latestExp ? asNum(latestExp['FOB']) : null
+  const latestImportsFOBAdj = latestImp
+    ? asNum(latestImp['TotalImportaciones_FOBAjustado_MillonesUSD'] ?? latestImp['TotalImportaciones_FOB'])
+    : null
+
+  const latestTradeBalance =
+    (latestExportsFOB != null && latestImportsFOBAdj != null)
+      ? latestExportsFOB - latestImportsFOBAdj
+      : null
+
+  const lastMacroDate =
+    latestExp?.date ||
+    latestImp?.date ||
+    latestBM?.date ||
+    latestCPI?.date ||
+    '—'
 
   const latest = rows.at(-1) || null
   const computedLatestMid = latest ? midFromBA(latest) : null
@@ -89,7 +195,6 @@ export default function Home() {
 
   const minPair = validPairs.length ? validPairs.reduce((a, b) => (b.v < a.v ? b : a)) : null
   const maxPair = validPairs.length ? validPairs.reduce((a, b) => (b.v > a.v ? b : a)) : null
-  const mean    = validPairs.length ? (validPairs.reduce((s, p) => s + p.v, 0) / validPairs.length) : null
 
   const lastMid  = computedMids.at(-1)
   const prevMid  = computedMids.at(-2)
@@ -177,13 +282,11 @@ export default function Home() {
       const lastX = x.getPixelForValue(x.getLabels()[lastIndex])
       const lastY = (lastMid != null) ? y.getPixelForValue(lastMid) : null
       if (lastY != null) {
-        // dot
         ctx.fillStyle = '#FFD54F'
         ctx.beginPath()
         ctx.arc(lastX, lastY, 4.5, 0, Math.PI * 2)
         ctx.fill()
 
-        // label
         const text = `${fmt(lastMid, 4)}`
         ctx.font = '13px Inter, system-ui, sans-serif'
         const padX = 8
@@ -206,7 +309,7 @@ export default function Home() {
 
   const ymin = Math.min(...sparkSlice.filter(v => v != null))
   const ymax = Math.max(...sparkSlice.filter(v => v != null))
-  
+
   const sparkOptions = {
     plugins: {
       legend: { display: false },
@@ -251,8 +354,6 @@ export default function Home() {
       },
     },
   }
-  
-  
 
   return (
     <div className="card">
@@ -261,41 +362,52 @@ export default function Home() {
         <button className="pill" onClick={loadNews} disabled={loadingNews}>
           {loadingNews ? 'Refreshing…' : 'Refresh News'}
         </button>
-        <span className="tip">Mid is computed as (Best Bid + Best Ask) / 2.</span>
       </div>
 
-            {/* --- Macro placeholders --- */}
-            <div className="card" style={{ marginTop: 16 }}>
-        <div className="help-row" style={{marginBottom:12}}>
-          <h3 style={{margin:0}}>Macro Indicators (coming soon)</h3>
-          <span className="tip">CPI, FX reserves, fuel prices, trade balance, etc.</span>
+      {lastMacroDate !== '—' && (
+        <p className="tip" style={{ marginTop: 4, marginBottom: 12 }}>
+          Latest macro datapoint: <span className="mono">{lastMacroDate}</span>
+        </p>
+      )}
+
+      {errCpi && <p style={{color:'var(--accent-4)'}}>CPI error: {errCpi}</p>}
+      {errBm  && <p style={{color:'var(--accent-4)'}}>BM error: {errBm}</p>}
+      {errExp && <p style={{color:'var(--accent-4)'}}>Exports error: {errExp}</p>}
+      {errImp && <p style={{color:'var(--accent-4)'}}>Imports error: {errImp}</p>}
+
+      {(latestCPI || latestBM || latestExp || latestImp) && (
+        <div className="card" style={{ marginTop: 8 }}>
+          <div className="help-row" style={{ marginBottom: 12 }}>
+            <h3 style={{ margin: 0 }}>Macro Snapshot</h3>
+            <span className="tip">Key indicators from CPI, reserves, and trade.</span>
+          </div>
+          <div className="grid">
+            <div className="kpi">
+              <div className="label">Inflation YoY</div>
+              <div className="value mono">{pct(latestInfYoY, 2)}</div>
+              <div className="sub">Latest CPI release</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Inflation MoM</div>
+              <div className="value mono">{pct(latestInfMoM, 2)}</div>
+              <div className="sub">Month-on-month</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Net Reserves (RIN)</div>
+              <div className="value mono">{fmt(latestRIN, 2)}</div>
+              <div className="sub">Millions USD</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Trade Balance</div>
+              <div className="value mono">{fmt(latestTradeBalance, 2)}</div>
+              <div className="sub">Exports − Imports (millions USD)</div>
+            </div>
+          </div>
         </div>
-        <div className="grid">
-          <div className="kpi">
-            <div className="label">CPI (YoY)</div>
-            <div className="value mono">—</div>
-            <div className="sub">Next release: —</div>
-          </div>
-          <div className="kpi">
-            <div className="label">FX Reserves</div>
-            <div className="value mono">—</div>
-            <div className="sub">Latest: —</div>
-          </div>
-          <div className="kpi">
-            <div className="label">Fuel Prices</div>
-            <div className="value mono">—</div>
-            <div className="sub">Diesel / Gasoline</div>
-          </div>
-          <div className="kpi">
-            <div className="label">Trade Balance</div>
-            <div className="value mono">—</div>
-            <div className="sub">Monthly</div>
-          </div>
-        </div>
-      </div>
+      )}
 
       {/* --- Currency snapshot --- */}
-      <div className="card" style={{ marginBottom: 16 }}>
+      <div className="card" style={{ marginTop: 16, marginBottom: 16 }}>
         <div className="help-row" style={{marginBottom:12}}>
           <h3 style={{margin:0}}>Currency Snapshot — Binance P2P</h3>
           {latest && <span className="tip">Last update: <span className="mono">{latest.ts}</span></span>}
@@ -332,7 +444,6 @@ export default function Home() {
               </div>
             </div>
 
-            {/* mini sparkline with annotations */}
             <div className="card" style={{ paddingTop: 8, paddingBottom: 8 }}>
               <Line data={sparkData} options={sparkOptions} plugins={[annotateSpark]} />
             </div>
@@ -340,10 +451,9 @@ export default function Home() {
         )}
       </div>
 
-      {/* --- News teasers --- */}
       <div className="card">
         <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-          <h3 style={{margin:0}}>Economic News — Latest 5</h3>
+          <h3 style={{margin:0}}>Economic News — Latest 6</h3>
           <span className="tip">From El Deber (Economía) summaries</span>
         </div>
 
