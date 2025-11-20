@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-20T20:28:54.847390+00:00",
+  "generated_at_utc": "2025-11-20T20:38:00.431068+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El precio del pollo registra una leva baja, la de res y cerdo mantienen sus costos",
+      "url": "https://eldeber.com.bo/economia/precio-pollo-registra-leva-baja-res-cerdo-mantienen-costos_1763665823",
+      "summary": "El precio de la carne de pollo y la cebolla registraron una variación de 50 centavos en la última semana en el mercado de los valles de La Coruna.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-20T15:41:00-04:00",
+      "published_at_bo": "2025-11-20T15:41:00-04:00",
+      "fetched_at_utc": "2025-11-20T20:28:53.019037+00:00",
+      "day": "2025-11-20"
+    },
     {
       "source": "El Deber",
       "title": "YPFB abandona temporalmente el pozo Bermejo X46D: ¿Qué significa y por qué no habrá producción hasta 2026?",
