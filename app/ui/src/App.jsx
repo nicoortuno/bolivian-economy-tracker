@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <div className="layout-top">
-      <header className="topbar">
+      <header className="topbar desktop-only">
         <div className="topbar-inner">
           <a
             href="#"
@@ -52,7 +52,25 @@ export default function App() {
         </div>
       </header>
 
-      <main className="container" style={{ paddingTop: '88px', paddingBottom: '32px' }}>
+      <nav className="bottombar mobile-only" aria-label="Bottom navigation">
+        <div className="bottombar-inner">
+          {NAV.map((item) => {
+            const active = tab === item.key
+            return (
+              <button
+                key={item.key}
+                type="button"
+                className={`bottombar-link ${active ? 'active' : ''}`}
+                onClick={() => onNav(item.key)}
+              >
+                {item.label}
+              </button>
+            )
+          })}
+        </div>
+      </nav>
+
+      <main className="container main-content">
         {tab === 'home' && <Home />}
         {tab === 'currency' && <Currency />}
         {tab === 'macro' && <Macro />}
