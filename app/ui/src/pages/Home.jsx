@@ -62,6 +62,25 @@ function parseTsToDate(ts) {
   return isNaN(d.getTime()) ? null : d
 }
 
+function formatTimeLabel(label) {
+  if (!label) return ''
+
+  let d = new Date(label)
+  if (!Number.isNaN(d.getTime())) {
+    return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  }
+
+  const normalized = label.replace(' ', 'T')
+  d = new Date(normalized)
+  if (!Number.isNaN(d.getTime())) {
+    return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  }
+
+  const parts = label.split(' ')
+  const timePart = parts[1] || parts[0] || ''
+  return timePart.slice(0, 5)
+}
+
 
 export default function Home() {
   const [rows, setRows] = useState([])
@@ -352,15 +371,7 @@ export default function Home() {
           maxTicksLimit: 6,
           callback: (value) => {
             const label = sparkLabels[value]
-            if (!label) return ''
-          
-            const d = parseTsToDate(label)
-            if (!d) return ''
-          
-            return d.toLocaleTimeString([], {
-              hour: '2-digit',
-              minute: '2-digit',
-            })
+            return formatTimeLabel(label)
           },
         },
         grid: { color: 'var(--grid)' },
