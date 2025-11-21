@@ -1,57 +1,55 @@
-import { Link, Routes, Route, useLocation } from "react-router-dom";
-import Home from "./pages/Home.jsx";
-import Currency from "./pages/Currency.jsx";
-import News from "./pages/News.jsx";
-import Macro from "./pages/Macro.jsx";
+import { NavLink, Routes, Route } from 'react-router-dom'
+import Home from './pages/Home.jsx'
+import Currency from './pages/Currency.jsx'
+import News from './pages/News.jsx'
+import Macro from './pages/Macro.jsx'
 
 const NAV = [
-  { key: "home", label: "Home", path: "/" },
-  { key: "currency", label: "Currency", path: "/currency" },
-  { key: "news", label: "News", path: "/news" },
-  { key: "macro", label: "Macro", path: "/macro" }
-];
+  { path: '/',         label: 'Overview' },
+  { path: '/currency', label: 'Currency' },
+  { path: '/macro',    label: 'Macro' },
+  { path: '/news',     label: 'News' },
+]
 
 export default function App() {
-  const location = useLocation();
-
-  function isActive(item) {
-    if (item.path === "/") {
-      return location.pathname === "/";
-    }
-    return location.pathname.startsWith(item.path);
-  }
-
   return (
     <div className="layout-top">
-
       <header className="topbar desktop-only">
         <div className="topbar-inner">
-          <Link to="/" className="brand">Bolivian Economy Tracker</Link>
+          <NavLink to="/" className="brand">
+            Bolivian Economy Tracker
+          </NavLink>
 
-          <nav className="topnav">
-            {NAV.map(item => (
-              <Link
-                key={item.key}
+          <nav className="topnav" aria-label="Main navigation">
+            {NAV.map((item) => (
+              <NavLink
+                key={item.path}
                 to={item.path}
-                className={`topnav-link ${isActive(item) ? "active" : ""}`}
+                end={item.path === '/'} 
+                className={({ isActive }) =>
+                  'topnav-link' + (isActive ? ' active' : '')
+                }
               >
                 {item.label}
-              </Link>
+              </NavLink>
             ))}
           </nav>
         </div>
       </header>
 
-      <nav className="bottombar mobile-only">
+      <nav className="bottombar mobile-only" aria-label="Bottom navigation">
         <div className="bottombar-inner">
-          {NAV.map(item => (
-            <Link
-              key={item.key}
+          {NAV.map((item) => (
+            <NavLink
+              key={item.path}
               to={item.path}
-              className={`bottombar-link ${isActive(item) ? "active" : ""}`}
+              end={item.path === '/'}
+              className={({ isActive }) =>
+                'bottombar-link' + (isActive ? ' active' : '')
+              }
             >
               {item.label}
-            </Link>
+            </NavLink>
           ))}
         </div>
       </nav>
@@ -62,12 +60,14 @@ export default function App() {
           <Route path="/currency" element={<Currency />} />
           <Route path="/macro" element={<Macro />} />
           <Route path="/news" element={<News />} />
+          <Route path="*" element={<Home />} />
         </Routes>
       </main>
 
       <footer className="footer">
-        Bolivian Economy Tracker · <span style={{ color: "var(--muted)" }}>v1.0</span>
+        Bolivian Economy Tracker ·{' '}
+        <span style={{ color: 'var(--muted)' }}>v1.0</span>
       </footer>
     </div>
-  );
+  )
 }
