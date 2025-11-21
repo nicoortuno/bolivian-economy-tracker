@@ -119,16 +119,19 @@ canvas {
 
 .kpi {
   background: #0d131a;
+  text-align: left;
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 14px 16px;
 }
 .kpi .label {
   font-size: 0.78rem;
+  text-align: center;
   color: var(--muted);
   margin-bottom: 8px;
 }
 .kpi .value {
+  text-align: center;
   font-size: 1.2rem;
   font-weight: 600;
   letter-spacing: 0.2px;
@@ -409,8 +412,4 @@ canvas {
   }
 }
 
-@media (max-width: 768px) {
-  .topbar {
-    display: none !important;
-  }
-}
+

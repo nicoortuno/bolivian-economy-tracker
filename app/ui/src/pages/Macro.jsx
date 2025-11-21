@@ -462,9 +462,6 @@ export default function Macro() {
     <div className="card">
       <div className="help-row" style={{alignItems:'center', gap:8, flexWrap:'wrap'}}>
         <h2 style={{margin:0}}>Macro & External Sector Dashboard</h2>
-        <span className="tip">
-          Latest date across series: <span className="mono">{lastDate}</span>
-        </span>
 
         <div style={{marginLeft:'auto', display:'flex', gap:6, flexWrap:'wrap'}}>
           {rangeOptions.map(r => (
@@ -488,11 +485,6 @@ export default function Macro() {
           ))}
         </div>
       </div>
-
-      <p className="tip" style={{marginTop:8, marginBottom:12}}>
-        Units: monetary base and related series are in <strong>thousands of bolivianos</strong>.
-        Exports, imports, and trade balance are in <strong>millions of US dollars</strong>.
-      </p>
 
       {errCpi && <p style={{color:'var(--accent-4)'}}>CPI error: {errCpi}</p>}
       {errBm  && <p style={{color:'var(--accent-4)'}}>BM error: {errBm}</p>}
@@ -530,10 +522,6 @@ export default function Macro() {
               <div className="kpi">
                 <div className="label">CPI Level</div>
                 <div className="value mono">{fmt(latestIPC, 2)}</div>
-                <div className="sub">
-                  {asNum(latestCPI.ipc_base2016)!=null ? 'Base 2016' :
-                   (asNum(latestCPI.ipc_base2007)!=null ? 'Base 2007' : '')}
-                </div>
               </div>
             </>
           )}
@@ -545,25 +533,22 @@ export default function Macro() {
                 <div className="value mono">{latestBM.date}</div>
               </div>
               <div className="kpi">
-                <div className="label">Monetary Base (BM)</div>
+                <div className="label">Monetary Base (BOB Thousands)</div>
                 <div className="value mono">
                   {fmt(pick(latestBM, ['BASE MONETARIA BM','Base Monetaria','BM']))}
                 </div>
-                <div className="sub">Thousands of bolivianos</div>
               </div>
               <div className="kpi">
-                <div className="label">Gross Reserves (RIB)</div>
+                <div className="label">Gross Reserves (USD Millions)</div>
                 <div className="value mono">
                   {fmt(pick(latestBM, ['Reservas Internacionales Brutas RIB','RIB','Reservas Internacionales Brutas (RIB)']))}
                 </div>
-                <div className="sub">Millions USD</div>
               </div>
               <div className="kpi">
-                <div className="label">Net Reserves (RIN)</div>
+                <div className="label">Net Reserves (USD Millions)</div>
                 <div className="value mono">
                   {fmt(pick(latestBM, ['Reservas Internacionales Netas RIN = RIB - OECP','RIN','Reservas Internacionales Netas (RIN)']))}
                 </div>
-                <div className="sub">Millions USD</div>
               </div>
             </>
           )}
@@ -573,24 +558,20 @@ export default function Macro() {
               <div className="kpi">
                 <div className="label">External — Date</div>
                 <div className="value mono">{latestExp.date}</div>
-                <div className="sub">Latest exports/imports point</div>
               </div>
               <div className="kpi">
-                <div className="label">Exports (FOB)</div>
+                <div className="label">Exports (USD Millions)</div>
                 <div className="value mono">{fmt(latestExportsFOB, 2)}</div>
-                <div className="sub">Millions USD</div>
               </div>
               {latestImp && (
                 <>
                   <div className="kpi">
-                    <div className="label">Imports (FOB, adj.)</div>
+                    <div className="label">Imports (USD Millions)</div>
                     <div className="value mono">{fmt(latestImportsFOBAdj, 2)}</div>
-                    <div className="sub">Millions USD</div>
                   </div>
                   <div className="kpi">
-                    <div className="label">Trade Balance</div>
+                    <div className="label">Trade Balance (USD Millions)</div>
                     <div className="value mono">{fmt(latestTradeBalance, 2)}</div>
-                    <div className="sub">Exports − Imports (millions USD)</div>
                   </div>
                 </>
               )}

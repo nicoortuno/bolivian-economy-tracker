@@ -358,10 +358,7 @@ export default function Home() {
   return (
     <div className="card">
       <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-        <h2 style={{ margin: 0 }}>Bolivian Economy Tracker — Overview</h2>
-        <button className="pill" onClick={loadNews} disabled={loadingNews}>
-          {loadingNews ? 'Refreshing…' : 'Refresh News'}
-        </button>
+        <h2 style={{ margin: 0 }}>Bolivian Economy Tracker</h2>
       </div>
 
       {lastMacroDate !== '—' && (
@@ -378,29 +375,24 @@ export default function Home() {
       {(latestCPI || latestBM || latestExp || latestImp) && (
         <div className="card" style={{ marginTop: 8 }}>
           <div className="help-row" style={{ marginBottom: 12 }}>
-            <h3 style={{ margin: 0 }}>Macro Snapshot</h3>
-            <span className="tip">Key indicators from CPI, reserves, and trade.</span>
+            <h3 style={{ margin: 0 }}>Key Macro Indicators</h3>
           </div>
           <div className="grid">
             <div className="kpi">
               <div className="label">Inflation YoY</div>
               <div className="value mono">{pct(latestInfYoY, 2)}</div>
-              <div className="sub">Latest CPI release</div>
             </div>
             <div className="kpi">
               <div className="label">Inflation MoM</div>
               <div className="value mono">{pct(latestInfMoM, 2)}</div>
-              <div className="sub">Month-on-month</div>
             </div>
             <div className="kpi">
-              <div className="label">Net Reserves (RIN)</div>
+              <div className="label">Net Reserves (BOB Thousands)</div>
               <div className="value mono">{fmt(latestRIN, 2)}</div>
-              <div className="sub">Millions USD</div>
             </div>
             <div className="kpi">
-              <div className="label">Trade Balance</div>
+              <div className="label">Trade Balance (USD Millions)</div>
               <div className="value mono">{fmt(latestTradeBalance, 2)}</div>
-              <div className="sub">Exports − Imports (millions USD)</div>
             </div>
           </div>
         </div>
@@ -420,7 +412,7 @@ export default function Home() {
           <>
             <div className="grid" style={{ marginBottom: 12 }}>
               <div className="kpi">
-                <div className="label">Mid (Bid/Ask average)</div>
+                <div className="label">Bid/Ask average</div>
                 <div className="value mono">{fmt(computedLatestMid, 4)}</div>
               </div>
 
@@ -432,12 +424,12 @@ export default function Home() {
               </div>
 
               <div className="kpi">
-                <div className="label">Spread % (best)</div>
+                <div className="label">Spread %</div>
                 <div className="value mono">{pct(latest.spread_pct, 3)}</div>
               </div>
 
               <div className="kpi">
-                <div className="label">Δ Mid (last step)</div>
+                <div className="label">Δ Mid</div>
                 <div className="value mono">
                   {fmt(dAbs, 4)} ({pct(dPct, 2)})
                 </div>
