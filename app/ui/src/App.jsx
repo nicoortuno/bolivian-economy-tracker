@@ -1,9 +1,8 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import Home from './pages/Home.jsx'
 import Currency from './pages/Currency.jsx'
 import News from './pages/News.jsx'
 import Macro from './pages/Macro.jsx'
-
 
 const NAV = [
   { key: 'home', label: 'Home' },
@@ -14,97 +13,55 @@ const NAV = [
 
 export default function App() {
   const [tab, setTab] = useState('home')
-  const [open, setOpen] = useState(false) 
-
-  useEffect(() => {
-    const saved = localStorage.getItem('bet.sidebar')
-    if (saved === 'open') setOpen(true)
-    if (saved === 'closed') setOpen(false)
-  }, [])
-
-  useEffect(() => {
-    localStorage.setItem('bet.sidebar', open ? 'open' : 'closed')
-  }, [open])
 
   const onNav = (key) => {
     setTab(key)
-    if (window.matchMedia('(max-width: 980px)').matches) setOpen(false)
-  }
-
-  const goHome = (e) => {
-    e.preventDefault()
-    onNav('home')
+    window.scrollTo(0, 0)
   }
 
   return (
-    <div className={`layout ${open ? 'sb-open' : 'sb-closed'}`}>
-      <aside className={`sidebar ${open ? 'open' : 'closed'}`} aria-label="Primary navigation">
-        <div className="sidebar-header">
-          <button
-            className="sidebar-toggle"
-            aria-label={open ? 'Collapse sidebar' : 'Expand sidebar'}
-            aria-expanded={open}
-            onClick={() => setOpen(o => !o)}
+    <div className="layout-top">
+      <header className="topbar">
+        <div className="topbar-inner">
+          <a
+            href="#"
+            className="brand"
+            onClick={(e) => {
+              e.preventDefault()
+              onNav('home')
+            }}
           >
-            <div className={`burger ${open ? 'open' : ''}`} />
-          </button>
-        </div>
-
-        <nav className="sidebar-nav">
-          {NAV.map((item) => {
-            const active = tab === item.key
-            return (
-              <button
-                key={item.key}
-                className={`nav-link ${active ? 'active' : ''}`}
-                onClick={() => onNav(item.key)}
-                aria-current={active ? 'page' : undefined}
-                title={item.label}
-              >
-                {open && <span className="nav-label">{item.label}</span>}
-              </button>
-            )
-          })}
-        </nav>
-
-        <div className="sidebar-footer">
-          <span className="muted">v1.0</span>
-        </div>
-      </aside>
-
-      <div className="main">
-        <header className="header slim">
-          <button
-            className="sidebar-toggle only-mobile"
-            aria-label={open ? 'Collapse sidebar' : 'Expand sidebar'}
-            aria-expanded={open}
-            onClick={() => setOpen(o => !o)}
-          >
-            <div className={`burger ${open ? 'open' : ''}`} />
-          </button>
-
-          <a href="#" className="brand" onClick={goHome} style={{ color: 'var(--accent)' }}>
             Bolivian Economy Tracker
           </a>
-        </header>
 
-        <main className="container">
-          {tab === 'home' && <Home />}
-          {tab === 'currency' && <Currency />}
-          {tab === 'macro' && <Macro />}
-          {tab === 'news' && <News />}
-        </main>
+          <nav className="topnav" aria-label="Main navigation">
+            {NAV.map((item) => {
+              const active = tab === item.key
+              return (
+                <button
+                  key={item.key}
+                  type="button"
+                  className={`topnav-link ${active ? 'active' : ''}`}
+                  onClick={() => onNav(item.key)}
+                >
+                  {item.label}
+                </button>
+              )
+            })}
+          </nav>
+        </div>
+      </header>
 
-        <footer className="footer">
-          Bolivian Economy Tracker · <span style={{ color: 'var(--muted)' }}>v1.0</span>
-        </footer>
-      </div>
+      <main className="container" style={{ paddingTop: '88px', paddingBottom: '32px' }}>
+        {tab === 'home' && <Home />}
+        {tab === 'currency' && <Currency />}
+        {tab === 'macro' && <Macro />}
+        {tab === 'news' && <News />}
+      </main>
 
-      <div
-        className={`scrim ${open ? 'show' : ''}`}
-        onClick={() => setOpen(false)}
-        aria-hidden={!open}
-      />
+      <footer className="footer">
+        Bolivian Economy Tracker · <span style={{ color: 'var(--muted)' }}>v1.0</span>
+      </footer>
     </div>
   )
 }
