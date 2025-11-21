@@ -43,6 +43,26 @@ function fmtWhen(iso) {
   })
 }
 
+function parseTsToDate(ts) {
+  if (!ts) return null
+  const s = String(ts).trim()
+
+  if (/^\d+$/.test(s)) {
+    const n = Number(s)
+    const d = new Date(n > 1e12 ? n : n * 1000)
+    return isNaN(d.getTime()) ? null : d
+  }
+
+  let iso = s
+  if (s.length === 19 && s.indexOf('T') === -1) {
+    iso = s.replace(' ', 'T')
+  }
+
+  const d = new Date(iso)
+  return isNaN(d.getTime()) ? null : d
+}
+
+
 export default function Home() {
   const [rows, setRows] = useState([])
   const [curErr, setCurErr] = useState(null)
@@ -333,8 +353,14 @@ export default function Home() {
           callback: (value) => {
             const label = sparkLabels[value]
             if (!label) return ''
-            const d = new Date(label)
-            return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+          
+            const d = parseTsToDate(label)
+            if (!d) return ''
+          
+            return d.toLocaleTimeString([], {
+              hour: '2-digit',
+              minute: '2-digit',
+            })
           },
         },
         grid: { color: 'var(--grid)' },
