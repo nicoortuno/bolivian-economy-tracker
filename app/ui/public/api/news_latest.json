@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-21T03:14:41.304307+00:00",
+  "generated_at_utc": "2025-11-21T03:21:51.797919+00:00",
   "count": 92,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Paz ordena la &#39;comisión de la verdad de los hidrocarburos&#39;",
+      "url": "https://eldeber.com.bo/economia/paz-ordena-comision-verdad-hidrocarburos_1763683779",
+      "summary": "El presidente de Bolivia, Rodrigo Paz, ordenó este miércoles la conformación de una comisión de la verdad por los hidrocarburos, en un mensaje a la televisión estatal.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-20T20:34:00-04:00",
+      "published_at_bo": "2025-11-20T20:34:00-04:00",
+      "fetched_at_utc": "2025-11-21T03:14:39.453016+00:00",
+      "day": "2025-11-20"
+    },
     {
       "source": "El Deber",
       "title": "El precio del pollo registra una leve baja, la de res y cerdo mantienen sus costos",
