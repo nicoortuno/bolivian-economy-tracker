@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-21T20:28:00.090131+00:00",
+  "generated_at_utc": "2025-11-21T20:34:56.690606+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ministro de Economía propone “acuerdo nacional” por la economía",
+      "url": "https://eldeber.com.bo/economia/ministro-economia-propone-acuerdo-nacional-economia_1763756347",
+      "summary": "La presidenta de Bolivia, Michelle Bachelet, presentó este jueves su propuesta de reconstrucción de la economía del país, que incluye una estructura de precios distorsionada y un Banco Central independiente.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-21T16:27:00-04:00",
+      "published_at_bo": "2025-11-21T16:27:00-04:00",
+      "fetched_at_utc": "2025-11-21T20:27:56.308068+00:00",
+      "day": "2025-11-21"
+    },
     {
       "source": "El Deber",
       "title": "Tras la reunión de gabinete, Paz presentará a los integrantes de la Comisión de la Verdad de los Hidrocarburos",
