@@ -358,7 +358,7 @@ export default function Home() {
   return (
     <div className="card">
       <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-        <h2 style={{ margin: 0 }}>Bolivian Economy Tracker</h2>
+        <h2 style={{ margin: 0 }}>Economic Overview</h2>
       </div>
 
       {lastMacroDate !== '—' && (

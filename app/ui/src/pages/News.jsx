@@ -41,11 +41,7 @@ export default function News() {
   return (
     <div className="card">
       <div className="help-row" style={{alignItems:"center", gap: 8}}>
-        <h2 style={{margin:0}}>Economic News — Summaries</h2>
-        <button className="pill" onClick={load} disabled={loading}>
-          {loading ? "Loading…" : "Refresh"}
-        </button>
-        <span className="tip">Pulled from El Deber (Economía) and summarized.</span>
+        <h2 style={{margin:0}}>Economic News</h2>
       </div>
 
       {err && <p style={{ color: "var(--accent-4)" }}>Error: {err}</p>}

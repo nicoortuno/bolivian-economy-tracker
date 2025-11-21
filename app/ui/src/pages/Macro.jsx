@@ -461,7 +461,7 @@ export default function Macro() {
   return (
     <div className="card">
       <div className="help-row" style={{alignItems:'center', gap:8, flexWrap:'wrap'}}>
-        <h2 style={{margin:0}}>Macro & External Sector Dashboard</h2>
+        <h2 style={{margin:0}}>Macroeconomic Indicators</h2>
 
         <div style={{marginLeft:'auto', display:'flex', gap:6, flexWrap:'wrap'}}>
           {rangeOptions.map(r => (

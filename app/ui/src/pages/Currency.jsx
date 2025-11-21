@@ -196,11 +196,7 @@ export default function Currency() {
   return (
     <div className="card">
       <div className="help-row">
-        <h2 style={{margin:0}}>Currency — Binance P2P (USDT ⇄ BOB)</h2>
-        <button className="pill" onClick={() => setShowHelp(s => !s)}>
-          {showHelp ? 'Hide' : 'Explain metrics'}
-        </button>
-        <span className="tip">Hover the little “i” icons for quick hints.</span>
+        <h2 style={{margin:0}}>Currency (USDT ⇄ BOB)</h2>
       </div>
 
       {showHelp && <MetricHelp onClose={() => setShowHelp(false)} />}
@@ -237,7 +233,6 @@ export default function Currency() {
             <div className="kpi">
               <div className="label">Effective Spread %</div>
               <div className="value mono">{pct(latest.effective_spread_pct, 2)}</div>
-              <div className="sub">Median-based</div>
             </div>
 
             <div className="kpi">
