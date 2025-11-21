@@ -361,7 +361,8 @@ canvas {
   right: 0;
   bottom: 0;
   height: 60px;
-  background: var(--panel);
+  background: #16202f;
+  box-shadow: 0 -4px 14px rgba(0, 0, 0, 0.45);
   border-top: 1px solid var(--border);
   z-index: 1000;
   display: none;
@@ -382,28 +383,30 @@ canvas {
 .bottombar-link {
   flex: 1;
   text-align: center;
-  background: transparent;
-  border: none;
-  padding: 4px 0 2px;
-  margin: 0 4px;
+  background: #0f151d;  
+  border: 1px solid #2a3a50;
+  padding: 8px 4px;
+  margin: 0 6px;
   color: var(--muted);
-  font: 500 0.8rem/1 Inter, system-ui, sans-serif;
+  font: 600 0.82rem/1 Inter, system-ui, sans-serif;
   cursor: pointer;
-  border-top: 2px solid transparent;
-  transition: color 0.15s ease, border-color 0.15s ease;
+  border-radius: 10px;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 }
 
 .bottombar-link:hover,
 .bottombar-link:focus-visible {
+  background: #1a2330;
   color: var(--text);
-  border-top-color: var(--border);
-  outline: none;
+  border-color: #3d516f;
 }
 
 .bottombar-link.active {
-  color: var(--accent);
-  border-top-color: var(--accent);
+  background: var(--accent);       
+  color: #0b0f14;                   
+  border-color: var(--accent);
 }
+
 
 
 @media (max-width: 768px) {
@@ -418,4 +421,9 @@ canvas {
   }
 }
 
+.topbar,
+.bottombar {
+  background: #16202f !important;   
+  border-color: #263449 !important; 
+}
 
