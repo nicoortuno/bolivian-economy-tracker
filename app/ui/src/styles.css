@@ -449,3 +449,15 @@ canvas {
   color: var(--text);
   border-color: var(--accent);
 }
+
+.range-row {
+  flex-direction: row !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+}
+
+@media (max-width: 600px) {
+  .range-row {
+    justify-content: center !important;
+  }
+}
