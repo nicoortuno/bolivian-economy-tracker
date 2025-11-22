@@ -465,53 +465,58 @@ export default function Macro() {
 
   return (
     <div className="card">
-      <div className="help-row" style={{alignItems:'center', gap:8, flexWrap:'wrap'}}>
-        <h2 style={{margin:0}}>Macroeconomic Indicators</h2>
+  {/* Title row only */}
+  <div className="help-row" style={{alignItems:'center', gap:8}}>
+    <h2 style={{margin:0}}>Macroeconomic Indicators</h2>
+  </div>
 
-        <div style={{display:'flex', gap:6, flexWrap:'wrap', marginLeft:'auto'}}>
-          {sectionOptions.map(s => (
-            <button
-              key={s.key}
-              type="button"
-              onClick={() => setSection(s.key)}
-              className="pill"
-              style={{
-                padding:'4px 10px',
-                fontSize:'.8rem',
-                borderRadius:999,
-                border:'1px solid var(--border)',
-                background: section === s.key ? 'var(--accent)' : 'transparent',
-                color: section === s.key ? '#000' : 'var(--text)',
-                cursor:'pointer'
-              }}
-            >
-              {s.label}
-            </button>
-          ))}
-        </div>
+  {/* Topic tabs: Inflation / Monetary / External / All */}
+  <div className="tabs macro-tabs">
+    {sectionOptions.map(s => (
+      <button
+        key={s.key}
+        type="button"
+        onClick={() => setSection(s.key)}
+        className={`tab ${section === s.key ? 'active' : ''}`}
+      >
+        {s.label}
+      </button>
+    ))}
+  </div>
 
-        <div style={{display:'flex', gap:6, flexWrap:'wrap', width:'100%', justifyContent:'flex-end', marginTop:6}}>
-          {rangeOptions.map(r => (
-            <button
-              key={r}
-              type="button"
-              onClick={() => setRange(r)}
-              className="pill"
-              style={{
-                padding:'4px 10px',
-                fontSize:'.8rem',
-                borderRadius:999,
-                border:'1px solid var(--border)',
-                background: range === r ? 'var(--accent-2)' : 'transparent',
-                color: range === r ? '#000' : 'var(--text)',
-                cursor:'pointer'
-              }}
-            >
-              {r === 'ALL' ? 'All' : r}
-            </button>
-          ))}
-        </div>
-      </div>
+  {/* Date range pills (smaller, secondary) */}
+  <div
+    className="help-row"
+    style={{
+      alignItems: 'center',
+      justifyContent: 'flex-end',
+      gap: 6,
+      flexWrap: 'wrap',
+      marginBottom: 12
+    }}
+  >
+    <span className="tip">Date range:</span>
+    {rangeOptions.map(r => (
+      <button
+        key={r}
+        type="button"
+        onClick={() => setRange(r)}
+        className="pill"
+        style={{
+          padding: '4px 10px',
+          fontSize: '.8rem',
+          borderRadius: 999,
+          border: '1px solid var(--border)',
+          background: range === r ? 'var(--accent-2)' : 'transparent',
+          color: range === r ? '#000' : 'var(--text)',
+          cursor: 'pointer'
+        }}
+      >
+        {r === 'ALL' ? 'All' : r}
+      </button>
+    ))}
+  </div>
+
 
       {errCpi && <p style={{color:'var(--accent-4)'}}>CPI error: {errCpi}</p>}
       {errBm  && <p style={{color:'var(--accent-4)'}}>BM error: {errBm}</p>}

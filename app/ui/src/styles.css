@@ -427,3 +427,25 @@ canvas {
   border-color: #263449 !important; 
 }
 
+.macro-tabs {
+  margin: 8px 0 12px;
+  padding: 8px 0;
+  border-bottom: none;
+}
+
+.macro-tabs .tab {
+  font-size: 0.9rem;
+  padding: 8px 18px;
+}
+
+.macro-tabs .tab.active {
+  color: var(--accent);     
+  background: #121922;     
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+.macro-tabs .tab:hover {
+  color: var(--text);
+  border-color: var(--accent);
+}
