@@ -41,7 +41,6 @@ const useCss = () => {
   }
 }
 
-
 const parseIsoDate = (s) => {
   if (!s) return null
   const d = new Date(s)
@@ -148,7 +147,8 @@ export default function Macro() {
   const [errExp,  setErrExp]  = useState(null)
   const [errImp,  setErrImp]  = useState(null)
 
-  const [range, setRange] = useState('10Y') 
+  const [range, setRange] = useState('10Y')
+  const [section, setSection] = useState('INFLATION')
 
   const c = useCss()
 
@@ -315,7 +315,6 @@ export default function Macro() {
     latestCPI?.date ||
     '—'
 
-
   const cpiYoY = (() => {
     const base = {
       labels: cpiDates,
@@ -352,9 +351,9 @@ export default function Macro() {
     const base = {
       labels: bmDates,
       datasets: [
-        { label: 'Gross Reserves (RIB)', data: RIB,  borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.accent, fill:false },
-        { label: 'Net Reserves (RIN)',   data: RIN,  borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.acc2, fill:false },
-        { label: 'Short-term External Liab. (OECP)', data: OECP, borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.acc4, fill:false },
+        { label: 'Gross Reserves', data: RIB,  borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.accent, fill:false },
+        { label: 'Net Reserves',   data: RIN,  borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.acc2, fill:false },
+        { label: 'Short-term External Liab', data: OECP, borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.acc4, fill:false },
       ]
     }
     return applyRange(base.labels, base.datasets, range)
@@ -364,7 +363,7 @@ export default function Macro() {
     const base = {
       labels: bmDates,
       datasets: [
-        { label: 'Net Credit to Public Sector (CNSP)', data: CNSP, borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.acc3, fill:false },
+        { label: 'Net Credit to Public Sector', data: CNSP, borderWidth: 2, pointRadius: 0, tension: .25, borderColor: c.acc3, fill:false },
       ]
     }
     return applyRange(base.labels, base.datasets, range)
@@ -374,7 +373,7 @@ export default function Macro() {
     const base = {
       labels: bmDates,
       datasets: [
-        { label: 'Monetary Base (BM)', data: BM_TOT, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc3, backgroundColor:'rgba(255,180,84,0.10)', fill:true },
+        { label: 'Monetary Base', data: BM_TOT, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc3, backgroundColor:'rgba(255,180,84,0.10)', fill:true },
         { label: 'Cash in Public Hands', data: CASH_PUB, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
       ]
     }
@@ -385,9 +384,9 @@ export default function Macro() {
     const base = {
       labels: bmDates,
       datasets: [
-        { label: 'Local Currency (MN)',  data: MN,  borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
+        { label: 'Local Currency',  data: MN,  borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
         { label: 'UFV',                  data: UFV, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc2,   fill:false },
-        { label: 'Foreign Currency (ME)',data: ME,  borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc4,   fill:false },
+        { label: 'Foreign Currency',data: ME,  borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc4,   fill:false },
       ]
     }
     return applyRange(base.labels, base.datasets, range)
@@ -397,7 +396,7 @@ export default function Macro() {
     const base = {
       labels: bmDates,
       datasets: [
-        { label: 'TOTAL (if present)', data: TOTAL_any, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.text, fill:false },
+        { label: 'TOTAL', data: TOTAL_any, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.text, fill:false },
       ]
     }
     return applyRange(base.labels, base.datasets, range)
@@ -407,8 +406,8 @@ export default function Macro() {
     const base = {
       labels: expDates,
       datasets: [
-        { label: 'Minerals (total)',       data: expMinerals,     borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
-        { label: 'Hydrocarbons (total)',   data: expHydrocarbons, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc2,   fill:false },
+        { label: 'Minerals',               data: expMinerals,     borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
+        { label: 'Hydrocarbons ',          data: expHydrocarbons, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc2,   fill:false },
         { label: 'Non-traditional goods',  data: expNonTrad,      borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc3,   fill:false },
         { label: 'Other goods',            data: expOtherGoods,   borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc4,   fill:false },
       ]
@@ -420,9 +419,9 @@ export default function Macro() {
     const base = {
       labels: impDates,
       datasets: [
-        { label: 'Consumption goods (total)', data: impConsTotal,    borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
-        { label: 'Raw materials (industry)',  data: impRawMaterials, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc2,   fill:false },
-        { label: 'Capital goods (extended)',  data: impCapitalGoods, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc3,   fill:false },
+        { label: 'Consumption goods', data: impConsTotal,    borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
+        { label: 'Raw materials',  data: impRawMaterials, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc2,   fill:false },
+        { label: 'Capital goods',  data: impCapitalGoods, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc3,   fill:false },
         { label: 'Other / diverse',           data: impMisc,         borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc4,   fill:false },
       ]
     }
@@ -433,8 +432,8 @@ export default function Macro() {
     const base = {
       labels: tradeDates,
       datasets: [
-        { label: 'Exports (FOB, millions USD)',  data: expFOB,          borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
-        { label: 'Imports (FOB, millions USD)',  data: importsForTrade, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc4,   fill:false },
+        { label: 'Exports (USD Millions)',  data: expFOB,          borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.accent, fill:false },
+        { label: 'Imports (USD Millions)',  data: importsForTrade, borderWidth: 2, pointRadius: 0, tension:.25, borderColor:c.acc4,   fill:false },
       ]
     }
     return applyRange(base.labels, base.datasets, range)
@@ -457,13 +456,41 @@ export default function Macro() {
     data.datasets.some(ds => hasSeries(ds.data))
 
   const rangeOptions = ['YTD', '5Y', '10Y', 'ALL']
+  const sectionOptions = [
+    { key: 'INFLATION', label: 'Inflation' },
+    { key: 'MONETARY',  label: 'Monetary & Reserves' },
+    { key: 'EXTERNAL',  label: 'Trade' },
+    { key: 'ALL',       label: 'All' },
+  ]
 
   return (
     <div className="card">
       <div className="help-row" style={{alignItems:'center', gap:8, flexWrap:'wrap'}}>
         <h2 style={{margin:0}}>Macroeconomic Indicators</h2>
 
-        <div style={{marginLeft:'auto', display:'flex', gap:6, flexWrap:'wrap'}}>
+        <div style={{display:'flex', gap:6, flexWrap:'wrap', marginLeft:'auto'}}>
+          {sectionOptions.map(s => (
+            <button
+              key={s.key}
+              type="button"
+              onClick={() => setSection(s.key)}
+              className="pill"
+              style={{
+                padding:'4px 10px',
+                fontSize:'.8rem',
+                borderRadius:999,
+                border:'1px solid var(--border)',
+                background: section === s.key ? 'var(--accent)' : 'transparent',
+                color: section === s.key ? '#000' : 'var(--text)',
+                cursor:'pointer'
+              }}
+            >
+              {s.label}
+            </button>
+          ))}
+        </div>
+
+        <div style={{display:'flex', gap:6, flexWrap:'wrap', width:'100%', justifyContent:'flex-end', marginTop:6}}>
           {rangeOptions.map(r => (
             <button
               key={r}
@@ -491,7 +518,7 @@ export default function Macro() {
       {errExp && <p style={{color:'var(--accent-4)'}}>Exports error: {errExp}</p>}
       {errImp && <p style={{color:'var(--accent-4)'}}>Imports error: {errImp}</p>}
 
-      {(latestCPI || latestBM || latestExp || latestImp) && (
+            {(latestCPI || latestBM || latestExp || latestImp) && (
         <div
           className="kpi-grid"
           style={{
@@ -501,10 +528,11 @@ export default function Macro() {
             marginBottom:12
           }}
         >
-          {latestCPI && (
+          {/* INFLATION KPIs */}
+          {(section === 'INFLATION' || section === 'ALL') && latestCPI && (
             <>
               <div className="kpi">
-                <div className="label">CPI — Date</div>
+                <div className="label">Date</div>
                 <div className="value mono">{latestCPI.date}</div>
               </div>
               <div className="kpi">
@@ -526,7 +554,8 @@ export default function Macro() {
             </>
           )}
 
-          {latestBM && (
+          {/* MONETARY / RESERVES KPIs */}
+          {(section === 'MONETARY' || section === 'ALL') && latestBM && (
             <>
               <div className="kpi">
                 <div className="label">BM — Date</div>
@@ -541,19 +570,28 @@ export default function Macro() {
               <div className="kpi">
                 <div className="label">Gross Reserves (USD Millions)</div>
                 <div className="value mono">
-                  {fmt(pick(latestBM, ['Reservas Internacionales Brutas RIB','RIB','Reservas Internacionales Brutas (RIB)']))}
+                  {fmt(pick(latestBM, [
+                    'Reservas Internacionales Brutas RIB',
+                    'RIB',
+                    'Reservas Internacionales Brutas (RIB)'
+                  ]))}
                 </div>
               </div>
               <div className="kpi">
                 <div className="label">Net Reserves (USD Millions)</div>
                 <div className="value mono">
-                  {fmt(pick(latestBM, ['Reservas Internacionales Netas RIN = RIB - OECP','RIN','Reservas Internacionales Netas (RIN)']))}
+                  {fmt(pick(latestBM, [
+                    'Reservas Internacionales Netas RIN = RIB - OECP',
+                    'RIN',
+                    'Reservas Internacionales Netas (RIN)'
+                  ]))}
                 </div>
               </div>
             </>
           )}
 
-          {latestExp && (
+          {/* EXTERNAL / TRADE KPIs */}
+          {(section === 'EXTERNAL' || section === 'ALL') && latestExp && (
             <>
               <div className="kpi">
                 <div className="label">External — Date</div>
@@ -580,100 +618,100 @@ export default function Macro() {
         </div>
       )}
 
+
       {/* Charts grid: max 2 per row on larger screens, 1 per row on phones */}
       <div className="macro-chart-grid">
-        {/* CPI */}
-        {canRender(cpiYoY) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Inflation — Year over Year</h3>
-            <Line data={cpiYoY} options={baseOpts('Date', 'Change (%)', true)} />
-          </div>
+        {/* INFLATION SECTION */}
+        {(section === 'INFLATION' || section === 'ALL') && (
+          <>
+            {canRender(cpiYoY) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Inflation — Year over Year</h3>
+                <Line data={cpiYoY} options={baseOpts('Date', 'Change (%)', true)} />
+              </div>
+            )}
+
+            {canRender(cpiMoM_YTD) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Inflation — Monthly & Year-to-Date</h3>
+                <Line data={cpiMoM_YTD} options={baseOpts('Date', 'Change (%)', true)} />
+              </div>
+            )}
+
+            {canRender(ipcBothBases) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Consumer Price Index (Levels)</h3>
+                <Line data={ipcBothBases} options={baseOpts('Date', 'Index level')} />
+              </div>
+            )}
+          </>
         )}
 
-        {canRender(cpiMoM_YTD) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Inflation — Monthly & Year-to-Date</h3>
-            <Line data={cpiMoM_YTD} options={baseOpts('Date', 'Change (%)', true)} />
-          </div>
+        {/* MONETARY & RESERVES SECTION */}
+        {(section === 'MONETARY' || section === 'ALL') && (
+          <>
+            {canRender(reservesData) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>International Reserves & Short-term Liabilities</h3>
+                <Line data={reservesData} options={baseOpts('Date', 'Millions USD')} />
+              </div>
+            )}
+
+            {canRender(cnspData) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Net Credit to Public Sector (CNSP)</h3>
+                <Line data={cnspData} options={baseOpts('Date', 'Thousands of Bs')} />
+              </div>
+            )}
+
+            {canRender(bmData) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Monetary Base & Cash in Public Hands</h3>
+                <Line data={bmData} options={baseOpts('Date', 'Thousands of Bs')} />
+              </div>
+            )}
+
+            {canRender(compData) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Currency Composition — MN / UFV / ME</h3>
+                <Line data={compData} options={baseOpts('Date', 'Thousands of Bs')} />
+              </div>
+            )}
+
+          </>
         )}
 
-        {canRender(ipcBothBases) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Consumer Price Index (Levels)</h3>
-            <Line data={ipcBothBases} options={baseOpts('Date', 'Index level')} />
-          </div>
-        )}
+        {/* EXTERNAL / TRADE SECTION */}
+        {(section === 'EXTERNAL' || section === 'ALL') && (
+          <>
+            {canRender(exportsByCategory) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Exports by Major Category</h3>
+                <Line data={exportsByCategory} options={baseOpts('Date', 'Millions USD')} />
+              </div>
+            )}
 
-        {/* Reserves */}
-        {canRender(reservesData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>International Reserves & Short-term Liabilities</h3>
-            <Line data={reservesData} options={baseOpts('Date', 'Millions USD')} />
-          </div>
-        )}
+            {canRender(importsByCategory) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Imports by Major Category</h3>
+                <Line data={importsByCategory} options={baseOpts('Date', 'Millions USD')} />
+              </div>
+            )}
 
-        {/* CNSP */}
-        {canRender(cnspData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Net Credit to Public Sector (CNSP)</h3>
-            <Line data={cnspData} options={baseOpts('Date', 'Thousands of Bs')} />
-          </div>
-        )}
+            {canRender(tradeFlowsData) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Exports vs. Imports</h3>
+                <Line data={tradeFlowsData} options={baseOpts('Date', 'Millions USD')} />
+              </div>
+            )}
 
-        {/* Base Monetaria & Cash */}
-        {canRender(bmData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Monetary Base & Cash in Public Hands</h3>
-            <Line data={bmData} options={baseOpts('Date', 'Thousands of Bs')} />
-          </div>
-        )}
-
-        {/* Currency composition */}
-        {canRender(compData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Currency Composition — MN / UFV / ME</h3>
-            <Line data={compData} options={baseOpts('Date', 'Thousands of Bs')} />
-          </div>
-        )}
-
-        {/* TOTAL (if exists) */}
-        {canRender(totalData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>TOTAL (if present)</h3>
-            <Line data={totalData} options={baseOpts('Date', 'Thousands of Bs')} />
-          </div>
-        )}
-
-        {/* Exports by category */}
-        {canRender(exportsByCategory) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Exports by Major Category</h3>
-            <Line data={exportsByCategory} options={baseOpts('Date', 'Millions USD')} />
-          </div>
-        )}
-
-        {/* Imports by category */}
-        {canRender(importsByCategory) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Imports by Major Category</h3>
-            <Line data={importsByCategory} options={baseOpts('Date', 'Millions USD')} />
-          </div>
-        )}
-
-        {/* Exports vs imports */}
-        {canRender(tradeFlowsData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Exports vs. Imports</h3>
-            <Line data={tradeFlowsData} options={baseOpts('Date', 'Millions USD')} />
-          </div>
-        )}
-
-        {/* Trade balance */}
-        {canRender(tradeBalanceData) && (
-          <div className="card">
-            <h3 style={{margin:'0 0 8px'}}>Trade Balance (Exports − Imports)</h3>
-            <Line data={tradeBalanceData} options={baseOpts('Date', 'Millions USD')} />
-          </div>
+            {canRender(tradeBalanceData) && (
+              <div className="card">
+                <h3 style={{margin:'0 0 8px'}}>Trade Balance (Exports − Imports)</h3>
+                <Line data={tradeBalanceData} options={baseOpts('Date', 'Millions USD')} />
+              </div>
+            )}
+          </>
         )}
       </div>
 

@@ -16,9 +16,6 @@ export default function App() {
     <div className="layout-top">
       <header className="topbar desktop-only">
         <div className="topbar-inner">
-          <NavLink to="/" className="brand">
-            Bolivian Economy Tracker
-          </NavLink>
 
           <nav className="topnav" aria-label="Main navigation">
             {NAV.map((item) => (
