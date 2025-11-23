@@ -246,7 +246,15 @@ export default function Currency() {
         <h2 style={{margin:0}}>Currency (USDT ⇄ BOB)</h2>
       </div>
 
-      <div style={{ display:'flex', gap:8, margin:'12px 0' }}>
+      <div
+        style={{
+          display: 'flex',
+          flexWrap: 'wrap',
+          justifyContent: 'flex-end',
+          gap: 8,
+          margin: '12px 0'
+        }}
+      >
         {['1D','1W','1M'].map(r => (
           <button
             key={r}
