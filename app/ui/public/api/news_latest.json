@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-11-23T17:31:25.143326+00:00",
-  "count": 94,
+  "generated_at_utc": "2025-11-23T18:32:53.691481+00:00",
+  "count": 86,
   "items": [
     {
       "source": "El Deber",
@@ -769,102 +769,6 @@
       "published_at_bo": "2025-11-10T10:59:00-04:00",
       "fetched_at_utc": "2025-11-10T20:28:59.689108+00:00",
       "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia eliminará el requisito de visa para viajeros estadounidenses",
-      "url": "https://eldeber.com.bo/economia/bolivia-eliminara-requisito-visa-viajeros-estadounidenses_1762725908",
-      "summary": "El presidente de Bolivia, Rodrigo Paz, anunció este miércoles que reabrirá un Espacio Americano en La Paz en 2026, diez años después de su cierre.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T18:23:00-04:00",
-      "published_at_bo": "2025-11-09T18:23:00-04:00",
-      "fetched_at_utc": "2025-11-10T03:22:56.812599+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "El dólar paralelo toca su nivel más bajo y cae casi 50% desde mayo",
-      "url": "https://eldeber.com.bo/economia/dolar-paralelo-toca-nivel-cae-casi-50-mayo_1762721517",
-      "summary": "Bolivia volvió a recuperarse de un desplome histórico en medio de la incertidumbre económica que se vive en el país desde el inicio de los últimos meses.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T16:58:00-04:00",
-      "published_at_bo": "2025-11-09T16:58:00-04:00",
-      "fetched_at_utc": "2025-11-10T02:00:15.351393+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Sergio Díaz-Granados, presidente de la CAF: “Debemos ayudar a Bolivia en su transformación y su acceso a los mercados”",
-      "url": "https://eldeber.com.bo/economia/sergio-diaz-granados-presidente-caf-debemos-ayudar-bolivia-transformacion-acceso-mercados_1762720995",
-      "summary": "La noticia económica de Bolivia fue publicada este miércoles en la edición española de la Conferencia Económica de América Latina y el Caribe (Celac-UE).",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T16:56:00-04:00",
-      "published_at_bo": "2025-11-09T16:56:00-04:00",
-      "fetched_at_utc": "2025-11-10T02:00:16.575486+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Paz encabeza caravana de cisternas con combustibles para el mercado interno",
-      "url": "https://eldeber.com.bo/economia/paz-encabeza-caravana-cisternas-combustibles-mercado-interno_1762718710",
-      "summary": "El presidente de Bolivia, Rodrigo Paz, anunció este domingo el inicio de una caravana de camiones cisternas para garantizar el suministro de gasolina y diésel a partir del 8 de este mes.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T16:20:00-04:00",
-      "published_at_bo": "2025-11-09T16:20:00-04:00",
-      "fetched_at_utc": "2025-11-10T02:00:17.616497+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Yussef Akly Flores es el nuevo presidente de YPFB y Margot Ayala Lino, directora de ANH",
-      "url": "https://eldeber.com.bo/economia/yussef-akly-flores-nuevo-presidente-ypfb-margot-ayala-lino-directora-anh_1762717115",
-      "summary": "El gobierno de Bolivia anunció este domingo la toma de posesión de dos nuevos líderes y una directora ejecutiva de la Agencia Nacional de Hidrocarburos.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T15:51:00-04:00",
-      "published_at_bo": "2025-11-09T15:51:00-04:00",
-      "fetched_at_utc": "2025-11-09T23:21:00.320229+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gabinete económico de Paz tiene con perfil técnico y con orientación productiva",
-      "url": "https://eldeber.com.bo/economia/gabinete-economico-paz-tiene-perfil-tecnico-orientacion-productiva_1762712221",
-      "summary": "La noticia económica de Bolivia fue publicada este domingo en la edición española de la Conferencia Económica de Naciones Unidas sobre la Economía y el Fondo Monetario Internacional (FMI).",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T14:32:00-04:00",
-      "published_at_bo": "2025-11-09T14:32:00-04:00",
-      "fetched_at_utc": "2025-11-09T23:21:01.299242+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Óscar Mario Justiniano asume como ministro de Desarrollo y marca un acercamiento del Gobierno con el sector empresarial",
-      "url": "https://eldeber.com.bo/economia/oscar-mario-justiniano-asume-ministro-desarrollo-marca-acercamiento-gobierno-sector-empresarial_1762704064",
-      "summary": "La noticia económica de Bolivia se convirtió este domingo en una de las noticias más importantes de la historia reciente del país, con un nuevo ministro interino.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T12:17:00-04:00",
-      "published_at_bo": "2025-11-09T12:17:00-04:00",
-      "fetched_at_utc": "2025-11-09T21:19:55.333079+00:00",
-      "day": "2025-11-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Lupo anticipa un retiro gradual de la subvención a los combustibles",
-      "url": "https://eldeber.com.bo/economia/lupo-anticipa-retiro-gradual-subvencion-combustibles_1762701984",
-      "summary": "El gobierno de Bolivia anunció este sábado que retirará el subsidio al diésel y la gasolina de forma \"ordenada\" para evitar el desvío a contrabando.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-09T11:35:00-04:00",
-      "published_at_bo": "2025-11-09T11:35:00-04:00",
-      "fetched_at_utc": "2025-11-09T21:19:56.286929+00:00",
-      "day": "2025-11-09"
     }
   ]
 }
