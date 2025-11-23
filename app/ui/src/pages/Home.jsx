@@ -17,8 +17,23 @@ const EXPORTS_CSV = '/data/macro/clean/exports.csv'
 const IMPORTS_CSV = '/data/macro/clean/imports.csv'
 
 const asNum = (x) => (x === null || x === undefined || x === '' ? null : Number(x))
-const fmt   = (x, d=4) => (x === null || x === undefined || isNaN(x) ? '—' : Number(x).toFixed(d))
-const pct   = (x, d=2) => (x === null || x === undefined || isNaN(x) ? '—' : (Number(x)*100).toFixed(d) + '%')
+const fmt = (x, d = 4) =>
+  (x === null || x === undefined || isNaN(x)
+    ? '—'
+    : Number(x).toLocaleString('en-US', {
+        minimumFractionDigits: d,
+        maximumFractionDigits: d,
+      })
+  )
+
+const pct = (x, d = 2) =>
+  (x === null || x === undefined || isNaN(x)
+    ? '—'
+    : (Number(x) * 100).toLocaleString('en-US', {
+        minimumFractionDigits: d,
+        maximumFractionDigits: d,
+      }) + '%'
+  )
 
 const midFromBA = (r) => {
   const bid = asNum(r?.best_bid)
