@@ -465,12 +465,12 @@ export default function Macro() {
 
   return (
     <div className="card">
-  {/* Title row only */}
   <div className="help-row" style={{alignItems:'center', gap:8}}>
     <h2 style={{margin:0}}>Macroeconomic Indicators</h2>
   </div>
 
   {/* Topic tabs: Inflation / Monetary / External / All */}
+<div className="macro-header-row">
   <div className="tabs macro-tabs">
     {sectionOptions.map(s => (
       <button
@@ -484,37 +484,31 @@ export default function Macro() {
     ))}
   </div>
 
-  {/* Date range pills (smaller, secondary) */}
-  <div
-    className="help-row"
-    style={{
-      alignItems: 'center',
-      justifyContent: 'flex-end',
-      gap: 6,
-      flexWrap: 'wrap',
-      marginBottom: 12
-    }}
-  >
-    <span className="tip">Date range:</span>
-    {rangeOptions.map(r => (
-      <button
-        key={r}
-        type="button"
-        onClick={() => setRange(r)}
-        className="pill"
-        style={{
-          padding: '4px 10px',
-          fontSize: '.8rem',
-          borderRadius: 999,
-          border: '1px solid var(--border)',
-          background: range === r ? 'var(--accent-2)' : 'transparent',
-          color: range === r ? '#000' : 'var(--text)',
-          cursor: 'pointer'
-        }}
-      >
-        {r === 'ALL' ? 'All' : r}
-      </button>
-    ))}
+  <div className="help-row range-row">
+    <div className="range-pills">
+      {rangeOptions.map(r => (
+        <button
+          key={r}
+          type="button"
+          onClick={() => setRange(r)}
+          className="pill"
+          style={{
+            padding: '4px 10px',
+            fontSize: '.8rem',
+            borderRadius: 999,
+            border: '1px solid var(--border)',
+            background: range === r ? 'var(--accent-2)' : 'transparent',
+            color: range === r ? '#000' : 'var(--text)',
+            cursor: 'pointer'
+          }}
+        >
+          {r === 'ALL' ? 'All' : r}
+        </button>
+      ))}
+    </div>
+  </div>
+
+
   </div>
 
 
@@ -623,8 +617,6 @@ export default function Macro() {
         </div>
       )}
 
-
-      {/* Charts grid: max 2 per row on larger screens, 1 per row on phones */}
       <div className="macro-chart-grid">
         {/* INFLATION SECTION */}
         {(section === 'INFLATION' || section === 'ALL') && (

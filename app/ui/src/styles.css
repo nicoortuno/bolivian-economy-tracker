@@ -450,14 +450,45 @@ canvas {
   border-color: var(--accent);
 }
 
-.range-row {
-  flex-direction: row !important;
-  align-items: center !important;
-  flex-wrap: wrap !important;
+.macro-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  flex-wrap: wrap;             
+  gap: 12px;
+  margin-bottom: 12px;
 }
 
-@media (max-width: 600px) {
+.macro-header-row .macro-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.range-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;  
+}
+
+.range-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+@media (max-width: 768px) {
+  .macro-header-row {
+    justify-content: center;
+  }
+
+  .macro-header-row .macro-tabs {
+    justify-content: center;
+  }
+
   .range-row {
-    justify-content: center !important;
+    margin-left: 0;      
+    justify-content: center;
   }
 }
