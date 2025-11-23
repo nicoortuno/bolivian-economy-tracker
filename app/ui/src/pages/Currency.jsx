@@ -17,14 +17,32 @@ const pct   = (x, d=2) => (x === null || x === undefined || isNaN(x) ? '—' : (
 
 function parseTs(ts) {
   if (!ts) return null
-  const d = new Date(ts)
-  return isNaN(d.getTime()) ? null : d
+  if (ts instanceof Date) return isNaN(ts.getTime()) ? null : ts
+
+  let d = new Date(ts)
+  if (!isNaN(d.getTime())) return d
+
+  const m = /^(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})(?::(\d{2}))?/.exec(String(ts))
+  if (m) {
+    const [, y, mo, da, h, mi, s = '0'] = m
+    d = new Date(
+      Number(y),
+      Number(mo) - 1,
+      Number(da),
+      Number(h),
+      Number(mi),
+      Number(s)
+    )
+    if (!isNaN(d.getTime())) return d
+  }
+
+  return null
 }
 
 export default function Currency() {
   const [rows, setRows] = useState([])
   const [err, setErr] = useState(null)
-  const [range, setRange] = useState('1D')  // NEW
+  const [range, setRange] = useState('1D')
   const [showHelp, setShowHelp] = useState(false)
 
   const cacheKey = useMemo(() => Math.floor(Date.now() / (60 * 60 * 1000)), [])
@@ -45,11 +63,14 @@ export default function Currency() {
     })
   }, [CSV_URL])
 
-
   const filtered = useMemo(() => {
     if (!rows.length) return []
 
-    const now = new Date(rows.at(-1).ts).getTime()
+    const lastRow = rows[rows.length - 1]
+    const lastDate = parseTs(lastRow?.ts)
+    if (!lastDate) return []
+
+    const now = lastDate.getTime()
 
     let cutoffHours = 24
     if (range === '1W') cutoffHours = 24 * 7
@@ -64,17 +85,16 @@ export default function Currency() {
   }, [rows, range])
 
   const labels = filtered.map(r => r.ts)
-  const latest = filtered.at(-1) || null
-
+  const latest = filtered.length ? filtered[filtered.length - 1] : null
 
   const series = useMemo(() => {
     const mid  = filtered.map(r => asNum(r.mid_BOB_per_USDT))
     const bid  = filtered.map(r => asNum(r.best_bid))
     const ask  = filtered.map(r => asNum(r.best_ask))
 
-    const spreadBest = filtered.map(r => asNum(r.spread_pct))               
-    const effSpread  = filtered.map(r => asNum(r.effective_spread_pct))     
-    const marketW    = filtered.map(r => asNum(r.market_width_pct))          
+    const spreadBest = filtered.map(r => asNum(r.spread_pct))
+    const effSpread  = filtered.map(r => asNum(r.effective_spread_pct))
+    const marketW    = filtered.map(r => asNum(r.market_width_pct))
 
     const buyC   = filtered.map(r => asNum(r.buy_count))
     const sellC  = filtered.map(r => asNum(r.sell_count))
@@ -86,7 +106,6 @@ export default function Currency() {
     return { mid, bid, ask, spreadBest, effSpread, marketW, buyC, sellC, imb, vol24, vol7d }
   }, [filtered])
 
-
   function tickLabel(value) {
     const label = labels[value]
     if (!label) return ''
@@ -97,10 +116,8 @@ export default function Currency() {
     if (range === '1D') {
       return String(d.getHours()).padStart(2, '0')
     }
-
     return String(d.getDate())
   }
-
 
   const baseOptions = useMemo(() => ({
     responsive: true,
@@ -127,7 +144,6 @@ export default function Currency() {
       }
     }
   }), [labels, range])
-
 
   const priceChart = {
     labels,
@@ -224,7 +240,6 @@ export default function Currency() {
     ]
   }
 
-
   return (
     <div className="card">
       <div className="help-row" style={{ alignItems:'center' }}>
@@ -257,16 +272,45 @@ export default function Currency() {
         <>
           {/* KPIs */}
           <div className="grid" style={{marginBottom:12}}>
-            <div className="kpi"><div className="label">Timestamp</div><div className="value mono">{latest.ts}</div></div>
-            <div className="kpi"><div className="label">Mid</div><div className="value mono">{fmt(latest.mid_BOB_per_USDT, 4)}</div></div>
-            <div className="kpi"><div className="label">Best Bid / Best Ask</div><div className="value mono">{fmt(latest.best_bid,4)} / {fmt(latest.best_ask,4)}</div></div>
-            <div className="kpi"><div className="label">Spread % (best)</div><div className="value mono">{pct(latest.spread_pct, 3)}</div></div>
-            <div className="kpi"><div className="label">Effective Spread %</div><div className="value mono">{pct(latest.effective_spread_pct, 2)}</div></div>
-            <div className="kpi"><div className="label">Depth Imbalance</div><div className="value mono">{fmt(latest.depth_imbalance, 3)}</div></div>
-            <div className="kpi"><div className="label">Median Gap</div><div className="value mono">{fmt(latest.median_gap, 3)}</div></div>
-            <div className="kpi"><div className="label">Δ Mid (1h)</div><div className="value mono">{fmt(latest.mid_change_abs, 4)} ({pct(latest.mid_change_pct, 2)})</div></div>
+            <div className="kpi">
+              <div className="label">Timestamp</div>
+              <div className="value mono">{latest.ts}</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Mid</div>
+              <div className="value mono">{fmt(latest.mid_BOB_per_USDT, 4)}</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Best Bid / Best Ask</div>
+              <div className="value mono">
+                {fmt(latest.best_bid,4)} / {fmt(latest.best_ask,4)}
+              </div>
+            </div>
+            <div className="kpi">
+              <div className="label">Spread % (best)</div>
+              <div className="value mono">{pct(latest.spread_pct, 3)}</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Effective Spread %</div>
+              <div className="value mono">{pct(latest.effective_spread_pct, 2)}</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Depth Imbalance</div>
+              <div className="value mono">{fmt(latest.depth_imbalance, 3)}</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Median Gap</div>
+              <div className="value mono">{fmt(latest.median_gap, 3)}</div>
+            </div>
+            <div className="kpi">
+              <div className="label">Δ Mid (1h)</div>
+              <div className="value mono">
+                {fmt(latest.mid_change_abs, 4)} ({pct(latest.mid_change_pct, 2)})
+              </div>
+            </div>
           </div>
 
+          {/* Charts */}
           <div className="card"><Line data={priceChart} options={baseOptions} /></div>
           <div className="card"><Line data={spreadsChart} options={baseOptions} /></div>
           <div className="card"><Line data={liquidityChart} options={liquidityOptions} /></div>

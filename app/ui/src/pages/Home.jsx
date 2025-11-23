@@ -401,7 +401,7 @@ export default function Home() {
           },
         },
         grid: { color: 'var(--grid)' },
-        title: { display: true, text: 'Time (local)', color: '#9fb0c3', font: { size: 12 } },
+        title: { display: true, text: 'Time', color: '#9fb0c3', font: { size: 12 } },
       },
       y: {
         display: true,
