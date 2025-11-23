@@ -17,22 +17,59 @@ summ = pipeline(
     device_map="auto",
 )
 
-def summarize_text(txt: str) -> str | None:
+COUNTRIES = [
+    "bolivia", "perú", "peru", "argentina", "chile", "brasil", "brasilia",
+    "colombia", "paraguay", "uruguay", "ecuador", "méxico", "mexico",
+    "estados unidos", "ee.uu.", "eeuu", "españa", "brasil", "brasilia",
+]
+
+
+def has_hallucinated_country(article: str, summary: str) -> bool:
+    """Return True if summary mentions a country that never appears in article."""
+    art = article.lower()
+    summ = summary.lower()
+    for c in COUNTRIES:
+        if c in summ and c not in art:
+            return True
+    return False
+
+
+def summarize_text(txt: str, source: str | None = None) -> str | None:
     if not isinstance(txt, str):
         return None
     txt = txt.strip()
     if len(txt) < 200:
         return None
 
-    txt = txt[:2000]
-    out = summ(
-        txt,
-        max_length=140, 
-        min_length=40,
-        do_sample=False,
-        truncation=True,
-    )[0]["summary_text"]
-    return out.strip()
+    body = txt[:2000]
+
+    src_label = f" del medio {source}" if source else ""
+    prefix = (
+        "Resuma en 1–2 oraciones en español la siguiente noticia económica de Bolivia"
+        f"{src_label}. Enfóquese en lo que ocurre en Bolivia y evite mencionar "
+        "otros países a menos que aparezcan explícitamente en el texto:\n\n"
+    )
+
+    input_text = prefix + body
+
+    try:
+        out = summ(
+            input_text,
+            max_length=140,
+            min_length=40,
+            do_sample=False,
+            truncation=True,
+        )[0]["summary_text"].strip()
+    except Exception as e:
+        print(f"[summaries] error summarizing article: {e}")
+        return None
+
+    if has_hallucinated_country(body, out):
+        print("[summaries] dropped summary due to hallucinated country")
+        return None
+
+    return out or None
+
 
 def main():
     if not LATEST.exists():
@@ -60,13 +97,17 @@ def main():
 
     if OUT.exists():
         prev = pd.read_parquet(OUT)
-        out = pd.concat([prev, todo[["url_hash","summary"]]], ignore_index=True)
+        out = pd.concat(
+            [prev, todo[["url_hash", "summary"]]],
+            ignore_index=True,
+        )
         out = out.drop_duplicates("url_hash", keep="last")
     else:
-        out = todo[["url_hash","summary"]]
+        out = todo[["url_hash", "summary"]]
 
     out.to_parquet(OUT, index=False)
     print(f"[summaries] wrote {OUT}, rows={len(out)}")
+
 
 if __name__ == "__main__":
     main()

@@ -20,7 +20,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 🧹 Free ~10 GB so pip can work
       - name: Free disk space
         run: |
           sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android
@@ -47,7 +46,6 @@ jobs:
           restore-keys: |
             hf-${{ runner.os }}-
 
-      # ⚙️  CPU-only Torch 2.6+, prevents CUDA and the CVE block
       - name: Create Torch constraints
         run: |
           cat > constraints-ml.txt << 'EOF'
