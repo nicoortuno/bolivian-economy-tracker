@@ -415,7 +415,6 @@ export default function Home() {
 
       {lastMacroDate !== '—' && (
         <p className="tip" style={{ marginTop: 4, marginBottom: 12 }}>
-          Latest macro datapoint: <span className="mono">{lastMacroDate}</span>
         </p>
       )}
 
@@ -428,6 +427,7 @@ export default function Home() {
         <div className="card" style={{ marginTop: 8 }}>
           <div className="help-row" style={{ marginBottom: 12 }}>
             <h3 style={{ margin: 0 }}>Key Macro Indicators</h3>
+            {latest && <span className="tip">Last update: <span className="mono">{lastMacroDate}</span></span>}
           </div>
           <div className="grid">
             <div className="kpi">
@@ -453,7 +453,7 @@ export default function Home() {
       {/* --- Currency snapshot --- */}
       <div className="card" style={{ marginTop: 16, marginBottom: 16 }}>
         <div className="help-row" style={{marginBottom:12}}>
-          <h3 style={{margin:0}}>Currency Snapshot — Binance P2P</h3>
+          <h3 style={{margin:0}}>Latest Currency Insights</h3>
           {latest && <span className="tip">Last update: <span className="mono">{latest.ts}</span></span>}
         </div>
 
