@@ -142,6 +142,19 @@ canvas {
   margin-top: 4px;
 }
 
+@media (max-width: 480px) {
+  .kpi .value {
+    font-size: 1.05rem;   
+    line-height: 1.2;
+    word-break: break-all;
+  }
+
+  .kpi {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
 .summary-card h3 {
   font-size: 1.25rem;
   line-height: 1.3;
