@@ -2,6 +2,7 @@ import re
 from pathlib import Path
 from functools import reduce
 import pandas as pd
+from pandas.tseries.offsets import MonthEnd
 
 SRC_XLSX = Path("data/macro/bcb_excels/23.xlsx")
 OUT_CSV  = Path("data/macro/clean/exports.csv")
@@ -14,19 +15,24 @@ MONTH_MAP = {
 
 
 def _squash_spaces(s: str) -> str:
+    """Collapse whitespace and collapse spaced-out letters."""
     s = re.sub(r"\s+", " ", s.strip())
     if re.fullmatch(r"(?:[A-Za-zÁÉÍÓÚÜÑ]\s+)+[A-Za-zÁÉÍÓÚÜÑ]", s):
         s = s.replace(" ", "")
     return s
 
+
 def _norm_month(x):
+    """Normalize 'ENE', 'FEB', etc."""
     if not isinstance(x, str):
         return None
     s = x.strip().upper()
     s = re.sub(r"\s*\(.*?\)", "", s)
     return s if s in MONTH_MAP else None
 
+
 def looks_like_year(cell) -> bool:
+    """Identify if a cell looks like a year."""
     if cell is None:
         return False
     if isinstance(cell, float) and pd.isna(cell):
@@ -36,14 +42,16 @@ def looks_like_year(cell) -> bool:
     if isinstance(cell, (int, float)):
         try:
             y = int(round(float(cell)))
+            return 1900 <= y <= 2099
         except Exception:
             return False
-        return 1900 <= y <= 2099
     if isinstance(cell, str):
         return bool(re.search(r"(19|20)\d{2}", cell.strip()))
     return False
 
+
 def extract_year(cell) -> int | None:
+    """Extract 4-digit year from a cell."""
     if isinstance(cell, (int, float)) and not pd.isna(cell):
         try:
             y = int(round(float(cell)))
@@ -51,14 +59,16 @@ def extract_year(cell) -> int | None:
                 return y
         except Exception:
             return None
+
     m = re.search(r"(19|20)\d{2}", str(cell))
     return int(m.group(0)) if m else None
+
 
 def merged_title_from_rows(df: pd.DataFrame,
                            col_idx: int,
                            row_start_1idx: int,
                            row_end_1idx: int) -> str:
-    """Concat non-NaN pieces from a vertical span of rows for a column."""
+    """Build a column title by merging multiple header rows."""
     r0 = row_start_1idx - 1
     r1 = row_end_1idx
     parts = []
@@ -68,23 +78,19 @@ def merged_title_from_rows(df: pd.DataFrame,
         s = _squash_spaces(str(v))
         if s:
             parts.append(s)
+
     title = " ".join(parts).replace("\n", " ").strip()
-    title = re.sub(r"[()]", "", title)      
+    title = re.sub(r"[()]", "", title)
     title = re.sub(r"\s+", " ", title).strip()
     return title or f"col_{col_idx}"
+
 
 def parse_value_series(df: pd.DataFrame,
                        start_row_1idx: int,
                        year_col_idx: int,
                        month_col_idx: int,
                        value_col_idx: int) -> pd.DataFrame:
-    """
-    Generic parser for the BCB 'Exports' sheet.
-
-    * Years are in column `year_col_idx` (here: 1)
-    * Months are in column `month_col_idx` (here: 1, same column)
-    * Numeric series values are in `value_col_idx`
-    """
+    """Parse a time series from the messy BCB Excel structure."""
     n = len(df)
     i = start_row_1idx - 1
     out = []
@@ -102,8 +108,9 @@ def parse_value_series(df: pd.DataFrame,
 
         months_rows = []
         j = i + 1
+
         while j < n:
-            if looks_like_year(df.iat[j, year_col_idx]) and len(months_rows) > 0:
+            if looks_like_year(df.iat[j, year_col_idx]) and months_rows:
                 break
 
             mlabel = _norm_month(df.iat[j, month_col_idx])
@@ -116,8 +123,10 @@ def parse_value_series(df: pd.DataFrame,
             if mlabel == "DIC":
                 j += 1
                 break
+
             if len(months_rows) > 12:
                 break
+
             j += 1
 
         if not months_rows:
@@ -132,27 +141,26 @@ def parse_value_series(df: pd.DataFrame,
 
     return pd.DataFrame.from_records(out)
 
+
 def run():
     raw = pd.read_excel(SRC_XLSX, header=None, dtype=object)
 
-    titles: dict[int, str] = {}
+    titles = {}
 
-    mineral_cols = range(2, 8)
-    for c in mineral_cols:
+    for c in range(2, 8):
         titles[c] = merged_title_from_rows(raw, c, 8, 8)
 
     titles[8] = merged_title_from_rows(raw, 8, 8, 9)
+
     for c in (9, 10, 11):
         titles[c] = merged_title_from_rows(raw, c, 8, 8)
 
-    no_trad_cols = range(12, 18)
-    for c in no_trad_cols:
+    for c in range(12, 18):
         titles[c] = merged_title_from_rows(raw, c, 8, 8)
 
     titles[18] = merged_title_from_rows(raw, 18, 6, 9)
 
-    total_cols = range(19, 24)
-    for c in total_cols:
+    for c in range(19, 24):
         titles[c] = merged_title_from_rows(raw, c, 6, 7)
 
     rename_overrides = {
@@ -174,11 +182,11 @@ def run():
             titles[c] = nice
 
     parse_cols = (
-        list(mineral_cols)
-        + [8, 9, 10, 11]
-        + list(no_trad_cols)
-        + [18]
-        + list(total_cols)
+        list(range(2, 8)) +
+        [8, 9, 10, 11] +
+        list(range(12, 18)) +
+        [18] +
+        list(range(19, 24))
     )
 
     series_dfs = []
@@ -186,11 +194,12 @@ def run():
     for cidx in parse_cols:
         dfc = parse_value_series(
             raw,
-            start_row_1idx=10, 
+            start_row_1idx=10,
             year_col_idx=1,
             month_col_idx=1,
             value_col_idx=cidx,
         )
+
         if dfc.empty:
             continue
 
@@ -205,17 +214,20 @@ def run():
     merged = reduce(lambda l, r: pd.merge(l, r, on=["year", "month"], how="outer"),
                     series_dfs)
 
-    merged = merged.dropna(subset=["year", "month"], how="any").copy()
+    merged = merged.dropna(subset=["year", "month"])
     merged["year"] = merged["year"].astype(int)
     merged["month"] = merged["month"].astype(int)
-    merged["date"] = pd.to_datetime(
-        merged["year"].astype(str) + "-" + merged["month"].astype(str) + "-01"
+
+    merged["date"] = (
+        pd.to_datetime(dict(year=merged["year"], month=merged["month"], day=1))
+        + MonthEnd(0)
     )
 
     value_cols = [c for c in merged.columns if c not in {"date", "year", "month"}]
+
     merged = (
         merged[["date", "year", "month"] + value_cols]
-        .sort_values(["date"])
+        .sort_values("date")
         .reset_index(drop=True)
     )
 
@@ -228,6 +240,7 @@ def run():
     for c in merged.columns:
         if c not in ("date", "year", "month"):
             print(" -", c)
+
 
 if __name__ == "__main__":
     run()

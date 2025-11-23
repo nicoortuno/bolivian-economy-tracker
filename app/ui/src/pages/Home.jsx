@@ -501,6 +501,23 @@ export default function Home() {
           <span className="tip">From El Deber (Economía) summaries</span>
         </div>
 
+        <div
+          style={{
+            background: "rgba(255, 92, 138, 0.10)",
+            border: "1px solid rgba(255, 92, 138, 0.25)",
+            padding: "8px 12px",
+            borderRadius: "10px",
+            fontSize: "0.85rem",
+            color: "var(--muted)",
+            marginTop: "4px",
+            marginBottom: "14px",
+            lineHeight: 1.35
+          }}
+        >
+  ⚠️ <strong>Disclaimer:</strong> This feature is in beta.  
+  AI-generated summaries may contain mistakes — please interpret with caution.
+</div>
+
         {newsErr && <p style={{color:'var(--accent-4)'}}>Error: {newsErr}</p>}
         {!newsErr && loadingNews && <p>Loading news…</p>}
         {!newsErr && !loadingNews && news.length === 0 && <p>No summaries yet for today.</p>}

@@ -1,6 +1,7 @@
 import csv, json, sys, time, re
 from datetime import datetime, date
 from pathlib import Path
+import calendar
 
 import requests
 from bs4 import BeautifulSoup
@@ -24,6 +25,9 @@ MONTHS_ES = {
     "noviembre": 11, "diciembre": 12
 }
 
+def last_day_of_month(year, month):
+    return calendar.monthrange(year, month)[1]
+
 def _norm_num(s):
     if s is None: return None
     s = s.strip()
@@ -38,20 +42,28 @@ def _norm_num(s):
 
 def _parse_date(label):
     t = (label or "").strip().lower()
+
     m = re.match(r"([a-záéíóúñ]+)\s+(\d{4})", t, re.IGNORECASE)
     if m:
         mon_name, year = m.group(1), int(m.group(2))
         mon = MONTHS_ES.get(mon_name)
-        if mon: return f"{year:04d}-{mon:02d}-01"
+        if mon:
+            ld = last_day_of_month(year, mon)
+            return f"{year:04d}-{mon:02d}-{ld:02d}"
+
     m = re.match(r"(\d{1,2})/(\d{4})", t)
     if m:
         mon, year = int(m.group(1)), int(m.group(2))
-        return f"{year:04d}-{mon:02d}-01"
+        ld = last_day_of_month(year, mon)
+        return f"{year:04d}-{mon:02d}-{ld:02d}"
+
     try:
         dt = datetime.fromisoformat(t[:10])
-        return f"{dt.year:04d}-{dt.month:02d}-01"
+        ld = last_day_of_month(dt.year, dt.month)
+        return f"{dt.year:04d}-{dt.month:02d}-{ld:02d}"
     except Exception:
         return None
+
 
 def fetch(url, retries=3, backoff=1.5):
     last = None

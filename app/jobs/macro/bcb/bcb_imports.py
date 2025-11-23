@@ -4,9 +4,10 @@ from pathlib import Path
 from functools import reduce
 
 import pandas as pd
+from pandas.tseries.offsets import MonthEnd
 
 
-SRC_XLSX = Path("data/macro/bcb_excels/24.xlsx") 
+SRC_XLSX = Path("data/macro/bcb_excels/24.xlsx")
 OUT_CSV  = Path("data/macro/clean/imports.csv")
 OUT_CSV.parent.mkdir(parents=True, exist_ok=True)
 
@@ -93,16 +94,21 @@ def parse_value_series(
         while j < n:
             if looks_like_year(df.iat[j, year_col_idx]) and months_rows:
                 break
+
             mlabel = _norm_month(df.iat[j, month_col_idx])
             if mlabel is None:
                 j += 1
                 continue
+
             months_rows.append((j, MONTH_MAP[mlabel]))
+
             if mlabel == "DIC":
                 j += 1
                 break
+
             if len(months_rows) > 12:
                 break
+
             j += 1
 
         if not months_rows:
@@ -155,8 +161,8 @@ def run():
         dfc = parse_value_series(
             raw,
             start_row_1idx=10,
-            year_col_idx=1,  
-            month_col_idx=1,   
+            year_col_idx=1,
+            month_col_idx=1,
             value_col_idx=cidx,
         )
         if dfc.empty:
@@ -178,8 +184,11 @@ def run():
     merged = merged.dropna(subset=["year", "month"], how="any").copy()
     merged["year"] = merged["year"].astype(int)
     merged["month"] = merged["month"].astype(int)
-    merged["date"] = pd.to_datetime(
-        merged["year"].astype(str) + "-" + merged["month"].astype(str) + "-01"
+
+    merged["date"] = (
+        pd.to_datetime(
+            dict(year=merged["year"], month=merged["month"], day=1)
+        ) + MonthEnd(0)
     )
 
     value_cols = [c for c in merged.columns if c not in {"date", "year", "month"}]
@@ -198,6 +207,7 @@ def run():
     for c in merged.columns:
         if c not in ("date", "year", "month"):
             print(" -", c)
+
 
 if __name__ == "__main__":
     run()
