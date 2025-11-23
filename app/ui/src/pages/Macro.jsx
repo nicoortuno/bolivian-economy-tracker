@@ -14,9 +14,23 @@ const EXPORTS_CSV = '/data/macro/clean/exports.csv'
 const IMPORTS_CSV = '/data/macro/clean/imports.csv'
 
 const asNum = (x) => (x === null || x === undefined || x === '' ? null : Number(x))
-const fmt   = (x, d=2) => (x === null || x === undefined || isNaN(x) ? '—' : Number(x).toFixed(d))
-const pct   = (x, d=2) => (x === null || x === undefined || isNaN(x) ? '—' : (Number(x)*100).toFixed(d) + '%')
+const fmt = (x, d = 2) =>
+  (x === null || x === undefined || isNaN(x)
+    ? '—'
+    : Number(x).toLocaleString('en-US', {
+        minimumFractionDigits: d,
+        maximumFractionDigits: d
+      })
+  )
 
+const pct = (x, d = 2) =>
+  (x === null || x === undefined || isNaN(x)
+    ? '—'
+    : (Number(x) * 100).toLocaleString('en-US', {
+        minimumFractionDigits: d,
+        maximumFractionDigits: d
+      }) + '%'
+  )
 const pick = (row, candidates) => {
   if (!row) return undefined
   for (const k of candidates) if (k in row) return row[k]
@@ -637,7 +651,7 @@ export default function Macro() {
 
             {canRender(ipcBothBases) && (
               <div className="card">
-                <h3 style={{margin:'0 0 8px'}}>Consumer Price Index (Levels)</h3>
+                <h3 style={{margin:'0 0 8px'}}>Consumer Price Index</h3>
                 <Line data={ipcBothBases} options={baseOpts('Date', 'Index level')} />
               </div>
             )}
