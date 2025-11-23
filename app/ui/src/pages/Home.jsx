@@ -58,6 +58,17 @@ function fmtWhen(iso) {
   })
 }
 
+function fmtTimeOnly(ts) {
+  if (!ts) return "—";
+  const d = new Date(ts);
+  if (isNaN(d.getTime())) return "—";
+
+  return d.toLocaleTimeString([], {
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
 function parseTsToDate(ts) {
   if (!ts) return null
   const s = String(ts).trim()
@@ -427,7 +438,6 @@ export default function Home() {
         <div className="card" style={{ marginTop: 8 }}>
           <div className="help-row" style={{ marginBottom: 12 }}>
             <h3 style={{ margin: 0 }}>Key Macro Indicators</h3>
-            {latest && <span className="tip">Last update: <span className="mono">{lastMacroDate}</span></span>}
           </div>
           <div className="grid">
             <div className="kpi">
@@ -454,7 +464,6 @@ export default function Home() {
       <div className="card" style={{ marginTop: 16, marginBottom: 16 }}>
         <div className="help-row" style={{marginBottom:12}}>
           <h3 style={{margin:0}}>Latest Currency Insights</h3>
-          {latest && <span className="tip">Last update: <span className="mono">{latest.ts}</span></span>}
         </div>
 
         {curErr && <p style={{color:'var(--accent-4)'}}>Error: {curErr}</p>}
@@ -481,9 +490,9 @@ export default function Home() {
               </div>
 
               <div className="kpi">
-                <div className="label">Δ Mid</div>
+                <div className="label">Timestamp</div>
                 <div className="value mono">
-                  {fmt(dAbs, 4)} ({pct(dPct, 2)})
+                  {fmtTimeOnly(latest.ts)}
                 </div>
               </div>
             </div>
