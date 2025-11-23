@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-23T03:58:35.912913+00:00",
+  "generated_at_utc": "2025-11-23T04:06:03.779898+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Industriales piden que la agenda productiva siga avanzando",
+      "url": "https://eldeber.com.bo/economia/industriales-piden-agenda-productiva-siga-avanzando_1763868672",
+      "summary": "La noticia económica de Bolivia se convirtió este miércoles en una de las noticias más importantes de la historia reciente del país y también de América Latina.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-22T23:49:00-04:00",
+      "published_at_bo": "2025-11-22T23:49:00-04:00",
+      "fetched_at_utc": "2025-11-23T03:58:31.703831+00:00",
+      "day": "2025-11-22"
+    },
     {
       "source": "El Deber",
       "title": "Ante las emergencias climáticas, Pacto Global Red Bolivia, empresarios y autoridades se unen para hacer frente a las contingencias",
