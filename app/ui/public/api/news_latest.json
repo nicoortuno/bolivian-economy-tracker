@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-23T18:32:53.691481+00:00",
+  "generated_at_utc": "2025-11-23T18:43:25.990719+00:00",
   "count": 86,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El robo de cables de cobre golpea la conectividad en Bolivia y deja costos millonarios",
+      "url": "https://eldeber.com.bo/economia/robo-cables-cobre-golpea-conectividad-bolivia-deja-costos-millonarios_1763911376",
+      "summary": "La noticia económica de Bolivia se convirtió este miércoles en una de las noticias más importantes de la historia reciente del país y la que tuvo un impacto positivo en la economía boliviana.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-23T13:52:00-04:00",
+      "published_at_bo": "2025-11-23T13:52:00-04:00",
+      "fetched_at_utc": "2025-11-23T18:32:51.832570+00:00",
+      "day": "2025-11-23"
+    },
     {
       "source": "El Deber",
       "title": "Industriales piden que la agenda productiva siga avanzando",
