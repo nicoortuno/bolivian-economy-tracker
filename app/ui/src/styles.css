@@ -146,7 +146,6 @@ canvas {
   .kpi .value {
     font-size: 1.05rem;   
     line-height: 1.2;
-    word-break: break-all;
   }
 
   .kpi {
