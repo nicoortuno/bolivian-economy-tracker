@@ -497,7 +497,7 @@ export default function Home() {
 
       <div className="card">
         <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-          <h3 style={{margin:0}}>Economic News — Latest 6</h3>
+          <h3 style={{margin:0}}>Latest Economic News</h3>
           <span className="tip">From El Deber (Economía) summaries</span>
         </div>
 
