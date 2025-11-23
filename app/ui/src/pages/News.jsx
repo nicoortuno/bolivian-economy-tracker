@@ -42,6 +42,22 @@ export default function News() {
     <div className="card">
       <div className="help-row" style={{alignItems:"center", gap: 8}}>
         <h2 style={{margin:0}}>Economic News</h2>
+        <div
+          style={{
+            background: "rgba(255, 92, 138, 0.10)", // soft pink/red tint
+            border: "1px solid rgba(255, 92, 138, 0.25)",
+            padding: "8px 12px",
+            borderRadius: "10px",
+            fontSize: "0.85rem",
+            color: "var(--muted)",
+            marginTop: "4px",
+            marginBottom: "14px",
+            lineHeight: 1.35
+          }}
+        >
+          ⚠️ **Disclaimer:** This feature is in beta.  
+          AI-generated summaries may contain mistake. Please interpret with caution.
+        </div>
       </div>
 
       {err && <p style={{ color: "var(--accent-4)" }}>Error: {err}</p>}
