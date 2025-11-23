@@ -247,6 +247,7 @@ export default function Currency() {
       </div>
 
       <div
+        className="currency-range-row"
         style={{
           display: 'flex',
           flexWrap: 'wrap',
