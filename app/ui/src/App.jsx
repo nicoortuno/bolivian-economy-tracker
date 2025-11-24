@@ -22,7 +22,6 @@ export default function App() {
   return (
     <div className="layout-top">
 
-      {/* DESKTOP TOP BAR */}
       <header className="topbar desktop-only">
         <div className="topbar-inner">
 
@@ -41,7 +40,6 @@ export default function App() {
             ))}
           </nav>
 
-          {/* Desktop language toggle */}
           <button
             type="button"
             onClick={toggleLang}
@@ -54,7 +52,6 @@ export default function App() {
         </div>
       </header>
 
-      {/* MOBILE BOTTOM BAR — restored to original layout */}
       <nav className="bottombar mobile-only" aria-label="Bottom navigation">
         <div className="bottombar-inner">
           {NAV.map((item) => (
@@ -72,7 +69,6 @@ export default function App() {
         </div>
       </nav>
 
-      {/* MAIN CONTENT */}
       <main className="container main-content">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -83,7 +79,6 @@ export default function App() {
         </Routes>
       </main>
 
-      {/* FOOTER */}
       <footer className="footer">
         Bolivian Economy Tracker ·{' '}
         <span style={{ color: 'var(--muted)' }}>v1.0</span>
