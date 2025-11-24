@@ -20,7 +20,7 @@ const messages = {
       tradeBalance: 'Trade Balance (USD Millions)',
       latestCurrencyTitle: 'Latest Currency Insights',
       bidAskAvg: 'Bid/Ask average',
-      bestBidAsk: 'Best Bid / Best Ask',
+      bestBidAsk: 'Best Bid/Best Ask',
       spreadPct: 'Spread %',
       ts: 'Timestamp',
       latestNewsTitle: 'Latest Economic News',
