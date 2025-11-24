@@ -425,34 +425,39 @@ export default function Home() {
   }
 
   return (
-    <div className="help-row overview-header-row"
+    <div className="card">
+      {/* Header row: title + mobile language pill */}
+      <div
+        className="help-row overview-header-row"
         style={{
           alignItems: 'center',
           gap: 8,
           justifyContent: 'space-between',
-          width: '100%'
+          marginBottom: 12,
         }}
-    >
-      <h2 style={{ margin: 0 }}>Economic Overview</h2>
-
-      <button
-        type="button"
-        onClick={toggleLang}
-        className="lang-toggle-mobile mobile-only"
-        aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
       >
-        {lang === 'en' ? 'ES' : 'EN'}
-      </button>
-  
+        <h2 style={{ margin: 0 }}>Economic Overview</h2>
+
+        <button
+          type="button"
+          onClick={toggleLang}
+          className="lang-toggle-mobile mobile-only"
+          aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+        >
+          {lang === 'en' ? 'ES' : 'EN'}
+        </button>
+      </div>
+
       {lastMacroDate !== '—' && (
         <p className="tip" style={{ marginTop: 4, marginBottom: 12 }}>
+          {/* you can add “Last macro update: …” here later if you want */}
         </p>
       )}
 
-      {errCpi && <p style={{color:'var(--accent-4)'}}>CPI error: {errCpi}</p>}
-      {errBm  && <p style={{color:'var(--accent-4)'}}>BM error: {errBm}</p>}
-      {errExp && <p style={{color:'var(--accent-4)'}}>Exports error: {errExp}</p>}
-      {errImp && <p style={{color:'var(--accent-4)'}}>Imports error: {errImp}</p>}
+      {errCpi && <p style={{ color: 'var(--accent-4)' }}>CPI error: {errCpi}</p>}
+      {errBm && <p style={{ color: 'var(--accent-4)' }}>BM error: {errBm}</p>}
+      {errExp && <p style={{ color: 'var(--accent-4)' }}>Exports error: {errExp}</p>}
+      {errImp && <p style={{ color: 'var(--accent-4)' }}>Imports error: {errImp}</p>}
 
       {(latestCPI || latestBM || latestExp || latestImp) && (
         <div className="card" style={{ marginTop: 8 }}>
@@ -482,11 +487,11 @@ export default function Home() {
 
       {/* --- Currency snapshot --- */}
       <div className="card" style={{ marginTop: 16, marginBottom: 16 }}>
-        <div className="help-row" style={{marginBottom:12}}>
-          <h3 style={{margin:0}}>{t('home.latestCurrencyTitle')}</h3>
+        <div className="help-row" style={{ marginBottom: 12 }}>
+          <h3 style={{ margin: 0 }}>{t('home.latestCurrencyTitle')}</h3>
         </div>
 
-        {curErr && <p style={{color:'var(--accent-4)'}}>Error: {curErr}</p>}
+        {curErr && <p style={{ color: 'var(--accent-4)' }}>Error: {curErr}</p>}
         {!curErr && !latest && <p>{t('home.loadingPrice')}</p>}
 
         {latest && (
@@ -500,7 +505,7 @@ export default function Home() {
               <div className="kpi">
                 <div className="label">{t('home.bestBidAsk')}</div>
                 <div className="value mono">
-                  {fmt(latest.best_bid,4)} / {fmt(latest.best_ask,4)}
+                  {fmt(latest.best_bid, 4)} / {fmt(latest.best_ask, 4)}
                 </div>
               </div>
 
@@ -520,32 +525,31 @@ export default function Home() {
         )}
       </div>
 
-
       {/* News section */}
       <div className="card">
-        <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-          <h3 style={{margin:0}}>{t('home.latestNewsTitle')}</h3>
+        <div className="help-row" style={{ alignItems: 'center', gap: 8 }}>
+          <h3 style={{ margin: 0 }}>{t('home.latestNewsTitle')}</h3>
           <span className="tip">{t('home.newsSubtitle')}</span>
         </div>
 
         <div
           style={{
-            background: "rgba(255, 92, 138, 0.10)",
-            border: "1px solid rgba(255, 92, 138, 0.25)",
-            padding: "8px 12px",
-            borderRadius: "10px",
-            fontSize: "0.85rem",
-            color: "var(--muted)",
-            marginTop: "4px",
-            marginBottom: "14px",
-            lineHeight: 1.35
+            background: 'rgba(255, 92, 138, 0.10)',
+            border: '1px solid rgba(255, 92, 138, 0.25)',
+            padding: '8px 12px',
+            borderRadius: '10px',
+            fontSize: '0.85rem',
+            color: 'var(--muted)',
+            marginTop: '4px',
+            marginBottom: '14px',
+            lineHeight: 1.35,
           }}
         >
           ⚠️ <strong>{t('home.disclaimerTitle')}</strong>{' '}
           {t('home.disclaimerBody')}
         </div>
 
-        {newsErr && <p style={{color:'var(--accent-4)'}}>Error: {newsErr}</p>}
+        {newsErr && <p style={{ color: 'var(--accent-4)' }}>Error: {newsErr}</p>}
         {!newsErr && loadingNews && <p>{t('home.loadingNews')}</p>}
         {!newsErr && !loadingNews && news.length === 0 && <p>{t('home.noNewsToday')}</p>}
 
@@ -554,24 +558,34 @@ export default function Home() {
             {news.map((it, i) => {
               const when = it.published_at_bo || it.published_at_utc || it.fetched_at_utc
               return (
-                <article key={i} className="summary-card" style={{
-                  border: '1px solid var(--border)',
-                  borderRadius: 12,
-                  padding: 12,
-                  background: 'var(--card)'
-                }}>
+                <article
+                  key={i}
+                  className="summary-card"
+                  style={{
+                    border: '1px solid var(--border)',
+                    borderRadius: 12,
+                    padding: 12,
+                    background: 'var(--card)',
+                  }}
+                >
                   <h3 style={{ margin: '0 0 6px' }}>
                     <a href={it.url} target="_blank" rel="noopener noreferrer">
                       {it.title || '(sin título)'}
                     </a>
                   </h3>
-                  <div className="meta" style={{ fontSize: '.9rem', color: 'var(--muted)', marginBottom: 6 }}>
-                    <strong>{it.source || '—'}</strong> · {fmtWhen(when)} {it.published_at_bo ? 'BOT' : ''}
+                  <div
+                    className="meta"
+                    style={{
+                      fontSize: '.9rem',
+                      color: 'var(--muted)',
+                      marginBottom: 6,
+                    }}
+                  >
+                    <strong>{it.source || '—'}</strong> · {fmtWhen(when)}{' '}
+                    {it.published_at_bo ? 'BOT' : ''}
                     {it.sentiment ? ` · ${String(it.sentiment).toUpperCase()}` : ''}
                   </div>
-                  <p style={{ margin: 0, lineHeight: 1.45 }}>
-                    {it.summary}
-                  </p>
+                  <p style={{ margin: 0, lineHeight: 1.45 }}>{it.summary}</p>
                 </article>
               )
             })}
@@ -580,4 +594,5 @@ export default function Home() {
       </div>
     </div>
   )
+
 }
