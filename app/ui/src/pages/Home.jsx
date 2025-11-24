@@ -111,7 +111,10 @@ function formatTimeLabel(label) {
 
 
 export default function Home() {
-  const { t, lang } = useI18n()
+  const { t, lang, setLang } = useI18n()
+  const toggleLang = () => {
+  setLang(lang === 'en' ? 'es' : 'en')
+}
   const [rows, setRows] = useState([])
   const [curErr, setCurErr] = useState(null)
   const [news, setNews] = useState([])
@@ -426,6 +429,15 @@ export default function Home() {
       <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
         <h2 style={{ margin: 0 }}>Economic Overview</h2>
       </div>
+
+      <button
+        type="button"
+        onClick={toggleLang}
+        className="lang-toggle-mobile mobile-only"
+        aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+      >
+        {lang === 'en' ? 'ES' : 'EN'}
+      </button>
 
       {lastMacroDate !== '—' && (
         <p className="tip" style={{ marginTop: 4, marginBottom: 12 }}>
