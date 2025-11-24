@@ -510,3 +510,37 @@ canvas {
     justify-content: center !important;
   }
 }
+
+.lang-toggle {
+  margin-left: auto;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: #0f151d;
+  color: var(--muted);
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.lang-toggle:hover,
+.lang-toggle:focus-visible {
+  color: var(--text);
+  border-color: var(--accent);
+}
+
+.lang-toggle-mobile {
+  margin-left: 8px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid #2a3a50;
+  background: #0f151d;
+  color: var(--muted);
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.lang-toggle-mobile:hover,
+.lang-toggle-mobile:focus-visible {
+  color: var(--text);
+  border-color: var(--accent);
+}

@@ -3,15 +3,22 @@ import Home from './pages/Home.jsx'
 import Currency from './pages/Currency.jsx'
 import News from './pages/News.jsx'
 import Macro from './pages/Macro.jsx'
+import { useI18n } from './i18n.jsx'
 
 const NAV = [
-  { path: '/',         label: 'Overview' },
-  { path: '/currency', label: 'Currency' },
-  { path: '/macro',    label: 'Macro' },
-  { path: '/news',     label: 'News' },
+  { path: '/',         key: 'nav.overview' },
+  { path: '/currency', key: 'nav.currency' },
+  { path: '/macro',    key: 'nav.macro' },
+  { path: '/news',     key: 'nav.news' },
 ]
 
 export default function App() {
+  const { t, lang, setLang } = useI18n()
+
+  const toggleLang = () => {
+    setLang(lang === 'en' ? 'es' : 'en')
+  }
+
   return (
     <div className="layout-top">
       <header className="topbar desktop-only">
@@ -27,10 +34,19 @@ export default function App() {
                   'topnav-link' + (isActive ? ' active' : '')
                 }
               >
-                {item.label}
+                {t(item.key)}
               </NavLink>
             ))}
           </nav>
+
+          <button
+            type="button"
+            onClick={toggleLang}
+            className="lang-toggle"
+            aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+          >
+            {lang === 'en' ? 'ES' : 'EN'}
+          </button>
         </div>
       </header>
 
@@ -45,9 +61,18 @@ export default function App() {
                 'bottombar-link' + (isActive ? ' active' : '')
               }
             >
-              {item.label}
+              {t(item.key)}
             </NavLink>
           ))}
+
+          <button
+            type="button"
+            onClick={toggleLang}
+            className="lang-toggle-mobile"
+            aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+          >
+            {lang === 'en' ? 'ES' : 'EN'}
+          </button>
         </div>
       </nav>
 

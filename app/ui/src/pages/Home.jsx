@@ -5,6 +5,8 @@ import {
   Chart as ChartJS,
   LineElement, CategoryScale, LinearScale, PointElement, Tooltip, Legend
 } from 'chart.js'
+import { useI18n } from '../i18n.jsx'
+
 
 ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement, Tooltip, Legend)
 
@@ -109,6 +111,7 @@ function formatTimeLabel(label) {
 
 
 export default function Home() {
+  const { t, lang } = useI18n()
   const [rows, setRows] = useState([])
   const [curErr, setCurErr] = useState(null)
   const [news, setNews] = useState([])
@@ -163,7 +166,7 @@ export default function Home() {
     }
   }
 
-  useEffect(() => { loadNews() /* eslint-disable-next-line */ }, [])
+  useEffect(() => { loadNews() }, [])
 
   useEffect(() => {
     Papa.parse(CPI_URL, {
@@ -437,23 +440,23 @@ export default function Home() {
       {(latestCPI || latestBM || latestExp || latestImp) && (
         <div className="card" style={{ marginTop: 8 }}>
           <div className="help-row" style={{ marginBottom: 12 }}>
-            <h3 style={{ margin: 0 }}>Key Macro Indicators</h3>
+            <h3 style={{ margin: 0 }}>{t('home.keyMacroTitle')}</h3>
           </div>
           <div className="grid">
             <div className="kpi">
-              <div className="label">Inflation YoY</div>
+              <div className="label">{t('home.inflYoY')}</div>
               <div className="value mono">{pct(latestInfYoY, 2)}</div>
             </div>
             <div className="kpi">
-              <div className="label">Inflation MoM</div>
+              <div className="label">{t('home.inflMoM')}</div>
               <div className="value mono">{pct(latestInfMoM, 2)}</div>
             </div>
             <div className="kpi">
-              <div className="label">Net Reserves (BOB Thousands)</div>
+              <div className="label">{t('home.netRes')}</div>
               <div className="value mono">{fmt(latestRIN, 2)}</div>
             </div>
             <div className="kpi">
-              <div className="label">Trade Balance (USD Millions)</div>
+              <div className="label">{t('home.tradeBalance')}</div>
               <div className="value mono">{fmt(latestTradeBalance, 2)}</div>
             </div>
           </div>
@@ -463,51 +466,49 @@ export default function Home() {
       {/* --- Currency snapshot --- */}
       <div className="card" style={{ marginTop: 16, marginBottom: 16 }}>
         <div className="help-row" style={{marginBottom:12}}>
-          <h3 style={{margin:0}}>Latest Currency Insights</h3>
+          <h3 style={{margin:0}}>{t('home.latestCurrencyTitle')}</h3>
         </div>
 
         {curErr && <p style={{color:'var(--accent-4)'}}>Error: {curErr}</p>}
-        {!curErr && !latest && <p>Loading latest price…</p>}
+        {!curErr && !latest && <p>{t('home.loadingPrice')}</p>}
 
         {latest && (
           <>
             <div className="grid" style={{ marginBottom: 12 }}>
               <div className="kpi">
-                <div className="label">Bid/Ask average</div>
+                <div className="label">{t('home.bidAskAvg')}</div>
                 <div className="value mono">{fmt(computedLatestMid, 4)}</div>
               </div>
 
               <div className="kpi">
-                <div className="label">Best Bid / Best Ask</div>
+                <div className="label">{t('home.bestBidAsk')}</div>
                 <div className="value mono">
                   {fmt(latest.best_bid,4)} / {fmt(latest.best_ask,4)}
                 </div>
               </div>
 
               <div className="kpi">
-                <div className="label">Spread %</div>
+                <div className="label">{t('home.spreadPct')}</div>
                 <div className="value mono">{pct(latest.spread_pct, 3)}</div>
               </div>
 
               <div className="kpi">
-                <div className="label">Timestamp</div>
+                <div className="label">{t('home.ts')}</div>
                 <div className="value mono">
                   {fmtTimeOnly(latest.ts)}
                 </div>
               </div>
             </div>
-
-            <div className="card" style={{ paddingTop: 8, paddingBottom: 8 }}>
-              <Line data={sparkData} options={sparkOptions} plugins={[annotateSpark]} />
-            </div>
           </>
         )}
       </div>
 
+
+      {/* News section */}
       <div className="card">
         <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-          <h3 style={{margin:0}}>Latest Economic News</h3>
-          <span className="tip">From El Deber (Economía) summaries</span>
+          <h3 style={{margin:0}}>{t('home.latestNewsTitle')}</h3>
+          <span className="tip">{t('home.newsSubtitle')}</span>
         </div>
 
         <div
@@ -523,13 +524,13 @@ export default function Home() {
             lineHeight: 1.35
           }}
         >
-  ⚠️ <strong>Disclaimer:</strong> This feature is in beta.  
-  AI-generated summaries may contain mistakes — please interpret with caution.
-</div>
+          ⚠️ <strong>{t('home.disclaimerTitle')}</strong>{' '}
+          {t('home.disclaimerBody')}
+        </div>
 
         {newsErr && <p style={{color:'var(--accent-4)'}}>Error: {newsErr}</p>}
-        {!newsErr && loadingNews && <p>Loading news…</p>}
-        {!newsErr && !loadingNews && news.length === 0 && <p>No summaries yet for today.</p>}
+        {!newsErr && loadingNews && <p>{t('home.loadingNews')}</p>}
+        {!newsErr && !loadingNews && news.length === 0 && <p>{t('home.noNewsToday')}</p>}
 
         {news.length > 0 && (
           <div className="summary-list">
