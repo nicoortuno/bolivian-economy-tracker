@@ -41,7 +41,10 @@ function parseTs(ts) {
 }
 
 export default function Currency() {
-  const { t } = useI18n()
+  const { t, lang, setLang } = useI18n()
+  const toggleLang = () => {
+    setLang(lang === 'en' ? 'es' : 'en')
+  }
 
   const [rows, setRows] = useState([])
   const [err, setErr] = useState(null)
@@ -138,21 +141,33 @@ export default function Currency() {
           maxTicksLimit: 6,
           callback: tickLabel,
         },
-        grid:{ color:'var(--grid)' }
+        grid:{ color:'var(--grid)' },
+        title: {
+          display: true,
+          text: t('home.chartTime'),
+          color: '#9fb0c3',
+          font: { size: 12 },
+        }
       },
       y: {
         ticks: { color:'#cfe0f0' },
         grid:{ color:'var(--grid)' },
-        beginAtZero:false
+        beginAtZero:false,
+        title: {
+          display: true,
+          text: t('home.chartPair'),
+          color: '#9fb0c3',
+          font: { size: 12 },
+        }
       }
     }
-  }), [labels, range])
+  }), [labels, range, lang, t])
 
   const priceChart = {
     labels,
     datasets: [
       {
-        label: t('currency.series.mid'),
+        label: 'Mid (BOB/USDT)',
         data: series.mid,
         borderWidth: 2.2,
         pointRadius: 0,
@@ -161,7 +176,7 @@ export default function Currency() {
         backgroundColor: 'rgba(255, 213, 79, 0.25)',
       },
       {
-        label: t('currency.series.bestBid'),
+        label: 'Best Bid',
         data: series.bid,
         borderWidth: 1.5,
         pointRadius: 0,
@@ -170,7 +185,7 @@ export default function Currency() {
         borderColor: '#4FC3F7'
       },
       {
-        label: t('currency.series.bestAsk'),
+        label: 'Best Ask',
         data: series.ask,
         borderWidth: 1.5,
         pointRadius: 0,
@@ -185,7 +200,7 @@ export default function Currency() {
     labels,
     datasets: [
       {
-        label: t('currency.series.spreadBest'),
+        label: 'Spread % (best)',
         data: series.spreadBest.map(v => v * 100),
         borderWidth: 2,
         pointRadius: 0,
@@ -194,7 +209,7 @@ export default function Currency() {
         backgroundColor: 'rgba(79,195,247,0.2)',
       },
       {
-        label: t('currency.series.effSpread'),
+        label: 'Effective Spread %',
         data: series.effSpread.map(v => v * 100),
         borderWidth: 2,
         pointRadius: 0,
@@ -204,7 +219,7 @@ export default function Currency() {
       },
       ...(series.marketW.some(v => v != null)
         ? [{
-            label: t('currency.series.marketWidth'),
+            label: 'Market Width %',
             data: series.marketW.map(v => v * 100),
             borderWidth: 2,
             pointRadius: 0,
@@ -220,31 +235,9 @@ export default function Currency() {
   const liquidityChart = {
     labels,
     datasets: [
-      {
-        label: t('currency.series.buyCount'),
-        data: series.buyC,
-        borderWidth: 2,
-        pointRadius: 0,
-        tension: 0.25,
-        borderColor: '#7aa2ff'
-      },
-      {
-        label: t('currency.series.sellCount'),
-        data: series.sellC,
-        borderWidth: 2,
-        pointRadius: 0,
-        tension: 0.25,
-        borderColor: '#ff92b0'
-      },
-      {
-        label: t('currency.series.depthImb'),
-        data: series.imb,
-        borderWidth: 1.5,
-        pointRadius: 0,
-        tension: 0.25,
-        borderColor: 'var(--accent-4)',
-        yAxisID: 'y1'
-      },
+      { label: 'Buy Count', data: series.buyC, borderWidth: 2, pointRadius: 0, tension: 0.25, borderColor: '#7aa2ff' },
+      { label: 'Sell Count', data: series.sellC, borderWidth: 2, pointRadius: 0, tension: 0.25, borderColor: '#ff92b0' },
+      { label: 'Depth Imbalance', data: series.imb, borderWidth: 1.5, pointRadius: 0, tension: 0.25, borderColor: 'var(--accent-4)', yAxisID: 'y1' },
     ]
   }
 
@@ -252,48 +245,42 @@ export default function Currency() {
     ...baseOptions,
     scales: {
       ...baseOptions.scales,
-      y:  { 
-        ...baseOptions.scales.y,
-        title:{ display:true, text:t('currency.axis.counts'), color:'#9fb0c3' }
-      },
-      y1: { 
-        type:'linear',
-        position:'right',
-        grid:{ drawOnChartArea:false },
-        ticks:{ color:'#ff87a4' },
-        title:{ display:true, text:t('currency.axis.imbalance'), color:'#ff87a4' },
-        min:-1,
-        max:1
-      }
+      y:  { ...baseOptions.scales.y, title:{ display:true, text:'Counts', color:'#9fb0c3' } },
+      y1: { type:'linear', position:'right', grid:{ drawOnChartArea:false }, ticks:{ color:'#ff87a4' }, title:{ display:true, text:'Imbalance', color:'#ff87a4' }, min:-1, max:1 }
     }
   }
 
   const volChart = {
     labels,
     datasets: [
-      {
-        label: t('currency.series.vol24'),
-        data: series.vol24,
-        borderWidth: 2,
-        pointRadius: 0,
-        tension: 0.25,
-        borderColor: '#f7d774'
-      },
-      {
-        label: t('currency.series.vol7d'),
-        data: series.vol7d,
-        borderWidth: 2,
-        pointRadius: 0,
-        tension: 0.25,
-        borderColor: '#e7a1ff'
-      },
+      { label: 'Rolling 24h Vol', data: series.vol24, borderWidth: 2, pointRadius: 0, tension: 0.25, borderColor: '#f7d774' },
+      { label: 'Rolling 7d Vol', data: series.vol7d, borderWidth: 2, pointRadius: 0, tension: 0.25, borderColor: '#e7a1ff' },
     ]
   }
 
   return (
     <div className="card">
-      <div className="help-row" style={{ alignItems:'center' }}>
-        <h2 style={{margin:0}}>{t('currency.title')}</h2>
+      <div
+        className="help-row overview-header-row"
+        style={{
+          alignItems: 'center',
+          gap: 8,
+          justifyContent: 'space-between',
+          marginBottom: 12,
+        }}
+      >
+        <h2 style={{margin:0}}>
+          {t('nav.currency')} (USDT ⇄ BOB)
+        </h2>
+
+        <button
+          type="button"
+          onClick={toggleLang}
+          className="lang-toggle-mobile mobile-only"
+          aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+        >
+          {lang === 'en' ? 'ES' : 'EN'}
+        </button>
       </div>
 
       <div
@@ -319,50 +306,50 @@ export default function Currency() {
               cursor:'pointer'
             }}
           >
-            {t(`currency.ranges.${r}`)}
+            {r}
           </button>
         ))}
       </div>
 
       {err && <p style={{color:'var(--accent-4)'}}>Error: {err}</p>}
-      {!err && rows.length === 0 && <p>{t('currency.loading')}</p>}
+      {!err && rows.length === 0 && <p>{t('home.loadingPrice')}</p>}
 
       {latest && (
         <>
           {/* KPIs */}
           <div className="grid" style={{marginBottom:12}}>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.timestamp')}</div>
+              <div className="label">Timestamp</div>
               <div className="value mono">{latest.ts}</div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.mid')}</div>
+              <div className="label">Mid</div>
               <div className="value mono">{fmt(latest.mid_BOB_per_USDT, 4)}</div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.bestBidAsk')}</div>
+              <div className="label">Best Bid / Best Ask</div>
               <div className="value mono">
                 {fmt(latest.best_bid,4)} / {fmt(latest.best_ask,4)}
               </div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.spreadBest')}</div>
+              <div className="label">Spread % (best)</div>
               <div className="value mono">{pct(latest.spread_pct, 3)}</div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.effSpread')}</div>
+              <div className="label">Effective Spread %</div>
               <div className="value mono">{pct(latest.effective_spread_pct, 2)}</div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.depthImb')}</div>
+              <div className="label">Depth Imbalance</div>
               <div className="value mono">{fmt(latest.depth_imbalance, 3)}</div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.medianGap')}</div>
+              <div className="label">Median Gap</div>
               <div className="value mono">{fmt(latest.median_gap, 3)}</div>
             </div>
             <div className="kpi">
-              <div className="label">{t('currency.kpi.deltaMid')}</div>
+              <div className="label">Δ Mid (1h)</div>
               <div className="value mono">
                 {fmt(latest.mid_change_abs, 4)} ({pct(latest.mid_change_pct, 2)})
               </div>
