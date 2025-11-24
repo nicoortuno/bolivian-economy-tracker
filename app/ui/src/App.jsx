@@ -52,7 +52,6 @@ export default function App() {
 
       <nav className="bottombar mobile-only" aria-label="Bottom navigation">
         <div className="bottombar-inner">
-          {/* Language pill on top (mobile) */}
           <button
             type="button"
             onClick={toggleLang}
@@ -62,7 +61,6 @@ export default function App() {
             {lang === 'en' ? 'ES' : 'EN'}
           </button>
 
-          {/* Tabs below */}
           <div className="bottombar-links">
             {NAV.map((item) => (
               <NavLink
