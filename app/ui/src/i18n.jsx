@@ -1,4 +1,3 @@
-// i18n.js
 import { createContext, useContext, useState } from 'react'
 
 const I18nContext = createContext()
