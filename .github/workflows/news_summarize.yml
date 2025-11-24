@@ -11,9 +11,9 @@ jobs:
   summarize:
     runs-on: ubuntu-latest
     env:
-      HF_HOME: ~/.cache/huggingface
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
       PIP_NO_CACHE_DIR: "1"
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
     steps:
       - uses: actions/checkout@v4
@@ -38,30 +38,10 @@ jobs:
           restore-keys: |
             pip-ml-${{ runner.os }}-
 
-      - name: Cache Hugging Face models
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/huggingface
-          key: hf-${{ runner.os }}-v1
-          restore-keys: |
-            hf-${{ runner.os }}-
-
-      - name: Create Torch constraints
-        run: |
-          cat > constraints-ml.txt << 'EOF'
-          torch==2.6.0+cpu
-          torchvision==0.21.0+cpu
-          torchaudio==2.6.0+cpu
-          --find-links https://download.pytorch.org/whl/torch_stable.html
-          EOF
-          cat constraints-ml.txt
-
-      - name: Install dependencies (CPU-only)
+      - name: Install dependencies (OpenAI summarizer)
         run: |
           python -m pip install --upgrade pip
-          pip install --no-cache-dir -r requirements-ml.txt \
-            -c constraints-ml.txt \
-            --extra-index-url https://download.pytorch.org/whl/cpu
+          pip install --no-cache-dir -r requirements-ml.txt
           df -h
 
       - name: Summarize & export
