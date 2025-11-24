@@ -426,19 +426,26 @@ export default function Home() {
 
   return (
     <div className="card">
-      <div className="help-row" style={{ alignItems:'center', gap: 8 }}>
-        <h2 style={{ margin: 0 }}>Economic Overview</h2>
-      </div>
-
-      <button
-        type="button"
-        onClick={toggleLang}
-        className="lang-toggle-mobile mobile-only"
-        aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+      <div
+        className="help-row"
+        style={{
+          alignItems: 'center',
+          gap: 8,
+          justifyContent: 'space-between'
+        }}
       >
-        {lang === 'en' ? 'ES' : 'EN'}
-      </button>
-
+        <h2 style={{ margin: 0 }}>Economic Overview</h2>
+    
+        <button
+          type="button"
+          onClick={toggleLang}
+          className="lang-toggle-mobile mobile-only"
+          aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
+        >
+          {lang === 'en' ? 'ES' : 'EN'}
+        </button>
+      </div>
+  
       {lastMacroDate !== '—' && (
         <p className="tip" style={{ marginTop: 4, marginBottom: 12 }}>
         </p>
