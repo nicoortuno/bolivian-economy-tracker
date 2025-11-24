@@ -521,6 +521,9 @@ export default function Home() {
                 </div>
               </div>
             </div>
+            <div className="card" style={{ paddingTop: 8, paddingBottom: 8 }}>
+              <Line data={sparkData} options={sparkOptions} plugins={[annotateSpark]} />
+            </div>
           </>
         )}
       </div>
