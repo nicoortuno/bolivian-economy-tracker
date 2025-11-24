@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2025-11-24T02:03:31.168951+00:00",
+  "generated_at_utc": "2025-11-24T02:24:35.979339+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La COB llama a un ampliado ante posible cambio del régimen laboral en YPFB y ENDE",
+      "url": "https://eldeber.com.bo/economia/cob-llama-ampliado-posible-cambio-regimen-laboral-ypfb-ende_1763939920",
+      "summary": "La COB convocó un ampliado de emergencia para el 26 de noviembre ante un proyecto de decreto que propone que trabajadores de YPFB y ENDE pasen de la Ley General del Trabajo al régimen de la Ley 2027 del Funcionario Público, lo que, de concretarse, podría eliminar derechos laborales y limitar la sindicalización. Diversos sindicatos y la COB denuncian que la medida atenta contra la estabilidad laboral y exigen transparencia financiera, mientras el ministro de Trabajo señaló que la normativa debe revisarse para proponer mejoras.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-23T20:23:00-04:00",
+      "published_at_bo": "2025-11-23T20:23:00-04:00",
+      "fetched_at_utc": "2025-11-24T02:03:29.241494+00:00",
+      "day": "2025-11-23"
+    },
     {
       "source": "El Deber",
       "title": "El robo de cables de cobre golpea la conectividad en Bolivia y deja costos millonarios",
