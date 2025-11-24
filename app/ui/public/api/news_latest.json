@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-11-24T11:29:33.600889+00:00",
-  "count": 87,
+  "generated_at_utc": "2025-11-24T12:53:20.910255+00:00",
+  "count": 81,
   "items": [
     {
       "source": "El Deber",
@@ -1121,104 +1121,6 @@
       "published_at_bo": "2025-11-11T07:27:00-04:00",
       "fetched_at_utc": "2025-11-11T17:22:35.327708+00:00",
       "day": "2025-11-11"
-    },
-    {
-      "source": "El Deber",
-      "title": "El dólar paralelo cae a la franja de los Bs 10 tras la posesión del gabinete técnico de Paz",
-      "url": "https://eldeber.com.bo/economia/dolar-paralelo-cae-franja-bs-10-posesion-gabinete-tecnico-paz_1762813934",
-      "summary": "El dólar paralelo se estabilizó por primera vez en meses en torno a 10,19 de compra y 10,17 de venta, tras la designación de un gabinete económico técnico. La llegada de un equipo profesional generó confianza, anticipando una gestión más técnica, revisión de subsidios y mayor transparencia en las cuentas energéticas y el comercio exterior.",
-      "summary_es": "El dólar paralelo se estabilizó por primera vez en meses en torno a 10,19 de compra y 10,17 de venta, tras la designación de un gabinete económico técnico. La llegada de un equipo profesional generó confianza, anticipando una gestión más técnica, revisión de subsidios y mayor transparencia en las cuentas energéticas y el comercio exterior.",
-      "summary_en": "The parallel (informal) dollar stabilized for the first time in months, around 10.19 to buy and 10.17 to sell, after the appointment of a technical economic cabinet. The arrival of a professional team boosted confidence, signaling a more technical administration, a review of subsidies, and greater transparency in energy accounts and foreign trade.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T18:31:00-04:00",
-      "published_at_bo": "2025-11-10T18:31:00-04:00",
-      "fetched_at_utc": "2025-11-11T04:29:39.808087+00:00",
-      "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Canciller alemán visita a Bolivia con el litio y las tierras raras en la agenda",
-      "url": "https://eldeber.com.bo/economia/canciller-aleman-visita-bolivia-litio-tierras-raras-agenda-bilateral_1762807741",
-      "summary": "El ministro de Relaciones Exteriores de Alemania, Johann Wadephul, inició una visita oficial a Bolivia para impulsar la cooperación bilateral en litio, tierras raras e inversión, destacando un interés en apoyar la apertura de Bolivia al mundo y proyectos de desarrollo sostenible. Además, busca aprovechar oportunidades estratégicas para la transición energética y facilitar la adhesión de Bolivia al Acuerdo UE-Mercosur, fortaleciendo los lazos económicos entre ambos países.",
-      "summary_es": "El ministro de Relaciones Exteriores de Alemania, Johann Wadephul, inició una visita oficial a Bolivia para impulsar la cooperación bilateral en litio, tierras raras e inversión, destacando un interés en apoyar la apertura de Bolivia al mundo y proyectos de desarrollo sostenible. Además, busca aprovechar oportunidades estratégicas para la transición energética y facilitar la adhesión de Bolivia al Acuerdo UE-Mercosur, fortaleciendo los lazos económicos entre ambos países.",
-      "summary_en": "German Foreign Minister Johann Wadephul began an official visit to Bolivia to boost bilateral cooperation in lithium, rare earths, and investment, highlighting an interest in supporting Bolivia’s openness to the world and sustainable development projects. He also aims to capitalize on strategic opportunities for the energy transition and facilitate Bolivia’s accession to the EU-Mercosur Agreement, strengthening economic ties between the two countries.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T17:04:00-04:00",
-      "published_at_bo": "2025-11-10T17:04:00-04:00",
-      "fetched_at_utc": "2025-11-11T01:56:30.544277+00:00",
-      "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Justiniano asume Desarrollo Productivo: promete eficiencia y una evaluación de las empresas estatales",
-      "url": "https://eldeber.com.bo/economia/justiniano-asume-desarrollo-productivo-promete-eficiencia-evaluacion-empresas-estatales_1762800613",
-      "summary": "Óscar Mario Justiniano asumió interinamente los ministerios de Medio Ambiente y Desarrollo Productivo en un proceso de transición ordenado, con revisión de la documentación y planes para fusionar ambas carteras. Reiteró que las medidas buscarán beneficiar a las familias bolivianas, mantener la economía interna y avanzar en generación de divisas, sin adelantar decisiones sobre cupos o autorizaciones.",
-      "summary_es": "Óscar Mario Justiniano asumió interinamente los ministerios de Medio Ambiente y Desarrollo Productivo en un proceso de transición ordenado, con revisión de la documentación y planes para fusionar ambas carteras. Reiteró que las medidas buscarán beneficiar a las familias bolivianas, mantener la economía interna y avanzar en generación de divisas, sin adelantar decisiones sobre cupos o autorizaciones.",
-      "summary_en": "Óscar Mario Justiniano temporarily assumed the Ministries of Environment and Productive Development in an orderly transition, with a review of documentation and plans to merge the two portfolios. He reiterated that the measures will seek to benefit Bolivian families, sustain the domestic economy, and advance foreign-exchange generation, without preempting decisions on quotas or authorizations.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T15:43:00-04:00",
-      "published_at_bo": "2025-11-10T15:43:00-04:00",
-      "fetched_at_utc": "2025-11-10T23:23:13.730336+00:00",
-      "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Paz pide a las Fuerzas Armadas de Bolivia evitar la fuga de combustible hacia otros países",
-      "url": "https://eldeber.com.bo/economia/paz-pide-fuerzas-armadas-bolivia-evitar-fuga-combustible-otros-paises_1762799915",
-      "summary": "El presidente boliviano Rodrigo Paz pidió a las Fuerzas Armadas que hagan su mejor esfuerzo para evitar que el combustible que llegó a Bolivia sea desviado al contrabando por mafias incrustadas en el Estado. Participó en un acto de reconocimiento de las FFAA en Sucre tras dos días de su investidura.",
-      "summary_es": "El presidente boliviano Rodrigo Paz pidió a las Fuerzas Armadas que hagan su mejor esfuerzo para evitar que el combustible que llegó a Bolivia sea desviado al contrabando por mafias incrustadas en el Estado. Participó en un acto de reconocimiento de las FFAA en Sucre tras dos días de su investidura.",
-      "summary_en": "Bolivian President Rodrigo Paz urged the Armed Forces to do their utmost to prevent fuel that has arrived in Bolivia from being diverted into smuggling by mafias embedded in the state. He took part in a ceremony honoring the Armed Forces in Sucre two days after taking office.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T14:46:00-04:00",
-      "published_at_bo": "2025-11-10T14:46:00-04:00",
-      "fetched_at_utc": "2025-11-10T23:23:14.685729+00:00",
-      "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "El sector hidrocarburos está “desestabilizado”, alistan una revisión de precios y auditorías en YPFB",
-      "url": "https://eldeber.com.bo/economia/sector-hidrocarburos-esta-desestabilizado-alistan-revision-precios-auditorias-ypfb_1762792639",
-      "summary": "El ministro Mauricio Medinaceli afirmó que el sector hidrocarburos boliviano está desestabilizado y anunció auditorías a YPFB junto con la revisión del esquema de importaciones y precios para restablecer el suministro. Señaló que la producción cayó a un tercio, Bolivia pasó a depender de importaciones y mantiene bajos niveles de stock, por lo que la solución pasa por recuperar financiamiento y transparencia, además de ajustar precios y subsidios en las próximas semanas.",
-      "summary_es": "El ministro Mauricio Medinaceli afirmó que el sector hidrocarburos boliviano está desestabilizado y anunció auditorías a YPFB junto con la revisión del esquema de importaciones y precios para restablecer el suministro. Señaló que la producción cayó a un tercio, Bolivia pasó a depender de importaciones y mantiene bajos niveles de stock, por lo que la solución pasa por recuperar financiamiento y transparencia, además de ajustar precios y subsidios en las próximas semanas.",
-      "summary_en": "Minister Mauricio Medinaceli said that Bolivia’s hydrocarbon sector is destabilized and announced audits of YPFB, along with a review of the import and pricing framework to restore supply. He noted that production has fallen to one third, Bolivia has become import-dependent, and stock levels are low, so the solution lies in restoring financing and transparency, as well as adjusting prices and subsidies in the coming weeks.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T13:17:00-04:00",
-      "published_at_bo": "2025-11-10T13:17:00-04:00",
-      "fetched_at_utc": "2025-11-10T22:23:47.366012+00:00",
-      "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Medinacelli admite el subsidio no se levantará de forma inmediato y dice que el abastecimiento requiere “paciencia”",
-      "url": "https://eldeber.com.bo/economia/medinacelli-admite-subsidio-no-levantara-forma-inmediato-pide-paciencia-reabastecimiento_1762786036",
-      "summary": "El ministro Mauricio Medinacelli sostuvo que normalizar el abastecimiento de combustible exige dos tareas simultáneas: asegurar un flujo constante de cisternas y realizar una revisión profunda, técnica y políticamente sensible del subsidio, que no puede levantarse de un día para otro. Advirtió que, aunque se estabilizó el mercado con mayor ingreso de cisternas, la clave es mantener el suministro y reformar una estructura de subsidios que distorsiona el mercado sin provocar un estallido social.",
-      "summary_es": "El ministro Mauricio Medinacelli sostuvo que normalizar el abastecimiento de combustible exige dos tareas simultáneas: asegurar un flujo constante de cisternas y realizar una revisión profunda, técnica y políticamente sensible del subsidio, que no puede levantarse de un día para otro. Advirtió que, aunque se estabilizó el mercado con mayor ingreso de cisternas, la clave es mantener el suministro y reformar una estructura de subsidios que distorsiona el mercado sin provocar un estallido social.",
-      "summary_en": "Minister Mauricio Medinacelli said that normalizing fuel supply requires two simultaneous tasks: ensuring a steady flow of tankers and carrying out a deep, technically sound, and politically sensitive review of the subsidy, which cannot be rolled back overnight. He warned that, although the market has stabilized with a higher intake of tankers, the key is to maintain the supply and reform a subsidy structure that distorts the market without triggering a social backlash.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T10:59:00-04:00",
-      "published_at_bo": "2025-11-10T10:59:00-04:00",
-      "fetched_at_utc": "2025-11-10T20:28:59.689108+00:00",
-      "day": "2025-11-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Ayala asume la ANH con la presión inmediata de normalizar el suministro de combustibles",
-      "url": "https://eldeber.com.bo/economia/ayala-asume-anh-presion-inmediata-normalizar-suministro-combustibles_1762781652",
-      "summary": "Mauricio Medinacelli designó a Margot Ayala Lino como directora ejecutiva de la ANH, primera mujer en el cargo, para garantizar el abastecimiento de gasolina y diésel tras una severa crisis de suministro heredada. Ayala propone una gestión transparente y meritocrática y apunta a que, con la llegada de nuevas cisternas, se alcance aproximadamente 400 camiones por día para cubrir los 7–8 millones de litros diarios que demanda Bolivia.",
-      "summary_es": "Mauricio Medinacelli designó a Margot Ayala Lino como directora ejecutiva de la ANH, primera mujer en el cargo, para garantizar el abastecimiento de gasolina y diésel tras una severa crisis de suministro heredada. Ayala propone una gestión transparente y meritocrática y apunta a que, con la llegada de nuevas cisternas, se alcance aproximadamente 400 camiones por día para cubrir los 7–8 millones de litros diarios que demanda Bolivia.",
-      "summary_en": "Mauricio Medinacelli appointed Margot Ayala Lino as executive director of the ANH, the first woman to hold the post, to ensure gasoline and diesel supply after a severe shortage inherited by the agency. Ayala proposes transparent, merit-based management and says that with the arrival of new tankers, about 400 trucks a day could be deployed to meet Bolivia’s daily demand of 7–8 million liters.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-10T09:42:00-04:00",
-      "published_at_bo": "2025-11-10T09:42:00-04:00",
-      "fetched_at_utc": "2025-11-10T19:20:08.113598+00:00",
-      "day": "2025-11-10"
     }
   ]
 }
