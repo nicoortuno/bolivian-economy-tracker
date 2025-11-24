@@ -52,27 +52,31 @@ export default function App() {
 
       <nav className="bottombar mobile-only" aria-label="Bottom navigation">
         <div className="bottombar-inner">
-          {NAV.map((item) => (
-            <NavLink
-              key={item.path}
-              to={item.path}
-              end={item.path === '/'}
-              className={({ isActive }) =>
-                'bottombar-link' + (isActive ? ' active' : '')
-              }
-            >
-              {t(item.key)}
-            </NavLink>
-          ))}
-
+          {/* Language pill on top (mobile) */}
           <button
             type="button"
             onClick={toggleLang}
-            className="lang-toggle-mobile"
+            className="lang-pill-mobile"
             aria-label={lang === 'en' ? 'Cambiar a español' : 'Switch to English'}
           >
             {lang === 'en' ? 'ES' : 'EN'}
           </button>
+
+          {/* Tabs below */}
+          <div className="bottombar-links">
+            {NAV.map((item) => (
+              <NavLink
+                key={item.path}
+                to={item.path}
+                end={item.path === '/'}
+                className={({ isActive }) =>
+                  'bottombar-link' + (isActive ? ' active' : '')
+                }
+              >
+                {t(item.key)}
+              </NavLink>
+            ))}
+          </div>
         </div>
       </nav>
 
