@@ -8,36 +8,7 @@ client = OpenAI()
 LATEST = Path("data/curated/news/news_latest.parquet")
 OUT    = Path("data/curated/news/news_summaries.parquet")
 
-# Countries you DO NOT WANT unless they appear in the original article
-OTHER_COUNTRIES = [
-    "perú", "peru", "argentina", "chile", "brasil", "brasilia",
-    "colombia", "paraguay", "uruguay", "ecuador", "méxico", "mexico",
-    "estados unidos", "ee.uu.", "eeuu", "españa",
-]
-
-
-def mentions_other_country(article: str, summary: str) -> bool:
-    """
-    Return True if the summary mentions one of OTHER_COUNTRIES
-    that does NOT appear in the original article text.
-    """
-    art = article.lower()
-    summ = summary.lower()
-    for c in OTHER_COUNTRIES:
-        if c in summ and c not in art:
-            return True
-    return False
-
-
 def summarize_text(txt: str) -> str | None:
-    """
-    Summarize a Spanish news article about the Bolivian economy.
-
-    - Skips very short texts.
-    - Sends the FULL article text to the model (GPT-5 has a big context window).
-    - Returns a 2–3 sentence summary in Spanish.
-    - If the summary hallucinate a foreign country, returns None.
-    """
     if not isinstance(txt, str):
         return None
 
