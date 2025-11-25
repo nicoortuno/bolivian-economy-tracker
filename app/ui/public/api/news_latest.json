@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-11-25T11:22:35.695505+00:00",
+  "generated_at_utc": "2025-11-25T11:30:40.742909+00:00",
   "count": 71,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La espera por diésel no termina; piden fin a las tarjetas de la ANH",
+      "url": "https://eldeber.com.bo/economia/espera-diesel-no-termina-piden-fin-tarjetas-anh_1764067279",
+      "summary": "En San Julián, Santa Cruz, la escasez de diésel complica la siembra y se prolongan listas de espera de más de un mes para abastecerse. Grupos de revendedores, mediante tarjetas de la ANH, eleva n los precios y sostienen un mercado negro que podría implicar corrupción y presión al nuevo gobierno.",
+      "summary_es": "En San Julián, Santa Cruz, la escasez de diésel complica la siembra y se prolongan listas de espera de más de un mes para abastecerse. Grupos de revendedores, mediante tarjetas de la ANH, eleva n los precios y sostienen un mercado negro que podría implicar corrupción y presión al nuevo gobierno.",
+      "summary_en": "In San Julián, Santa Cruz, diesel shortages are complicating planting, and wait times to stock up exceed a month. Groups of resellers, using ANH cards, are driving up prices and sustaining a black market that could signify corruption and put pressure on the new government.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-25T06:41:00-04:00",
+      "published_at_bo": "2025-11-25T06:41:00-04:00",
+      "fetched_at_utc": "2025-11-25T11:22:33.608780+00:00",
+      "day": "2025-11-25"
+    },
     {
       "source": "El Deber",
       "title": "La espera por diésel en San Julián ahora es por listas; esperan hasta un mes",
