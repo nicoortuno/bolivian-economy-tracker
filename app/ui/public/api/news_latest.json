@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2025-11-25T16:34:42.040789+00:00",
+  "generated_at_utc": "2025-11-25T16:45:43.563120+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Dunn dice que anuncios del Gobierno generaron “más expectativas que respuestas”",
+      "url": "https://eldeber.com.bo/economia/dunn-dice-anuncios-gobierno-generaron-expectativas-respuestas_1764087357",
+      "summary": "Jaime Dunn calificó de insuficientes y atrasadas las medidas económicas anunciadas por el gobierno de Paz, que incluyen pagar deudas, recortar 30% del gasto público y eliminar cuatro impuestos. El excandidato pidió decisiones contundentes y rápidas y señaló que reducir el gasto sin explicar cómo financiará un déficit alto y mantener el gradualismo no es el camino.",
+      "summary_es": "Jaime Dunn calificó de insuficientes y atrasadas las medidas económicas anunciadas por el gobierno de Paz, que incluyen pagar deudas, recortar 30% del gasto público y eliminar cuatro impuestos. El excandidato pidió decisiones contundentes y rápidas y señaló que reducir el gasto sin explicar cómo financiará un déficit alto y mantener el gradualismo no es el camino.",
+      "summary_en": "Jaime Dunn described the economic measures announced by Paz's government as insufficient and overdue, which include paying down debt, cutting 30 percent of public spending, and eliminating four taxes. The former candidate called for decisive and swift action, and warned that cutting spending without explaining how it will finance a high deficit and maintain a gradual approach is not the way forward.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-25T12:32:00-04:00",
+      "published_at_bo": "2025-11-25T12:32:00-04:00",
+      "fetched_at_utc": "2025-11-25T16:34:35.176828+00:00",
+      "day": "2025-11-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "Samuel: “Siempre pagué el impuesto a grandes fortunas, pero era contraproducente”",
+      "url": "https://eldeber.com.bo/economia/samuel-siempre-pague-impuesto-grandes-fortunas-era-contraproducente_1764085867",
+      "summary": "El gobierno anunció tres medidas para estabilizar la economía: pago ordenado de las deudas públicas, recorte del gasto público del 30% y la eliminación de cuatro impuestos (gran fortunas, transferencias financieras, juego y promociones empresariales). Samuel Doria Medina afirmó que comienzan “señales económicas positivas” y que estas medidas, junto con menor gasto y mayor respaldo del BCV, podrían ayudar a disminuir la inflación.",
+      "summary_es": "El gobierno anunció tres medidas para estabilizar la economía: pago ordenado de las deudas públicas, recorte del gasto público del 30% y la eliminación de cuatro impuestos (gran fortunas, transferencias financieras, juego y promociones empresariales). Samuel Doria Medina afirmó que comienzan “señales económicas positivas” y que estas medidas, junto con menor gasto y mayor respaldo del BCV, podrían ayudar a disminuir la inflación.",
+      "summary_en": "The government announced three measures to stabilize the economy: an orderly repayment of public debt, a 30% cut in public spending, and the elimination of four taxes (the wealth tax, the tax on financial transfers, gambling, and business promotions). Samuel Doria Medina said that initial “positive economic signals” are emerging and that these measures, together with reduced spending and greater backing from the Central Bank (BCV), could help curb inflation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-25T12:05:00-04:00",
+      "published_at_bo": "2025-11-25T12:05:00-04:00",
+      "fetched_at_utc": "2025-11-25T16:34:36.122875+00:00",
+      "day": "2025-11-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "El Gobierno modificará el PGE 2026 y perfila reducir el gasto fiscal en un 30%",
+      "url": "https://eldeber.com.bo/economia/gobierno-modificara-pge-2026-perfila-reducir-gasto-fiscal-30_1764085048",
+      "summary": "El presidente Rodrigo Paz y el ministro de Economía, José Gabriel Espinoza, anunciaron que pedirán a la Cámara de Diputados la devolución del PGE 2026 para ser modificado, con un recorte del 30% del gasto fiscal y una revisión exhaustiva del gasto público hasta febrero de 2026. Además, señalaron que se reordenará un presupuesto vinculado al gasto insulso del Estado y que, a partir de marzo de 2026, se presentará un presupuesto acorde a la realidad actual.",
+      "summary_es": "El presidente Rodrigo Paz y el ministro de Economía, José Gabriel Espinoza, anunciaron que pedirán a la Cámara de Diputados la devolución del PGE 2026 para ser modificado, con un recorte del 30% del gasto fiscal y una revisión exhaustiva del gasto público hasta febrero de 2026. Además, señalaron que se reordenará un presupuesto vinculado al gasto insulso del Estado y que, a partir de marzo de 2026, se presentará un presupuesto acorde a la realidad actual.",
+      "summary_en": "President Rodrigo Paz and Finance Minister José Gabriel Espinoza announced that they will ask the Chamber of Deputies to return the 2026 General Budget (PGE 2026) so it can be amended, with a 30% cut in public spending and a thorough review of public expenditure through February 2026. They also indicated that they will reorganize a budget linked to the state’s nonessential spending, and that beginning in March 2026, a budget aligned with current realities will be presented.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-25T12:00:00-04:00",
+      "published_at_bo": "2025-11-25T12:00:00-04:00",
+      "fetched_at_utc": "2025-11-25T16:34:37.085404+00:00",
+      "day": "2025-11-25"
+    },
     {
       "source": "El Deber",
       "title": "Descentralización Fiscal: Algunas ideas para un cambio responsable",
