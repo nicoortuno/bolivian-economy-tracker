@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-11-26T13:38:02.413278+00:00",
+  "generated_at_utc": "2025-11-26T13:48:00.097919+00:00",
   "count": 75,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno empieza a publicar el gasto público diario; el martes pagó Bs 1.496 millones",
+      "url": "https://eldeber.com.bo/economia/gobierno-empieza-publicar-gasto-publico-diario-martes-pago-bs-1-496-millones_1764162940",
+      "summary": "El gobierno empezó a publicar diariamente el gasto público con desglose por ítems, y el 25 de noviembre el total fue de 1.496 millones de Bs, destinados principalmente a combustibles (309,7 millones) y a otras obligaciones (943,7 millones). El ministro Gabriel Espinoza destacó que hoy se evidencia que se gastó en combustibles más del doble de lo invertido en salud.",
+      "summary_es": "El gobierno empezó a publicar diariamente el gasto público con desglose por ítems, y el 25 de noviembre el total fue de 1.496 millones de Bs, destinados principalmente a combustibles (309,7 millones) y a otras obligaciones (943,7 millones). El ministro Gabriel Espinoza destacó que hoy se evidencia que se gastó en combustibles más del doble de lo invertido en salud.",
+      "summary_en": "The government has begun publishing daily public spending with an itemized breakdown, and on November 25 the total reached 1,496 million Bs, mainly allocated to fuels (309.7 million) and to other obligations (943.7 million). Minister Gabriel Espinoza noted that today it’s evident that spending on fuels was more than twice what was invested in health.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-26T09:37:00-04:00",
+      "published_at_bo": "2025-11-26T09:37:00-04:00",
+      "fetched_at_utc": "2025-11-26T13:37:57.738410+00:00",
+      "day": "2025-11-26"
+    },
+    {
+      "source": "El Deber",
+      "title": "Nuevo presidente del SIN promete un giro en la relación con los contribuyentes y marca distancia del modelo masista",
+      "url": "https://eldeber.com.bo/economia/nuevo-presidente-promete-giro-relacion-contribuyentes-marca-distancia-modelo-masista_1764162506",
+      "summary": "El Gobierno designó a Jorge Zogbi Nogales como nuevo presidente del SIN y a Alberto Samuel Soto al frente de la Aduana Nacional, con un plan de reformas para modernizar la institución y cambiar su imagen ante los contribuyentes. Su objetivo es un enfoque menos punitivo, centrado en el servicio al contribuyente, la lucha contra la corrupción y la formalización de la economía informal.",
+      "summary_es": "El Gobierno designó a Jorge Zogbi Nogales como nuevo presidente del SIN y a Alberto Samuel Soto al frente de la Aduana Nacional, con un plan de reformas para modernizar la institución y cambiar su imagen ante los contribuyentes. Su objetivo es un enfoque menos punitivo, centrado en el servicio al contribuyente, la lucha contra la corrupción y la formalización de la economía informal.",
+      "summary_en": "The government appointed Jorge Zogbi Nogales as the new president of the National Tax Service (SIN) and Alberto Samuel Soto to lead the National Customs, with a reform plan to modernize the institution and reshape its image among taxpayers. The aim is a less punitive approach, focused on taxpayer service, anti-corruption efforts, and the formalization of the informal economy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-26T09:30:00-04:00",
+      "published_at_bo": "2025-11-26T09:30:00-04:00",
+      "fetched_at_utc": "2025-11-26T13:37:58.691687+00:00",
+      "day": "2025-11-26"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno y productores logran acuerdo con base en 4 demandas",
