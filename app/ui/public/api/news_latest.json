@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-11-26T15:25:38.622715+00:00",
+  "generated_at_utc": "2025-11-26T15:34:43.305810+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno verifica producción del pan de batalla y anuncia revisión de importación y subsidio de la harina",
+      "url": "https://eldeber.com.bo/economia/gobierno-verifica-produccion-pan-batalla-anuncia-revision-importacion-subsidio-harina_1764167444",
+      "summary": "El viceministro Gustavo Serrano participó en la elaboración del pan de batalla en La Paz para demostrar transparencia y trabajo coordinado con el sector, mientras el Gobierno revisa el manejo de importaciones y subsidios de harina ante indicios de irregularidades y corrupción en Emapa, con acciones legales en curso. Se busca verificar costos, insumos y procesos para garantizar eficiencia, estabilidad de precios y beneficiar a las familias bolivianas.",
+      "summary_es": "El viceministro Gustavo Serrano participó en la elaboración del pan de batalla en La Paz para demostrar transparencia y trabajo coordinado con el sector, mientras el Gobierno revisa el manejo de importaciones y subsidios de harina ante indicios de irregularidades y corrupción en Emapa, con acciones legales en curso. Se busca verificar costos, insumos y procesos para garantizar eficiencia, estabilidad de precios y beneficiar a las familias bolivianas.",
+      "summary_en": "Deputy Minister Gustavo Serrano took part in the production of affordable daily bread in La Paz to demonstrate transparency and coordinated work with the sector, as the government reviews the handling of imports and flour subsidies amid indications of irregularities and corruption at Emapa, with legal action underway. The goal is to verify costs, inputs, and processes to ensure efficiency, price stability, and to benefit Bolivian families.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-26T10:40:00-04:00",
+      "published_at_bo": "2025-11-26T10:40:00-04:00",
+      "fetched_at_utc": "2025-11-26T15:25:32.034240+00:00",
+      "day": "2025-11-26"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno empieza a publicar el gasto público diario; el martes pagó Bs 1.496 millones",
