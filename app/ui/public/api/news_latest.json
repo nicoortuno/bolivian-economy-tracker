@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-11-27T14:25:13.919531+00:00",
+  "generated_at_utc": "2025-11-27T14:35:40.743348+00:00",
   "count": 69,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno calcula que entre 6 a 9 meses los ahorristas podrán recuperar sus dólares de los bancos",
+      "url": "https://eldeber.com.bo/economia/gobierno-calcula-6-9-meses-ahorristas-podran-recuperar-dolares-bancos_1764252943",
+      "summary": "El ministro Gabriel Espinoza afirmó que, para que los ahorristas puedan retirar sus dólares, el Gobierno fortalecerá las reservas del Banco Central con financiamiento de la CAF y otros multilaterales, buscando un paquete cercano a 9.000 millones de dólares. Una vez alcanzada esa fortaleza, se desbloquearía el retiro de dólares de los bancos en un plazo de dos a tres trimestres.",
+      "summary_es": "El ministro Gabriel Espinoza afirmó que, para que los ahorristas puedan retirar sus dólares, el Gobierno fortalecerá las reservas del Banco Central con financiamiento de la CAF y otros multilaterales, buscando un paquete cercano a 9.000 millones de dólares. Una vez alcanzada esa fortaleza, se desbloquearía el retiro de dólares de los bancos en un plazo de dos a tres trimestres.",
+      "summary_en": "Minister Gabriel Espinoza said that, so savers can withdraw their dollars, the government will bolster the Central Bank’s reserves with financing from CAF and other multilateral lenders, aiming for a package of about $9 billion. Once that strength is in place, dollar withdrawals from banks would be unlocked within two to three quarters.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-27T10:22:00-04:00",
+      "published_at_bo": "2025-11-27T10:22:00-04:00",
+      "fetched_at_utc": "2025-11-27T14:25:09.143050+00:00",
+      "day": "2025-11-27"
+    },
+    {
+      "source": "El Deber",
+      "title": "Alcaldía paceña interviene panadería de dirigente panificador involucrado en caso Emapa",
+      "url": "https://eldeber.com.bo/economia/alcaldia-pacena-interviene-panaderia-dirigente-panificador-involucrado-caso-emapa_1764252846",
+      "summary": "La Alcaldía de La Paz clausuró preventivamente la panadería Ríos en Villa Victoria tras constatar graves deficientes sanitarias y un incremento de precio injustificado en el pan, denunciado por vecinos. Además, el empresario Rubén Ríos enfrenta cuestionamientos por su relación con Emapa y nuevas investigaciones fiscales por presuntas irregularidades, que podrían derivar en delitos y daños al Estado.",
+      "summary_es": "La Alcaldía de La Paz clausuró preventivamente la panadería Ríos en Villa Victoria tras constatar graves deficientes sanitarias y un incremento de precio injustificado en el pan, denunciado por vecinos. Además, el empresario Rubén Ríos enfrenta cuestionamientos por su relación con Emapa y nuevas investigaciones fiscales por presuntas irregularidades, que podrían derivar en delitos y daños al Estado.",
+      "summary_en": "The La Paz City Hall provisionally shut down the Ríos bakery in Villa Victoria after confirming serious sanitary deficiencies and an unjustified rise in bread prices reported by residents. In addition, businessman Rubén Ríos faces questions over his ties to Emapa and new tax investigations into alleged irregularities that could amount to crimes and damages against the State.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-27T10:14:00-04:00",
+      "published_at_bo": "2025-11-27T10:14:00-04:00",
+      "fetched_at_utc": "2025-11-27T14:25:10.111702+00:00",
+      "day": "2025-11-27"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno propone que ENDE se abra a las inversiones extranjeras",
