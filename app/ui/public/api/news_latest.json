@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-11-27T20:25:20.761273+00:00",
+  "generated_at_utc": "2025-11-27T20:33:08.224885+00:00",
   "count": 73,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Tras dos años, el Gobierno alista devolver los $us 2.700 millones que tomó de la banca privada",
+      "url": "https://eldeber.com.bo/economia/dos-anos-gobierno-alista-devolver-us-2-700-millones-tomo-banca-privada_1764270409",
+      "summary": "El gobierno boliviano anunció que los ahorristas podrían retirar sus dólares en dos o tres trimestres, buscando reforzar las reservas del BCB y restablecer la confianza, mientras economistas destacan la medida y proponen un plan de devolución escalonado para evitar presiones al pago.",
+      "summary_es": "El gobierno boliviano anunció que los ahorristas podrían retirar sus dólares en dos o tres trimestres, buscando reforzar las reservas del BCB y restablecer la confianza, mientras economistas destacan la medida y proponen un plan de devolución escalonado para evitar presiones al pago.",
+      "summary_en": "The Bolivian government said savers could withdraw their dollars over two to three quarters, in an effort to bolster the Central Bank of Bolivia’s reserves and restore confidence, while economists welcomed the move and proposed a phased repayment plan to prevent pressure on repayments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-27T15:48:00-04:00",
+      "published_at_bo": "2025-11-27T15:48:00-04:00",
+      "fetched_at_utc": "2025-11-27T20:25:15.722868+00:00",
+      "day": "2025-11-27"
+    },
+    {
+      "source": "El Deber",
+      "title": "Productores piden liberación plena de exportaciones para dar certidumbre y potenciar la producción",
+      "url": "https://eldeber.com.bo/economia/productores-piden-liberacion-plena-exportaciones-dar-certidumbre-potenciar-produccion_1764270869",
+      "summary": "ANAPO espera que el Gobierno emita un decreto que elimine cupos y restricciones a las exportaciones agropecuarias para recuperar certidumbre, atraer inversiones y mejorar la competitividad internacional. Su presidente, Abraham Nogales, aseguró que la producción interna está garantizada y que la liberación total de exportaciones dinamizará la agricultura, ampliará la frontera agrícola y generará más divisas para Bolivia.",
+      "summary_es": "ANAPO espera que el Gobierno emita un decreto que elimine cupos y restricciones a las exportaciones agropecuarias para recuperar certidumbre, atraer inversiones y mejorar la competitividad internacional. Su presidente, Abraham Nogales, aseguró que la producción interna está garantizada y que la liberación total de exportaciones dinamizará la agricultura, ampliará la frontera agrícola y generará más divisas para Bolivia.",
+      "summary_en": "ANAPO expects the government to issue a decree that eliminates quotas and restrictions on agricultural exports to restore certainty, attract investments, and improve international competitiveness. Its president, Abraham Nogales, said domestic production is guaranteed and that the full liberalization of exports will spur agriculture, expand the agricultural frontier, and generate more foreign exchange for Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-27T15:36:00-04:00",
+      "published_at_bo": "2025-11-27T15:36:00-04:00",
+      "fetched_at_utc": "2025-11-27T20:25:16.700091+00:00",
+      "day": "2025-11-27"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno ordena congelar el precio y el peso del pan de batalla",
