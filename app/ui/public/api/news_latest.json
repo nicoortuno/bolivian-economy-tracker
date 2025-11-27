@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-11-27T21:21:51.840436+00:00",
+  "generated_at_utc": "2025-11-27T21:29:30.839468+00:00",
   "count": 74,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno y panificadores libran batalla por el precio del pan",
+      "url": "https://eldeber.com.bo/economia/gobierno-panificadores-libran-batalla-precio-pan_1764275525",
+      "summary": "La disputa por el pan de batalla estalla, con algunos puntos de venta vendiéndolo a 80 centavos pese a la orden oficial de mantenerlo en 50, mientras el Gobierno asegura que la subvención de harina y EMAPA lo sostienen. La crisis revela años de tensiones entre panificadores y autoridades, agravadas por la irregularidad en la entrega de harina subvencionada y su impacto en precios y producción.",
+      "summary_es": "La disputa por el pan de batalla estalla, con algunos puntos de venta vendiéndolo a 80 centavos pese a la orden oficial de mantenerlo en 50, mientras el Gobierno asegura que la subvención de harina y EMAPA lo sostienen. La crisis revela años de tensiones entre panificadores y autoridades, agravadas por la irregularidad en la entrega de harina subvencionada y su impacto en precios y producción.",
+      "summary_en": "The fight over affordable bread erupts as some outlets sell it for 80 cents despite an official order to keep it at 50, while the government says the flour subsidy and EMAPA support keep it afloat. The crisis exposes years of tensions between bakers and authorities, intensified by irregular delivery of subsidized flour and its impact on prices and production.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-27T16:51:00-04:00",
+      "published_at_bo": "2025-11-27T16:51:00-04:00",
+      "fetched_at_utc": "2025-11-27T21:21:46.093350+00:00",
+      "day": "2025-11-27"
+    },
     {
       "source": "El Deber",
       "title": "Tras dos años, el Gobierno alista devolver los $us 2.700 millones que tomó de la banca privada",
