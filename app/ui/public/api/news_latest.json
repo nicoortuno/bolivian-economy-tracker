@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-11-27T04:30:44.449465+00:00",
+  "generated_at_utc": "2025-11-27T04:38:03.932441+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Rodrigo Paz denuncia que BoA opera con el 50% de su capacidad",
+      "url": "https://eldeber.com.bo/economia/rodrigo-paz-denuncia-boa-opera-50-capacidad_1764210847",
+      "summary": "El presidente Rodrigo Paz denuncia que la gestión pasada dejó operando a BoA solo al 50% de su capacidad y la responsabiliza de traición a la patria por el mal servicio; anuncia una auditoría integral para esclarecer su situación administrativa, operativa y financiera. El Ministerio de Obras Públicas confirmó la apertura de esa auditoría, asegurando un proceso transparente y libre de manipulaciones.",
+      "summary_es": "El presidente Rodrigo Paz denuncia que la gestión pasada dejó operando a BoA solo al 50% de su capacidad y la responsabiliza de traición a la patria por el mal servicio; anuncia una auditoría integral para esclarecer su situación administrativa, operativa y financiera. El Ministerio de Obras Públicas confirmó la apertura de esa auditoría, asegurando un proceso transparente y libre de manipulaciones.",
+      "summary_en": "President Rodrigo Paz says the previous administration left Boliviana de Aviación (BoA) operating at only 50% of its capacity and accuses it of treason against the country due to the poor service. He announces a comprehensive audit to clarify its administrative, operational, and financial situation. The Ministry of Public Works confirmed the opening of that audit, promising a transparent process free from manipulation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-26T23:18:00-04:00",
+      "published_at_bo": "2025-11-26T23:18:00-04:00",
+      "fetched_at_utc": "2025-11-27T04:30:42.630750+00:00",
+      "day": "2025-11-26"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno verifica producción del pan de batalla y anuncia revisión de importación y subsidio de la harina",
