@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-11-28T11:21:29.728439+00:00",
+  "generated_at_utc": "2025-11-28T11:29:16.845765+00:00",
   "count": 72,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El pan barato cuesta más de Bs 1.000 millones y solo para el occidente de Bolivia",
+      "url": "https://eldeber.com.bo/economia/pan-barato-cuesta-bs-1-000-millones-solo-occidente-bolivia_1764325909",
+      "summary": "El Estado destina más de Bs 1.000 millones al año para subvencionar harina destinada al pan de batalla, creando una distorsión de precios que mantiene el pan a 0,50 Bs a costa de un gasto fiscal elevado y poco transparente. El beneficio recae principalmente en el occidente (La Paz y El Alto), mientras el resto del país aporta al subsidio y enfrenta una sostenibilidad cada vez más cuestionable ante la dependencia de importaciones de trigo.",
+      "summary_es": "El Estado destina más de Bs 1.000 millones al año para subvencionar harina destinada al pan de batalla, creando una distorsión de precios que mantiene el pan a 0,50 Bs a costa de un gasto fiscal elevado y poco transparente. El beneficio recae principalmente en el occidente (La Paz y El Alto), mientras el resto del país aporta al subsidio y enfrenta una sostenibilidad cada vez más cuestionable ante la dependencia de importaciones de trigo.",
+      "summary_en": "The state spends more than 1 billion bolivianos a year subsidizing flour used to make the daily loaf of bread, creating a price distortion that keeps bread at 0.50 bolivianos at the cost of substantial and opaque fiscal outlays. The benefit mainly accrues in the western region (La Paz and El Alto), while the rest of the country helps foot the bill and faces growing questions about sustainability due to its reliance on wheat imports.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-28T06:31:00-04:00",
+      "published_at_bo": "2025-11-28T06:31:00-04:00",
+      "fetched_at_utc": "2025-11-28T11:21:26.854058+00:00",
+      "day": "2025-11-28"
+    },
+    {
+      "source": "El Deber",
+      "title": "El Gobierno fija plazos para revertir despilfarro y devolver dólares a ahorristas",
+      "url": "https://eldeber.com.bo/economia/gobierno-fija-plazos-revertir-despilfarro-devolver-dolares-ahorristas_1764325142",
+      "summary": "El Gobierno boliviano se muestra optimista: el ministro Espinoza indicó que, fortaleciendo las reservas y con apoyo de multilaterales, se podría permitir a los ahorristas retirar sus dólares en un plazo de dos a tres trimestres; mientras el presidente Paz afirmó que los próximos seis meses serán decisivos para elegir entre volver al pasado o avanzar hacia un nuevo rumbo económico e institucional.",
+      "summary_es": "El Gobierno boliviano se muestra optimista: el ministro Espinoza indicó que, fortaleciendo las reservas y con apoyo de multilaterales, se podría permitir a los ahorristas retirar sus dólares en un plazo de dos a tres trimestres; mientras el presidente Paz afirmó que los próximos seis meses serán decisivos para elegir entre volver al pasado o avanzar hacia un nuevo rumbo económico e institucional.",
+      "summary_en": "The Bolivian government is optimistic: Finance Minister Espinoza said that, by strengthening reserves and with the backing of multilateral institutions, savers could be allowed to withdraw their dollars within two to three quarters; at the same time, President Paz said the next six months will be decisive in choosing between going back to the past or moving toward a new economic and institutional path.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-11-28T06:19:00-04:00",
+      "published_at_bo": "2025-11-28T06:19:00-04:00",
+      "fetched_at_utc": "2025-11-28T11:21:27.803134+00:00",
+      "day": "2025-11-28"
+    },
     {
       "source": "El Deber",
       "title": "¿Cuánto cuesta lograr la formalidad empresarial en Bolivia?",
