@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-11-30T14:32:06.486501+00:00",
-  "count": 69,
+  "generated_at_utc": "2025-11-30T15:23:02.622274+00:00",
+  "count": 66,
   "items": [
     {
       "source": "El Deber",
@@ -911,62 +911,6 @@
       "published_at_bo": "2025-11-17T06:55:00-04:00",
       "fetched_at_utc": "2025-11-17T16:34:12.566179+00:00",
       "day": "2025-11-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Inspección en Viru Viru: ministro Zamora dice que hay oportunidades y obstáculos para mejorar el servicio",
-      "url": "https://eldeber.com.bo/economia/inspeccion-viru-viru-ministro-zamora-dice-hay-oportunidades-obstaculos-mejorar-servicio_1763315073",
-      "summary": "El ministro Mauricio Zamora inspeccionó las instalaciones del aeropuerto Viru Viru para identificar puntos de mejora basándose en la opinión de los usuarios y coordinar con Naabol, BoA y DGAC para optimizar la experiencia de los pasajeros. Estas acciones se enmarcan en la auditoría integral anunciada a BoA, con el objetivo de esclarecer su situación administrativa, operativa y financiera.",
-      "summary_es": "El ministro Mauricio Zamora inspeccionó las instalaciones del aeropuerto Viru Viru para identificar puntos de mejora basándose en la opinión de los usuarios y coordinar con Naabol, BoA y DGAC para optimizar la experiencia de los pasajeros. Estas acciones se enmarcan en la auditoría integral anunciada a BoA, con el objetivo de esclarecer su situación administrativa, operativa y financiera.",
-      "summary_en": "Minister Mauricio Zamora inspected the facilities at Viru Viru airport to identify improvement points based on user feedback and to coordinate with Naabol, BoA, and DGAC to optimize the passenger experience. These actions are part of the comprehensive audit announced for BoA, aimed at clarifying its administrative, operational, and financial situation.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-16T14:39:00-04:00",
-      "published_at_bo": "2025-11-16T14:39:00-04:00",
-      "fetched_at_utc": "2025-11-16T23:21:38.729535+00:00",
-      "day": "2025-11-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Reforma cambiaria genera optimismo en el sector de los insumos agropecuarios: “se podrá planificar mejor”",
-      "url": "https://eldeber.com.bo/economia/reforma-cambiaria-genera-optimismo-sector-insumos-agropecuarios-podra-planificar-mejor_1763313520",
-      "summary": "El anuncio gubernamental sobre una reforma cambiaria incluida en el Presupuesto 2026 genera expectativa en(API/A) APIA y Aprisa, que piden reglas claras y un acceso estable y transparente a dólares para evitar shocks y distorsiones en la cadena agroalimentaria. Advierten que cambios impredecibles podrían aumentar costos, provocar mayor contrabando de insumos y afectar a pequeños productores, por lo que sugieren una implementación gradual o una banda cambiaria bien respaldada.",
-      "summary_es": "El anuncio gubernamental sobre una reforma cambiaria incluida en el Presupuesto 2026 genera expectativa en(API/A) APIA y Aprisa, que piden reglas claras y un acceso estable y transparente a dólares para evitar shocks y distorsiones en la cadena agroalimentaria. Advierten que cambios impredecibles podrían aumentar costos, provocar mayor contrabando de insumos y afectar a pequeños productores, por lo que sugieren una implementación gradual o una banda cambiaria bien respaldada.",
-      "summary_en": "The government’s announcement of a currency reform included in the 2026 Budget has generated expectations among APIA and Aprisa. They are calling for clear rules and stable, transparent access to dollars to avoid shocks and distortions in the agricultural and food supply chain. They warn that unpredictable changes could raise costs, spur greater smuggling of inputs, and hurt small producers, and therefore suggest a gradual implementation or a well-supported exchange-rate band.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-16T13:19:00-04:00",
-      "published_at_bo": "2025-11-16T13:19:00-04:00",
-      "fetched_at_utc": "2025-11-16T22:21:55.344451+00:00",
-      "day": "2025-11-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Expertos recomiendan modificar tipo de cambio de forma gradual; sepa cómo afectará a las criptomonedas",
-      "url": "https://eldeber.com.bo/economia/expertos-recomiendan-modificar-tipo-cambio-forma-gradual-sepa-afectara-criptomonedas_1763305669",
-      "summary": "Los expertos señalan que Bolivia ya no volverá a un tipo de cambio fijo y que cualquier ajuste debe ser gradual, con aumento de reservas, créditos internacionales y llegada de inversión para reducir la brecha con el mercado paralelo sin provocar shocks inflacionarios. Además, destacan que el desarrollo del ecosistema cripto funciona como termómetro de la economía y que el nuevo marco debe buscar un acercamiento progresivo entre el tipo de cambio oficial y el paralelo.",
-      "summary_es": "Los expertos señalan que Bolivia ya no volverá a un tipo de cambio fijo y que cualquier ajuste debe ser gradual, con aumento de reservas, créditos internacionales y llegada de inversión para reducir la brecha con el mercado paralelo sin provocar shocks inflacionarios. Además, destacan que el desarrollo del ecosistema cripto funciona como termómetro de la economía y que el nuevo marco debe buscar un acercamiento progresivo entre el tipo de cambio oficial y el paralelo.",
-      "summary_en": "Experts say Bolivia will not return to a fixed exchange rate, and that any adjustment should be gradual, backed by rising reserves, international credit, and investment to narrow the gap with the parallel market without triggering inflationary shocks. They also note that the growth of the crypto ecosystem serves as an economic thermometer, and that the new framework should pursue a gradual convergence between the official and parallel exchange rates.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-16T11:23:00-04:00",
-      "published_at_bo": "2025-11-16T11:23:00-04:00",
-      "fetched_at_utc": "2025-11-16T20:25:53.608785+00:00",
-      "day": "2025-11-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "PGE 2026: legislador advierte que ingresos por gas caen 81% en 11 Años",
-      "url": "https://eldeber.com.bo/economia/pge-2026-legislador-advierte-ingresos-gas-caen-81-11-anos_1763296195",
-      "summary": "La renta gasífera de Bolivia está al borde del colapso, con ingresos por exportación de gas proyectados a caer de unos 6.0 mil millones de USD en 2014 a unos 1.1 mil millones en 2026, debido a un fuerte descenso de reservas probadas (de ~10.45 TCF en 2013 a ~4.5 TCF en 2023). Este declive ha reducido la producción y podría obligar al país a importar gas para su mercado interno hacia 2028-2029.",
-      "summary_es": "La renta gasífera de Bolivia está al borde del colapso, con ingresos por exportación de gas proyectados a caer de unos 6.0 mil millones de USD en 2014 a unos 1.1 mil millones en 2026, debido a un fuerte descenso de reservas probadas (de ~10.45 TCF en 2013 a ~4.5 TCF en 2023). Este declive ha reducido la producción y podría obligar al país a importar gas para su mercado interno hacia 2028-2029.",
-      "summary_en": "Bolivia’s gas revenues are on the brink of collapse, with export earnings projected to drop from about $6.0 billion in 2014 to around $1.1 billion in 2026, due to a steep decline in proved reserves (from about 10.45 TCF in 2013 to about 4.5 TCF in 2023). This decline has reduced production and could push the country to import gas for its domestic market by 2028–2029.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-16T09:10:00-04:00",
-      "published_at_bo": "2025-11-16T09:10:00-04:00",
-      "fetched_at_utc": "2025-11-16T17:19:34.892124+00:00",
-      "day": "2025-11-16"
     }
   ]
 }
