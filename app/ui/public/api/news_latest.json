@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-01T19:26:00.275419+00:00",
+  "generated_at_utc": "2025-12-01T19:33:56.631168+00:00",
   "count": 65,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Exministro de Víctor Paz afirma que Bolivia debe abrirse a las inversiones privadas para explotar el litio",
+      "url": "https://eldeber.com.bo/economia/exministro-victor-paz-afirma-bolivia-debe-abrirse-inversiones-privadas-explotar-litio_1764616724",
+      "summary": "El exministro de Minería Jaime Villalobos propone abrir Bolivia a la inversión privada o a una alianza público-privada para explotar el litio, criticando el monopolio estatal de años recientes y destacando la necesidad de tecnología y valor agregado. También admite que la salmuera boliviana dificulta la extracción frente a Chile y que países extranjeros pueden aportar tecnología y cuidado ambiental.",
+      "summary_es": "El exministro de Minería Jaime Villalobos propone abrir Bolivia a la inversión privada o a una alianza público-privada para explotar el litio, criticando el monopolio estatal de años recientes y destacando la necesidad de tecnología y valor agregado. También admite que la salmuera boliviana dificulta la extracción frente a Chile y que países extranjeros pueden aportar tecnología y cuidado ambiental.",
+      "summary_en": "Former Mining Minister Jaime Villalobos proposes opening Bolivia to private investment or a public-private partnership to exploit lithium, criticizing the state monopoly of recent years and emphasizing the need for technology and added value. He also concedes that Bolivian brine makes extraction more challenging than in Chile, and that foreign countries can contribute technology and environmental safeguards.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-01T15:18:00-04:00",
+      "published_at_bo": "2025-12-01T15:18:00-04:00",
+      "fetched_at_utc": "2025-12-01T19:25:58.329104+00:00",
+      "day": "2025-12-01"
+    },
     {
       "source": "El Deber",
       "title": "Cupos a las exportaciones y regulación de precios, trabas que drenan la economía",
