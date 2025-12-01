@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-01T22:23:57.395809+00:00",
+  "generated_at_utc": "2025-12-01T22:34:54.119574+00:00",
   "count": 68,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB publica el valor referencial del dólar: Bs 7,85 para la compra y Bs 9,32 para la venta",
+      "url": "https://eldeber.com.bo/economia/bcb-publica-valor-referencial-dolar-bs-7-85-compra-bs-9-32-venta_1764627291",
+      "summary": "A partir de este lunes 1 de diciembre, el Banco Central de Bolivia publicó el valor referencial del dólar: Bs 7,85 para la compra y Bs 9,32 para la venta. Nota en desarrollo.",
+      "summary_es": "A partir de este lunes 1 de diciembre, el Banco Central de Bolivia publicó el valor referencial del dólar: Bs 7,85 para la compra y Bs 9,32 para la venta. Nota en desarrollo.",
+      "summary_en": "As of Monday, December 1, the Central Bank of Bolivia published the reference dollar rate: Bs 7.85 for buying and Bs 9.32 for selling. This is a developing story.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-01T18:19:00-04:00",
+      "published_at_bo": "2025-12-01T18:19:00-04:00",
+      "fetched_at_utc": "2025-12-01T22:23:52.442013+00:00",
+      "day": "2025-12-01"
+    },
+    {
+      "source": "El Deber",
+      "title": "¿Hasta qué fecha se debe pagar el aguinaldo?",
+      "url": "https://eldeber.com.bo/economia/fecha-debe-pagar-aguinaldo_1764625661",
+      "summary": "El Ministerio de Trabajo confirmó que el aguinaldo navideño debe pagarse hasta el 19 de diciembre en el sector público y hasta el 20 de diciembre en el sector privado. Se aclara que el 20 cae sábado y no es día hábil, por lo que en lo privado debe hacerse “impostergablemente”, con sanciones por incumplimiento.",
+      "summary_es": "El Ministerio de Trabajo confirmó que el aguinaldo navideño debe pagarse hasta el 19 de diciembre en el sector público y hasta el 20 de diciembre en el sector privado. Se aclara que el 20 cae sábado y no es día hábil, por lo que en lo privado debe hacerse “impostergablemente”, con sanciones por incumplimiento.",
+      "summary_en": "The Ministry of Labor confirmed that the Christmas bonus must be paid by December 19 in the public sector and by December 20 in the private sector. It should be noted that the 20th falls on a Saturday and is not a business day, so in the private sector it must be paid without delay, with penalties for non-compliance.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-01T17:50:00-04:00",
+      "published_at_bo": "2025-12-01T17:50:00-04:00",
+      "fetched_at_utc": "2025-12-01T22:23:53.454775+00:00",
+      "day": "2025-12-01"
+    },
     {
       "source": "El Deber",
       "title": "Gustavo Blacutt Alcalá: Posesionan al exvicepresidente el BCB como nuevo viceministro de Pensiones",
