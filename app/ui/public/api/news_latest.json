@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-01T10:42:27.147842+00:00",
-  "count": 66,
+  "generated_at_utc": "2025-12-01T11:23:12.035171+00:00",
+  "count": 64,
   "items": [
     {
       "source": "El Deber",
@@ -883,48 +883,6 @@
       "published_at_bo": "2025-11-18T07:54:00-04:00",
       "fetched_at_utc": "2025-11-18T17:23:26.601747+00:00",
       "day": "2025-11-18"
-    },
-    {
-      "source": "El Deber",
-      "title": "Anticipan que la recuperación de confianza será clave para acceder a recursos",
-      "url": "https://eldeber.com.bo/economia/anticipan-recuperacion-confianza-sera-clave-acceder-recursos_1763406118",
-      "summary": "David Atkinson sostuvo que la recuperación de la buena gobernanza es clave para volver a acceder a financiamiento del BID en condiciones favorables, y que la coordinación entre el gobierno boliviano, el BID, el FMI y el Banco Mundial podría ampliar el impacto de un paquete de apoyo para la recuperación. Mientras tanto, el presidente Paz dijo que el Estado heredó corrupción y falta de recursos, y anunció transparencia en el costo de la corrupción junto con avances en un plan de financiamiento multilateral que incluye un préstamo de la CAF de 550 millones de dólares para liquidez.",
-      "summary_es": "David Atkinson sostuvo que la recuperación de la buena gobernanza es clave para volver a acceder a financiamiento del BID en condiciones favorables, y que la coordinación entre el gobierno boliviano, el BID, el FMI y el Banco Mundial podría ampliar el impacto de un paquete de apoyo para la recuperación. Mientras tanto, el presidente Paz dijo que el Estado heredó corrupción y falta de recursos, y anunció transparencia en el costo de la corrupción junto con avances en un plan de financiamiento multilateral que incluye un préstamo de la CAF de 550 millones de dólares para liquidez.",
-      "summary_en": "David Atkinson said that restoring good governance is key to regaining access to IDB financing on favorable terms, and that coordination among the Bolivian government, the IDB, the IMF, and the World Bank could amplify the impact of a recovery package. Meanwhile, President Paz said the state inherited corruption and a lack of resources, and he announced transparency in the cost of corruption, along with progress on a multilateral financing plan that includes a $550 million loan from CAF for liquidity.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-17T16:06:00-04:00",
-      "published_at_bo": "2025-11-17T16:06:00-04:00",
-      "fetched_at_utc": "2025-11-17T23:22:33.277755+00:00",
-      "day": "2025-11-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "CAF aprueba préstamo de liquidez por $us 550 millones en apoyo a Bolivia",
-      "url": "https://eldeber.com.bo/economia/caf-aprueba-prestamo-liquidez-us-550-millones-apoyo-bolivia_1763397079",
-      "summary": "El Directorio de CAF aprobó un préstamo de liquidez de hasta 550 millones de dólares para Bolivia, como primera operación del Programa de Apoyo para la Recuperación Económica (PAREC). Este programa, que podría canalizar hasta 3.1 mil millones de dólares en cinco años, prioriza estabilidad macroeconómica, integración, bienestar con perspectiva de género y sostenibilidad ambiental, fortaleciendo la capacidad del Estado y la relación estratégica con Bolivia.",
-      "summary_es": "El Directorio de CAF aprobó un préstamo de liquidez de hasta 550 millones de dólares para Bolivia, como primera operación del Programa de Apoyo para la Recuperación Económica (PAREC). Este programa, que podría canalizar hasta 3.1 mil millones de dólares en cinco años, prioriza estabilidad macroeconómica, integración, bienestar con perspectiva de género y sostenibilidad ambiental, fortaleciendo la capacidad del Estado y la relación estratégica con Bolivia.",
-      "summary_en": "The CAF Board of Directors approved a liquidity loan of up to $550 million for Bolivia as the first operation under the Economic Recovery Support Programme (PAREC). The programme, which could channel up to $3.1 billion over five years, prioritizes macroeconomic stability, regional integration, well-being with a gender perspective, and environmental sustainability, strengthening the state's capacity and the strategic partnership with Bolivia.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-17T12:38:00-04:00",
-      "published_at_bo": "2025-11-17T12:38:00-04:00",
-      "fetched_at_utc": "2025-11-17T22:23:50.473064+00:00",
-      "day": "2025-11-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Paz revela quiebra del Estado y ordena auditorías urgentes",
-      "url": "https://eldeber.com.bo/economia/paz-revela-quiebra-estado-ordena-auditorias-urgentes_1763376939",
-      "summary": "Resumen conciso: Rodrigo Paz Pereira heredó un país en “casa desordenada” con arcas vacías y un daño económico grave por corrupción, y prometió investigar redes ilícitas en YPFB y la ANH para restablecer la gobernanza y la confianza, mientras garantiza el suministro de combustibles y avanza hacia la estabilización macroeconómica y la digitalización de procesos. Señaló que la estabilidad es un bien público y que el éxito depende de la cooperación entre el Estado y la ciudadanía para cortar la corrupción y atraer inversión.",
-      "summary_es": "Resumen conciso: Rodrigo Paz Pereira heredó un país en “casa desordenada” con arcas vacías y un daño económico grave por corrupción, y prometió investigar redes ilícitas en YPFB y la ANH para restablecer la gobernanza y la confianza, mientras garantiza el suministro de combustibles y avanza hacia la estabilización macroeconómica y la digitalización de procesos. Señaló que la estabilidad es un bien público y que el éxito depende de la cooperación entre el Estado y la ciudadanía para cortar la corrupción y atraer inversión.",
-      "summary_en": "Concise summary: Rodrigo Paz Pereira inherited a country in a state of disarray, with empty coffers and serious economic damage from corruption, and he pledged to investigate illicit networks at YPFB and the ANH to restore governance and public trust, while ensuring fuel supplies and advancing macroeconomic stabilization and the digitization of processes. He noted that stability is a public good, and that success depends on cooperation between the state and citizens to curb corruption and attract investment.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-17T06:55:00-04:00",
-      "published_at_bo": "2025-11-17T06:55:00-04:00",
-      "fetched_at_utc": "2025-11-17T16:34:12.566179+00:00",
-      "day": "2025-11-17"
     }
   ]
 }
