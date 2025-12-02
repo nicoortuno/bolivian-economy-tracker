@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-02T20:30:34.285016+00:00",
+  "generated_at_utc": "2025-12-02T20:38:00.932066+00:00",
   "count": 65,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Rodrigo Paz: \"Me duele que hoy día Argentina, a través de Bolivia, le venda gas a Brasil\"",
+      "url": "https://eldeber.com.bo/economia/rodrigo-paz-me-duele-hoy-dia-argentina-traves-bolivia-le-venda-gas-brasil_1764705654",
+      "summary": "El presidente de Bolivia, Rodrigo Paz, expresó que le duele que Argentina venda gas a Brasil mediante YPFB y pidió relanzar la empresa para competir en el mercado continental, luego de reconocer que la producción de gas debe aumentar para 2028. También destacó problemas de gestión y de importación de diésel y gasolina que impactan la economía y la estabilidad del país.",
+      "summary_es": "El presidente de Bolivia, Rodrigo Paz, expresó que le duele que Argentina venda gas a Brasil mediante YPFB y pidió relanzar la empresa para competir en el mercado continental, luego de reconocer que la producción de gas debe aumentar para 2028. También destacó problemas de gestión y de importación de diésel y gasolina que impactan la economía y la estabilidad del país.",
+      "summary_en": "Bolivia's president, Rodrigo Paz, said it pains him that Argentina sells gas to Brazil through YPFB and urged relaunching the company to compete in the continental market, after acknowledging that gas production must increase by 2028. He also highlighted governance problems and the import of diesel and gasoline that affect the economy and the country's stability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-02T16:00:00-04:00",
+      "published_at_bo": "2025-12-02T16:00:00-04:00",
+      "fetched_at_utc": "2025-12-02T20:30:29.363942+00:00",
+      "day": "2025-12-02"
+    },
     {
       "source": "El Deber",
       "title": "La cotización del dólar paralelo baja de los Bs 10 y se acerca al valor de referencia del BCB",
