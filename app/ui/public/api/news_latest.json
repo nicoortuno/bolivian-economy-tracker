@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-02T21:31:42.671993+00:00",
-  "count": 66,
+  "generated_at_utc": "2025-12-02T22:22:06.534938+00:00",
+  "count": 69,
   "items": [
     {
       "source": "El Deber",
@@ -11,9 +11,9 @@
       "summary_en": "The dollar market in Santa Cruz exhibited nerves among buyers and sellers after the Central Bank of Bolivia announced it would publish a daily reference exchange rate, a move that increased certainty but reduced liquidity in exchange houses and banks. Experts say the measure aims to standardize criteria and improve transparency of transactions, narrowing price dispersion among banks, exchange houses, and other market participants.",
       "tags": null,
       "sentiment": null,
-      "published_at_utc": "2025-12-02T17:21:00-04:00",
-      "published_at_bo": "2025-12-02T17:21:00-04:00",
-      "fetched_at_utc": "2025-12-02T21:24:57.406257+00:00",
+      "published_at_utc": "2025-12-02T17:50:00-04:00",
+      "published_at_bo": "2025-12-02T17:50:00-04:00",
+      "fetched_at_utc": "2025-12-02T22:21:59.842969+00:00",
       "day": "2025-12-02"
     },
     {
@@ -27,7 +27,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-02T16:00:00-04:00",
       "published_at_bo": "2025-12-02T16:00:00-04:00",
-      "fetched_at_utc": "2025-12-02T21:24:58.381400+00:00",
+      "fetched_at_utc": "2025-12-02T22:22:01.737748+00:00",
       "day": "2025-12-02"
     },
     {
@@ -41,7 +41,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-02T14:42:00-04:00",
       "published_at_bo": "2025-12-02T14:42:00-04:00",
-      "fetched_at_utc": "2025-12-02T21:24:59.370820+00:00",
+      "fetched_at_utc": "2025-12-02T22:22:02.686839+00:00",
       "day": "2025-12-02"
     },
     {
@@ -55,7 +55,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-02T13:22:00-04:00",
       "published_at_bo": "2025-12-02T13:22:00-04:00",
-      "fetched_at_utc": "2025-12-02T21:25:00.317959+00:00",
+      "fetched_at_utc": "2025-12-02T22:22:03.625098+00:00",
       "day": "2025-12-02"
     },
     {
@@ -69,7 +69,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-02T12:43:00-04:00",
       "published_at_bo": "2025-12-02T12:43:00-04:00",
-      "fetched_at_utc": "2025-12-02T21:25:01.280500+00:00",
+      "fetched_at_utc": "2025-12-02T22:22:04.580172+00:00",
       "day": "2025-12-02"
     },
     {
