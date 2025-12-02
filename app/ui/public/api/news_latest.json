@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-02T04:35:17.899068+00:00",
+  "generated_at_utc": "2025-12-02T04:44:31.065711+00:00",
   "count": 69,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Frenará la especulación? BCB lanza valor referencial del dólar para controlar el mercado cambiario",
+      "url": "https://eldeber.com.bo/economia/frenara-especulacion-bcb-lanza-valor-referencial-dolar-controlar-mercado-cambiario_1764645906",
+      "summary": "El Banco Central de Bolivia anunció un valor referencial del dólar para servir de brújula frente a las cotizaciones del mercado y orientar precios en el sistema financiero, buscando reducir la dispersión del tipo de cambio paralero. Las opiniones destacan que podría ayudar a entender y negociar precios, pero advierten riesgos si no se acompañan con medidas estructurales y estabilidad macroeconómica.",
+      "summary_es": "El Banco Central de Bolivia anunció un valor referencial del dólar para servir de brújula frente a las cotizaciones del mercado y orientar precios en el sistema financiero, buscando reducir la dispersión del tipo de cambio paralero. Las opiniones destacan que podría ayudar a entender y negociar precios, pero advierten riesgos si no se acompañan con medidas estructurales y estabilidad macroeconómica.",
+      "summary_en": "The Bolivian central bank announced a reference value for the dollar to act as a compass against market quotes and to guide prices in the financial system, aiming to reduce the dispersion of the parallel exchange rate. Opinions stress that it could help in understanding and negotiating prices, but warn of risks if not accompanied by structural measures and macroeconomic stability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-01T23:31:00-04:00",
+      "published_at_bo": "2025-12-01T23:31:00-04:00",
+      "fetched_at_utc": "2025-12-02T04:35:16.104478+00:00",
+      "day": "2025-12-01"
+    },
     {
       "source": "El Deber",
       "title": "BCB publica el valor referencial del dólar: Bs 7,85 para la compra y Bs 9,32 para la venta",
