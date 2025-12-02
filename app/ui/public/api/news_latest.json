@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-02T19:23:41.408291+00:00",
+  "generated_at_utc": "2025-12-02T19:31:20.389938+00:00",
   "count": 64,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La cotización del dólar paralelo baja de los Bs 10 y se acerca al valor de referencia del BCB",
+      "url": "https://eldeber.com.bo/economia/cotizacion-dolar-paralelo-baja-bs-10-acerca-valor-referencia-bcb_1764699962",
+      "summary": "El BCB introdujo una cotización referencial de 7,85 (compra) y 9,32 (venta) para intentar unificar las distintas tasas de cambio en Bolivia, reduciendo la brecha con la cotización paralela del mercado callejero que ya ronda los 9,92–9,94. Esta referencial no reemplaza la tasa oficial de 6,86 (compra) y 6,96 (venta), sino que busca transparentar y acercar las transacciones reales a nivel nacional.",
+      "summary_es": "El BCB introdujo una cotización referencial de 7,85 (compra) y 9,32 (venta) para intentar unificar las distintas tasas de cambio en Bolivia, reduciendo la brecha con la cotización paralela del mercado callejero que ya ronda los 9,92–9,94. Esta referencial no reemplaza la tasa oficial de 6,86 (compra) y 6,96 (venta), sino que busca transparentar y acercar las transacciones reales a nivel nacional.",
+      "summary_en": "The Central Bank of Bolivia (BCB) introduced a reference rate of 7.85 for buying and 9.32 for selling in an effort to unify the country’s various exchange rates and narrow the gap with the parallel market rate, which is already around 9.92–9.94. This reference rate does not replace the official rate of 6.86 for buying and 6.96 for selling; rather, it aims to increase transparency and bring real, nationwide transactions closer to reality.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-02T14:42:00-04:00",
+      "published_at_bo": "2025-12-02T14:42:00-04:00",
+      "fetched_at_utc": "2025-12-02T19:23:37.567886+00:00",
+      "day": "2025-12-02"
+    },
     {
       "source": "El Deber",
       "title": "BoA tenía solo 10 naves en operación, descarta privatización y anuncia medida para estabilizar vuelos",
