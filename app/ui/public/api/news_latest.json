@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-02T17:27:36.321226+00:00",
+  "generated_at_utc": "2025-12-02T17:37:48.227916+00:00",
   "count": 63,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA tenía solo 10 naves en operación, descarta privatización y anuncia medida para estabilizar vuelos",
+      "url": "https://eldeber.com.bo/economia/boa-tenia-solo-10-naves-operacion-descarta-privatizacion-anuncia-medida-estabilizar-vuelos_1764696162",
+      "summary": "BoA reportó que solo 10 de sus 20 aeronaves estaban operativas, por lo que necesita al menos 13 aviones para cumplir itinerarios y reducir demoras; el gerente general, Juan José Gálvarro, aseguró que la aerolínea no será privatizada y está tomando medidas para estabilizar la operación y mejorar la puntualidad. Además, se anunció una auditoría integral y un periodo de transición para modernizar la infraestructura y recuperar la confianza de los viajeros.",
+      "summary_es": "BoA reportó que solo 10 de sus 20 aeronaves estaban operativas, por lo que necesita al menos 13 aviones para cumplir itinerarios y reducir demoras; el gerente general, Juan José Gálvarro, aseguró que la aerolínea no será privatizada y está tomando medidas para estabilizar la operación y mejorar la puntualidad. Además, se anunció una auditoría integral y un periodo de transición para modernizar la infraestructura y recuperar la confianza de los viajeros.",
+      "summary_en": "BoA said that only 10 of its 20 aircraft were operating, leaving it short of the 13 planes it needs to meet its schedules and reduce delays. General Manager Juan José Gálvarro said the airline will not be privatized and is taking steps to stabilize operations and improve on-time performance. The company also announced a comprehensive audit and a transition period to modernize infrastructure and restore travelers’ confidence.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-02T13:22:00-04:00",
+      "published_at_bo": "2025-12-02T13:22:00-04:00",
+      "fetched_at_utc": "2025-12-02T17:27:33.243841+00:00",
+      "day": "2025-12-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "El precio referencial del dólar en Bolivia: guía para entender qué es y por qué no resuelve la escasez",
+      "url": "https://eldeber.com.bo/economia/precio-referencial-dolar-bolivia-guia-entender-no-resuelve-escasez_1764692995",
+      "summary": "El Banco Central de Bolivia publicó diariamente una cotización referencial del dólar para el sistema financiero, con el objetivo de ofrecer transparencia y unificar las tarifas para operaciones con el exterior. Esta medida es informativa y no implica devaluación ni cambios en la política cambiaria; apunta principalmente al mercado de grandes transacciones y no soluciona la escasez de dólares.",
+      "summary_es": "El Banco Central de Bolivia publicó diariamente una cotización referencial del dólar para el sistema financiero, con el objetivo de ofrecer transparencia y unificar las tarifas para operaciones con el exterior. Esta medida es informativa y no implica devaluación ni cambios en la política cambiaria; apunta principalmente al mercado de grandes transacciones y no soluciona la escasez de dólares.",
+      "summary_en": "The Central Bank of Bolivia published a daily reference exchange rate for the dollar for the financial system, aimed at providing transparency and standardizing fees for foreign operations. The measure is informational and does not imply devaluation or changes to the exchange-rate policy; it is mainly targeted at the market for large-volume transactions and does not address the dollar shortage.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-02T12:43:00-04:00",
+      "published_at_bo": "2025-12-02T12:43:00-04:00",
+      "fetched_at_utc": "2025-12-02T17:27:34.209005+00:00",
+      "day": "2025-12-02"
+    },
     {
       "source": "El Deber",
       "title": "Dirigente de los panificadores cae por harina subvencionada",
