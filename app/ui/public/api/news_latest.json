@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-02T21:25:03.033728+00:00",
+  "generated_at_utc": "2025-12-02T21:31:42.671993+00:00",
   "count": 66,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Incertidumbre a raíz del valor referencial del dólar; expertos ponderan transparencia para el mercado",
+      "url": "https://eldeber.com.bo/economia/incertidumbre-raiz-valor-referencial-dolar-expertos-ponderan-transparencia-mercado_1764709594",
+      "summary": "El mercado de dólares en Santa Cruz mostró miedo entre compradores y vendedores tras el anuncio del Banco Central de Bolivia de publicar diariamente un tipo de cambio referencial, lo que generó mayor certeza pero menor liquidez en casas de cambio y bancos. Expertos señalan que la medida busca unificar criterios y transparentar transacciones, reduciendo la dispersión de precios entre bancos, casas de cambio y otros actores.",
+      "summary_es": "El mercado de dólares en Santa Cruz mostró miedo entre compradores y vendedores tras el anuncio del Banco Central de Bolivia de publicar diariamente un tipo de cambio referencial, lo que generó mayor certeza pero menor liquidez en casas de cambio y bancos. Expertos señalan que la medida busca unificar criterios y transparentar transacciones, reduciendo la dispersión de precios entre bancos, casas de cambio y otros actores.",
+      "summary_en": "The dollar market in Santa Cruz exhibited nerves among buyers and sellers after the Central Bank of Bolivia announced it would publish a daily reference exchange rate, a move that increased certainty but reduced liquidity in exchange houses and banks. Experts say the measure aims to standardize criteria and improve transparency of transactions, narrowing price dispersion among banks, exchange houses, and other market participants.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-02T17:21:00-04:00",
+      "published_at_bo": "2025-12-02T17:21:00-04:00",
+      "fetched_at_utc": "2025-12-02T21:24:57.406257+00:00",
+      "day": "2025-12-02"
+    },
     {
       "source": "El Deber",
       "title": "Rodrigo Paz: \"Me duele que hoy día Argentina, a través de Bolivia, le venda gas a Brasil\"",
