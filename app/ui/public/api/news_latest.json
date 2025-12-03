@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-12-03T18:38:53.963848+00:00",
+  "generated_at_utc": "2025-12-03T18:48:35.126982+00:00",
   "count": 71,
   "items": [
     {
@@ -14,6 +14,20 @@
       "published_at_utc": "2025-12-03T13:56:00-04:00",
       "published_at_bo": "2025-12-03T13:56:00-04:00",
       "fetched_at_utc": "2025-12-03T18:38:48.767250+00:00",
+      "day": "2025-12-03"
+    },
+    {
+      "source": "El Deber",
+      "title": "Reporte: BoA acumuló un déficit de Bs 215 millones hasta octubre",
+      "url": "https://eldeber.com.bo/economia/reporte-boa-acumulo-deficit-bs-215-millones-octubre_1764780625",
+      "summary": "El gerente general de BoA, Juan José Galvarro, afirmó que entre enero y octubre de 2025 la aerolínea acumula un déficit de 215 millones de bolivianos, resultado de mala planificación y falta de mantenimiento de gestiones anteriores, con 12 aviones programados pero solo 8 operando y 10 no operativos por falta de repuestos pese a pagar alquiler, elevando la deuda a unos 37 millones de dólares. Descartan privatización y señalan que buscarán una alianza público-privada para mejorar el servicio y recuperar la confianza de los usuarios.",
+      "summary_es": "El gerente general de BoA, Juan José Galvarro, afirmó que entre enero y octubre de 2025 la aerolínea acumula un déficit de 215 millones de bolivianos, resultado de mala planificación y falta de mantenimiento de gestiones anteriores, con 12 aviones programados pero solo 8 operando y 10 no operativos por falta de repuestos pese a pagar alquiler, elevando la deuda a unos 37 millones de dólares. Descartan privatización y señalan que buscarán una alianza público-privada para mejorar el servicio y recuperar la confianza de los usuarios.",
+      "summary_en": "The CEO of BoA, Juan José Galvarro, said that between January and October 2025 the airline posted a deficit of 215 million bolivianos, the result of poor planning and maintenance failures from previous administrations. Twelve aircraft were scheduled, but only eight were in operation, and ten were not operational due to a lack of spare parts, despite lease payments, pushing debt to about 37 million dollars. They rule out privatization and say they will pursue a public-private partnership to improve service and restore passenger confidence.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-03T13:34:00-04:00",
+      "published_at_bo": "2025-12-03T13:34:00-04:00",
+      "fetched_at_utc": "2025-12-03T18:38:49.852424+00:00",
       "day": "2025-12-03"
     },
     {
