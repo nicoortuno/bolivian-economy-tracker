@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-03T01:58:31.443536+00:00",
+  "generated_at_utc": "2025-12-03T02:20:22.597333+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cañeros destacan producción pese al colapso del diésel y piden soluciones al Gobierno",
+      "url": "https://eldeber.com.bo/economia/caneros-destacan-produccion-pese-colapso-diesel-piden-soluciones-gobierno_1764720890",
+      "summary": "Las filas por diésel se acortaron y la gasolina está casi normal en el norte de Santa Cruz, pero la zafra cañera recibió un golpe por el desabastecimiento de combustible que elevó costos, pese a que los ingenios alcanzaron récords de molienda y producción de azúcar. Concabol y el Gobierno acordaron reunirse para buscar soluciones estructurales, entre ellas la posibilidad de importar diésel directamente y actualizar el programa de etanol.",
+      "summary_es": "Las filas por diésel se acortaron y la gasolina está casi normal en el norte de Santa Cruz, pero la zafra cañera recibió un golpe por el desabastecimiento de combustible que elevó costos, pese a que los ingenios alcanzaron récords de molienda y producción de azúcar. Concabol y el Gobierno acordaron reunirse para buscar soluciones estructurales, entre ellas la posibilidad de importar diésel directamente y actualizar el programa de etanol.",
+      "summary_en": "Diesel lines have shortened and gasoline is nearly back to normal in the north of Santa Cruz, but the sugarcane harvest has taken a hit from fuel shortages that raised costs, even as the mills posted record grinding and sugar production. Concabol and the government agreed to meet to seek structural solutions, including the possibility of importing diesel directly and updating the ethanol program.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-02T20:55:00-04:00",
+      "published_at_bo": "2025-12-02T20:55:00-04:00",
+      "fetched_at_utc": "2025-12-03T01:58:23.849366+00:00",
+      "day": "2025-12-02"
+    },
     {
       "source": "El Deber",
       "title": "Cuando las finanzas apuestan por la sostenibilidad y el cuidado del entorno",
