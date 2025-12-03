@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-03T11:23:57.461455+00:00",
+  "generated_at_utc": "2025-12-03T11:31:39.799408+00:00",
   "count": 67,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ponderan normativa del BCB para generar transparencia en tipo de cambio del dólar",
+      "url": "https://eldeber.com.bo/economia/ponderan-normativa-bcb-generar-transparencia-tipo-cambio-dolar_1764760337",
+      "summary": "El Banco Central de Bolivia anunció que desde ayer se publicará diariamente la cotización referencial del dólar para unificar criterios y aumentar la transparencia del mercado cambiario, aunque el tipo de cambio fijo permanece en 6,96 y aún hay dispersión entre casas de cambio y bancos. En Santa Cruz, compradores y vendedores muestran incertidumbre y precaución ante la nueva referencia, con billetes escasos, operaciones en montos pequeños y expectativas de que los precios se ajusten a la nueva medida.",
+      "summary_es": "El Banco Central de Bolivia anunció que desde ayer se publicará diariamente la cotización referencial del dólar para unificar criterios y aumentar la transparencia del mercado cambiario, aunque el tipo de cambio fijo permanece en 6,96 y aún hay dispersión entre casas de cambio y bancos. En Santa Cruz, compradores y vendedores muestran incertidumbre y precaución ante la nueva referencia, con billetes escasos, operaciones en montos pequeños y expectativas de que los precios se ajusten a la nueva medida.",
+      "summary_en": "The Central Bank of Bolivia announced that, as of yesterday, the daily referential price of the dollar will be published to standardize criteria and boost transparency in the foreign exchange market. However, the fixed exchange rate remains at 6.96 bolivianos per dollar, and there is still divergence between money changers and banks. In Santa Cruz, buyers and sellers are showing uncertainty and caution toward the new reference, with scarce banknotes, small-amount transactions, and expectations that prices will adjust to the new measure.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-03T07:12:00-04:00",
+      "published_at_bo": "2025-12-03T07:12:00-04:00",
+      "fetched_at_utc": "2025-12-03T11:23:55.295500+00:00",
+      "day": "2025-12-03"
+    },
     {
       "source": "El Deber",
       "title": "Cañeros destacan producción pese al colapso del diésel y piden soluciones al Gobierno",
