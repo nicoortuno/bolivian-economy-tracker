@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-03T10:42:50.010753+00:00",
-  "count": 70,
+  "generated_at_utc": "2025-12-03T11:23:57.461455+00:00",
+  "count": 67,
   "items": [
     {
       "source": "El Deber",
@@ -925,62 +925,6 @@
       "published_at_bo": "2025-11-20T15:41:00-04:00",
       "fetched_at_utc": "2025-11-20T23:23:06.292110+00:00",
       "day": "2025-11-20"
-    },
-    {
-      "source": "El Deber",
-      "title": "YPFB abandona temporalmente el pozo Bermejo X46D: ¿Qué significa y por qué no habrá producción hasta 2026?",
-      "url": "https://eldeber.com.bo/economia/ypfb-abandona-temporalmente-pozo-bermejo-x46d-significa-no-habra-produccion-2026_1763597614",
-      "summary": "YPFB pospone la producción del pozo Bermejo X46D hasta 2026 para proteger un reservorio frágil y debido a la necesidad de equipos de acero cromo 13 que no están disponibles localmente. Aunque el hallazgo es valioso, no es un megacampo, y se busca ampliar el potencial mediante nuevos pozos y una interconexión con la planta de Pluspetrol.",
-      "summary_es": "YPFB pospone la producción del pozo Bermejo X46D hasta 2026 para proteger un reservorio frágil y debido a la necesidad de equipos de acero cromo 13 que no están disponibles localmente. Aunque el hallazgo es valioso, no es un megacampo, y se busca ampliar el potencial mediante nuevos pozos y una interconexión con la planta de Pluspetrol.",
-      "summary_en": "YPFB has delayed production from the Bermejo X46D well until 2026 to protect a fragile reservoir and due to the need for 13-chromium steel equipment that is not available locally. While the discovery is valuable, it is not a mega-field, and plans to expand its potential include new wells and an interconnection with Pluspetrol’s plant.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-19T20:14:00-04:00",
-      "published_at_bo": "2025-11-19T20:14:00-04:00",
-      "fetched_at_utc": "2025-11-20T05:25:13.224330+00:00",
-      "day": "2025-11-19"
-    },
-    {
-      "source": "El Deber",
-      "title": "El Gobierno deja en suspenso la Ley de Diferimiento hasta que el TCP se pronuncie",
-      "url": "https://eldeber.com.bo/economia/gobierno-deja-suspenso-ley-diferimiento-tcp-pronuncie_1763579560",
-      "summary": "La Ley de Diferimiento queda en suspenso mientras la Justicia decide si procede o no ante las medidas cautelares presentadas por entidades financieras, y el ministro Espinoza adelantó que se respetará lo que determine el proceso legal sobre el procedimiento legislativo irregular. La norma, aprobada en la Asamblea y promulgada, prevé un diferimiento automático de seis meses en pagos de créditos de vivienda de interés social y de micro y pequeñas unidades económicas, beneficiando a unos 1,4 millones de prestatarios (aproximadamente 100.071 viviendas de interés social, 1.319.991 microcréditos y 12.960 créditos a unidades pequeñas).",
-      "summary_es": "La Ley de Diferimiento queda en suspenso mientras la Justicia decide si procede o no ante las medidas cautelares presentadas por entidades financieras, y el ministro Espinoza adelantó que se respetará lo que determine el proceso legal sobre el procedimiento legislativo irregular. La norma, aprobada en la Asamblea y promulgada, prevé un diferimiento automático de seis meses en pagos de créditos de vivienda de interés social y de micro y pequeñas unidades económicas, beneficiando a unos 1,4 millones de prestatarios (aproximadamente 100.071 viviendas de interés social, 1.319.991 microcréditos y 12.960 créditos a unidades pequeñas).",
-      "summary_en": "The Deferral Law remains on hold while the judiciary decides whether to proceed with the precautionary measures filed by financial institutions. Justice will also decide on the irregular legislative procedure, and Minister Espinoza said the government will respect the outcome of that process. The rule, approved in the Assembly and promulgated, provides for an automatic six-month moratorium on payments for social-housing loans and for micro and small-business credits, benefiting about 1.4 million borrowers (roughly 100,071 social-housing units, 1,319,991 microcredits, and 12,960 loans to small businesses).",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-19T15:40:00-04:00",
-      "published_at_bo": "2025-11-19T15:40:00-04:00",
-      "fetched_at_utc": "2025-11-19T23:23:08.621482+00:00",
-      "day": "2025-11-19"
-    },
-    {
-      "source": "El Deber",
-      "title": "Nueva cúpula de la aviación asume el mando con siete tareas urgentes",
-      "url": "https://eldeber.com.bo/economia/nueva-cupula-aviacion-asume-mando-siete-tareas-urgentes_1763551711",
-      "summary": "La renovación de la cúpula aeronáutica marca una etapa decisiva para la aviación boliviana, con nuevos responsables en Naabol, DGAC y BoA. Entre las tareas están rescatar BoA, definir una política de cielos abiertos, modernizar aeropuertos y tecnología, impulsar la promoción económica de la aviación y garantizar el suministro de repuestos, divisas y combustible.",
-      "summary_es": "La renovación de la cúpula aeronáutica marca una etapa decisiva para la aviación boliviana, con nuevos responsables en Naabol, DGAC y BoA. Entre las tareas están rescatar BoA, definir una política de cielos abiertos, modernizar aeropuertos y tecnología, impulsar la promoción económica de la aviación y garantizar el suministro de repuestos, divisas y combustible.",
-      "summary_en": "The overhaul of Bolivia’s aviation leadership marks a decisive phase for the country’s air sector, with new heads at Naabol, DGAC, and BoA. Among the tasks are reviving BoA, defining an open-skies policy, modernizing airports and technology, advancing the economic promotion of aviation, and ensuring the supply of spare parts, foreign currency, and fuel.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-19T07:28:00-04:00",
-      "published_at_bo": "2025-11-19T07:28:00-04:00",
-      "fetched_at_utc": "2025-11-19T17:22:31.593599+00:00",
-      "day": "2025-11-19"
-    },
-    {
-      "source": "El Deber",
-      "title": "Lluvias y cortes de rutas golpean a los productores cruceños y cochabambinos",
-      "url": "https://eldeber.com.bo/economia/lluvias-cortes-rutas-golpean-productores-crucenos-cochabambinos_1763547952",
-      "summary": "Las intensas lluvias e inundaciones en varias regiones de Bolivia han afectado a productores de frutas, hortalizas y caña, dañando cosechas y aislando zonas productivas como Samaipata, Achira, Yapacaní y el trópico de Cochabamba, mientras las vías de transporte quedan cortadas y los precios podrían subir. Autoridades y productores piden apoyo humanitario, evaluación de daños y soluciones logísticas para normalizar el abastecimiento en los mercados.",
-      "summary_es": "Las intensas lluvias e inundaciones en varias regiones de Bolivia han afectado a productores de frutas, hortalizas y caña, dañando cosechas y aislando zonas productivas como Samaipata, Achira, Yapacaní y el trópico de Cochabamba, mientras las vías de transporte quedan cortadas y los precios podrían subir. Autoridades y productores piden apoyo humanitario, evaluación de daños y soluciones logísticas para normalizar el abastecimiento en los mercados.",
-      "summary_en": "Heavy rains and floods in several regions of Bolivia have hit fruit, vegetable, and sugarcane producers, damaging crops and isolating productive areas such as Samaipata, Achira, Yapacaní, and the Cochabamba Tropics, while transport routes are cut and prices could rise. Authorities and producers are calling for humanitarian aid, damage assessments, and logistical solutions to restore normal supply in the markets.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-19T06:25:00-04:00",
-      "published_at_bo": "2025-11-19T06:25:00-04:00",
-      "fetched_at_utc": "2025-11-19T15:26:53.887521+00:00",
-      "day": "2025-11-19"
     }
   ]
 }
