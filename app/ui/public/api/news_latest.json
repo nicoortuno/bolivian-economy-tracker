@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-04T20:29:29.223285+00:00",
+  "generated_at_utc": "2025-12-04T20:37:14.591066+00:00",
   "count": 73,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA habilita un avión más, en medio de déficit financiero y de operaciones",
+      "url": "https://eldeber.com.bo/economia/boa-habilita-avion-medio-deficit-financiero-operaciones_1764876048",
+      "summary": "BoA anunció una aeronave adicional para reforzar la temporada alta y normalizar rutas, operando 11 de 20 aviones con planes de volver a 13 para el 15 de diciembre, ante demoras pasadas y un plan de contingencia para mitigar cancelaciones. La aerolínea enfrenta un déficit de Bs 215 millones y deudas superiores a US$37 millones, con la flota mayormente arrendada y un esfuerzo por reducir pasivos y asegurar la operatividad, contemplando una alianza público-privada en lugar de privatizarla.",
+      "summary_es": "BoA anunció una aeronave adicional para reforzar la temporada alta y normalizar rutas, operando 11 de 20 aviones con planes de volver a 13 para el 15 de diciembre, ante demoras pasadas y un plan de contingencia para mitigar cancelaciones. La aerolínea enfrenta un déficit de Bs 215 millones y deudas superiores a US$37 millones, con la flota mayormente arrendada y un esfuerzo por reducir pasivos y asegurar la operatividad, contemplando una alianza público-privada en lugar de privatizarla.",
+      "summary_en": "BoA announced an additional aircraft to bolster the peak season and normalize routes, operating 11 of 20 planes with plans to return to 13 by December 15, in response to previous delays and a contingency plan to mitigate cancellations. The airline faces a deficit of Bs 215 million and debts exceeding US$37 million, with the fleet largely leased and an effort to reduce liabilities and ensure operability, weighing a public-private partnership instead of privatization.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-04T15:43:00-04:00",
+      "published_at_bo": "2025-12-04T15:43:00-04:00",
+      "fetched_at_utc": "2025-12-04T20:29:25.466085+00:00",
+      "day": "2025-12-04"
+    },
     {
       "source": "El Deber",
       "title": "Apuestan por la producción sostenible del bosque para generar desarrollo integral en Bolivia",
