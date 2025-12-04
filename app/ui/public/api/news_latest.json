@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-04T21:24:44.761566+00:00",
+  "generated_at_utc": "2025-12-04T21:32:06.890744+00:00",
   "count": 74,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA explica el por qué de la demora en el vuelo Miami - Santa Cruz registrado el miércoles",
+      "url": "https://eldeber.com.bo/economia/boa-explica-demora-vuelo-miami-santa-cruz-registrado-miercoles_1764879547",
+      "summary": "BoA informó que el vuelo OB767 sufrió una demora por mantenimiento no programado y, por estrictos protocolos de seguridad, fue reprogramado para hoy, mientras que durante la espera la aerolínea aseguró haber brindado asistencia a los pasajeros. Además, el gerente general afirmó que la empresa registra un déficit de Bs 215 millones entre enero y octubre de 2025, descartando la versión de un superávit de la gestión anterior.",
+      "summary_es": "BoA informó que el vuelo OB767 sufrió una demora por mantenimiento no programado y, por estrictos protocolos de seguridad, fue reprogramado para hoy, mientras que durante la espera la aerolínea aseguró haber brindado asistencia a los pasajeros. Además, el gerente general afirmó que la empresa registra un déficit de Bs 215 millones entre enero y octubre de 2025, descartando la versión de un superávit de la gestión anterior.",
+      "summary_en": "BoA said that flight OB767 was delayed due to unscheduled maintenance and, because of strict safety protocols, was rescheduled for today. During the wait, the airline said it provided assistance to passengers. Additionally, the general manager stated that the company has a deficit of Bs 215 million from January to October 2025, ruling out reports of a surplus under the previous management.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-04T16:36:00-04:00",
+      "published_at_bo": "2025-12-04T16:36:00-04:00",
+      "fetched_at_utc": "2025-12-04T21:24:39.913967+00:00",
+      "day": "2025-12-04"
+    },
     {
       "source": "El Deber",
       "title": "BoA habilita un avión más, en medio de déficit financiero y de operaciones",
