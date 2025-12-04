@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-04T14:27:22.153271+00:00",
+  "generated_at_utc": "2025-12-04T14:39:04.923414+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Precio del dólar paralelo baja levemente y continúa la tendencia del valor referencial",
+      "url": "https://eldeber.com.bo/economia/precio-dolar-paralelo-baja-levemente-continua-tendencia-valor-referencial_1764857044",
+      "summary": "El dólar paralelo siguió bajando este jueves, con precios alrededor de Bs 9,85 para la venta y Bs 9,70 para la compra en la Plaza 24 de Septiembre, y valores digitales cercanos a Bs 9,67–9,71, frente a un referencial oficial de Bs 8,78–9,30. A pesar de la caída, la demanda se mantiene alta y los billetes verdes escasean en los centros de intercambio, con algunos vendiéndolos por miedo a seguir perdiendo valor y otros prefiriéndolos para las fiestas.",
+      "summary_es": "El dólar paralelo siguió bajando este jueves, con precios alrededor de Bs 9,85 para la venta y Bs 9,70 para la compra en la Plaza 24 de Septiembre, y valores digitales cercanos a Bs 9,67–9,71, frente a un referencial oficial de Bs 8,78–9,30. A pesar de la caída, la demanda se mantiene alta y los billetes verdes escasean en los centros de intercambio, con algunos vendiéndolos por miedo a seguir perdiendo valor y otros prefiriéndolos para las fiestas.",
+      "summary_en": "The parallel dollar continued to fall on Thursday, with prices around Bs 9.85 for selling and Bs 9.70 for buying at Plaza 24 de Septiembre, and digital rates near Bs 9.67–9.71, versus an official reference range of Bs 8.78–9.30. Despite the drop, demand remains high and greenbacks are scarce at exchange centers, with some selling them out of fear of further depreciation and others preferring them for the holidays.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-04T10:23:00-04:00",
+      "published_at_bo": "2025-12-04T10:23:00-04:00",
+      "fetched_at_utc": "2025-12-04T14:27:20.271985+00:00",
+      "day": "2025-12-04"
+    },
     {
       "source": "El Deber",
       "title": "El presidente Paz anuncia “cero arancel” para la tecnología: “Ya no habrá contrabando de celulares y computadoras”",
