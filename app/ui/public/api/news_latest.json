@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-04T13:49:36.095131+00:00",
-  "count": 71,
+  "generated_at_utc": "2025-12-04T14:27:22.153271+00:00",
+  "count": 70,
   "items": [
     {
       "source": "El Deber",
@@ -967,34 +967,6 @@
       "published_at_bo": "2025-11-21T07:07:00-04:00",
       "fetched_at_utc": "2025-11-21T16:30:12.078811+00:00",
       "day": "2025-11-21"
-    },
-    {
-      "source": "El Deber",
-      "title": "Paz ordena la &#39;comisión de la verdad de los hidrocarburos&#39;",
-      "url": "https://eldeber.com.bo/economia/paz-ordena-comision-verdad-hidrocarburos_1763683779",
-      "summary": "El presidente Rodrigo Paz anunció la creación de la “comisión de la verdad por los hidrocarburos” para esclarecer una supuesta estructura de corrupción en el sector, denunciar a los responsables y recuperar los fondos para los bolivianos. Señaló que se trata de un sistema de corrupción que traiciona a la patria, citó el caso Botrading y la detención de Félix Cruz Taca, y aseguró que nadie quedará impune.",
-      "summary_es": "El presidente Rodrigo Paz anunció la creación de la “comisión de la verdad por los hidrocarburos” para esclarecer una supuesta estructura de corrupción en el sector, denunciar a los responsables y recuperar los fondos para los bolivianos. Señaló que se trata de un sistema de corrupción que traiciona a la patria, citó el caso Botrading y la detención de Félix Cruz Taca, y aseguró que nadie quedará impune.",
-      "summary_en": "President Rodrigo Paz announced the creation of the \"Truth Commission on Hydrocarbons\" to investigate an alleged corruption network in the sector, to prosecute those responsible, and to recover funds for Bolivians. He said this is a system of corruption that betrays the homeland, cited the Botrading case and the arrest of Félix Cruz Taca, and assured that no one will go unpunished.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-20T20:34:00-04:00",
-      "published_at_bo": "2025-11-20T20:34:00-04:00",
-      "fetched_at_utc": "2025-11-21T05:25:19.038576+00:00",
-      "day": "2025-11-20"
-    },
-    {
-      "source": "El Deber",
-      "title": "El precio del pollo registra una leve baja, la de res y cerdo mantienen sus costos",
-      "url": "https://eldeber.com.bo/economia/precio-pollo-registra-leva-baja-res-cerdo-mantienen-costos_1763665823",
-      "summary": "El precio de la carne de pollo subió 50 centavos hasta 24–24,50 Bs en el Abasto, atribuible a un mayor volumen de oferta, y se prevé que siga bajando durante la semana; la carne de res y la de cerdo se mantiene estable (res: 68–70 Bs primera; 58–60 Bs segunda; cerdo: 32–40 Bs según corte). Con la apertura de la carretera de los valles a la capital cruceña, las verduras subieron sus precios (tomate 14–15 Bs/kg; apio 40 Bs; cebolla ~60 Bs por arroba; zanahoria 8–10; lechuga 5–6) mientras la papa se mantiene estable en 50–60 Bs la arroba.",
-      "summary_es": "El precio de la carne de pollo subió 50 centavos hasta 24–24,50 Bs en el Abasto, atribuible a un mayor volumen de oferta, y se prevé que siga bajando durante la semana; la carne de res y la de cerdo se mantiene estable (res: 68–70 Bs primera; 58–60 Bs segunda; cerdo: 32–40 Bs según corte). Con la apertura de la carretera de los valles a la capital cruceña, las verduras subieron sus precios (tomate 14–15 Bs/kg; apio 40 Bs; cebolla ~60 Bs por arroba; zanahoria 8–10; lechuga 5–6) mientras la papa se mantiene estable en 50–60 Bs la arroba.",
-      "summary_en": "The price of chicken meat rose by 50 centavos to 24–24.50 Bs at the Abasto, attributed to a higher supply, and is expected to continue easing through the week. Beef and pork remained stable (beef: 68–70 Bs for the first cut; 58–60 Bs for the second; pork: 32–40 Bs depending on cut).\n\nWith the opening of the Valleys road to the capital of Santa Cruz, vegetable prices rose (tomato 14–15 Bs/kg; celery 40 Bs; onion ~60 Bs per arroba; carrot 8–10; lettuce 5–6), while potatoes remained steady at 50–60 Bs per arroba.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-20T15:41:00-04:00",
-      "published_at_bo": "2025-11-20T15:41:00-04:00",
-      "fetched_at_utc": "2025-11-20T23:23:06.292110+00:00",
-      "day": "2025-11-20"
     }
   ]
 }
