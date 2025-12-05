@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-05T22:34:17.087284+00:00",
-  "count": 78,
+  "generated_at_utc": "2025-12-05T23:23:29.416367+00:00",
+  "count": 75,
   "items": [
     {
       "source": "El Deber",
@@ -1037,62 +1037,6 @@
       "published_at_bo": "2025-11-22T18:11:00-04:00",
       "fetched_at_utc": "2025-11-23T02:59:55.701439+00:00",
       "day": "2025-11-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Ministro de Economía propone “acuerdo nacional” por la economía",
-      "url": "https://eldeber.com.bo/economia/ministro-economia-propone-acuerdo-nacional-economia_1763756347",
-      "summary": "Bolivia propone un pacto económico básico que respete la ley, garantice la propiedad privada y los contratos, prohíba el uso arbitrario del poder económico estatal y fortalezca la disciplina fiscal y una banca central independiente. El diagnóstico advierte una crisis de liquidez y debilitamiento institucional, y propone tres ejes: integración comercial para atraer capital, aumento de la producción y recuperación de la competitividad, apoyados en confianza institucional y una construcción conjunta con empresarios, trabajadores y el Estado.",
-      "summary_es": "Bolivia propone un pacto económico básico que respete la ley, garantice la propiedad privada y los contratos, prohíba el uso arbitrario del poder económico estatal y fortalezca la disciplina fiscal y una banca central independiente. El diagnóstico advierte una crisis de liquidez y debilitamiento institucional, y propone tres ejes: integración comercial para atraer capital, aumento de la producción y recuperación de la competitividad, apoyados en confianza institucional y una construcción conjunta con empresarios, trabajadores y el Estado.",
-      "summary_en": "Bolivia proposes a basic economic pact that respects the law, guarantees private property and contracts, forbids the arbitrary use of state economic power, and strengthens fiscal discipline and an independent central bank. The assessment warns of a liquidity crisis and weakening institutions, and proposes three pillars: commercial integration to attract capital, boosted production, and a recovery of competitiveness, supported by institutional trust and a joint effort with business leaders, workers, and the state.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-21T16:27:00-04:00",
-      "published_at_bo": "2025-11-21T16:27:00-04:00",
-      "fetched_at_utc": "2025-11-22T01:50:40.719027+00:00",
-      "day": "2025-11-21"
-    },
-    {
-      "source": "El Deber",
-      "title": "Tras la reunión de gabinete, Paz presentará a los integrantes de la Comisión de la Verdad de los Hidrocarburos",
-      "url": "https://eldeber.com.bo/economia/reunion-gabinete-paz-presentara-integrantes-comision-verdad-hidrocarburos_1763743401",
-      "summary": "El presidente Rodrigo Paz y sus ministros anunciarán, tras el gabinete, quiénes integrarán la Comisión de la Verdad de los Hidrocarburos y cómo se gestionará, además de definir qué ministerio se hará cargo de sus recursos para reducir gasto público. Esta comisión investigará corrupción, desfalco y robo en el sector de hidrocarburos, tras un desabastecimiento de combustibles que el mandatario calificó como traición a la patria.",
-      "summary_es": "El presidente Rodrigo Paz y sus ministros anunciarán, tras el gabinete, quiénes integrarán la Comisión de la Verdad de los Hidrocarburos y cómo se gestionará, además de definir qué ministerio se hará cargo de sus recursos para reducir gasto público. Esta comisión investigará corrupción, desfalco y robo en el sector de hidrocarburos, tras un desabastecimiento de combustibles que el mandatario calificó como traición a la patria.",
-      "summary_en": "President Rodrigo Paz and his ministers will announce, after the cabinet meeting, who will comprise the Truth Commission on Hydrocarbons and how it will be run, as well as determine which ministry will oversee its resources to curb public spending. The commission will investigate corruption, embezzlement, and theft in the hydrocarbons sector, following a fuel shortage that the president called treason to the nation.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-21T14:03:00-04:00",
-      "published_at_bo": "2025-11-21T14:03:00-04:00",
-      "fetched_at_utc": "2025-11-21T22:23:57.060111+00:00",
-      "day": "2025-11-21"
-    },
-    {
-      "source": "El Deber",
-      "title": "María José Fernández es designada como gerente en suplencia de Emapa",
-      "url": "https://eldeber.com.bo/economia/maria-jose-fernandez-designada-gerente-suplencia-emapa_1763747634",
-      "summary": "La ingeniera María José Fernández fue designada como gerente en suplencia de Emapa para asegurar su normal funcionamiento durante la transición y preservar la estabilidad institucional. Esta medida, tomada en un contexto de intervención para transparentar la gestión y garantizar el cumplimiento de políticas de seguridad alimentaria, busca enfrentar presuntas irregularidades de la era anterior y prevenir impactos negativos en el pueblo y los productores.",
-      "summary_es": "La ingeniera María José Fernández fue designada como gerente en suplencia de Emapa para asegurar su normal funcionamiento durante la transición y preservar la estabilidad institucional. Esta medida, tomada en un contexto de intervención para transparentar la gestión y garantizar el cumplimiento de políticas de seguridad alimentaria, busca enfrentar presuntas irregularidades de la era anterior y prevenir impactos negativos en el pueblo y los productores.",
-      "summary_en": "Engineer María José Fernández has been appointed as the interim manager of Emapa to ensure smooth operation during the transition and to preserve institutional stability. Taken in a context of intervention to increase transparency in management and ensure compliance with food safety policies, the move aims to address alleged irregularities from the previous administration and prevent negative impacts on the public and on producers.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-21T13:58:00-04:00",
-      "published_at_bo": "2025-11-21T13:58:00-04:00",
-      "fetched_at_utc": "2025-11-21T23:22:04.481893+00:00",
-      "day": "2025-11-21"
-    },
-    {
-      "source": "El Deber",
-      "title": "Sectores a favor de la Ley de Diferimiento convocan a ampliado y dan ultimátum",
-      "url": "https://eldeber.com.bo/economia/sectores-favor-ley-diferimiento-convocan-ampliado-dan-ultimatum_1763723221",
-      "summary": "Micro y pequeños empresarios, transportistas y gremiales convocan un ampliado de emergencia para defender la Ley de Diferimiento de Créditos, paralizada por una impugnación de la banca ante el TCP, y advierten movilizaciones si el tribunal se pronuncia en contra. La norma, promulgada en noviembre, es criticada por su afectación a la banca y por el procedimiento legislativo, mientras sus dirigentes esperan un fallo del TCP y mantienen desconfianza hacia el tribunal.",
-      "summary_es": "Micro y pequeños empresarios, transportistas y gremiales convocan un ampliado de emergencia para defender la Ley de Diferimiento de Créditos, paralizada por una impugnación de la banca ante el TCP, y advierten movilizaciones si el tribunal se pronuncia en contra. La norma, promulgada en noviembre, es criticada por su afectación a la banca y por el procedimiento legislativo, mientras sus dirigentes esperan un fallo del TCP y mantienen desconfianza hacia el tribunal.",
-      "summary_en": "Micro and small business owners, transport operators, and trade groups have called an emergency expanded meeting to defend the Credit Deferral Law, which has been stalled by a challenge from the banking sector filed with the Constitutional Court. They warn of protests if the court rules against them. The measure, enacted in November, is criticized for its impact on banks and for the legislative process, while its leaders await a ruling from the Constitutional Court and maintain distrust of the tribunal.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-21T07:07:00-04:00",
-      "published_at_bo": "2025-11-21T07:07:00-04:00",
-      "fetched_at_utc": "2025-11-21T16:30:12.078811+00:00",
-      "day": "2025-11-21"
     }
   ]
 }
