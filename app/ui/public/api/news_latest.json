@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2025-12-05T01:59:55.479747+00:00",
+  "generated_at_utc": "2025-12-05T02:21:28.980997+00:00",
   "count": 78,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Con apenas $us 75 millones en billetes el BCB pide no depender del oro",
+      "url": "https://eldeber.com.bo/economia/apenas-us-75-millones-billetes-bcb-pide-no-depender-oro_1764892290",
+      "summary": "El BCB indicó que las Reservas Internacionales Netas alcanzaron 3.277 millones de dólares, pero solo 75 millones corresponden a divisas líquidas, ya que la mayor parte es oro empeñado u otros activos no líquidos, lo que genera estrés externo y riesgos de estabilidad. Expertos señalan que la situación desafía la liquidez y la confianza macroeconómica, exigiendo transparencia, auditorías y reformas fiscales para reducir el déficit y clarificar la dependencia del oro.",
+      "summary_es": "El BCB indicó que las Reservas Internacionales Netas alcanzaron 3.277 millones de dólares, pero solo 75 millones corresponden a divisas líquidas, ya que la mayor parte es oro empeñado u otros activos no líquidos, lo que genera estrés externo y riesgos de estabilidad. Expertos señalan que la situación desafía la liquidez y la confianza macroeconómica, exigiendo transparencia, auditorías y reformas fiscales para reducir el déficit y clarificar la dependencia del oro.",
+      "summary_en": "Bolivia’s central bank said that Net International Reserves reached $3.277 billion, but only $75 million consist of liquid foreign exchange, since most of the reserve is pledged gold or other illiquid assets, which creates external stress and stability risks. Experts say the situation tests liquidity and macroeconomic confidence, calling for transparency, audits and fiscal reforms to reduce the deficit and clarify the dependence on gold.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-04T21:15:00-04:00",
+      "published_at_bo": "2025-12-04T21:15:00-04:00",
+      "fetched_at_utc": "2025-12-05T01:59:48.134052+00:00",
+      "day": "2025-12-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "Nuevo director de la UIF: “la primera tarea es trabajar para sacar a Bolivia de la lista gris de la GAFI”",
+      "url": "https://eldeber.com.bo/economia/nuevo-director-uif-primera-tarea-trabajar-sacar-bolivia-lista-gris-gafi_1764888895",
+      "summary": "El nuevo director de la UIF, Carlos Gonzalo Jáuregui Cisneros, anunció que la prioridad inicial es trabajar para sacar a Bolivia de la lista gris de la GAFI, recuperando confianza, transparencia y seguridad jurídica para atraer inversión. Acompañado por el ministro José Gabriel Espinoza, también llamó a la colaboración público-privada para fortalecer un sistema íntegro y perseguir flujos ilícitos que dañan la imagen del país.",
+      "summary_es": "El nuevo director de la UIF, Carlos Gonzalo Jáuregui Cisneros, anunció que la prioridad inicial es trabajar para sacar a Bolivia de la lista gris de la GAFI, recuperando confianza, transparencia y seguridad jurídica para atraer inversión. Acompañado por el ministro José Gabriel Espinoza, también llamó a la colaboración público-privada para fortalecer un sistema íntegro y perseguir flujos ilícitos que dañan la imagen del país.",
+      "summary_en": "The new head of Bolivia’s Financial Intelligence Unit (UIF), Carlos Gonzalo Jáuregui Cisneros, said the initial priority is to work toward removing Bolivia from the FATF grey list, restoring trust, transparency, and the rule of law to attract investment. Accompanied by Minister José Gabriel Espinoza, he also called for public-private collaboration to strengthen an integrity-driven system and pursue illicit financial flows that damage the country’s image.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-04T20:13:00-04:00",
+      "published_at_bo": "2025-12-04T20:13:00-04:00",
+      "fetched_at_utc": "2025-12-05T01:59:49.453006+00:00",
+      "day": "2025-12-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bolivia continúa en riesgo de default o reestructuración para la deuda, advierte Fitch Ratings",
+      "url": "https://eldeber.com.bo/economia/bolivia-continua-riesgo-default-reestructuracion-deuda-advierte-fitch-ratings_1764891405",
+      "summary": "Fitch Ratings degradó la calificación de Bolivia a CCC-, advirtiendo riesgos de default o reestructuración y una elevada vulnerabilidad ante los próximos vencimientos de deuda. A pesar de mejoras en otros países de la región, Bolivia continúa siendo uno de los más riesgosos, con un alto riesgo país de 673 puntos.",
+      "summary_es": "Fitch Ratings degradó la calificación de Bolivia a CCC-, advirtiendo riesgos de default o reestructuración y una elevada vulnerabilidad ante los próximos vencimientos de deuda. A pesar de mejoras en otros países de la región, Bolivia continúa siendo uno de los más riesgosos, con un alto riesgo país de 673 puntos.",
+      "summary_en": "Fitch Ratings downgraded Bolivia’s rating to CCC-, warning of risks of default or restructuring and a high vulnerability to upcoming debt maturities. Despite improvements in other countries in the region, Bolivia remains one of the riskiest, with a country risk of 673 basis points.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-04T19:52:00-04:00",
+      "published_at_bo": "2025-12-04T19:52:00-04:00",
+      "fetched_at_utc": "2025-12-05T01:59:50.807717+00:00",
+      "day": "2025-12-04"
+    },
     {
       "source": "El Deber",
       "title": "Cisterneros del oriente negocian con YPFB deuda de unos Bs 170 millones; descartan medidas de presión",
