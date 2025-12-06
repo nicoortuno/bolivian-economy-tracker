@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-06T15:22:45.409501+00:00",
+  "generated_at_utc": "2025-12-06T15:30:29.099346+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Santa Cruz: precio de las carnes bajan levemente, junto con el de hortalizas y frutas",
+      "url": "https://eldeber.com.bo/economia/santa-cruz-precio-carnes-bajan-levemente-junto-hortalizas-frutas_1765032052",
+      "summary": "Los precios en Santa Cruz mostraron un alivio parcial para el consumidor, con bajas en hortalizas, frutas y algunas carnes, mientras que la yuca aumentó y la carne de cerdo y el pollo cayeron; la carne de res se mantuvo estable y el queso subió.",
+      "summary_es": "Los precios en Santa Cruz mostraron un alivio parcial para el consumidor, con bajas en hortalizas, frutas y algunas carnes, mientras que la yuca aumentó y la carne de cerdo y el pollo cayeron; la carne de res se mantuvo estable y el queso subió.",
+      "summary_en": "Prices in Santa Cruz offered partial relief for consumers, with declines in vegetables, fruit, and some meats, while yuca rose and pork and chicken fell; beef stayed steady and cheese rose.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-06T10:58:00-04:00",
+      "published_at_bo": "2025-12-06T10:58:00-04:00",
+      "fetched_at_utc": "2025-12-06T15:22:41.555579+00:00",
+      "day": "2025-12-06"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno y sector privado retoman agenda para impulsar producción y definir consensos",
