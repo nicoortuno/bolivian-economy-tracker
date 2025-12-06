@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-06T18:33:01.962168+00:00",
+  "generated_at_utc": "2025-12-06T18:40:46.957257+00:00",
   "count": 78,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia debe $us 3.200 millones a China y es el quinto mayor deudor latinoamericano",
+      "url": "https://eldeber.com.bo/economia/bolivia-debe-us-3-200-millones-china-quinto-mayor-deudor-latinoamericano_1765045002",
+      "summary": "China está girando su política financiera hacia América Latina, priorizando la gestión y renegociación de sus deudas y reduciendo los nuevos préstamos; Bolivia, con unos $3.200 millones adeudados, enfrenta mayores pagos, condiciones crediticias más estrictas y menor liquidez externa. En ese contexto, los préstamos siguen ligados a proyectos con contratistas y tecnología chinas, lo que reduce la transparencia y complica evaluar la sostenibilidad de la deuda, pese a posibles oportunidades de exportación hacia China.",
+      "summary_es": "China está girando su política financiera hacia América Latina, priorizando la gestión y renegociación de sus deudas y reduciendo los nuevos préstamos; Bolivia, con unos $3.200 millones adeudados, enfrenta mayores pagos, condiciones crediticias más estrictas y menor liquidez externa. En ese contexto, los préstamos siguen ligados a proyectos con contratistas y tecnología chinas, lo que reduce la transparencia y complica evaluar la sostenibilidad de la deuda, pese a posibles oportunidades de exportación hacia China.",
+      "summary_en": "China is shifting its financial policy toward Latin America, prioritizing debt management and renegotiation and tightening new lending; Bolivia, with around $3.2 billion in debt, faces larger payments, stricter credit terms, and reduced external liquidity. In this context, loans remain tied to projects with Chinese contractors and technology, which reduces transparency and makes assessing debt sustainability more complex, despite potential export opportunities to China.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-06T14:17:00-04:00",
+      "published_at_bo": "2025-12-06T14:17:00-04:00",
+      "fetched_at_utc": "2025-12-06T18:32:57.179949+00:00",
+      "day": "2025-12-06"
+    },
     {
       "source": "El Deber",
       "title": "Exportaciones de carne bovina a octubre bajaron en volumen, pero subieron en valor",
