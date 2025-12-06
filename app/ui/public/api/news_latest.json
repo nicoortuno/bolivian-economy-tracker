@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-06T03:13:58.327411+00:00",
+  "generated_at_utc": "2025-12-06T03:19:30.539934+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La estatal BoA incorpora una nueva aeronave para cubrir vuelos y alivianar la alta demanda de la temporada",
+      "url": "https://eldeber.com.bo/economia/estatal-boa-incorpora-nueva-aeronave-cubrir-vuelos-alivianar-alta-demanda-temporada_1764988194",
+      "summary": "BoA recibirá un Boeing 767-200ER en Viru Viru para reforzar una flota debilitada en los últimos años. La llegada, tras días de retrasos y una flota insuficiente, se enmarca en la promesa de una reestructuración interna sin privatización y un plan para normalizar operaciones frente a un déficit de Bs 215 millones y deudas superiores a US$37 millones.",
+      "summary_es": "BoA recibirá un Boeing 767-200ER en Viru Viru para reforzar una flota debilitada en los últimos años. La llegada, tras días de retrasos y una flota insuficiente, se enmarca en la promesa de una reestructuración interna sin privatización y un plan para normalizar operaciones frente a un déficit de Bs 215 millones y deudas superiores a US$37 millones.",
+      "summary_en": "BoA will receive a Boeing 767-200ER at Viru Viru to bolster a fleet weakened in recent years. The arrival, after days of delays and an undersized fleet, is framed by a promise of internal restructuring without privatization and a plan to normalize operations amid a Bs 215 million deficit and debts exceeding US$37 million.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-05T22:29:00-04:00",
+      "published_at_bo": "2025-12-05T22:29:00-04:00",
+      "fetched_at_utc": "2025-12-06T03:13:54.317850+00:00",
+      "day": "2025-12-05"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia exportará carne de res y pollo a Egipto",
