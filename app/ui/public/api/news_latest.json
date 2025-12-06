@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-06T17:20:14.898983+00:00",
+  "generated_at_utc": "2025-12-06T17:30:17.218641+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Exportaciones de carne bovina a octubre bajaron en volumen, pero subieron en valor",
+      "url": "https://eldeber.com.bo/economia/exportaciones-carne-bovina-octubre-bajaron-volumen-subieron-valor_1765038501",
+      "summary": "Entre enero y octubre de 2025 las exportaciones de carne bovina bajaron 4% en volumen respecto al mismo periodo de 2024, pero subieron 11% en valor (36 t por $166,41 millones frente a 37,7 t por $150,16 millones). Ante el anuncio de vender carne a Egipto, Bolivia podría presentar un repunte y competir con grandes proveedores como Brasil, Argentina y Australia, pese a la preferencia egipcia por pollo.",
+      "summary_es": "Entre enero y octubre de 2025 las exportaciones de carne bovina bajaron 4% en volumen respecto al mismo periodo de 2024, pero subieron 11% en valor (36 t por $166,41 millones frente a 37,7 t por $150,16 millones). Ante el anuncio de vender carne a Egipto, Bolivia podría presentar un repunte y competir con grandes proveedores como Brasil, Argentina y Australia, pese a la preferencia egipcia por pollo.",
+      "summary_en": "Between January and October 2025, Bolivia’s beef exports fell 4% in volume compared with the same period in 2024, but rose 11% in value (36 tons totaling $166.41 million, versus 37.7 tons for $150.16 million). Following the announcement of selling meat to Egypt, Bolivia could see a rebound and compete with major suppliers such as Brazil, Argentina, and Australia, despite Egypt’s preference for chicken.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-06T12:37:00-04:00",
+      "published_at_bo": "2025-12-06T12:37:00-04:00",
+      "fetched_at_utc": "2025-12-06T17:20:10.011973+00:00",
+      "day": "2025-12-06"
+    },
     {
       "source": "El Deber",
       "title": "Santa Cruz: precio de las carnes bajan levemente, junto con el de hortalizas y frutas",
