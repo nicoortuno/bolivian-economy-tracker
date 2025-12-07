@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-07T07:29:56.855735+00:00",
-  "count": 79,
+  "generated_at_utc": "2025-12-07T08:30:13.877422+00:00",
+  "count": 78,
   "items": [
     {
       "source": "El Deber",
@@ -1079,34 +1079,6 @@
       "published_at_bo": "2025-11-24T08:38:00-04:00",
       "fetched_at_utc": "2025-11-24T17:23:51.586271+00:00",
       "day": "2025-11-24"
-    },
-    {
-      "source": "El Deber",
-      "title": "La COB llama a un ampliado ante posible cambio del régimen laboral en YPFB y ENDE",
-      "url": "https://eldeber.com.bo/economia/cob-llama-ampliado-posible-cambio-regimen-laboral-ypfb-ende_1763939920",
-      "summary": "La COB convocó un ampliado de emergencia para el 26 de noviembre para frenar un proyecto de decreto que propondría trasladar a los trabajadores de YPFB y ENDE del régimen de la Ley General del Trabajo al régimen de la Ley 2027 del Funcionario Público, lo que podría afectar beneficios y derechos sindicales. Diversos sindicatos de ENDE, Luz-Contral, y petroleros respaldan la oposición, mientras el ministro de Trabajo indicó que la LGT está desactualizada y debe ser revisada.",
-      "summary_es": "La COB convocó un ampliado de emergencia para el 26 de noviembre para frenar un proyecto de decreto que propondría trasladar a los trabajadores de YPFB y ENDE del régimen de la Ley General del Trabajo al régimen de la Ley 2027 del Funcionario Público, lo que podría afectar beneficios y derechos sindicales. Diversos sindicatos de ENDE, Luz-Contral, y petroleros respaldan la oposición, mientras el ministro de Trabajo indicó que la LGT está desactualizada y debe ser revisada.",
-      "summary_en": "The Bolivian Workers’ Central (COB) has called an emergency plenary session for November 26 to block a draft decree that would transfer workers at YPFB and ENDE from the General Labor Law regime to the regime of Public Servant Law 2027, a move that could affect benefits and union rights. Various unions representing ENDE, Luz-Contral, and oil workers back the opposition, while the Minister of Labor said the General Labor Law is outdated and must be revised.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-23T20:23:00-04:00",
-      "published_at_bo": "2025-11-23T20:23:00-04:00",
-      "fetched_at_utc": "2025-11-24T04:37:31.624204+00:00",
-      "day": "2025-11-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "El robo de cables de cobre golpea la conectividad en Bolivia y deja costos millonarios",
-      "url": "https://eldeber.com.bo/economia/robo-cables-cobre-golpea-conectividad-bolivia-deja-costos-millonarios_1763911376",
-      "summary": "El robo de cables de cobre se mantiene al alza en Bolivia, con 125 incidentes reportados en 2025 y cerca de 30 aprehensiones, afectando la continuidad de servicios en hospitales, escuelas, bancos y comercios. Tigo ha reforzado medidas preventivas y de seguridad, sustituyendo cobre por materiales menos atractivos, usando alarmas y patrullas, y habilitando una línea de reporte para la ciudadanía.",
-      "summary_es": "El robo de cables de cobre se mantiene al alza en Bolivia, con 125 incidentes reportados en 2025 y cerca de 30 aprehensiones, afectando la continuidad de servicios en hospitales, escuelas, bancos y comercios. Tigo ha reforzado medidas preventivas y de seguridad, sustituyendo cobre por materiales menos atractivos, usando alarmas y patrullas, y habilitando una línea de reporte para la ciudadanía.",
-      "summary_en": "Copper cable theft remains on the rise in Bolivia, with 125 incidents reported in 2025 and nearly 30 arrests, disrupting service continuity for hospitals, schools, banks, and businesses. The telecom company Tigo has stepped up preventive and security measures, replacing copper with less attractive materials, deploying alarms and patrols, and launching a public reporting line for citizens.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-23T13:52:00-04:00",
-      "published_at_bo": "2025-11-23T13:52:00-04:00",
-      "fetched_at_utc": "2025-11-23T21:21:29.644287+00:00",
-      "day": "2025-11-23"
     }
   ]
 }
