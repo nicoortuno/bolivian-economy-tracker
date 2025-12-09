@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-09T21:22:57.598052+00:00",
+  "generated_at_utc": "2025-12-09T21:31:39.829258+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Designan a Sergio Siles como nuevo gerente interino de Emapa",
+      "url": "https://eldeber.com.bo/economia/designan-sergio-siles-nuevo-gerente-interino-emapa_1765313337",
+      "summary": "El Ministerio de Desarrollo Productivo, Rural y Agua designó a Sergio Raúl Siles Sánchez como gerente general interino de Emapa, tras la destitución de Franklin Flores y la salida de Richard Rojas. Las autoridades señalan un posible daño económico de 95,5 millones de Bs en los primeros ocho días de intervención y continúan las investigaciones que involucran a Flores, su esposa y otros acusados.",
+      "summary_es": "El Ministerio de Desarrollo Productivo, Rural y Agua designó a Sergio Raúl Siles Sánchez como gerente general interino de Emapa, tras la destitución de Franklin Flores y la salida de Richard Rojas. Las autoridades señalan un posible daño económico de 95,5 millones de Bs en los primeros ocho días de intervención y continúan las investigaciones que involucran a Flores, su esposa y otros acusados.",
+      "summary_en": "The Ministry of Productive Development, Rural Development and Water has appointed Sergio Raúl Siles Sánchez as interim general manager of Emapa, following the dismissal of Franklin Flores and the exit of Richard Rojas. Authorities say there could be an economic damage of 95.5 million Bolivianos in the first eight days of intervention, and investigations involving Flores, his wife, and other defendants are continuing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-09T17:07:00-04:00",
+      "published_at_bo": "2025-12-09T17:07:00-04:00",
+      "fetched_at_utc": "2025-12-09T21:22:52.588990+00:00",
+      "day": "2025-12-09"
+    },
     {
       "source": "El Deber",
       "title": "Precios de electrodomésticos y computadoras bajan hasta 50% por el factor dólar",
@@ -14,6 +28,20 @@
       "published_at_utc": "2025-12-09T16:55:00-04:00",
       "published_at_bo": "2025-12-09T16:55:00-04:00",
       "fetched_at_utc": "2025-12-09T21:22:53.815894+00:00",
+      "day": "2025-12-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Carniceros advierten impacto por anuncio de exportaciones y piden reunión con el presidente Paz",
+      "url": "https://eldeber.com.bo/economia/carniceros-advierten-impacto-anuncio-exportaciones-piden-reunion-presidente-paz_1765311019",
+      "summary": "Contracabol denunció tensiones en el mercado interno ante el anuncio de ampliar las exportaciones de carne y exigió una reunión directa con el presidente, advirtiendo posibles medidas de presión si no es atendida la problemática de precios y abastecimiento. Paralelamente, el gobierno anunció un acuerdo con Egipto para exportar carne bovina, con Bolivia preparando infraestructura y una oficina Halal en Santa Cruz para facilitar el negocio.",
+      "summary_es": "Contracabol denunció tensiones en el mercado interno ante el anuncio de ampliar las exportaciones de carne y exigió una reunión directa con el presidente, advirtiendo posibles medidas de presión si no es atendida la problemática de precios y abastecimiento. Paralelamente, el gobierno anunció un acuerdo con Egipto para exportar carne bovina, con Bolivia preparando infraestructura y una oficina Halal en Santa Cruz para facilitar el negocio.",
+      "summary_en": "Contracabol denounced tensions in the domestic market after the announcement to expand meat exports and called for a direct meeting with the president, warning of possible pressure measures if the price and supply problems are not addressed. Meanwhile, the government announced an agreement with Egypt to export beef, with Bolivia preparing infrastructure and a Halal office in Santa Cruz to facilitate the business.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-09T16:33:00-04:00",
+      "published_at_bo": "2025-12-09T16:33:00-04:00",
+      "fetched_at_utc": "2025-12-09T21:22:54.818039+00:00",
       "day": "2025-12-09"
     },
     {
