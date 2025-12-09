@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-09T20:33:08.187616+00:00",
-  "count": 75,
+  "generated_at_utc": "2025-12-09T21:22:57.598052+00:00",
+  "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Precios de electrodomésticos y computadoras bajan hasta 50% por el factor dólar",
+      "url": "https://eldeber.com.bo/economia/precios-electrodomesticos-computadoras-bajan-50-factor-dolar_1765303941",
+      "summary": "No todas las noticias son malas: en varios centros comerciales los precios de computadoras, celulares, y línea blanca y negra bajaron, en algunos casos hasta un 50%, impulsados por la caída de la cotización del dólar paralelo según los comerciantes. Por ejemplo, laptops, celulares y televisores se vendían más baratos que semanas atrás, mientras que algunos electrodomésticos mostraron bajadas significativas.",
+      "summary_es": "No todas las noticias son malas: en varios centros comerciales los precios de computadoras, celulares, y línea blanca y negra bajaron, en algunos casos hasta un 50%, impulsados por la caída de la cotización del dólar paralelo según los comerciantes. Por ejemplo, laptops, celulares y televisores se vendían más baratos que semanas atrás, mientras que algunos electrodomésticos mostraron bajadas significativas.",
+      "summary_en": "Not all the news is bad: in several shopping centers, prices for computers, cell phones, home appliances, and consumer electronics have fallen, in some cases by as much as 50%, driven by the drop in the parallel dollar exchange rate, according to merchants. For example, laptops, cell phones, and televisions were selling for less than in previous weeks, while some appliances showed significant declines.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-09T16:55:00-04:00",
+      "published_at_bo": "2025-12-09T16:55:00-04:00",
+      "fetched_at_utc": "2025-12-09T21:22:53.815894+00:00",
+      "day": "2025-12-09"
+    },
     {
       "source": "El Deber",
       "title": "¿Qué es la Certificación Halal para la carne y por qué Egipto instalará una oficina si Bolivia ya certifica desde 2004?",
@@ -13,21 +27,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-09T15:16:00-04:00",
       "published_at_bo": "2025-12-09T15:16:00-04:00",
-      "fetched_at_utc": "2025-12-09T20:26:30.815942+00:00",
-      "day": "2025-12-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Precios de electrodomésticos y computadoras bajan hasta 50% por el factor dólar",
-      "url": "https://eldeber.com.bo/economia/precios-electrodomesticos-computadoras-bajan-50-factor-dolar_1765303941",
-      "summary": "No todas las noticias son malas: en varios centros comerciales los precios de computadoras, celulares, y línea blanca y negra bajaron, en algunos casos hasta un 50%, impulsados por la caída de la cotización del dólar paralelo según los comerciantes. Por ejemplo, laptops, celulares y televisores se vendían más baratos que semanas atrás, mientras que algunos electrodomésticos mostraron bajadas significativas.",
-      "summary_es": "No todas las noticias son malas: en varios centros comerciales los precios de computadoras, celulares, y línea blanca y negra bajaron, en algunos casos hasta un 50%, impulsados por la caída de la cotización del dólar paralelo según los comerciantes. Por ejemplo, laptops, celulares y televisores se vendían más baratos que semanas atrás, mientras que algunos electrodomésticos mostraron bajadas significativas.",
-      "summary_en": "Not all the news is bad: in several shopping centers, prices for computers, cell phones, home appliances, and consumer electronics have fallen, in some cases by as much as 50%, driven by the drop in the parallel dollar exchange rate, according to merchants. For example, laptops, cell phones, and televisions were selling for less than in previous weeks, while some appliances showed significant declines.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-09T14:17:00-04:00",
-      "published_at_bo": "2025-12-09T14:17:00-04:00",
-      "fetched_at_utc": "2025-12-09T20:26:31.789892+00:00",
+      "fetched_at_utc": "2025-12-09T21:22:55.807920+00:00",
       "day": "2025-12-09"
     },
     {
