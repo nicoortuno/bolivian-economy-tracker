@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-09T14:28:08.839944+00:00",
+  "generated_at_utc": "2025-12-09T14:39:28.278291+00:00",
   "count": 73,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Banco Central y el valor referencial de las transacciones en dólares",
+      "url": "https://eldeber.com.bo/economia/banco-central-valor-referencial-transacciones-dolares_1765289818",
+      "summary": "El BCB anunció que publicará diariamente un valor referencial del dólar basado en las operaciones efectivas de compra y venta de las EIF en el mercado mayorista, mientras el tipo de cambio fijo de 6,86 para compra y 6,96 para venta se mantiene; la medida busca transparentar las operaciones y reducir el spread, pero no implica un nuevo régimen cambiario ni una unificación de tipos de cambio.",
+      "summary_es": "El BCB anunció que publicará diariamente un valor referencial del dólar basado en las operaciones efectivas de compra y venta de las EIF en el mercado mayorista, mientras el tipo de cambio fijo de 6,86 para compra y 6,96 para venta se mantiene; la medida busca transparentar las operaciones y reducir el spread, pero no implica un nuevo régimen cambiario ni una unificación de tipos de cambio.",
+      "summary_en": "The BCB announced that it will publish daily a reference value for the dollar based on the actual buy and sell operations of the EIFs in the wholesale market, while the fixed exchange rate of 6.86 for buying and 6.96 for selling remains in place. The measure aims to increase transparency of operations and reduce the spread, but it does not entail a new exchange-rate regime or a unification of exchange rates.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-09T10:23:00-04:00",
+      "published_at_bo": "2025-12-09T10:23:00-04:00",
+      "fetched_at_utc": "2025-12-09T14:28:04.959441+00:00",
+      "day": "2025-12-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Carne boliviana se asegura el exigente mercado egipcio",
+      "url": "https://eldeber.com.bo/economia/carne-boliviana-asegura-exigente-mercado-egipcio_1765287654",
+      "summary": "Bolivia logró un acuerdo para exportar carne a Egipto, un mercado de gran tamaño y alto poder adquisitivo que podría cuadruplicar las exportaciones del país, iniciando con tres frigoríficos y una Oficina Halal para certificar la producción. El objetivo es ampliar la exportación y conectar con la zona económica del Canal de Suez, además de diversificar mercados y aumentar la producción.",
+      "summary_es": "Bolivia logró un acuerdo para exportar carne a Egipto, un mercado de gran tamaño y alto poder adquisitivo que podría cuadruplicar las exportaciones del país, iniciando con tres frigoríficos y una Oficina Halal para certificar la producción. El objetivo es ampliar la exportación y conectar con la zona económica del Canal de Suez, además de diversificar mercados y aumentar la producción.",
+      "summary_en": "Bolivia has reached an agreement to export meat to Egypt, a large market with high purchasing power that could quadruple the country’s exports. The initiative begins with three meat-processing plants and a Halal Certification Office to certify production. The goal is to expand exports and connect with the Suez Canal Economic Zone, while diversifying markets and boosting production.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-09T09:48:00-04:00",
+      "published_at_bo": "2025-12-09T09:48:00-04:00",
+      "fetched_at_utc": "2025-12-09T14:28:05.943004+00:00",
+      "day": "2025-12-09"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia extractiva: en 75 años, el 70% de las exportaciones continúan siendo tradicionales; el subdesarrollo es histórico",
