@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-10T07:34:23.441932+00:00",
-  "count": 82,
+  "generated_at_utc": "2025-12-10T08:36:01.524368+00:00",
+  "count": 77,
   "items": [
     {
       "source": "El Deber",
@@ -1065,90 +1065,6 @@
       "published_at_bo": "2025-11-27T06:53:00-04:00",
       "fetched_at_utc": "2025-11-27T16:31:27.842638+00:00",
       "day": "2025-11-27"
-    },
-    {
-      "source": "El Deber",
-      "title": "Rodrigo Paz denuncia que BoA opera con el 50% de su capacidad",
-      "url": "https://eldeber.com.bo/economia/rodrigo-paz-denuncia-boa-opera-50-capacidad_1764210847",
-      "summary": "El presidente Rodrigo Paz denuncia que la gestión pasada dejó operando a BoA solo al 50% de su capacidad y la responsabiliza de traición a la patria por el mal servicio; anuncia una auditoría integral para esclarecer su situación administrativa, operativa y financiera. El Ministerio de Obras Públicas confirmó la apertura de esa auditoría, asegurando un proceso transparente y libre de manipulaciones.",
-      "summary_es": "El presidente Rodrigo Paz denuncia que la gestión pasada dejó operando a BoA solo al 50% de su capacidad y la responsabiliza de traición a la patria por el mal servicio; anuncia una auditoría integral para esclarecer su situación administrativa, operativa y financiera. El Ministerio de Obras Públicas confirmó la apertura de esa auditoría, asegurando un proceso transparente y libre de manipulaciones.",
-      "summary_en": "President Rodrigo Paz says the previous administration left Boliviana de Aviación (BoA) operating at only 50% of its capacity and accuses it of treason against the country due to the poor service. He announces a comprehensive audit to clarify its administrative, operational, and financial situation. The Ministry of Public Works confirmed the opening of that audit, promising a transparent process free from manipulation.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-26T23:18:00-04:00",
-      "published_at_bo": "2025-11-26T23:18:00-04:00",
-      "fetched_at_utc": "2025-11-27T07:26:05.522590+00:00",
-      "day": "2025-11-26"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno verifica producción del pan de batalla y anuncia revisión de importación y subsidio de la harina",
-      "url": "https://eldeber.com.bo/economia/gobierno-verifica-produccion-pan-batalla-anuncia-revision-importacion-subsidio-harina_1764167444",
-      "summary": "El viceministro Gustavo Serrano participó en la elaboración del pan de batalla en La Paz para demostrar transparencia y trabajo coordinado con el sector, mientras el Gobierno revisa el manejo de importaciones y subsidios de harina ante indicios de irregularidades y corrupción en Emapa, con acciones legales en curso. Se busca verificar costos, insumos y procesos para garantizar eficiencia, estabilidad de precios y beneficiar a las familias bolivianas.",
-      "summary_es": "El viceministro Gustavo Serrano participó en la elaboración del pan de batalla en La Paz para demostrar transparencia y trabajo coordinado con el sector, mientras el Gobierno revisa el manejo de importaciones y subsidios de harina ante indicios de irregularidades y corrupción en Emapa, con acciones legales en curso. Se busca verificar costos, insumos y procesos para garantizar eficiencia, estabilidad de precios y beneficiar a las familias bolivianas.",
-      "summary_en": "Deputy Minister Gustavo Serrano took part in the production of affordable daily bread in La Paz to demonstrate transparency and coordinated work with the sector, as the government reviews the handling of imports and flour subsidies amid indications of irregularities and corruption at Emapa, with legal action underway. The goal is to verify costs, inputs, and processes to ensure efficiency, price stability, and to benefit Bolivian families.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-26T10:40:00-04:00",
-      "published_at_bo": "2025-11-26T10:40:00-04:00",
-      "fetched_at_utc": "2025-11-26T20:26:53.232853+00:00",
-      "day": "2025-11-26"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno empieza a publicar el gasto público diario; el martes pagó Bs 1.496 millones",
-      "url": "https://eldeber.com.bo/economia/gobierno-empieza-publicar-gasto-publico-diario-martes-pago-bs-1-496-millones_1764162940",
-      "summary": "El gobierno empezó a publicar diariamente el gasto público con desglose por ítems, y el 25 de noviembre el total fue de 1.496 millones de Bs, destinados principalmente a combustibles (309,7 millones) y a otras obligaciones (943,7 millones). El ministro Gabriel Espinoza destacó que hoy se evidencia que se gastó en combustibles más del doble de lo invertido en salud.",
-      "summary_es": "El gobierno empezó a publicar diariamente el gasto público con desglose por ítems, y el 25 de noviembre el total fue de 1.496 millones de Bs, destinados principalmente a combustibles (309,7 millones) y a otras obligaciones (943,7 millones). El ministro Gabriel Espinoza destacó que hoy se evidencia que se gastó en combustibles más del doble de lo invertido en salud.",
-      "summary_en": "The government has begun publishing daily public spending with an itemized breakdown, and on November 25 the total reached 1,496 million Bs, mainly allocated to fuels (309.7 million) and to other obligations (943.7 million). Minister Gabriel Espinoza noted that today it’s evident that spending on fuels was more than twice what was invested in health.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-26T09:37:00-04:00",
-      "published_at_bo": "2025-11-26T09:37:00-04:00",
-      "fetched_at_utc": "2025-11-26T18:32:48.612221+00:00",
-      "day": "2025-11-26"
-    },
-    {
-      "source": "El Deber",
-      "title": "Nuevo presidente del SIN promete un giro en la relación con los contribuyentes y marca distancia del modelo masista",
-      "url": "https://eldeber.com.bo/economia/nuevo-presidente-promete-giro-relacion-contribuyentes-marca-distancia-modelo-masista_1764162506",
-      "summary": "El Gobierno designó a Jorge Zogbi Nogales como nuevo presidente del SIN y a Alberto Samuel Soto al frente de la Aduana Nacional, con un plan de reformas para modernizar la institución y cambiar su imagen ante los contribuyentes. Su objetivo es un enfoque menos punitivo, centrado en el servicio al contribuyente, la lucha contra la corrupción y la formalización de la economía informal.",
-      "summary_es": "El Gobierno designó a Jorge Zogbi Nogales como nuevo presidente del SIN y a Alberto Samuel Soto al frente de la Aduana Nacional, con un plan de reformas para modernizar la institución y cambiar su imagen ante los contribuyentes. Su objetivo es un enfoque menos punitivo, centrado en el servicio al contribuyente, la lucha contra la corrupción y la formalización de la economía informal.",
-      "summary_en": "The government appointed Jorge Zogbi Nogales as the new president of the National Tax Service (SIN) and Alberto Samuel Soto to lead the National Customs, with a reform plan to modernize the institution and reshape its image among taxpayers. The aim is a less punitive approach, focused on taxpayer service, anti-corruption efforts, and the formalization of the informal economy.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-26T09:30:00-04:00",
-      "published_at_bo": "2025-11-26T09:30:00-04:00",
-      "fetched_at_utc": "2025-11-26T18:32:49.616020+00:00",
-      "day": "2025-11-26"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno y productores logran acuerdo con base en 4 demandas",
-      "url": "https://eldeber.com.bo/economia/gobierno-productores-logran-acuerdo-base-4-demandas_1764154219",
-      "summary": "Los principales sectores productivos bolivianos (agroindustria, industrial y exportadores) se reunieron con los ministros de Desarrollo Productivo y de Trabajo para acordar un trabajo conjunto que garantice seguridad jurídica, institucionalizar Senasag, evitar bloqueos y asegurar libre tránsito, y desclasificar carburantes de la lista de sustancias controladas, con el fin de impulsar la seguridad alimentaria y las exportaciones y sacar al país de la crisis. Además, enfatizaron que una normativa clara y un servicio sanitario eficiente son clave para atraer inversiones y acelerar el crecimiento.",
-      "summary_es": "Los principales sectores productivos bolivianos (agroindustria, industrial y exportadores) se reunieron con los ministros de Desarrollo Productivo y de Trabajo para acordar un trabajo conjunto que garantice seguridad jurídica, institucionalizar Senasag, evitar bloqueos y asegurar libre tránsito, y desclasificar carburantes de la lista de sustancias controladas, con el fin de impulsar la seguridad alimentaria y las exportaciones y sacar al país de la crisis. Además, enfatizaron que una normativa clara y un servicio sanitario eficiente son clave para atraer inversiones y acelerar el crecimiento.",
-      "summary_en": "Bolivian main productive sectors—agroindustry, manufacturing, and exporters—met with the ministers of Productive Development and Labor to agree on a joint plan that ensures legal certainty, institutionalize Senasag, prevent blockades, guarantee free movement, and declassify fuels from the list of controlled substances. The goal is to boost food security and exports and pull the country out of the crisis. They also stressed that clear regulations and efficient health services are key to attracting investment and accelerating growth.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-26T06:50:00-04:00",
-      "published_at_bo": "2025-11-26T06:50:00-04:00",
-      "fetched_at_utc": "2025-11-26T16:32:40.195232+00:00",
-      "day": "2025-11-26"
-    },
-    {
-      "source": "El Deber",
-      "title": "Paz pide eliminar 4 tributos y se da dos meses más para modificar el PGE 2026",
-      "url": "https://eldeber.com.bo/economia/paz-pide-eliminar-4-tributos-da-dos-meses-modificar-pge-2026_1764153859",
-      "summary": "El Gobierno anunció la abrogación de cuatro impuestos (ITF, IGF, IJ e IPE) para reducir costos y favorecer la inversión, destacando que solo representaban menos del 1% de la recaudación pero generaban problemas para los negocios. Además, informó que reducirá el gasto público en un 30% en 2026 y reformulará el presupuesto para alinear el gasto con la realidad económica del país.",
-      "summary_es": "El Gobierno anunció la abrogación de cuatro impuestos (ITF, IGF, IJ e IPE) para reducir costos y favorecer la inversión, destacando que solo representaban menos del 1% de la recaudación pero generaban problemas para los negocios. Además, informó que reducirá el gasto público en un 30% en 2026 y reformulará el presupuesto para alinear el gasto con la realidad económica del país.",
-      "summary_en": "The government announced the abolition of four taxes — ITF, IGF, IJ, and IPE — to reduce costs and boost investment, noting that they accounted for less than 1% of revenue but created problems for businesses. It also said it will cut public spending by 30% in 2026 and will redraw the budget to align expenditure with the country’s current economic realities.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-26T06:44:00-04:00",
-      "published_at_bo": "2025-11-26T06:44:00-04:00",
-      "fetched_at_utc": "2025-11-26T16:32:41.181082+00:00",
-      "day": "2025-11-26"
     }
   ]
 }
