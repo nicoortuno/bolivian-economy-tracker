@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-10T08:36:01.524368+00:00",
+  "generated_at_utc": "2025-12-10T08:46:11.895155+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Electrodomésticos a la baja; mientras los alimentos siguen caros, a pesar de un dólar bajo",
+      "url": "https://eldeber.com.bo/economia/electrodomesticos-baja-mientras-alimentos-siguen-caros-pesar-dolar_1765338197",
+      "summary": "En diciembre, pese a una inyección de más de Bs 3.000 millones por aguinaldo, los precios se desequilibran: los productos tecnológicos y electrodomésticos bajan notablemente (hasta 40%) impulsados por la caída del dólar paralelo, mientras que los alimentos, especialmente la carne, se mantienen altos. Expertos señalan que la variación de precios está más relacionada con la cotización del dólar que con anuncios oficiales, y advierten que la estabilidad no debe depender de la divisa.",
+      "summary_es": "En diciembre, pese a una inyección de más de Bs 3.000 millones por aguinaldo, los precios se desequilibran: los productos tecnológicos y electrodomésticos bajan notablemente (hasta 40%) impulsados por la caída del dólar paralelo, mientras que los alimentos, especialmente la carne, se mantienen altos. Expertos señalan que la variación de precios está más relacionada con la cotización del dólar que con anuncios oficiales, y advierten que la estabilidad no debe depender de la divisa.",
+      "summary_en": "In December, despite an injection of more than 3,000 million bolivianos through the aguinaldo (year-end bonus), prices become unbalanced: technological products and household appliances fall sharply (up to 40%), driven by the drop in the parallel dollar, while foods, especially meat, stay high. Experts say price changes are more closely tied to the dollar’s exchange rate than to official announcements, and warn that stability should not depend on the currency.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-10T04:00:00-04:00",
+      "published_at_bo": "2025-12-10T04:00:00-04:00",
+      "fetched_at_utc": "2025-12-10T08:35:59.741833+00:00",
+      "day": "2025-12-10"
+    },
     {
       "source": "El Deber",
       "title": "\"Todo lo que el anterior gobierno no pudo regular creció\", admiten desde la CAO",
