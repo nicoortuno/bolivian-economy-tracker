@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-11T21:27:35.120987+00:00",
+  "generated_at_utc": "2025-12-11T21:33:54.325600+00:00",
   "count": 82,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Precio del dólar virtual se acerca cada vez más al valor referencial del BCB",
+      "url": "https://eldeber.com.bo/economia/precio-dolar-virtual-acerca-cada-vez-valor-referencial-bcb_1765486802",
+      "summary": "El dólar paralelo cayó a 9,14 de compra y 9,16 de venta, tras haber alcanzado picos superiores, mientras el dólar físico seguía escaso en Santa Cruz y el BCB redujo su referencial a 8,80/8,88. El economista Fernando Romero advierte que, pese a la reciente caída, se requieren medidas estructurales y cuidado con el endeudamiento externo, pues la crisis cambiaria persiste y el peso de la deuda condiciona la sostenibilidad de la economía.",
+      "summary_es": "El dólar paralelo cayó a 9,14 de compra y 9,16 de venta, tras haber alcanzado picos superiores, mientras el dólar físico seguía escaso en Santa Cruz y el BCB redujo su referencial a 8,80/8,88. El economista Fernando Romero advierte que, pese a la reciente caída, se requieren medidas estructurales y cuidado con el endeudamiento externo, pues la crisis cambiaria persiste y el peso de la deuda condiciona la sostenibilidad de la economía.",
+      "summary_en": "The parallel-dollar rate fell to 9.14 for buying and 9.16 for selling, after earlier peaks, while the physical dollar remained scarce in Santa Cruz and the central bank reduced its reference to 8.80/8.88. Economist Fernando Romero warns that, despite the recent drop, structural measures are needed and there must be caution with external debt, as the exchange-rate crisis persists and the debt burden conditions the economy’s sustainability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-11T17:16:00-04:00",
+      "published_at_bo": "2025-12-11T17:16:00-04:00",
+      "fetched_at_utc": "2025-12-11T21:27:28.166466+00:00",
+      "day": "2025-12-11"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno atribuye altos precios de la carne de res a especulación y contrabando",
