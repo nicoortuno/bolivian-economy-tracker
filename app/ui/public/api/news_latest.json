@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-11T15:31:36.939104+00:00",
+  "generated_at_utc": "2025-12-11T15:39:59.052122+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Fiscalía emite 5 órdenes de aprehensión y hay 7 personas investigadas por el Fondo Indígena",
+      "url": "https://eldeber.com.bo/economia/fiscalia-investiga-siete-personas-caso-fondo-indigena_1765463684",
+      "summary": "La Fiscalía boliviana indicó que hay siete implicados en el desfalco al Fondo Indígena, ya con dos aprehendidos: el expresidente Luis Arce y la ex diputada Lidia Patty, y existen cinco órdenes de arresto pendientes. Además, se ampliarán denuncias para sumar a otros exfuncionarios del directorio, como Juan Ramón Quintana, Sacha Llorenti y Carlos Romero, y se acusa a Evo Morales de haber conocido o tolerado los hechos.",
+      "summary_es": "La Fiscalía boliviana indicó que hay siete implicados en el desfalco al Fondo Indígena, ya con dos aprehendidos: el expresidente Luis Arce y la ex diputada Lidia Patty, y existen cinco órdenes de arresto pendientes. Además, se ampliarán denuncias para sumar a otros exfuncionarios del directorio, como Juan Ramón Quintana, Sacha Llorenti y Carlos Romero, y se acusa a Evo Morales de haber conocido o tolerado los hechos.",
+      "summary_en": "The Bolivian Fiscalía said there are seven people implicated in the misappropriation of the Indigenous Fund, with two already detained: former President Luis Arce and former deputy Lidia Patty. Five arrest warrants remain outstanding. Investigations will be broadened to include other former board members, such as Juan Ramón Quintana, Sacha Llorenti, and Carlos Romero. Evo Morales is also accused of having known about or tolerating the actions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-11T11:29:00-04:00",
+      "published_at_bo": "2025-12-11T11:29:00-04:00",
+      "fetched_at_utc": "2025-12-11T15:31:32.038522+00:00",
+      "day": "2025-12-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "El PIB industrial cayó al -1%; empresarios piden una ley contra los bloqueos",
+      "url": "https://eldeber.com.bo/economia/pib-industrial-cayo-1-empresarios-piden-ley-bloqueos_1765464245",
+      "summary": "La industria boliviana cerró 2025 con una caída del PIB industrial de -1%, según la Cámara Nacional de Industrias (CNI). El presidente de la CNI, Gonzalo Morales, atribuyó el descenso a al menos cinco factores estructurales y coyunturales.",
+      "summary_es": "La industria boliviana cerró 2025 con una caída del PIB industrial de -1%, según la Cámara Nacional de Industrias (CNI). El presidente de la CNI, Gonzalo Morales, atribuyó el descenso a al menos cinco factores estructurales y coyunturales.",
+      "summary_en": "Bolivian industry ended 2025 with a 1% drop in industrial GDP, according to the National Chamber of Industries (CNI). The president of the CNI, Gonzalo Morales, attributed the decline to at least five structural and cyclical factors.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-11T10:47:00-04:00",
+      "published_at_bo": "2025-12-11T10:47:00-04:00",
+      "fetched_at_utc": "2025-12-11T15:31:32.986710+00:00",
+      "day": "2025-12-11"
+    },
     {
       "source": "El Deber",
       "title": "Plan económico se apoya en siete ejes con una visión de largo plazo",
