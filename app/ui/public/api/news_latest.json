@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-11T20:29:32.818418+00:00",
+  "generated_at_utc": "2025-12-11T20:36:15.903869+00:00",
   "count": 81,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno atribuye altos precios de la carne de res a especulación y contrabando",
+      "url": "https://eldeber.com.bo/economia/gobierno-atribuye-altos-precios-carne-res-especulacion-contrabando_1765484096",
+      "summary": "El gobierno boliviano atribuye el alza de la carne de res a prácticas especulativas y al contrabando que desvía el producto, mientras que la producción destinada al consumo interno representa alrededor del 80% y las autoridades investigan abusos de precios y desvíos fronterizos. En Santa Cruz, los precios al consumidor se mantienen en niveles estables, y la caída del valor de la divisa ha reducido el precio del kilo vivo de las haciendas de Bs 28 a 23.",
+      "summary_es": "El gobierno boliviano atribuye el alza de la carne de res a prácticas especulativas y al contrabando que desvía el producto, mientras que la producción destinada al consumo interno representa alrededor del 80% y las autoridades investigan abusos de precios y desvíos fronterizos. En Santa Cruz, los precios al consumidor se mantienen en niveles estables, y la caída del valor de la divisa ha reducido el precio del kilo vivo de las haciendas de Bs 28 a 23.",
+      "summary_en": "The Bolivian government attributes the rise in beef prices to speculative practices and smuggling that divert product, noting that about 80% of production is destined for domestic consumption. Authorities are also investigating price abuses and border diversions. In Santa Cruz, consumer prices remain steady, and the depreciation of the currency has pulled the live-weight price of cattle from Bs 28 to Bs 23 per kilogram.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-11T16:23:00-04:00",
+      "published_at_bo": "2025-12-11T16:23:00-04:00",
+      "fetched_at_utc": "2025-12-11T20:29:24.937233+00:00",
+      "day": "2025-12-11"
+    },
     {
       "source": "El Deber",
       "title": "¿En qué se usará el crédito de JICA de $us 95,9 millones que debate Diputados?",
