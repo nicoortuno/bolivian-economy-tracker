@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-12T11:25:12.768411+00:00",
+  "generated_at_utc": "2025-12-12T11:32:45.372083+00:00",
   "count": 79,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Industria entra en recesión y pide cuatro leyes para su reactivación",
+      "url": "https://eldeber.com.bo/economia/industria-entra-recesion-pide-cuatro-leyes-reactivacion_1765538506",
+      "summary": "La Cámara Nacional de Industrias advierte que el PIB industrial cayó un 1% en 2025, impulsado por escasez de hidrocarburos, devaluación, inseguridad jurídica y contrabando, además de la baja ejecución de inversión pública y el entorno electoral. Propone una hoja de ruta legislativa que incluye una nueva Ley de Inversiones, endurecimiento de leyes contra contrabando y falsificación, y una normativa antibloqueos para recuperar la estabilidad y atraer inversión.",
+      "summary_es": "La Cámara Nacional de Industrias advierte que el PIB industrial cayó un 1% en 2025, impulsado por escasez de hidrocarburos, devaluación, inseguridad jurídica y contrabando, además de la baja ejecución de inversión pública y el entorno electoral. Propone una hoja de ruta legislativa que incluye una nueva Ley de Inversiones, endurecimiento de leyes contra contrabando y falsificación, y una normativa antibloqueos para recuperar la estabilidad y atraer inversión.",
+      "summary_en": "The National Chamber of Industries warns that industrial GDP fell by 1% in 2025, driven by hydrocarbon shortages, devaluation, legal uncertainty, and smuggling, along with weak public investment execution and the electoral environment. It proposes a legislative roadmap that includes a new Investment Law, tougher laws against smuggling and counterfeiting, and an anti-blockade regulation to restore stability and attract investment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-12T07:21:00-04:00",
+      "published_at_bo": "2025-12-12T07:21:00-04:00",
+      "fetched_at_utc": "2025-12-12T11:25:10.976883+00:00",
+      "day": "2025-12-12"
+    },
     {
       "source": "El Deber",
       "title": "Precio del dólar virtual se acerca cada vez más al valor referencial del BCB",
