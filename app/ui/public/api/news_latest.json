@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-12T16:32:33.449107+00:00",
+  "generated_at_utc": "2025-12-12T16:41:21.830331+00:00",
   "count": 82,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia exporta conocimiento por $us 124 millones, mientras Uruguay factura al año $us 7.000 millones",
+      "url": "https://eldeber.com.bo/economia/bolivia-exporta-conocimiento-us-124-millones-mientras-uruguay-factura-ano-us-7-000-millones_1765553862",
+      "summary": "Bolivia exportó entre 95 y 124 millones de dólares en Servicios de Bienes del Conocimiento en 2024, muy por debajo de Uruguay (7.000 millones), lo que deja cifras de ~11 dólares por boliviano frente a ~1.190 por uruguayo. Los SBC crecieron 4,7% frente a 2% de los bienes físicos, con Cochabamba aportando el 80% de la creación tecnológica (200 empresas exportando 50 millones) y Bolivia representando apenas 1% de las exportaciones del conocimiento, lideradas por México (31%) y Brasil (24%).",
+      "summary_es": "Bolivia exportó entre 95 y 124 millones de dólares en Servicios de Bienes del Conocimiento en 2024, muy por debajo de Uruguay (7.000 millones), lo que deja cifras de ~11 dólares por boliviano frente a ~1.190 por uruguayo. Los SBC crecieron 4,7% frente a 2% de los bienes físicos, con Cochabamba aportando el 80% de la creación tecnológica (200 empresas exportando 50 millones) y Bolivia representando apenas 1% de las exportaciones del conocimiento, lideradas por México (31%) y Brasil (24%).",
+      "summary_en": "Bolivia exported between $95 million and $124 million in knowledge-based services in 2024, well short of Uruguay’s $7 billion. That translates to roughly $11 per Boliviano versus about $1,190 per Uruguayan. Knowledge-based services grew 4.7% compared with 2% for physical goods, with Cochabamba contributing 80% of the technological creation (200 firms exporting $50 million). Bolivia accounted for only 1% of knowledge exports, led by Mexico (31%) and Brazil (24%).",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-12T11:46:00-04:00",
+      "published_at_bo": "2025-12-12T11:46:00-04:00",
+      "fetched_at_utc": "2025-12-12T16:32:28.345839+00:00",
+      "day": "2025-12-12"
+    },
     {
       "source": "El Deber",
       "title": "Aplazan tratamiento del PGE 2026 en Diputados; quedan 13 días hábiles para aprobarlo",
