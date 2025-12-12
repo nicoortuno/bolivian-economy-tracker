@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-12T22:25:25.609756+00:00",
+  "generated_at_utc": "2025-12-12T22:35:50.534488+00:00",
   "count": 85,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Por qué continúa escaso el dólar físico, mientras el digital y el valor referencial se acercan?",
+      "url": "https://eldeber.com.bo/economia/continua-escaso-dolar-fisico-mientras-digital-valor-referencial-acercan_1765570181",
+      "summary": "El dólar físico continúa escaso y más caro en el mercado informal, mientras el valor referencial del BCB converge hacia la paridad oficial debido a transacciones mayoristas y un marco regulado; la escasez del billete físico se explica por la priorización de operaciones externas y remesas que canalizan divisas hacia circuitos institucionales.",
+      "summary_es": "El dólar físico continúa escaso y más caro en el mercado informal, mientras el valor referencial del BCB converge hacia la paridad oficial debido a transacciones mayoristas y un marco regulado; la escasez del billete físico se explica por la priorización de operaciones externas y remesas que canalizan divisas hacia circuitos institucionales.",
+      "summary_en": "The physical dollar remains scarce and pricier in the informal market, while the central bank’s reference rate converges toward official parity due to wholesale transactions within a regulated framework. The shortage of cash is explained by the prioritization of external operations and remittances that channel foreign exchange into institutional channels.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-12T17:55:00-04:00",
+      "published_at_bo": "2025-12-12T17:55:00-04:00",
+      "fetched_at_utc": "2025-12-12T22:25:21.835265+00:00",
+      "day": "2025-12-12"
+    },
+    {
+      "source": "El Deber",
+      "title": "La ABC detecta presuntas irregularidades en la carretera San José–San Ignacio de Velasco",
+      "url": "https://eldeber.com.bo/economia/abc-detecta-presuntas-irregularidades-carretera-san-jose-san-ignacio-velasco_1765574581",
+      "summary": "La ABC anunció una verificación técnica y financiera del proyecto San José de Chiquitos – San Ignacio de Velasco, tras denunciar irregularidades y presiones atribuidas a la empresa contratista. Asimismo, aseguró que revisa certificados de pago y actuará conforme a la ley para garantizar transparencia y el mantenimiento de las carreteras del país.",
+      "summary_es": "La ABC anunció una verificación técnica y financiera del proyecto San José de Chiquitos – San Ignacio de Velasco, tras denunciar irregularidades y presiones atribuidas a la empresa contratista. Asimismo, aseguró que revisa certificados de pago y actuará conforme a la ley para garantizar transparencia y el mantenimiento de las carreteras del país.",
+      "summary_en": "The ABC announced a technical and financial review of the San José de Chiquitos – San Ignacio de Velasco project, after reporting irregularities and pressures attributed to the contractor. It also said it is reviewing payment certificates and will act in accordance with the law to ensure transparency and the maintenance of the country’s roads.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-12T17:26:00-04:00",
+      "published_at_bo": "2025-12-12T17:26:00-04:00",
+      "fetched_at_utc": "2025-12-12T22:25:22.798149+00:00",
+      "day": "2025-12-12"
+    },
     {
       "source": "El Deber",
       "title": "Porcicultores garantizan abastecimiento de carne de cerdo para fin de año",
