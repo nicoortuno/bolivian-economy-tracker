@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-12T17:24:40.716738+00:00",
+  "generated_at_utc": "2025-12-12T17:35:01.439804+00:00",
   "count": 83,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Porcicultores garantizan abastecimiento de carne de cerdo para fin de año",
+      "url": "https://eldeber.com.bo/economia/porcicultores-garantizan-abastecimiento-carne-cerdo-fin-ano-precio-decidira-mercado_1765557407",
+      "summary": "Los porcicultores cruceños aseguran una producción de unas 8.300 toneladas mensuales para abastecer la cena navideña, y Santa Cruz aporta cerca del 80% de la carne de cerdo industrial del país. Aunque enfrentaron costos y dificultades, pronostican buena oferta en los próximos meses y buscan exportar, una vez certificado libre de peste porcina clásica, con un objetivo inicial de unas 1.000 toneladas mensuales.",
+      "summary_es": "Los porcicultores cruceños aseguran una producción de unas 8.300 toneladas mensuales para abastecer la cena navideña, y Santa Cruz aporta cerca del 80% de la carne de cerdo industrial del país. Aunque enfrentaron costos y dificultades, pronostican buena oferta en los próximos meses y buscan exportar, una vez certificado libre de peste porcina clásica, con un objetivo inicial de unas 1.000 toneladas mensuales.",
+      "summary_en": "Santa Cruz pig farmers say they are producing about 8,300 tons per month to stock Christmas dinners, with the region accounting for roughly 80% of the country’s industrial pork. Despite higher costs and challenges, they anticipate a strong supply in the coming months and aim to export once certified free of classical swine fever, initially targeting about 1,000 tons per month.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-12T13:00:00-04:00",
+      "published_at_bo": "2025-12-12T13:00:00-04:00",
+      "fetched_at_utc": "2025-12-12T17:24:35.883770+00:00",
+      "day": "2025-12-12"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia exporta conocimiento por $us 124 millones, mientras Uruguay factura al año $us 7.000 millones",
