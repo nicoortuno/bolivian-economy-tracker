@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-13T23:23:12.454876+00:00",
+  "generated_at_utc": "2025-12-13T23:31:51.089655+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cotización del dólar paralelo se ubica en Bs 9,10 y tiende a la baja",
+      "url": "https://eldeber.com.bo/economia/cotizacion-dolar-paralelo-ubica-bs-9-10-tiende-baja_1765665859",
+      "summary": "El dólar cotiza bajo en distintos mercados (aproximadamente Bs 9,10–9,17 para venta y compra) con algunos librecambistas ofreciendo precios cercanos a 9,11/9,15, mientras operadores señalan una caída gradual y esperan qué ocurrirá en enero-febrero. Para algunos economistas, aunque la baja aporta certidumbre, no es solución definitiva: se requieren medidas estructurales como reducir el déficit fiscal, eliminar cupos de exportación y frenar las subvenciones de hidrocarburos.",
+      "summary_es": "El dólar cotiza bajo en distintos mercados (aproximadamente Bs 9,10–9,17 para venta y compra) con algunos librecambistas ofreciendo precios cercanos a 9,11/9,15, mientras operadores señalan una caída gradual y esperan qué ocurrirá en enero-febrero. Para algunos economistas, aunque la baja aporta certidumbre, no es solución definitiva: se requieren medidas estructurales como reducir el déficit fiscal, eliminar cupos de exportación y frenar las subvenciones de hidrocarburos.",
+      "summary_en": "The dollar is trading lower across markets, roughly Bs 9.10–9.17 per dollar for selling and buying, with some forex traders offering around 9.11/9.15. Market participants note a gradual decline and are watching to see what will happen in January and February. For some economists, while the drop brings some certainty, it isn’t a definitive solution: structural measures are needed, such as reducing the fiscal deficit, eliminating export quotas, and curbing hydrocarbon subsidies.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-13T18:57:00-04:00",
+      "published_at_bo": "2025-12-13T18:57:00-04:00",
+      "fetched_at_utc": "2025-12-13T23:23:10.566583+00:00",
+      "day": "2025-12-13"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno anuncia que en 90 días consolidará el Plan de Desarrollo Económico que regirá hasta 2035",
