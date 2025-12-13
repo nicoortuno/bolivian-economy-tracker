@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-12-13T22:33:27.672731+00:00",
+  "generated_at_utc": "2025-12-13T23:23:12.454876+00:00",
   "count": 87,
   "items": [
     {
@@ -1205,20 +1205,6 @@
       "published_at_bo": "2025-11-30T11:18:00-04:00",
       "fetched_at_utc": "2025-11-30T20:26:58.374668+00:00",
       "day": "2025-11-30"
-    },
-    {
-      "source": "El Deber",
-      "title": "El equipo económico del presidente Paz se reúne con representantes de Cainco",
-      "url": "https://eldeber.com.bo/economia/equipo-economico-presidente-paz-reune-representantes-cainco_1764432131",
-      "summary": "El equipo económico del presidente Rodrigo Paz se reunió con Cainco en Santa Cruz para abordar temas de planificación, desarrollo productivo y la situación económica del país, destacando un diálogo para fortalecer el liderazgo empresarial y el futuro económico. Además, se anunciaron medidas y un paquete estimado de alrededor de 9.000 millones de dólares para reforzar las reservas internacionales, en un periodo de seis meses decisivo para Bolivia.",
-      "summary_es": "El equipo económico del presidente Rodrigo Paz se reunió con Cainco en Santa Cruz para abordar temas de planificación, desarrollo productivo y la situación económica del país, destacando un diálogo para fortalecer el liderazgo empresarial y el futuro económico. Además, se anunciaron medidas y un paquete estimado de alrededor de 9.000 millones de dólares para reforzar las reservas internacionales, en un periodo de seis meses decisivo para Bolivia.",
-      "summary_en": "The economic team of President Rodrigo Paz met with Cainco in Santa Cruz to discuss planning, productive development, and the country’s economic situation, highlighting a dialogue aimed at strengthening business leadership and the economic outlook. It also announced measures and a package valued at about $9 billion to bolster international reserves, in what is seen as a decisive six-month period for Bolivia.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-11-29T12:04:00-04:00",
-      "published_at_bo": "2025-11-29T12:04:00-04:00",
-      "fetched_at_utc": "2025-11-29T21:21:23.926114+00:00",
-      "day": "2025-11-29"
     }
   ]
 }
