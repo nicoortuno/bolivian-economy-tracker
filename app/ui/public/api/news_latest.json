@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-15T17:29:05.495834+00:00",
+  "generated_at_utc": "2025-12-15T17:40:18.327307+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno denuncia que empresas creadas durante la gestión del MAS saquearon al Estado; anuncian investigaciones",
+      "url": "https://eldeber.com.bo/economia/gobierno-denuncia-empresas-creadas-gestion-saquearon-estado-anuncian-investigaciones_1765818530",
+      "summary": "El ministro José Luis Lupo sostuvo que las empresas creadas durante las gestiones del MAS saquearon las arcas del Estado, con 67 empresas entre 2006 y 2024 y una inversión de 53.945 millones de bolivianos (7.750 millones de dólares), de los cuales solo se recuperó el 18%. Aseguró que el 28% de esos recursos financió 14 empresas inviables que llegaron a ser instrumentos de corrupción, con pérdidas estimadas en 2.205 millones de dólares, lo que habría contribuido a la crisis económica y a la disminución de las reservas internacionales.",
+      "summary_es": "El ministro José Luis Lupo sostuvo que las empresas creadas durante las gestiones del MAS saquearon las arcas del Estado, con 67 empresas entre 2006 y 2024 y una inversión de 53.945 millones de bolivianos (7.750 millones de dólares), de los cuales solo se recuperó el 18%. Aseguró que el 28% de esos recursos financió 14 empresas inviables que llegaron a ser instrumentos de corrupción, con pérdidas estimadas en 2.205 millones de dólares, lo que habría contribuido a la crisis económica y a la disminución de las reservas internacionales.",
+      "summary_en": "Minister José Luis Lupo said that the companies created during the MAS administrations drained the state’s coffers, naming 67 firms between 2006 and 2024 and an investment of 53,945 million bolivianos (7.75 billion USD), of which only 18% was recovered. He argued that 28% of those resources financed 14 unviable companies that became instruments of corruption, with losses estimated at 2.205 billion dollars, losses he says contributed to the economic crisis and to the decline of international reserves.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-15T13:15:00-04:00",
+      "published_at_bo": "2025-12-15T13:15:00-04:00",
+      "fetched_at_utc": "2025-12-15T17:28:59.668447+00:00",
+      "day": "2025-12-15"
+    },
+    {
+      "source": "El Deber",
+      "title": "Expectativa por sesión de Diputados que tratará el ‘Préstamo para la Liquidez’ y el PGE 2026",
+      "url": "https://eldeber.com.bo/economia/expectativa-sesion-diputados-tratara-prestamo-liquidez-pge-2026_1765816911",
+      "summary": "La 22ª Sesión Ordinaria convocada por la Cámara de Diputados abordará el préstamo de la CAF por 550 millones de dólares para liquidez y la aprobación del Presupuesto General del Estado 2026, además de avanzar en un contrato con BID de 30 millones para el Parque Lineal de La Paz y El Alto. También se tratarán créditos de JICA para reponer gastos de salud 2021-2022 y la propuesta de reformar el PGE 2026 para implementar un régimen 50/50 a favor de las regiones, con vigencia en marzo de 2026.",
+      "summary_es": "La 22ª Sesión Ordinaria convocada por la Cámara de Diputados abordará el préstamo de la CAF por 550 millones de dólares para liquidez y la aprobación del Presupuesto General del Estado 2026, además de avanzar en un contrato con BID de 30 millones para el Parque Lineal de La Paz y El Alto. También se tratarán créditos de JICA para reponer gastos de salud 2021-2022 y la propuesta de reformar el PGE 2026 para implementar un régimen 50/50 a favor de las regiones, con vigencia en marzo de 2026.",
+      "summary_en": "The 22nd Ordinary Session of the Chamber of Deputies will address the CAF loan of $550 million for liquidity, and the approval of the General State Budget for 2026. It will also advance a $30 million contract with the IDB for the La Paz and El Alto Linear Park. Additionally, discussions will cover JICA loans to replenish health expenditures for 2021-2022, and a proposal to reform the 2026 General State Budget to implement a 50/50 regime in favor of the regions, effective March 2026.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-15T13:05:00-04:00",
+      "published_at_bo": "2025-12-15T13:05:00-04:00",
+      "fetched_at_utc": "2025-12-15T17:29:00.619734+00:00",
+      "day": "2025-12-15"
+    },
     {
       "source": "El Deber",
       "title": "Misión económica de Estados Unidos llega a Bolivia para evaluar oportunidades de inversión y cooperación",
