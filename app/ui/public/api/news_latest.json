@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-15T16:38:19.983589+00:00",
+  "generated_at_utc": "2025-12-15T16:50:13.650569+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Misión económica de Estados Unidos llega a Bolivia para evaluar oportunidades de inversión y cooperación",
+      "url": "https://eldeber.com.bo/economia/mision-economica-estados-unidos-llega-bolivia-evaluar-oportunidades-inversion-cooperacion_1765815714",
+      "summary": "Una delegación del Gobierno de Estados Unidos visita Bolivia para sostener reuniones con autoridades económicas y empresarios privados con el fin de identificar áreas estratégicas de inversión y fortalecer la cooperación y los vínculos comerciales bilaterales, con la participación de agencias como DFC, EXIM y USTDA. La misión, que incluye reuniones en Santa Cruz y La Paz, busca diagnosticar la situación comercial y facilitar proyectos de inversión privada en sectores como energía, infraestructura, agricultura y telecomunicaciones.",
+      "summary_es": "Una delegación del Gobierno de Estados Unidos visita Bolivia para sostener reuniones con autoridades económicas y empresarios privados con el fin de identificar áreas estratégicas de inversión y fortalecer la cooperación y los vínculos comerciales bilaterales, con la participación de agencias como DFC, EXIM y USTDA. La misión, que incluye reuniones en Santa Cruz y La Paz, busca diagnosticar la situación comercial y facilitar proyectos de inversión privada en sectores como energía, infraestructura, agricultura y telecomunicaciones.",
+      "summary_en": "A U.S. government delegation is visiting Bolivia to hold meetings with economic authorities and private sector business leaders to identify strategic investment areas and strengthen bilateral cooperation and trade ties, with participation from agencies such as the DFC, EXIM, and USTDA. The mission, which includes engagements in Santa Cruz and La Paz, aims to assess the business climate and facilitate private investment projects in sectors such as energy, infrastructure, agriculture, and telecommunications.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-15T12:21:00-04:00",
+      "published_at_bo": "2025-12-15T12:21:00-04:00",
+      "fetched_at_utc": "2025-12-15T16:38:16.134661+00:00",
+      "day": "2025-12-15"
+    },
+    {
+      "source": "El Deber",
+      "title": "Precio del dólar paralelo registra ‘estacionamiento’, influenciado por la aprobación de créditos",
+      "url": "https://eldeber.com.bo/economia/precio-dolar-paralelo-registra-estacionamiento-influenciado-aprobacion-creditos_1765812992",
+      "summary": "El dólar paralelo mostró leves variaciones este lunes, situándose alrededor de 9,15 Bs de compra y 9,11 Bs de venta, mientras que el tipo referencial del BCB quedó en 8,87/8,77, y el dólar físico se cotizaba cercano a 9,50/9,70 en Santa Cruz, ante una liquidez aún limitada. Expertos señalan que la demanda especulativa se mantiene contenida pero persiste la iliquidez, pese a anuncios de ayuda internacional y crédito, lo que mantiene el desequilibrio cambiario y empuja a buscar otras divisas o activos.",
+      "summary_es": "El dólar paralelo mostró leves variaciones este lunes, situándose alrededor de 9,15 Bs de compra y 9,11 Bs de venta, mientras que el tipo referencial del BCB quedó en 8,87/8,77, y el dólar físico se cotizaba cercano a 9,50/9,70 en Santa Cruz, ante una liquidez aún limitada. Expertos señalan que la demanda especulativa se mantiene contenida pero persiste la iliquidez, pese a anuncios de ayuda internacional y crédito, lo que mantiene el desequilibrio cambiario y empuja a buscar otras divisas o activos.",
+      "summary_en": "The parallel dollar showed only slight movements this Monday, trading around 9.15 bolivianos for buy and 9.11 for sell, while the central bank’s reference rate stood at 8.87/8.77. The physical dollar was quoted near 9.50/9.70 in Santa Cruz, amid still limited liquidity. Experts say speculative demand remains contained but illiquidity persists, despite announcements of international aid and credit, which maintains the exchange-rate imbalance and pushes buyers to seek other currencies or assets.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-15T12:00:00-04:00",
+      "published_at_bo": "2025-12-15T12:00:00-04:00",
+      "fetched_at_utc": "2025-12-15T16:38:17.115836+00:00",
+      "day": "2025-12-15"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia asume vicepresidencia del Parlamento del Mercosur y define agenda 2025-2026",
