@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-15T23:25:36.684858+00:00",
+  "generated_at_utc": "2025-12-15T23:32:18.337546+00:00",
   "count": 93,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno y panificadores buscan conciliar pagos anticipados por harina subvencionada",
+      "url": "https://eldeber.com.bo/economia/gobierno-panificadores-buscan-conciliar-pagos-anticipados-harina-subvencionada_1765839666",
+      "summary": "El Gobierno inició un proceso técnico con la dirigencia de los panificadores para acordar una conciliación final sobre los pagos anticipados a Emapa a fin de asegurar la compra de harina subsidiada, con un plazo máximo de 30 días hábiles para cuantificar montos y saldos. Para cerrar legalmente el acuerdo, los dirigentes deberán presentar pruebas oficiales de su representación ante la Confederación de Panificadores de Bolivia, en un contexto de cuestionamientos a Emapa por desfalcos y fallas en la entrega de insumos.",
+      "summary_es": "El Gobierno inició un proceso técnico con la dirigencia de los panificadores para acordar una conciliación final sobre los pagos anticipados a Emapa a fin de asegurar la compra de harina subsidiada, con un plazo máximo de 30 días hábiles para cuantificar montos y saldos. Para cerrar legalmente el acuerdo, los dirigentes deberán presentar pruebas oficiales de su representación ante la Confederación de Panificadores de Bolivia, en un contexto de cuestionamientos a Emapa por desfalcos y fallas en la entrega de insumos.",
+      "summary_en": "The government has launched a technical process with the leadership of the bread producers to agree on a final settlement of the advance payments to Emapa, aimed at securing the purchase of subsidized flour. The process has a maximum window of 30 working days to quantify the amounts and balances. To legally finalize the agreement, the leaders must present official proof of their representation to the Confederation of Bolivian Bakers, at a time of scrutiny over Emapa’s alleged embezzlement and failures in delivering supplies.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-15T19:16:00-04:00",
+      "published_at_bo": "2025-12-15T19:16:00-04:00",
+      "fetched_at_utc": "2025-12-15T23:25:33.750482+00:00",
+      "day": "2025-12-15"
+    },
+    {
+      "source": "El Deber",
+      "title": "La histórica crecida del Piraí inundó 8.000 hectáreas de soya que estaban listas para cosechar",
+      "url": "https://eldeber.com.bo/economia/historica-crecida-pirai-inundo-8-000-hectareas-soya-estaban-listas-cosechar_1765836710",
+      "summary": "Las lluvias en la cuenca alta del río Piraí provocaron un desbordamiento que inundó entre 6.000 y 8.000 hectáreas de soya listas para cosecha en el norte de Santa Cruz, sin pérdidas humanas. Advierten que, si persisten las lluvias, podrían verse afectadas al menos 10.000 hectáreas adicionales y piden reencauzar el río para evitar nuevos daños y retrasos en la siembra.",
+      "summary_es": "Las lluvias en la cuenca alta del río Piraí provocaron un desbordamiento que inundó entre 6.000 y 8.000 hectáreas de soya listas para cosecha en el norte de Santa Cruz, sin pérdidas humanas. Advierten que, si persisten las lluvias, podrían verse afectadas al menos 10.000 hectáreas adicionales y piden reencauzar el río para evitar nuevos daños y retrasos en la siembra.",
+      "summary_en": "Heavy rains in the upper Piraí River basin triggered a flood that inundated between 6,000 and 8,000 hectares of soybeans ready for harvest in northern Santa Cruz, with no reported loss of life. Authorities warn that if the rains continue, at least another 10,000 hectares could be affected, and they are calling for rerouting the river to prevent further damage and delays to planting.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-15T18:37:00-04:00",
+      "published_at_bo": "2025-12-15T18:37:00-04:00",
+      "fetched_at_utc": "2025-12-15T23:25:34.723243+00:00",
+      "day": "2025-12-15"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno denuncia que empresas creadas durante la gestión del MAS saquearon al Estado; anuncian investigaciones",
