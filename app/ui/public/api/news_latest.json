@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-16T16:36:34.730821+00:00",
+  "generated_at_utc": "2025-12-16T16:47:41.011228+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Producción de granos se eleva a 5,6 millones de toneladas en 2025, pero exportaciones caen 9%, según Anapo",
+      "url": "https://eldeber.com.bo/economia/produccion-granos-eleva-5-6-millones-toneladas-2025-exportaciones-caen-9-anapo_1765900588",
+      "summary": "La producción nacional de granos en Bolivia alcanzó 5.649.187 toneladas en 2025, un aumento del 91% respecto a 2024, con un movimiento económico estimado en 3.000 millones de dólares (Anapo). La Asociación considera este año un punto de inflexión y afirma que solo con un marco regulatorio previsible y exportaciones liberadas podrá consolidarse una nueva etapa de expansión productiva y competitividad del sector.",
+      "summary_es": "La producción nacional de granos en Bolivia alcanzó 5.649.187 toneladas en 2025, un aumento del 91% respecto a 2024, con un movimiento económico estimado en 3.000 millones de dólares (Anapo). La Asociación considera este año un punto de inflexión y afirma que solo con un marco regulatorio previsible y exportaciones liberadas podrá consolidarse una nueva etapa de expansión productiva y competitividad del sector.",
+      "summary_en": "Bolivia’s domestic grain production reached 5,649,187 tonnes in 2025, a 91% increase over 2024, with estimated economic activity of $3 billion (Anapo). The association calls this year a turning point and says that only with a predictable regulatory framework and liberated exports can a new phase of productive expansion and sector competitiveness be consolidated.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-16T12:28:00-04:00",
+      "published_at_bo": "2025-12-16T12:28:00-04:00",
+      "fetched_at_utc": "2025-12-16T16:36:29.972249+00:00",
+      "day": "2025-12-16"
+    },
+    {
+      "source": "El Deber",
+      "title": "Precios de las carnes se mantienen en Santa Cruz, suben el queso y las hortalizas",
+      "url": "https://eldeber.com.bo/economia/precios-carnes-mantienen-santa-cruz-suben-queso-hortalizas_1765898622",
+      "summary": "En el principal mercado de Santa Cruz de la Sierra, la carne de res de primera se mantiene en 72 Bs/kg, el pollo industrial en 18 Bs/kg y el cerdo en 29 Bs/kg, mientras el queso sube a 32 Bs/kg (un incremento del 14,29%). Las hortalizas también muestran alzas destacadas, como el pimentón de 10 a 13 Bs por docena y la cebolla de primera de 6 a 7 Bs por 3 libras, con otros productos variando o manteniéndose estables.",
+      "summary_es": "En el principal mercado de Santa Cruz de la Sierra, la carne de res de primera se mantiene en 72 Bs/kg, el pollo industrial en 18 Bs/kg y el cerdo en 29 Bs/kg, mientras el queso sube a 32 Bs/kg (un incremento del 14,29%). Las hortalizas también muestran alzas destacadas, como el pimentón de 10 a 13 Bs por docena y la cebolla de primera de 6 a 7 Bs por 3 libras, con otros productos variando o manteniéndose estables.",
+      "summary_en": "At Santa Cruz de la Sierra’s main market, premium beef stays at 72 Bs per kg, industrial chicken at 18 Bs per kg, and pork at 29 Bs per kg, while cheese rises to 32 Bs per kg (a 14.29% increase). Vegetables also show notable gains, such as bell peppers up from 10 to 13 Bs per dozen and first-grade onions from 6 to 7 Bs for 3 pounds, with other products fluctuating or remaining stable.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-16T11:29:00-04:00",
+      "published_at_bo": "2025-12-16T11:29:00-04:00",
+      "fetched_at_utc": "2025-12-16T16:36:30.947357+00:00",
+      "day": "2025-12-16"
+    },
     {
       "source": "El Deber",
       "title": "La minería concentra el 57% de las exportaciones de Bolivia y aporta cerca del 8% del PIB",
