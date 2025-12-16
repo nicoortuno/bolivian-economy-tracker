@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-16T21:26:19.391988+00:00",
+  "generated_at_utc": "2025-12-16T21:33:48.731763+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La avicultura cruceña es la que más alimenta a Bolivia, pero hay pérdidas por la crisis",
+      "url": "https://eldeber.com.bo/economia/avicultura-crucena-alimenta-bolivia-hay-perdidas-crisis_1765916742",
+      "summary": "La avicultura cruceña cerró 2025 como principal proveedora de carne de pollo y huevo de Bolivia, con 186 millones de pollos de engorde y cerca de 180 millones de huevos mensuales, generando un valor bruto de producción de 1.473 millones de dólares y sosteniendo gran parte del PIB regional. Sin embargo, pese al crecimiento, el sector enfrenta costos crecientes de insumos, baja rentabilidad y presión de precios internos, lo que podría afectar la viabilidad de las granjas a corto plazo.",
+      "summary_es": "La avicultura cruceña cerró 2025 como principal proveedora de carne de pollo y huevo de Bolivia, con 186 millones de pollos de engorde y cerca de 180 millones de huevos mensuales, generando un valor bruto de producción de 1.473 millones de dólares y sosteniendo gran parte del PIB regional. Sin embargo, pese al crecimiento, el sector enfrenta costos crecientes de insumos, baja rentabilidad y presión de precios internos, lo que podría afectar la viabilidad de las granjas a corto plazo.",
+      "summary_en": "Santa Cruz poultry farming closed 2025 as Bolivia’s leading supplier of chicken meat and eggs, with 186 million broiler chickens raised and about 180 million eggs produced each month. It generated a gross production value of $1.473 billion and supports a large portion of the regional GDP. However, despite growth, the sector faces rising input costs, low profitability, and downward pressure on domestic prices, which could affect the viability of farms in the short term.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-16T16:56:00-04:00",
+      "published_at_bo": "2025-12-16T16:56:00-04:00",
+      "fetched_at_utc": "2025-12-16T21:26:15.631262+00:00",
+      "day": "2025-12-16"
+    },
     {
       "source": "El Deber",
       "title": "Crece presión para la destitución de la directora de la ANH por haber trabajado 10 años con el MAS",
