@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-16T14:29:57.496735+00:00",
+  "generated_at_utc": "2025-12-16T14:44:00.699579+00:00",
   "count": 85,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Reservas del BCB: el ‘Estado empresario’ dilapidó el respaldo externo para el país",
+      "url": "https://eldeber.com.bo/economia/reservas-bcb-estado-empresario-dilapido-respaldo-externo-pais_1765891656",
+      "summary": "El informe denuncia un saqueo institucional: entre 2006 y 2024 se retiraron Bs 53.945 millones de las RIN para financiar 14 empresas públicas inviables, con solo el 18% recuperado en 19 años, lo que profundizó la descapitalización del Estado. En paralelo, las Reservas Internacionales Netas cayeron de ~US$5.276 millones a ~US$1.796 millones, obligando al Gobierno a usar la Ley del Oro y recurrir a la venta y pignoración de oro para sostener la liquidez.",
+      "summary_es": "El informe denuncia un saqueo institucional: entre 2006 y 2024 se retiraron Bs 53.945 millones de las RIN para financiar 14 empresas públicas inviables, con solo el 18% recuperado en 19 años, lo que profundizó la descapitalización del Estado. En paralelo, las Reservas Internacionales Netas cayeron de ~US$5.276 millones a ~US$1.796 millones, obligando al Gobierno a usar la Ley del Oro y recurrir a la venta y pignoración de oro para sostener la liquidez.",
+      "summary_en": "The report denounces an institutional looting: between 2006 and 2024, Bs 53,945 million were withdrawn from the RIN to fund 14 loss-making public companies, with only 18% recovered over 19 years, further depleting the State’s capitalization. At the same time, Net International Reserves fell from roughly US$5.276 billion to about US$1.796 billion, forcing the government to use the Gold Law and to resort to selling and pawning gold to sustain liquidity.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-16T10:25:00-04:00",
+      "published_at_bo": "2025-12-16T10:25:00-04:00",
+      "fetched_at_utc": "2025-12-16T14:29:55.340702+00:00",
+      "day": "2025-12-16"
+    },
     {
       "source": "El Deber",
       "title": "En 2025 más de 112.000 personas fortalecieron sus habilidades digitales con programas de Tigo en Bolivia",
