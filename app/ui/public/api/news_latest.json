@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-17T20:31:02.961767+00:00",
+  "generated_at_utc": "2025-12-17T20:38:22.855445+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno interviene BoA, apunta a sabotaje interno y anuncia acciones legales por retrasos",
+      "url": "https://eldeber.com.bo/economia/gobierno-interviene-boa-apunta-sabotaje-interno-anuncia-acciones-legales-retrasos_1766002803",
+      "summary": "El Gobierno de Bolivia inició una intervención en Boliviana de Aviación para corregir una planificación defectuosa heredada y fallas en la gestión de recursos humanos, tras persistentes retrasos y cancelaciones, con el objetivo de normalizar operaciones y reducir a cero los pasajeros afectados para principios de enero. Además, se investigan posibles irregularidades de la administración anterior, incluida la venta de aeronaves y decisiones que generaron pérdidas, sin un plan de privatización.",
+      "summary_es": "El Gobierno de Bolivia inició una intervención en Boliviana de Aviación para corregir una planificación defectuosa heredada y fallas en la gestión de recursos humanos, tras persistentes retrasos y cancelaciones, con el objetivo de normalizar operaciones y reducir a cero los pasajeros afectados para principios de enero. Además, se investigan posibles irregularidades de la administración anterior, incluida la venta de aeronaves y decisiones que generaron pérdidas, sin un plan de privatización.",
+      "summary_en": "The Bolivian government has launched an intervention at Boliviana de Aviación to rectify inherited planning and human resources management flaws, following persistent delays and cancellations. The goal is to normalize operations and bring the number of affected passengers to zero by early January. Additionally, possible irregularities from the previous administration are being investigated, including the sale of aircraft and decisions that caused losses, with no privatization plan in place.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T16:20:00-04:00",
+      "published_at_bo": "2025-12-17T16:20:00-04:00",
+      "fetched_at_utc": "2025-12-17T20:30:55.614191+00:00",
+      "day": "2025-12-17"
+    },
     {
       "source": "El Deber",
       "title": "Fegasacruz proyecta una ganadería con visión 2030 y confirma excedente de 70 mil toneladas de carne",
