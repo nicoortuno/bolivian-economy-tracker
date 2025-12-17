@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-17T21:33:50.199929+00:00",
-  "count": 95,
+  "generated_at_utc": "2025-12-17T22:25:38.487411+00:00",
+  "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno apunta a sabotaje interno en BoA y anuncia acciones legales por retrasos",
+      "url": "https://eldeber.com.bo/economia/gobierno-interviene-boa-apunta-sabotaje-interno-anuncia-acciones-legales-retrasos_1766002803",
+      "summary": "El Gobierno de Bolivia inició una intervención en Boliviana de Aviación para corregir una planificación defectuosa heredada y fallas en la gestión de recursos humanos, tras persistentes retrasos y cancelaciones, con el objetivo de normalizar operaciones y reducir a cero los pasajeros afectados para principios de enero. Además, se investigan posibles irregularidades de la administración anterior, incluida la venta de aeronaves y decisiones que generaron pérdidas, sin un plan de privatización.",
+      "summary_es": "El Gobierno de Bolivia inició una intervención en Boliviana de Aviación para corregir una planificación defectuosa heredada y fallas en la gestión de recursos humanos, tras persistentes retrasos y cancelaciones, con el objetivo de normalizar operaciones y reducir a cero los pasajeros afectados para principios de enero. Además, se investigan posibles irregularidades de la administración anterior, incluida la venta de aeronaves y decisiones que generaron pérdidas, sin un plan de privatización.",
+      "summary_en": "The Bolivian government has launched an intervention at Boliviana de Aviación to rectify inherited planning and human resources management flaws, following persistent delays and cancellations. The goal is to normalize operations and bring the number of affected passengers to zero by early January. Additionally, possible irregularities from the previous administration are being investigated, including the sale of aircraft and decisions that caused losses, with no privatization plan in place.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T17:39:00-04:00",
+      "published_at_bo": "2025-12-17T17:39:00-04:00",
+      "fetched_at_utc": "2025-12-17T22:25:34.629832+00:00",
+      "day": "2025-12-17"
+    },
     {
       "source": "El Deber",
       "title": "Crecidas de ríos ponen en riesgo gasoductos, pero YPFB asegura control total de la emergencia",
@@ -13,21 +27,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-17T16:54:00-04:00",
       "published_at_bo": "2025-12-17T16:54:00-04:00",
-      "fetched_at_utc": "2025-12-17T21:26:39.744672+00:00",
-      "day": "2025-12-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "El Gobierno interviene BoA, apunta a sabotaje interno y anuncia acciones legales por retrasos",
-      "url": "https://eldeber.com.bo/economia/gobierno-interviene-boa-apunta-sabotaje-interno-anuncia-acciones-legales-retrasos_1766002803",
-      "summary": "El Gobierno de Bolivia inició una intervención en Boliviana de Aviación para corregir una planificación defectuosa heredada y fallas en la gestión de recursos humanos, tras persistentes retrasos y cancelaciones, con el objetivo de normalizar operaciones y reducir a cero los pasajeros afectados para principios de enero. Además, se investigan posibles irregularidades de la administración anterior, incluida la venta de aeronaves y decisiones que generaron pérdidas, sin un plan de privatización.",
-      "summary_es": "El Gobierno de Bolivia inició una intervención en Boliviana de Aviación para corregir una planificación defectuosa heredada y fallas en la gestión de recursos humanos, tras persistentes retrasos y cancelaciones, con el objetivo de normalizar operaciones y reducir a cero los pasajeros afectados para principios de enero. Además, se investigan posibles irregularidades de la administración anterior, incluida la venta de aeronaves y decisiones que generaron pérdidas, sin un plan de privatización.",
-      "summary_en": "The Bolivian government has launched an intervention at Boliviana de Aviación to rectify inherited planning and human resources management flaws, following persistent delays and cancellations. The goal is to normalize operations and bring the number of affected passengers to zero by early January. Additionally, possible irregularities from the previous administration are being investigated, including the sale of aircraft and decisions that caused losses, with no privatization plan in place.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-17T16:20:00-04:00",
-      "published_at_bo": "2025-12-17T16:20:00-04:00",
-      "fetched_at_utc": "2025-12-17T21:26:40.717204+00:00",
+      "fetched_at_utc": "2025-12-17T22:25:35.627212+00:00",
       "day": "2025-12-17"
     },
     {
@@ -41,7 +41,7 @@
       "sentiment": null,
       "published_at_utc": "2025-12-17T12:59:00-04:00",
       "published_at_bo": "2025-12-17T12:59:00-04:00",
-      "fetched_at_utc": "2025-12-17T21:26:42.111379+00:00",
+      "fetched_at_utc": "2025-12-17T22:25:36.613886+00:00",
       "day": "2025-12-17"
     },
     {
