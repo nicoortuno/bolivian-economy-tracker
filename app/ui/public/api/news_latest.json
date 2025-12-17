@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-17T16:35:58.516526+00:00",
+  "generated_at_utc": "2025-12-17T16:48:18.199549+00:00",
   "count": 92,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "CAO destaca crecimiento del 20,37%, rubros sin intervención estatal muestran mejores cifras",
+      "url": "https://eldeber.com.bo/economia/cao-destaca-crecimiento-20-37-rubros-intervencion-estatal-muestran-mejores-cifras_1765985889",
+      "summary": "La CAO reporta un crecimiento del 20,37% en la producción agrícola 2025 respecto a 2024 (16,3 millones de toneladas), impulsado principalmente por sectores sin intervención estatal, mientras que rubros regulados por el Gobierno muestran dificultades y deben liberar exportaciones para invertir. Para 2026 se espera un crecimiento del 4% en siembra de verano y la CAO advierte que, con menos trabas, el sector podría avanzar hacia un objetivo de 13.000 millones de dólares para 2034.",
+      "summary_es": "La CAO reporta un crecimiento del 20,37% en la producción agrícola 2025 respecto a 2024 (16,3 millones de toneladas), impulsado principalmente por sectores sin intervención estatal, mientras que rubros regulados por el Gobierno muestran dificultades y deben liberar exportaciones para invertir. Para 2026 se espera un crecimiento del 4% en siembra de verano y la CAO advierte que, con menos trabas, el sector podría avanzar hacia un objetivo de 13.000 millones de dólares para 2034.",
+      "summary_en": "The CAO reports a 20.37% increase in agricultural production for 2025 compared with 2024 (16.3 million tons), driven mainly by sectors without government intervention, while sectors regulated by the government face difficulties and need to free up exports to reinvest. For 2026, a 4% rise in summer planting is expected, and the CAO warns that, with fewer obstacles, the sector could move toward a $13 billion target by 2034.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T11:50:00-04:00",
+      "published_at_bo": "2025-12-17T11:50:00-04:00",
+      "fetched_at_utc": "2025-12-17T16:35:54.641283+00:00",
+      "day": "2025-12-17"
+    },
+    {
+      "source": "El Deber",
+      "title": "ANH detecta irregularidades en sistemas de seguridad de cisternas que salen de Palmasola",
+      "url": "https://eldeber.com.bo/economia/anh-detecta-irregularidades-sistemas-seguridad-cisternas-salen-palmasola_1765985407",
+      "summary": "Un operativo de la ANH detectó irregularidades en los precintos de seguridad de las cisternas en la planta de Palmasola (Santa Cruz), mientras La Paz, Oruro y Cochabamba reportaron cumplimiento; las fallas podrían facilitar la manipulación y el desvío de combustible, por lo que se investigarán responsabilidades y se adoptarán medidas para garantizar la trazabilidad y el abastecimiento.",
+      "summary_es": "Un operativo de la ANH detectó irregularidades en los precintos de seguridad de las cisternas en la planta de Palmasola (Santa Cruz), mientras La Paz, Oruro y Cochabamba reportaron cumplimiento; las fallas podrían facilitar la manipulación y el desvío de combustible, por lo que se investigarán responsabilidades y se adoptarán medidas para garantizar la trazabilidad y el abastecimiento.",
+      "summary_en": "An operation by Bolivia’s ANH detected irregularities in the security seals on fuel tanks at the Palmasola plant in Santa Cruz, while La Paz, Oruro and Cochabamba reported compliance. The issues could facilitate tampering and the diversion of fuel, so authorities will investigate accountability and implement measures to ensure traceability and reliable supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T11:40:00-04:00",
+      "published_at_bo": "2025-12-17T11:40:00-04:00",
+      "fetched_at_utc": "2025-12-17T16:35:55.610332+00:00",
+      "day": "2025-12-17"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno y productores acuerdan mesas para combatir el contrabando de arroz",
