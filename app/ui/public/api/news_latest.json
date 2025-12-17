@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-17T22:25:38.487411+00:00",
+  "generated_at_utc": "2025-12-17T22:36:15.155381+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El agro garantiza alimentos para Navidad, pero advierte que los precios los define el mercado",
+      "url": "https://eldeber.com.bo/economia/agro-garantiza-alimentos-navidad-advierte-precios-define-mercado_1766008708",
+      "summary": "A pesar de la escasez de diésel, dólar y restricciones a exportaciones, los productores agropecuarios de Santa Cruz aseguraron el abastecimiento de alimentos para el país, señalando que serán el mercado y la demanda los que fijen los precios, no directamente los productores. El verdadero reto es garantizar combustible, insumos y reglas claras para mantener precios estables al consumidor sin asfixiar a los productores.",
+      "summary_es": "A pesar de la escasez de diésel, dólar y restricciones a exportaciones, los productores agropecuarios de Santa Cruz aseguraron el abastecimiento de alimentos para el país, señalando que serán el mercado y la demanda los que fijen los precios, no directamente los productores. El verdadero reto es garantizar combustible, insumos y reglas claras para mantener precios estables al consumidor sin asfixiar a los productores.",
+      "summary_en": "Despite diesel shortages, the dollar, and export restrictions, agricultural producers in Santa Cruz have assured the country’s food supply, saying that prices will be set by the market and by demand, not directly by the producers themselves. The real challenge is to secure fuel, inputs, and clear rules to keep prices stable for consumers without choking the producers.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T18:05:00-04:00",
+      "published_at_bo": "2025-12-17T18:05:00-04:00",
+      "fetched_at_utc": "2025-12-17T22:25:33.655613+00:00",
+      "day": "2025-12-17"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno apunta a sabotaje interno en BoA y anuncia acciones legales por retrasos",
