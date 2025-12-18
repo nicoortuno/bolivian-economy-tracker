@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-18T17:27:33.740717+00:00",
+  "generated_at_utc": "2025-12-18T17:37:39.342495+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ejecutivo admite impacto en la canasta familiar y sostiene que el Decreto 5503 ordenará la economía",
+      "url": "https://eldeber.com.bo/economia/ejecutivo-admite-impacto-canasta-familiar-sostiene-decreto-5503-ordenara-economia_1766077696",
+      "summary": "El gobierno boliviano, mediante el Decreto Supremo 5503, anunció una intervención de emergencia para reordenar precios, estabilizar la macroeconomía y contener una crisis que, según afirmó, podría derivar en hiperinflación, mediante la reducción de subsidios, ajustes de precios y nuevas transferencias sociales. Entre las medidas, destaca la prohibición de que el Banco Central financie empresas públicas, la flexibilización de diferimientos de créditos y un plan para aumentar la capacidad de refinación mediante la importación de petróleo crudo y reformas en el sector energético.",
+      "summary_es": "El gobierno boliviano, mediante el Decreto Supremo 5503, anunció una intervención de emergencia para reordenar precios, estabilizar la macroeconomía y contener una crisis que, según afirmó, podría derivar en hiperinflación, mediante la reducción de subsidios, ajustes de precios y nuevas transferencias sociales. Entre las medidas, destaca la prohibición de que el Banco Central financie empresas públicas, la flexibilización de diferimientos de créditos y un plan para aumentar la capacidad de refinación mediante la importación de petróleo crudo y reformas en el sector energético.",
+      "summary_en": "Bolivia’s government, through Supreme Decree 5503, announced an emergency intervention to realign prices, stabilize the macroeconomy, and guard against a crisis that it says could flare into hyperinflation, by cutting subsidies, adjusting prices, and rolling out new social transfers. Among the measures, it highlights prohibiting the Central Bank from financing state-owned companies, loosening credit deferral rules, and a plan to boost refining capacity by importing crude oil and pursuing reforms in the energy sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-18T13:10:00-04:00",
+      "published_at_bo": "2025-12-18T13:10:00-04:00",
+      "fetched_at_utc": "2025-12-18T17:27:29.847750+00:00",
+      "day": "2025-12-18"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno defiende alza de combustibles y busca desactivar conflicto con el transporte",
