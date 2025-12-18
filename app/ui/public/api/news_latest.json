@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-18T16:37:08.636551+00:00",
+  "generated_at_utc": "2025-12-18T16:48:02.235355+00:00",
   "count": 93,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno defiende alza de combustibles y busca desactivar conflicto con el transporte",
+      "url": "https://eldeber.com.bo/economia/gobierno-defiende-alza-combustibles-busca-desactivar-conflicto-transporte_1766075161",
+      "summary": "El Decreto Supremo 5503 eliminó el subsidio a los combustibles, desatando protestas y tensiones sociales mientras el Gobierno defiende la medida por su costo fiscal (US$3.500 millones al año, 6,4% del PIB) y por eliminar el contrabando, al acercar precios internos al internacional y reducir importaciones. Aunque se promete menor impacto directo en la vida cotidiana y medidas de alivio para el transporte, persiste la incertidumbre sobre posibles efectos en la canasta familiar y la inflación, con negociaciones en curso entre el Ejecutivo y los transportistas.",
+      "summary_es": "El Decreto Supremo 5503 eliminó el subsidio a los combustibles, desatando protestas y tensiones sociales mientras el Gobierno defiende la medida por su costo fiscal (US$3.500 millones al año, 6,4% del PIB) y por eliminar el contrabando, al acercar precios internos al internacional y reducir importaciones. Aunque se promete menor impacto directo en la vida cotidiana y medidas de alivio para el transporte, persiste la incertidumbre sobre posibles efectos en la canasta familiar y la inflación, con negociaciones en curso entre el Ejecutivo y los transportistas.",
+      "summary_en": "Supreme Decree 5503 eliminated fuel subsidies, triggering protests and social tensions as the government defends the measure on fiscal grounds—about US$3.5 billion per year, roughly 6.4% of GDP—and for curbing smuggling by bringing domestic prices closer to international levels and reducing imports. While officials promise a smaller direct impact on daily life and point to relief measures for transportation, uncertainty remains about potential effects on household budgets and inflation, with negotiations ongoing between the administration and transport operators.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-18T12:30:00-04:00",
+      "published_at_bo": "2025-12-18T12:30:00-04:00",
+      "fetched_at_utc": "2025-12-18T16:37:04.749014+00:00",
+      "day": "2025-12-18"
+    },
+    {
+      "source": "El Deber",
+      "title": "Presidente de CAINCO: “Decisiones valientes y difíciles, pero tenemos que salvar el país”",
+      "url": "https://eldeber.com.bo/economia/presidente-cainco-decisiones-valientes-dificiles-tenemos-salvar-pais_1766072998",
+      "summary": "Jean Pierre Antelo, presidente de CAINCO, afirmó que el decreto de ajuste económico responde a una crisis económica, social y energética y que, aunque doloroso, era esperable; el sector privado apoya la eliminación del subsidio a los combustibles y estima que podría reducir el déficit en alrededor de un 3%, con medidas para proteger a los vulnerables. Pidió rapidez en la implementación de las restantes medidas y reformas para reactivar la economía y mejorar la empleabilidad, especialmente para jóvenes y mujeres.",
+      "summary_es": "Jean Pierre Antelo, presidente de CAINCO, afirmó que el decreto de ajuste económico responde a una crisis económica, social y energética y que, aunque doloroso, era esperable; el sector privado apoya la eliminación del subsidio a los combustibles y estima que podría reducir el déficit en alrededor de un 3%, con medidas para proteger a los vulnerables. Pidió rapidez en la implementación de las restantes medidas y reformas para reactivar la economía y mejorar la empleabilidad, especialmente para jóvenes y mujeres.",
+      "summary_en": "Jean Pierre Antelo, president of CAINCO, said that the economic adjustment decree responds to an economic, social, and energy crisis and that, while painful, it was to be expected. The private sector backs eliminating the fuel subsidy and estimates it could trim the deficit by around 3%, with measures to shield the vulnerable. He urged swift implementation of the remaining measures and reforms to revive the economy and improve employability, especially for young people and women.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-18T12:00:00-04:00",
+      "published_at_bo": "2025-12-18T12:00:00-04:00",
+      "fetched_at_utc": "2025-12-18T16:37:05.721054+00:00",
+      "day": "2025-12-18"
+    },
     {
       "source": "El Deber",
       "title": "Detectan sabotaje interno en BoA y anuncian una reestructuración",
