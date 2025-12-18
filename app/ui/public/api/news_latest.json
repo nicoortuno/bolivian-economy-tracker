@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-18T11:23:55.735850+00:00",
+  "generated_at_utc": "2025-12-18T11:32:00.327333+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Detectan sabotaje interno en BoA y anuncian una reestructuración",
+      "url": "https://eldeber.com.bo/economia/detectan-sabotaje-interno-boa-anuncian-reestructuracion_1766056481",
+      "summary": "El Gobierno culpa a un sabotaje interno y a una mala planificación en BoA, anunciando despidos, una auditoría interna y la posibilidad de buscar un socio privado sin privatizar la aerolínea. Las investigaciones apuntan a una programación de vuelos basada en una flota menor a la declarada y a movimientos contables y ventas de aeronaves que esconden pérdidas y bajas ocupaciones en rutas internacionales.",
+      "summary_es": "El Gobierno culpa a un sabotaje interno y a una mala planificación en BoA, anunciando despidos, una auditoría interna y la posibilidad de buscar un socio privado sin privatizar la aerolínea. Las investigaciones apuntan a una programación de vuelos basada en una flota menor a la declarada y a movimientos contables y ventas de aeronaves que esconden pérdidas y bajas ocupaciones en rutas internacionales.",
+      "summary_en": "The government blames internal sabotage and poor planning at BoA, announcing layoffs, an internal audit, and the possibility of seeking a private partner without privatizing the airline. Investigations point to a flight schedule based on a fleet smaller than declared, along with accounting maneuvers and the sale of aircraft that conceal losses and low occupancy on international routes.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-18T07:14:00-04:00",
+      "published_at_bo": "2025-12-18T07:14:00-04:00",
+      "fetched_at_utc": "2025-12-18T11:23:53.984130+00:00",
+      "day": "2025-12-18"
+    },
     {
       "source": "El Deber",
       "title": "Especialista advierte que el alza de combustibles y salarios presionará precios y golpeará a las pymes",
