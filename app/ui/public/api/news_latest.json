@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-18T04:38:28.087070+00:00",
+  "generated_at_utc": "2025-12-18T04:47:39.082440+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Especialista advierte que el alza de combustibles y salarios presionará precios y golpeará a las pymes",
+      "url": "https://eldeber.com.bo/economia/especialista-advierte-alza-combustibles-salarios-presionara-precios-golpeara-pymes_1766028851",
+      "summary": "El economista Juan Fernando Subirana analizó las medidas anunciadas por Rodrigo Paz Pereira, destacando que el incremento de combustibles y el aumento del salario mínimo buscan un equilibrio fiscal, pero podrían ser fuertemente inflacionarios y afectar la canasta básica. También advirtió que el aumento salarial elevaría los costos laborales y perjudicaría a pymes y emprendimientos, por lo que necesitarán políticas complementarias para mitigar el impacto y proteger el aparato productivo.",
+      "summary_es": "El economista Juan Fernando Subirana analizó las medidas anunciadas por Rodrigo Paz Pereira, destacando que el incremento de combustibles y el aumento del salario mínimo buscan un equilibrio fiscal, pero podrían ser fuertemente inflacionarios y afectar la canasta básica. También advirtió que el aumento salarial elevaría los costos laborales y perjudicaría a pymes y emprendimientos, por lo que necesitarán políticas complementarias para mitigar el impacto y proteger el aparato productivo.",
+      "summary_en": "Economist Juan Fernando Subirana analyzed the measures announced by Rodrigo Paz Pereira, noting that the fuel price increases and the rise in the minimum wage are aimed at achieving fiscal balance but could be highly inflationary and affect the basic consumption basket. He also warned that the wage hike would raise labor costs and hurt small and medium-sized enterprises (SMEs) and startups, meaning they will need complementary policies to mitigate the impact and protect the productive sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T23:36:00-04:00",
+      "published_at_bo": "2025-12-17T23:36:00-04:00",
+      "fetched_at_utc": "2025-12-18T04:38:24.028908+00:00",
+      "day": "2025-12-17"
+    },
+    {
+      "source": "El Deber",
+      "title": "La aerolínea Flybondi ve a Santa Cruz como una ruta estratégica, pero frena su ingreso por trabas regulatorias",
+      "url": "https://eldeber.com.bo/economia/aerolinea-flybondi-ve-santa-cruz-ruta-estrategica-frena-ingreso-trabas-regulatorias_1766022272",
+      "summary": "Flybondi tenía planes concretos para operar en Bolivia, especialmente hacia Santa Cruz, pero los retrasos regulatorios frenaron el proyecto; no obstante, el CEO considera posible retomar la iniciativa en corto o mediano plazo si el marco regulatorio continúa evolucionando. Aún no se descarta analizar nuevas rutas a Bolivia en los próximos meses, ante señales de mayor apertura regulatoria.",
+      "summary_es": "Flybondi tenía planes concretos para operar en Bolivia, especialmente hacia Santa Cruz, pero los retrasos regulatorios frenaron el proyecto; no obstante, el CEO considera posible retomar la iniciativa en corto o mediano plazo si el marco regulatorio continúa evolucionando. Aún no se descarta analizar nuevas rutas a Bolivia en los próximos meses, ante señales de mayor apertura regulatoria.",
+      "summary_en": "Flybondi had concrete plans to operate in Bolivia, with a focus on Santa Cruz, but regulatory delays stalled the project. Still, the CEO says it could be revived in the short to medium term if the regulatory framework continues to evolve. The airline has not ruled out exploring new routes to Bolivia in the coming months amid signs of greater regulatory openness.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-17T23:30:00-04:00",
+      "published_at_bo": "2025-12-17T23:30:00-04:00",
+      "fetched_at_utc": "2025-12-18T04:38:24.986055+00:00",
+      "day": "2025-12-17"
+    },
     {
       "source": "El Deber",
       "title": "Conozca los bonos que se incrementarán desde este 2 de enero",
