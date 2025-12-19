@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-19T02:02:17.206752+00:00",
+  "generated_at_utc": "2025-12-19T02:24:48.741079+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Surtidores al límite: Asosur alerta insolvencia financiera y riesgo en el abastecimiento de combustibles",
+      "url": "https://eldeber.com.bo/economia/surtidores-limite-asosur-alerta-insolvencia-financiera-riesgo-abastecimiento-combustibles_1766099905",
+      "summary": "Asosur advierte una grave insolvencia en las estaciones de servicio debido a la drástica reducción de márgenes, que ha dejado las ganancias a niveles cercanos a la mitad de los costos operativos, poniendo en riesgo el suministro de combustibles. La organización solicita una reunión de emergencia con el Ministerio de Hidrocarburos para revisar y ajustar dichos márgenes y así sostener la operación de unas 700 estaciones, de las que el 60% están afiliadas.",
+      "summary_es": "Asosur advierte una grave insolvencia en las estaciones de servicio debido a la drástica reducción de márgenes, que ha dejado las ganancias a niveles cercanos a la mitad de los costos operativos, poniendo en riesgo el suministro de combustibles. La organización solicita una reunión de emergencia con el Ministerio de Hidrocarburos para revisar y ajustar dichos márgenes y así sostener la operación de unas 700 estaciones, de las que el 60% están afiliadas.",
+      "summary_en": "Asosur warns of a grave insolvency among service stations due to a drastic squeeze in margins, leaving profits at about half of operating costs and risking fuel supplies. The organization is calling for an emergency meeting with the Ministry of Hydrocarbons to review and adjust these margins to keep roughly 700 stations in operation, 60% of which are affiliated.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-18T19:27:00-04:00",
+      "published_at_bo": "2025-12-18T19:27:00-04:00",
+      "fetched_at_utc": "2025-12-19T02:02:12.435160+00:00",
+      "day": "2025-12-18"
+    },
     {
       "source": "El Deber",
       "title": "El agro respalda el ajuste, pero exige medidas urgentes para no paralizar la producción",
