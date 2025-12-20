@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-20T15:24:02.325379+00:00",
+  "generated_at_utc": "2025-12-20T15:31:46.496822+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Decreto Supremo 5503: Diputada suplente dice que su sueldo “no alcanza”",
+      "url": "https://eldeber.com.bo/economia/decreto-supremo-5503-diputada-suplente-dice-sueldo-no-alcanza_1766242498",
+      "summary": "La diputada suplente Sofía Rocha afirmó que su ingreso actual de Bs 5.400 no alcanza para cubrir los costos de su labor parlamentaria, citando gastos como asesores, viáticos y transporte. Dijo que, pese a la reducción salarial anunciada por el Ejecutivo (Decreto Supremo 5503), está dispuesta a bajarse el sueldo si corresponde, destacando que su situación no depende únicamente del Estado.",
+      "summary_es": "La diputada suplente Sofía Rocha afirmó que su ingreso actual de Bs 5.400 no alcanza para cubrir los costos de su labor parlamentaria, citando gastos como asesores, viáticos y transporte. Dijo que, pese a la reducción salarial anunciada por el Ejecutivo (Decreto Supremo 5503), está dispuesta a bajarse el sueldo si corresponde, destacando que su situación no depende únicamente del Estado.",
+      "summary_en": "Substitute lawmaker Sofía Rocha said her current income of Bs 5,400 is not enough to cover the costs of her parliamentary work, including expenses for aides, per diems, and transportation. She added that, despite the wage cut announced by the Executive (Supreme Decree 5503), she is willing to take a pay cut if necessary, stressing that her situation is not solely in the hands of the State.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-20T11:10:00-04:00",
+      "published_at_bo": "2025-12-20T11:10:00-04:00",
+      "fetched_at_utc": "2025-12-20T15:23:58.593185+00:00",
+      "day": "2025-12-20"
+    },
+    {
+      "source": "El Deber",
+      "title": "El dólar paralelo se mantiene por debajo de Bs 10 y muestra una tendencia a la baja",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-mantiene-debajo-bs-10-muestra-tendencia-baja_1766240350",
+      "summary": "El dólar paralelo se mantiene por debajo de los 10 Bs (9,58 de compra y 9,49 de venta) tras una subida moderada por el fin del subsidio, con una tendencia de stabilización y sesgo a la baja. El tipo de cambio oficial del BCB es 8,46 de compra y 8,68 de venta, y aunque la brecha con el paralelo persiste, ya no se agranda, señal de un reacomodo del mercado.",
+      "summary_es": "El dólar paralelo se mantiene por debajo de los 10 Bs (9,58 de compra y 9,49 de venta) tras una subida moderada por el fin del subsidio, con una tendencia de stabilización y sesgo a la baja. El tipo de cambio oficial del BCB es 8,46 de compra y 8,68 de venta, y aunque la brecha con el paralelo persiste, ya no se agranda, señal de un reacomodo del mercado.",
+      "summary_en": "The parallel dollar remains below 10 bolívares, at 9.58 for buying and 9.49 for selling, after a modest rise tied to the subsidy’s end, with a stabilizing trend and a downward tilt. The Central Bank of Venezuela’s official rate is 8.46 for buying and 8.68 for selling, and while the gap with the parallel rate persists, it is no longer widening—a sign of a market rebalancing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-20T10:25:00-04:00",
+      "published_at_bo": "2025-12-20T10:25:00-04:00",
+      "fetched_at_utc": "2025-12-20T15:23:59.539944+00:00",
+      "day": "2025-12-20"
+    },
     {
       "source": "El Deber",
       "title": "BoA suma Washington a su red internacional y refuerza la conexión de Bolivia con EEUU",
