@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-20T14:22:41.005500+00:00",
+  "generated_at_utc": "2025-12-20T14:33:30.173192+00:00",
   "count": 97,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA suma Washington a su red internacional y refuerza la conexión de Bolivia con EEUU",
+      "url": "https://eldeber.com.bo/economia/boa-suma-washington-red-internacional-refuerza-conexion-bolivia-eeuu_1766239384",
+      "summary": "BoA anunció una nueva ruta internacional que conecta Santa Cruz de la Sierra con el Aeropuerto Washington Dulles, con escala en Ciudad de Panamá, ampliando su red hacia la costa este de Estados Unidos y conectando Bolivia con uno de sus hubs clave. Aunque la aerolínea estatal busca crecimiento y mayor conectividad, persisten retos de flota, puntualidad y regularidad operativa tras la intervención gubernamental.",
+      "summary_es": "BoA anunció una nueva ruta internacional que conecta Santa Cruz de la Sierra con el Aeropuerto Washington Dulles, con escala en Ciudad de Panamá, ampliando su red hacia la costa este de Estados Unidos y conectando Bolivia con uno de sus hubs clave. Aunque la aerolínea estatal busca crecimiento y mayor conectividad, persisten retos de flota, puntualidad y regularidad operativa tras la intervención gubernamental.",
+      "summary_en": "BoA announced a new international route linking Santa Cruz de la Sierra with Washington Dulles International Airport, with a stop in Panama City, expanding its network to the U.S. East Coast and connecting Bolivia to one of its key hubs. While the state airline seeks growth and greater connectivity, it faces ongoing challenges in fleet, punctuality, and operational reliability after government intervention.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-20T10:08:00-04:00",
+      "published_at_bo": "2025-12-20T10:08:00-04:00",
+      "fetched_at_utc": "2025-12-20T14:22:38.969771+00:00",
+      "day": "2025-12-20"
+    },
     {
       "source": "El Deber",
       "title": "Surtidores al límite: Asosur alerta insolvencia financiera y riesgo en el abastecimiento de combustibles",
