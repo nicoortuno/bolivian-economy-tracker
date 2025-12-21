@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-21T14:35:02.712770+00:00",
-  "count": 104,
+  "generated_at_utc": "2025-12-21T15:24:09.706125+00:00",
+  "count": 99,
   "items": [
     {
       "source": "El Deber",
@@ -1373,90 +1373,6 @@
       "published_at_bo": "2025-12-07T04:00:00-04:00",
       "fetched_at_utc": "2025-12-07T09:23:43.758420+00:00",
       "day": "2025-12-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "CAO considera que es \"importante empezar a abrir más mercados\"",
-      "url": "https://eldeber.com.bo/economia/prioridad-numero-uno-abastecer-mercado-local-aseguran-cao_1765049203",
-      "summary": "La apertura de Bolivia hacia nuevos mercados para la carne bovina avanza con Egipto ya suscrito y Chile en la mira para 2026, posicionando al país como el cuarto acuerdo tras China, Rusia y Ecuador. El sector subraya que la prioridad es abastecer primero el mercado local, y, con las lluvias de noviembre, se espera mayor oferta, menores precios e más inversiones ante reglas claras y seguridad jurídica.",
-      "summary_es": "La apertura de Bolivia hacia nuevos mercados para la carne bovina avanza con Egipto ya suscrito y Chile en la mira para 2026, posicionando al país como el cuarto acuerdo tras China, Rusia y Ecuador. El sector subraya que la prioridad es abastecer primero el mercado local, y, con las lluvias de noviembre, se espera mayor oferta, menores precios e más inversiones ante reglas claras y seguridad jurídica.",
-      "summary_en": "Bolivia’s push into new beef markets progresses, with Egypt already signed and Chile eyed for 2026, positioning the country as the fourth deal after China, Russia, and Ecuador. The sector emphasizes that priority is to first meet the domestic market, and with the November rains, a bigger supply is expected, along with lower prices and more investment in an environment of clear rules and legal certainty.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-06T16:27:00-04:00",
-      "published_at_bo": "2025-12-06T16:27:00-04:00",
-      "fetched_at_utc": "2025-12-06T23:22:50.536441+00:00",
-      "day": "2025-12-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia debe $us 3.200 millones a China y es el quinto mayor deudor latinoamericano",
-      "url": "https://eldeber.com.bo/economia/bolivia-debe-us-3-200-millones-china-quinto-mayor-deudor-latinoamericano_1765045002",
-      "summary": "China está girando su política financiera hacia América Latina, priorizando la gestión y renegociación de sus deudas y reduciendo los nuevos préstamos; Bolivia, con unos $3.200 millones adeudados, enfrenta mayores pagos, condiciones crediticias más estrictas y menor liquidez externa. En ese contexto, los préstamos siguen ligados a proyectos con contratistas y tecnología chinas, lo que reduce la transparencia y complica evaluar la sostenibilidad de la deuda, pese a posibles oportunidades de exportación hacia China.",
-      "summary_es": "China está girando su política financiera hacia América Latina, priorizando la gestión y renegociación de sus deudas y reduciendo los nuevos préstamos; Bolivia, con unos $3.200 millones adeudados, enfrenta mayores pagos, condiciones crediticias más estrictas y menor liquidez externa. En ese contexto, los préstamos siguen ligados a proyectos con contratistas y tecnología chinas, lo que reduce la transparencia y complica evaluar la sostenibilidad de la deuda, pese a posibles oportunidades de exportación hacia China.",
-      "summary_en": "China is shifting its financial policy toward Latin America, prioritizing debt management and renegotiation and tightening new lending; Bolivia, with around $3.2 billion in debt, faces larger payments, stricter credit terms, and reduced external liquidity. In this context, loans remain tied to projects with Chinese contractors and technology, which reduces transparency and makes assessing debt sustainability more complex, despite potential export opportunities to China.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-06T14:17:00-04:00",
-      "published_at_bo": "2025-12-06T14:17:00-04:00",
-      "fetched_at_utc": "2025-12-06T23:22:51.539048+00:00",
-      "day": "2025-12-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Exportaciones de carne bovina a octubre bajaron en volumen, pero subieron en valor",
-      "url": "https://eldeber.com.bo/economia/exportaciones-carne-bovina-octubre-bajaron-volumen-subieron-valor_1765038501",
-      "summary": "Entre enero y octubre de 2025 las exportaciones de carne bovina bajaron 4% en volumen respecto al mismo periodo de 2024, pero subieron 11% en valor (36 t por $166,41 millones frente a 37,7 t por $150,16 millones). Ante el anuncio de vender carne a Egipto, Bolivia podría presentar un repunte y competir con grandes proveedores como Brasil, Argentina y Australia, pese a la preferencia egipcia por pollo.",
-      "summary_es": "Entre enero y octubre de 2025 las exportaciones de carne bovina bajaron 4% en volumen respecto al mismo periodo de 2024, pero subieron 11% en valor (36 t por $166,41 millones frente a 37,7 t por $150,16 millones). Ante el anuncio de vender carne a Egipto, Bolivia podría presentar un repunte y competir con grandes proveedores como Brasil, Argentina y Australia, pese a la preferencia egipcia por pollo.",
-      "summary_en": "Between January and October 2025, Bolivia’s beef exports fell 4% in volume compared with the same period in 2024, but rose 11% in value (36 tons totaling $166.41 million, versus 37.7 tons for $150.16 million). Following the announcement of selling meat to Egypt, Bolivia could see a rebound and compete with major suppliers such as Brazil, Argentina, and Australia, despite Egypt’s preference for chicken.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-06T12:37:00-04:00",
-      "published_at_bo": "2025-12-06T12:37:00-04:00",
-      "fetched_at_utc": "2025-12-06T22:23:10.078677+00:00",
-      "day": "2025-12-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Santa Cruz: precio de las carnes bajan levemente, junto con el de hortalizas y frutas",
-      "url": "https://eldeber.com.bo/economia/santa-cruz-precio-carnes-bajan-levemente-junto-hortalizas-frutas_1765032052",
-      "summary": "Los precios en Santa Cruz mostraron un alivio parcial para el consumidor, con bajas en hortalizas, frutas y algunas carnes, mientras que la yuca aumentó y la carne de cerdo y el pollo cayeron; la carne de res se mantuvo estable y el queso subió.",
-      "summary_es": "Los precios en Santa Cruz mostraron un alivio parcial para el consumidor, con bajas en hortalizas, frutas y algunas carnes, mientras que la yuca aumentó y la carne de cerdo y el pollo cayeron; la carne de res se mantuvo estable y el queso subió.",
-      "summary_en": "Prices in Santa Cruz offered partial relief for consumers, with declines in vegetables, fruit, and some meats, while yuca rose and pork and chicken fell; beef stayed steady and cheese rose.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-06T10:58:00-04:00",
-      "published_at_bo": "2025-12-06T10:58:00-04:00",
-      "fetched_at_utc": "2025-12-06T20:26:40.298406+00:00",
-      "day": "2025-12-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno y sector privado retoman agenda para impulsar producción y definir consensos",
-      "url": "https://eldeber.com.bo/economia/gobierno-sector-privado-retoman-agenda-impulsar-produccion-definir-consensos_1765026499",
-      "summary": "Se reunió en Santa Cruz con los principales gremios productivos para escuchar demandas y evaluar medidas orientadas a mejorar el clima económico, con la idea de abrir una agenda de trabajo conjunta y establecer tareas urgentes para optimizar procesos y reactivar la presencia boliviana en mercados internacionales. El gobierno enfatizó transparencia y la eliminación de trabas, buscando fortalecer el diálogo público-privado, incentivar exportaciones e inversiones y avanzar hacia la prioridad de “Bolivia en el mundo y el mundo en Bolivia.”",
-      "summary_es": "Se reunió en Santa Cruz con los principales gremios productivos para escuchar demandas y evaluar medidas orientadas a mejorar el clima económico, con la idea de abrir una agenda de trabajo conjunta y establecer tareas urgentes para optimizar procesos y reactivar la presencia boliviana en mercados internacionales. El gobierno enfatizó transparencia y la eliminación de trabas, buscando fortalecer el diálogo público-privado, incentivar exportaciones e inversiones y avanzar hacia la prioridad de “Bolivia en el mundo y el mundo en Bolivia.”",
-      "summary_en": "The official met in Santa Cruz with the country’s major productive sectors to listen to their demands and assess measures to improve the economic climate, with the aim of launching a joint work agenda and setting urgent tasks to streamline processes and revive Bolivia’s presence in international markets. The government stressed transparency and the removal of obstacles, seeking to strengthen public-private dialogue, spur exports and investment, and advance the priority of “Bolivia in the world and the world in Bolivia.”",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-06T09:08:00-04:00",
-      "published_at_bo": "2025-12-06T09:08:00-04:00",
-      "fetched_at_utc": "2025-12-06T18:33:00.039129+00:00",
-      "day": "2025-12-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Nuevo director de la Autoridad Minera promete acelerar 4.000 trámites retrasados por 8 años",
-      "url": "https://eldeber.com.bo/economia/nuevo-director-autoridad-minera-promete-acelerar-4-000-tramites-retrasados-8-anos_1765022661",
-      "summary": "Jaime Sanabria Goitia, nuevo director de la AJAM, prometió desbloquear más de 4.000 trámites de derechos mineros estancados y acelerar los procedimientos, dentro de un marco de transparencia y legalidad para atraer inversiones nacionales y extranjeras. Además, llamó a coordinar esfuerzos con otras instituciones para combatir la minería ilegal y fortalecer la seguridad jurídica y la credibilidad institucional.",
-      "summary_es": "Jaime Sanabria Goitia, nuevo director de la AJAM, prometió desbloquear más de 4.000 trámites de derechos mineros estancados y acelerar los procedimientos, dentro de un marco de transparencia y legalidad para atraer inversiones nacionales y extranjeras. Además, llamó a coordinar esfuerzos con otras instituciones para combatir la minería ilegal y fortalecer la seguridad jurídica y la credibilidad institucional.",
-      "summary_en": "Jaime Sanabria Goitia, the new head of AJAM, pledged to unlock more than 4,000 stalled mining-rights procedures and accelerate the processes, within a framework of transparency and legality to attract domestic and foreign investment. He also called for coordinating efforts with other institutions to combat illegal mining and to strengthen legal certainty and institutional credibility.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-06T08:13:00-04:00",
-      "published_at_bo": "2025-12-06T08:13:00-04:00",
-      "fetched_at_utc": "2025-12-06T17:20:12.916035+00:00",
-      "day": "2025-12-06"
     }
   ]
 }
