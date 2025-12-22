@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-22T07:28:42.130756+00:00",
+  "generated_at_utc": "2025-12-22T07:36:06.805498+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Prevén que Decreto 5503 golpeará más fuerte a las mypes en 2026",
+      "url": "https://eldeber.com.bo/economia/preven-decreto-5503-golpeara-fuerte-mypes-2026_1766372306",
+      "summary": "El Decreto Supremo 5503, que eleva el Salario Mínimo a 3.300 Bs para 2026 y elimina los subsidios a los combustibles, podría incrementar costos y reducir ventas, derivando en cierres de miles de mypes y desempleo. Este escenario amenaza la formalidad y podría acelerar la informalidad laboral si no se implementan políticas de sostenibilidad para las micro y pequeñas empresas.",
+      "summary_es": "El Decreto Supremo 5503, que eleva el Salario Mínimo a 3.300 Bs para 2026 y elimina los subsidios a los combustibles, podría incrementar costos y reducir ventas, derivando en cierres de miles de mypes y desempleo. Este escenario amenaza la formalidad y podría acelerar la informalidad laboral si no se implementan políticas de sostenibilidad para las micro y pequeñas empresas.",
+      "summary_en": "Supreme Decree 5503 raises the minimum wage to 3,300 Bs for 2026 and ends fuel subsidies, potentially increasing costs and reducing sales. It could trigger the closure of thousands of micro and small businesses and result in job losses. The scenario threatens formality and could accelerate informal employment unless sustainability policies for micro and small enterprises are put in place.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-22T03:00:00-04:00",
+      "published_at_bo": "2025-12-22T03:00:00-04:00",
+      "fetched_at_utc": "2025-12-22T07:28:40.204934+00:00",
+      "day": "2025-12-22"
+    },
     {
       "source": "El Deber",
       "title": "Ministro de Economía: “Volvemos a un tipo de cambio único y flotante, al alcance de todos”",
