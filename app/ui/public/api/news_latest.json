@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-23T22:24:53.200020+00:00",
+  "generated_at_utc": "2025-12-23T22:35:40.923884+00:00",
   "count": 107,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Defensoría denuncia alzas “especulativas” y sin control en tarifas del transporte tras el DS 5503",
+      "url": "https://eldeber.com.bo/economia/defensoria-denuncia-alzas-especulativas-control-tarifas-transporte-ds-5503_1766525986",
+      "summary": "La Defensoría del Pueblo detectó aumentos “unilaterales, generalizados y desproporcionados” en las tarifas de transporte tras el DS 5503, especialmente en Cochabamba, Santa Cruz y La Paz, sin respaldo oficial ni controles, golpeando principalmente a buses normales, semi cama y transporte urbano. Exige transparencia, regulación efectiva y medidas inmediatas para evitar que estos precios afecten de forma regresiva a hogares de ingresos medios y bajos.",
+      "summary_es": "La Defensoría del Pueblo detectó aumentos “unilaterales, generalizados y desproporcionados” en las tarifas de transporte tras el DS 5503, especialmente en Cochabamba, Santa Cruz y La Paz, sin respaldo oficial ni controles, golpeando principalmente a buses normales, semi cama y transporte urbano. Exige transparencia, regulación efectiva y medidas inmediatas para evitar que estos precios afecten de forma regresiva a hogares de ingresos medios y bajos.",
+      "summary_en": "The Ombudsman’s Office detected unilateral, generalized, and disproportionate increases in transport fares following Supreme Decree 5503, especially in Cochabamba, Santa Cruz, and La Paz, with no official backing or oversight. The hikes hit regular buses, semi-cama buses, and urban transport, and have a regressive impact on middle- and low-income households. The institution is calling for transparency, effective regulation, and immediate measures to curb the price increases.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T17:52:00-04:00",
+      "published_at_bo": "2025-12-23T17:52:00-04:00",
+      "fetched_at_utc": "2025-12-23T22:24:48.438008+00:00",
+      "day": "2025-12-23"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno defiende bonos sociales como “amortiguador” del ajuste lanzado con el decreto de emergencia",
+      "url": "https://eldeber.com.bo/economia/gobierno-defiende-bonos-sociales-amortiguador-ajuste-lanzado-decreto-emergencia_1766524100",
+      "summary": "El Gobierno lanzó un programa de protección social que incrementa la Renta Dignidad, el Bono Juancito Pinto y el PEPE, entre otros apoyos, para mitigar el impacto del ajuste de precios y proteger a los sectores más vulnerables. El objetivo es alcanzar a cerca del 30% de la población y servir de puente mientras se avanza en la estabilización económica y no se reemplazan las reformas estructurales.",
+      "summary_es": "El Gobierno lanzó un programa de protección social que incrementa la Renta Dignidad, el Bono Juancito Pinto y el PEPE, entre otros apoyos, para mitigar el impacto del ajuste de precios y proteger a los sectores más vulnerables. El objetivo es alcanzar a cerca del 30% de la población y servir de puente mientras se avanza en la estabilización económica y no se reemplazan las reformas estructurales.",
+      "summary_en": "The government has launched a social protection program that increases the Renta Dignidad, the Bono Juancito Pinto, and the PEPE, among other supports, to mitigate the impact of price adjustments and protect the most vulnerable. The aim is to reach about 30% of the population and to serve as a bridge while economic stabilization proceeds and the structural reforms are not rolled back.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T17:34:00-04:00",
+      "published_at_bo": "2025-12-23T17:34:00-04:00",
+      "fetched_at_utc": "2025-12-23T22:24:49.387854+00:00",
+      "day": "2025-12-23"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno afirma que el gasto en combustibles cayó hasta 30% y anuncia ingreso de dólares de la CAF",
