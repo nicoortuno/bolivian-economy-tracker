@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-23T20:28:36.019625+00:00",
+  "generated_at_utc": "2025-12-23T20:35:53.151233+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Carne ‘verde’ y un hato por descubrir: el despertar del búfalo boliviano",
+      "url": "https://eldeber.com.bo/economia/carne-verde-hato-descubrir-despertar-bufalo-boliviano_1766520143",
+      "summary": "Bolivia da un paso histórico al iniciar una faena técnica del búfalo para generar datos y conocimiento propio, bajo la visión de la Asociación de Criadores de Búfalos y su presidente Luis Quiles. El artículo sitúa al búfalo como una oportunidad rentable y adaptable, con carne, leche y trabajo, frente a un mercado global liderado por Asia y con desafíos logísticos y de percepción que superar para convertirlo en una nueva frontera productiva en el país.",
+      "summary_es": "Bolivia da un paso histórico al iniciar una faena técnica del búfalo para generar datos y conocimiento propio, bajo la visión de la Asociación de Criadores de Búfalos y su presidente Luis Quiles. El artículo sitúa al búfalo como una oportunidad rentable y adaptable, con carne, leche y trabajo, frente a un mercado global liderado por Asia y con desafíos logísticos y de percepción que superar para convertirlo en una nueva frontera productiva en el país.",
+      "summary_en": "Bolivia takes a historic step by launching a technical buffalo farming initiative to generate data and local knowledge, guided by the Buffalo Breeders Association and its president, Luis Quiles. The article frames the buffalo as a profitable and adaptable opportunity, offering meat, milk, and draft power, in a global market led by Asia, with logistical and perceptual challenges to overcome in order to turn it into a new productive frontier for the country.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T16:16:00-04:00",
+      "published_at_bo": "2025-12-23T16:16:00-04:00",
+      "fetched_at_utc": "2025-12-23T20:28:32.258357+00:00",
+      "day": "2025-12-23"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno plantea un giro tributario: un pago único del 5% y formalización voluntaria “barata”",
