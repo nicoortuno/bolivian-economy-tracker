@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-23T23:24:23.154687+00:00",
+  "generated_at_utc": "2025-12-23T23:31:44.502621+00:00",
   "count": 109,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Enrique Notta: “Bolivia continúa subutilizando la hidrovía para su comercio exterior”",
+      "url": "https://eldeber.com.bo/economia/enrique-notta-bolivia-continua-subutilizando-hidrovia-comercio-exterior_1766531558",
+      "summary": "El libro surge ante la escasa bibliografía sobre operaciones portuarias y navegación en aguas bolivianas y propone analizar y reflexionar sobre la relevancia estratégica de la Hidrovía Paraguay-Paraná para el desarrollo económico y la soberanía de Bolivia. Su objetivo es difundir datos y promover una visión integrada de la logística fluvial para favorecer la integración regional y el acceso soberano al mar.",
+      "summary_es": "El libro surge ante la escasa bibliografía sobre operaciones portuarias y navegación en aguas bolivianas y propone analizar y reflexionar sobre la relevancia estratégica de la Hidrovía Paraguay-Paraná para el desarrollo económico y la soberanía de Bolivia. Su objetivo es difundir datos y promover una visión integrada de la logística fluvial para favorecer la integración regional y el acceso soberano al mar.",
+      "summary_en": "The book emerges amid scarce literature on port operations and navigation in Bolivian waters and proposes to analyze and reflect on the strategic importance of the Paraguay-Paraná Waterway for Bolivia’s economic development and sovereignty. Its aim is to disseminate data and promote an integrated view of river logistics to support regional integration and sovereign access to the sea.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T19:12:00-04:00",
+      "published_at_bo": "2025-12-23T19:12:00-04:00",
+      "fetched_at_utc": "2025-12-23T23:24:16.020140+00:00",
+      "day": "2025-12-23"
+    },
+    {
+      "source": "El Deber",
+      "title": "YPFB y cisterneros alcanzan acuerdo técnico sobre flete internacional de transporte de combustibles",
+      "url": "https://eldeber.com.bo/economia/ypfb-cisterneros-alcanzan-acuerdo-tecnico-flete-internacional-transporte-combustibles_1766528662",
+      "summary": "YPFB y los cisterneros del país acordaron actualizar los criterios técnicos que regulan el costo del flete para el transporte internacional de hidrocarburos desde países vecinos hacia Bolivia, con el objetivo de ajustar las tarifas a los costos reales (divisas, peajes, seguros y pago de choferes) y garantizar la estabilidad de la cadena de suministro ante el desabastecimiento y las protestas. Este acuerdo, tras horas de trabajo técnico, busca establecer un marco más equitativo y sostenible a mediano y largo plazo para el sector.",
+      "summary_es": "YPFB y los cisterneros del país acordaron actualizar los criterios técnicos que regulan el costo del flete para el transporte internacional de hidrocarburos desde países vecinos hacia Bolivia, con el objetivo de ajustar las tarifas a los costos reales (divisas, peajes, seguros y pago de choferes) y garantizar la estabilidad de la cadena de suministro ante el desabastecimiento y las protestas. Este acuerdo, tras horas de trabajo técnico, busca establecer un marco más equitativo y sostenible a mediano y largo plazo para el sector.",
+      "summary_en": "YPFB and the country’s tank truck drivers reached an agreement to update the technical criteria that regulate freight costs for the international transport of hydrocarbons from neighboring countries into Bolivia. The goal is to align tariffs with real costs (foreign exchange, tolls, insurance, and driver wages) and to ensure supply-chain stability amid shortages and protests. After hours of technical work, the deal aims to establish a fairer and more sustainable framework for the medium and long term.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T18:47:00-04:00",
+      "published_at_bo": "2025-12-23T18:47:00-04:00",
+      "fetched_at_utc": "2025-12-23T23:24:16.966613+00:00",
+      "day": "2025-12-23"
+    },
     {
       "source": "El Deber",
       "title": "Defensoría denuncia alzas “especulativas” y sin control en tarifas del transporte tras el DS 5503",
