@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-23T11:31:14.033369+00:00",
-  "count": 102,
+  "generated_at_utc": "2025-12-23T12:55:16.569682+00:00",
+  "count": 101,
   "items": [
     {
       "source": "El Deber",
@@ -1401,34 +1401,6 @@
       "published_at_bo": "2025-12-09T04:00:00-04:00",
       "fetched_at_utc": "2025-12-09T09:29:38.306383+00:00",
       "day": "2025-12-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "¿Cuáles son los créditos cuestionados por el vicepresidente Lara?",
-      "url": "https://eldeber.com.bo/economia/cuales-creditos-cuestionados-vicepresidente-lara_1765235044",
-      "summary": "El vicepresidente Edmand Lara criticó tres proyectos de créditos millonarios presentados a la ALP (550 millones de USD con CAF, 100 millones de USD con JICA y 30 millones de USD con BID) por no considerar la capacidad de endeudamiento del país, y solicitó explicaciones técnicas sobre el destino y uso de los fondos, aclarando que no los está rechazando.",
-      "summary_es": "El vicepresidente Edmand Lara criticó tres proyectos de créditos millonarios presentados a la ALP (550 millones de USD con CAF, 100 millones de USD con JICA y 30 millones de USD con BID) por no considerar la capacidad de endeudamiento del país, y solicitó explicaciones técnicas sobre el destino y uso de los fondos, aclarando que no los está rechazando.",
-      "summary_en": "Vice President Edmand Lara criticized three multi-million-dollar loan proposals submitted to the ALP (US$550 million with CAF, US$100 million with JICA, and US$30 million with the IDB) for not taking the country’s debt-carrying capacity into account, and asked for technical explanations on the destination and use of the funds, stressing that he is not rejecting them.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-08T19:21:00-04:00",
-      "published_at_bo": "2025-12-08T19:21:00-04:00",
-      "fetched_at_utc": "2025-12-09T04:33:43.406132+00:00",
-      "day": "2025-12-08"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cisterneros se reúnen con YPFB con una agenda marcada por las deudas y la conclusión del contrato",
-      "url": "https://eldeber.com.bo/economia/cisterneros-reunen-ypfb-agenda-marcada-deudas-conclusion-contrato_1765226735",
-      "summary": "La Federación de Cisterneros del Oriente y YPFB se reúnen para tratar los adeudos pendientes de agosto a octubre, una retención de 19 meses y la incertidumbre por el contrato de licitación que vence el 31 de diciembre, lo que podría afectar el transporte y suministro. La estatal debe aproximadamente 170 millones de Bs y los cisterneros exigen certidumbre para 7.000 trabajadores distribuidos en el país.",
-      "summary_es": "La Federación de Cisterneros del Oriente y YPFB se reúnen para tratar los adeudos pendientes de agosto a octubre, una retención de 19 meses y la incertidumbre por el contrato de licitación que vence el 31 de diciembre, lo que podría afectar el transporte y suministro. La estatal debe aproximadamente 170 millones de Bs y los cisterneros exigen certidumbre para 7.000 trabajadores distribuidos en el país.",
-      "summary_en": "The Eastern Cisterners Federation and YPFB will meet to discuss outstanding debts from August to October, a 19-month payment backlog, and the uncertainty surrounding the bidding contract that expires on December 31, which could affect transport and supply. The state-owned company owes roughly 170 million Bolivian bolivianos, and the cistern drivers are demanding certainty for about 7,000 workers spread across the country.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-08T17:06:00-04:00",
-      "published_at_bo": "2025-12-08T17:06:00-04:00",
-      "fetched_at_utc": "2025-12-09T01:59:43.815575+00:00",
-      "day": "2025-12-08"
     }
   ]
 }
