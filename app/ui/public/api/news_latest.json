@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-23T12:55:16.569682+00:00",
+  "generated_at_utc": "2025-12-23T13:05:53.578226+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia ahorrará más de $us 3.600 millones tras eliminar el subsidio",
+      "url": "https://eldeber.com.bo/economia/bolivia-ahorrara-us-3-600-millones-eliminar-subsidio_1766489734",
+      "summary": "La eliminación del subsidio a los combustibles en Bolivia podría ahorrar hasta 3.650 millones de dólares al año, según cálculos oficiales, mientras que el gasto en combustibles durante los gobiernos de Arce y Morales superó los 15.600 y 10.330 millones de dólares, respectivamente. Aunque generó descontento en sectores como el transporte, la medida recibió respaldo en sectores empresariales y productivos, y el gobierno la presenta como un mal necesario para evitar un colapso económico, mientras se evalúan ajustes en tarjetas de consumo, precios y la importación de diésel para pequeños productores.",
+      "summary_es": "La eliminación del subsidio a los combustibles en Bolivia podría ahorrar hasta 3.650 millones de dólares al año, según cálculos oficiales, mientras que el gasto en combustibles durante los gobiernos de Arce y Morales superó los 15.600 y 10.330 millones de dólares, respectivamente. Aunque generó descontento en sectores como el transporte, la medida recibió respaldo en sectores empresariales y productivos, y el gobierno la presenta como un mal necesario para evitar un colapso económico, mientras se evalúan ajustes en tarjetas de consumo, precios y la importación de diésel para pequeños productores.",
+      "summary_en": "The elimination of fuel subsidies in Bolivia could save up to $3.65 billion per year, according to official calculations, while fuel spending during the administrations of Arce and Morales exceeded $15.6 billion and $10.33 billion, respectively. Although it sparked discontent in sectors such as transportation, the measure found backing from business and productive sectors, and the government calls it a necessary evil to avert an economic collapse, as adjustments are being considered to consumption cards, pricing, and diesel imports for small producers.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T07:35:00-04:00",
+      "published_at_bo": "2025-12-23T07:35:00-04:00",
+      "fetched_at_utc": "2025-12-23T12:55:14.584356+00:00",
+      "day": "2025-12-23"
+    },
     {
       "source": "El Deber",
       "title": "El IBCE advierte una crisis multidimensional y plantea a las exportaciones como la salida para 2026",
