@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-23T21:24:10.686304+00:00",
+  "generated_at_utc": "2025-12-23T21:32:07.315955+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno afirma que el gasto en combustibles cayó hasta 30% y anuncia ingreso de dólares de la CAF",
+      "url": "https://eldeber.com.bo/economia/gobierno-afirma-gasto-combustibles-cayo-30-anuncia-ingreso-dolares-caf_1766522377",
+      "summary": "Las autoridades defendieron el Decreto Supremo 5503, destacando una sustancial reducción del gasto en combustibles, la normalización de la provisión y la llegada de financiamiento externo (principalmente de la CAF) para reconstruir las reservas internacionales. Afirmaron que el subsidio se focalizará, se combate el contrabando y se abre un camino hacia la estabilidad macroeconómica, sin desconocer el costo político y social de las medidas.",
+      "summary_es": "Las autoridades defendieron el Decreto Supremo 5503, destacando una sustancial reducción del gasto en combustibles, la normalización de la provisión y la llegada de financiamiento externo (principalmente de la CAF) para reconstruir las reservas internacionales. Afirmaron que el subsidio se focalizará, se combate el contrabando y se abre un camino hacia la estabilidad macroeconómica, sin desconocer el costo político y social de las medidas.",
+      "summary_en": "Authorities defended Supreme Decree 5503, highlighting a substantial reduction in fuel spending, the normalization of fuel supply, and incoming external financing (primarily from the CAF) to rebuild international reserves. They said the subsidy will be targeted, smuggling will be tackled, and a path to macroeconomic stability is opening—while acknowledging the political and social costs of the measures.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-23T17:12:00-04:00",
+      "published_at_bo": "2025-12-23T17:12:00-04:00",
+      "fetched_at_utc": "2025-12-23T21:24:07.762581+00:00",
+      "day": "2025-12-23"
+    },
     {
       "source": "El Deber",
       "title": "Carne ‘verde’ y un hato por descubrir: el despertar del búfalo boliviano",
