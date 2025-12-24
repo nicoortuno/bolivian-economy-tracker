@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-24T15:27:08.041301+00:00",
+  "generated_at_utc": "2025-12-24T15:34:45.532340+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Antelo pide cerrar 2025 sin miedo y con decisión: “El futuro no se espera, se construye”",
+      "url": "https://eldeber.com.bo/economia/antelo-pide-cerrar-2025-miedo-decision-futuro-no-espera-construye_1766588941",
+      "summary": "Jean Pierre Antelo, presidente de Cainco, llamó a cerrar 2025 con firmeza, coraje y esperanza, destacando la resiliencia de las familias y el compromiso de empresarios ante un contexto económico adverso. Subrayó que, a pesar de la inflación, escasez de divisas y medidas como el Decreto Supremo 5503 que eliminó subsidios a combustibles, el sector privado siguió invirtiendo y generando empleo, avanzando cuando lo más fácil sería frenar.",
+      "summary_es": "Jean Pierre Antelo, presidente de Cainco, llamó a cerrar 2025 con firmeza, coraje y esperanza, destacando la resiliencia de las familias y el compromiso de empresarios ante un contexto económico adverso. Subrayó que, a pesar de la inflación, escasez de divisas y medidas como el Decreto Supremo 5503 que eliminó subsidios a combustibles, el sector privado siguió invirtiendo y generando empleo, avanzando cuando lo más fácil sería frenar.",
+      "summary_en": "Jean Pierre Antelo, president of Cainco, urged closing 2025 with resolve, courage, and hope, highlighting the resilience of families and the commitment of entrepreneurs in a challenging economic environment. He stressed that, despite inflation, currency shortages, and measures such as Supreme Decree No. 5503 that eliminated fuel subsidies, the private sector continued to invest and create jobs, forging ahead when the easier path would have been to pull back.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T11:20:00-04:00",
+      "published_at_bo": "2025-12-24T11:20:00-04:00",
+      "fetched_at_utc": "2025-12-24T15:27:01.680989+00:00",
+      "day": "2025-12-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Viajar en fiestas cuesta más: flotas suben pasajes y mantienen salidas normales",
+      "url": "https://eldeber.com.bo/economia/viajar-fiestas-cuesta-flotas-suben-pasajes-mantienen-salidas-normales_1766587102",
+      "summary": "El aumento del diésel tras el levantamiento del subsidio ya se refleja en el transporte interdepartamental, con incrementos en pasajes y demanda alta por el feriado. La ATT anunció que a partir del martes 30 de diciembre se abrirán mesas de negociación para definir un tarifario temporal de 180 días, mientras en Santa Cruz se mantienen horarios y salidas hasta las 22:00.",
+      "summary_es": "El aumento del diésel tras el levantamiento del subsidio ya se refleja en el transporte interdepartamental, con incrementos en pasajes y demanda alta por el feriado. La ATT anunció que a partir del martes 30 de diciembre se abrirán mesas de negociación para definir un tarifario temporal de 180 días, mientras en Santa Cruz se mantienen horarios y salidas hasta las 22:00.",
+      "summary_en": "The rise in diesel prices following the subsidy removal is already showing up in interdepartmental transport, with higher fares and strong demand because of the holiday. The ATT announced that, starting Tuesday, December 30, negotiation tables will be opened to define a temporary 180-day tariff schedule, while in Santa Cruz schedules and departures will be maintained until 10:00 PM.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T11:13:00-04:00",
+      "published_at_bo": "2025-12-24T11:13:00-04:00",
+      "fetched_at_utc": "2025-12-24T15:27:02.657144+00:00",
+      "day": "2025-12-24"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno proyecta un ajuste de normas para salir de la lista gris del GAFI",
