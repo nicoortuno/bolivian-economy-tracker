@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-24T16:31:59.927736+00:00",
+  "generated_at_utc": "2025-12-24T16:41:42.850877+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Alta demanda impulsa al sector porcicultor y abre planes de exportación",
+      "url": "https://eldeber.com.bo/economia/alta-demanda-impulsa-sector-porcicultor-abre-planes-exportacion_1766593396",
+      "summary": "La porcicultura boliviana se prepara para satisfacer la demanda navideña, con una producción cercana a 100.000 cerdos mensuales (alrededor de 10.000 toneladas) para abastecer el mercado interno y atender ciudades clave, mientras se avanza hacia exportaciones en 2026 tras lograr el estatus de país libre de peste porcina clásica. Se estima podría exportar hasta 1.000 toneladas mensuales sin afectar el mercado local, aprovechando la carne magra y de rápida maduración.",
+      "summary_es": "La porcicultura boliviana se prepara para satisfacer la demanda navideña, con una producción cercana a 100.000 cerdos mensuales (alrededor de 10.000 toneladas) para abastecer el mercado interno y atender ciudades clave, mientras se avanza hacia exportaciones en 2026 tras lograr el estatus de país libre de peste porcina clásica. Se estima podría exportar hasta 1.000 toneladas mensuales sin afectar el mercado local, aprovechando la carne magra y de rápida maduración.",
+      "summary_en": "Bolivian pig farming is gearing up to meet Christmas demand, with production running around 100,000 pigs per month (about 10,000 metric tonnes) to supply the domestic market and key cities, while moving toward exports in 2026 after achieving status as free of classical swine fever. It is estimated that exports could reach up to 1,000 metric tonnes per month without impacting the local market, leveraging lean, fast-maturing meat.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T12:28:00-04:00",
+      "published_at_bo": "2025-12-24T12:28:00-04:00",
+      "fetched_at_utc": "2025-12-24T16:31:52.970620+00:00",
+      "day": "2025-12-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "El comercio navideño se enfría en Santa Cruz tras el fin del subsidio",
+      "url": "https://eldeber.com.bo/economia/comercio-navideno-enfria-santa-cruz-fin-subsidio_1766591988",
+      "summary": "El comercio minorista en Santa Cruz y su área cierra el año con ventas a la baja, consecuencia del aumento del costo del transporte tras el Decreto Supremo 5503, que ha llevado a los precios al alza y a una reducción de compras no esenciales. Los consumidores priorizan alimentos básicos y, aunque siguen llegando a mercados y supermercados, los comercios han ajustado precios, ampliado horarios y lanzado promociones para mantener la demanda.",
+      "summary_es": "El comercio minorista en Santa Cruz y su área cierra el año con ventas a la baja, consecuencia del aumento del costo del transporte tras el Decreto Supremo 5503, que ha llevado a los precios al alza y a una reducción de compras no esenciales. Los consumidores priorizan alimentos básicos y, aunque siguen llegando a mercados y supermercados, los comercios han ajustado precios, ampliado horarios y lanzado promociones para mantener la demanda.",
+      "summary_en": "Retail in Santa Cruz and the surrounding area ends the year with weak sales, a result of higher transport costs following Supreme Decree 5503, which has pushed prices up and trimmed non-essential purchases. Consumers are prioritizing staple foods, and while they still visit markets and supermarkets, retailers have adjusted prices, extended hours, and launched promotions to sustain demand.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T12:09:00-04:00",
+      "published_at_bo": "2025-12-24T12:09:00-04:00",
+      "fetched_at_utc": "2025-12-24T16:31:53.924126+00:00",
+      "day": "2025-12-24"
+    },
     {
       "source": "El Deber",
       "title": "Antelo pide cerrar 2025 sin miedo y con decisión: “El futuro no se espera, se construye”",
