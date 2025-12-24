@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2025-12-24T11:23:30.381256+00:00",
+  "generated_at_utc": "2025-12-24T11:30:20.689269+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno proyecta un ajuste de normas para salir de la lista gris del GAFI",
+      "url": "https://eldeber.com.bo/economia/gobierno-proyecta-ajuste-normas-salir-lista-gris-gafi_1766574449",
+      "summary": "El Gobierno boliviano anunció un plan de ajustes normativos, principalmente en reglamentos y decretos, para superar la lista gris del GAFI y confía en obtener una evaluación positiva en octubre de 2026. Expertos señalan que, para cumplir estándares internacionales, es necesaria una ley de ALA/CFT, junto con fortalecer la UIF y su rol en procesos judiciales.",
+      "summary_es": "El Gobierno boliviano anunció un plan de ajustes normativos, principalmente en reglamentos y decretos, para superar la lista gris del GAFI y confía en obtener una evaluación positiva en octubre de 2026. Expertos señalan que, para cumplir estándares internacionales, es necesaria una ley de ALA/CFT, junto con fortalecer la UIF y su rol en procesos judiciales.",
+      "summary_en": "The Bolivian government announced a plan to adjust regulations—primarily rules and decrees—to clear the FATF’s grey list and expects a positive assessment by October 2026. Experts say that, to meet international standards, an AML/CFT law is needed, along with strengthening the Financial Intelligence Unit and its role in judicial proceedings.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T07:22:00-04:00",
+      "published_at_bo": "2025-12-24T07:22:00-04:00",
+      "fetched_at_utc": "2025-12-24T11:23:26.471676+00:00",
+      "day": "2025-12-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Hay combustible, pero rige el mismo sistema de distribución",
+      "url": "https://eldeber.com.bo/economia/hay-combustible-rige-mismo-sistema-distribucion_1766574802",
+      "summary": "A pesar de que las filas por diésel desaparecieron en Santa Cruz, persiste un problema de fondo: las normas y cupos de venta vigentes siguen manteniendo un mercado subvencionado, con precios internacionales no actualizados para placas extranjeras. La ANH anunció que a partir del 24 de diciembre el diésel dejará de estar sujeto a controles, buscando agilizar su venta, pero la demanda local sigue baja y el contrabando hacia Perú se reduce por la eliminación de la subvención boliviana.",
+      "summary_es": "A pesar de que las filas por diésel desaparecieron en Santa Cruz, persiste un problema de fondo: las normas y cupos de venta vigentes siguen manteniendo un mercado subvencionado, con precios internacionales no actualizados para placas extranjeras. La ANH anunció que a partir del 24 de diciembre el diésel dejará de estar sujeto a controles, buscando agilizar su venta, pero la demanda local sigue baja y el contrabando hacia Perú se reduce por la eliminación de la subvención boliviana.",
+      "summary_en": "Although the diesel queues have disappeared in Santa Cruz, a deeper problem remains: the current rules and sales quotas keep a subsidized market, with international prices not updated for foreign-plate vehicles. The National Hydrocarbons Agency (ANH) announced that, starting December 24, diesel will no longer be subject to controls in an effort to speed up sales. However, local demand remains weak, and smuggling to Peru has fallen with the removal of the Bolivian subsidy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T07:13:00-04:00",
+      "published_at_bo": "2025-12-24T07:13:00-04:00",
+      "fetched_at_utc": "2025-12-24T11:23:27.474624+00:00",
+      "day": "2025-12-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Cena navideña: el costo de la picana se aproxima a los Bs 250",
+      "url": "https://eldeber.com.bo/economia/cena-navidena-costo-picana-aproxima-bs-250_1766572121",
+      "summary": "La Navidad en Bolivia eleva el costo de la tradicional “picana”: en La Paz se estima un gasto de unos Bs 250 para cuatro platos, con alzas en carnes como res, cordero y cerdo, aunque el pollo se mantiene relativamente estable. En otras regiones, como Tarija y Bermejo, se reportan precios similares o ligeramente menores y surgen iniciativas para hacer más accesible la carne, mientras las familias buscan adaptar cantidades para mantener la tradición.",
+      "summary_es": "La Navidad en Bolivia eleva el costo de la tradicional “picana”: en La Paz se estima un gasto de unos Bs 250 para cuatro platos, con alzas en carnes como res, cordero y cerdo, aunque el pollo se mantiene relativamente estable. En otras regiones, como Tarija y Bermejo, se reportan precios similares o ligeramente menores y surgen iniciativas para hacer más accesible la carne, mientras las familias buscan adaptar cantidades para mantener la tradición.",
+      "summary_en": "Christmas in Bolivia raises the cost of the traditional “picana.” In La Paz, expenses run to about Bs 250 for four dishes, with increases in beef, lamb, and pork, though chicken remains relatively stable. In other regions, such as Tarija and Bermejo, prices are similar or slightly lower, and there are efforts to make meat more affordable, as families look to adjust quantities to keep the tradition.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-24T06:29:00-04:00",
+      "published_at_bo": "2025-12-24T06:29:00-04:00",
+      "fetched_at_utc": "2025-12-24T11:23:28.477901+00:00",
+      "day": "2025-12-24"
+    },
     {
       "source": "El Deber",
       "title": "Ovejas y cabras: entre el avance de la demanda y una producción que no se rinde",
