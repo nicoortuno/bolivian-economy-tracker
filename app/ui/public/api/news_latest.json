@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-12-25T11:30:04.621516+00:00",
-  "count": 110,
+  "generated_at_utc": "2025-12-25T12:52:51.803583+00:00",
+  "count": 106,
   "items": [
     {
       "source": "El Deber",
@@ -1471,76 +1471,6 @@
       "published_at_bo": "2025-12-11T04:00:00-04:00",
       "fetched_at_utc": "2025-12-11T10:31:10.679758+00:00",
       "day": "2025-12-11"
-    },
-    {
-      "source": "El Deber",
-      "title": "Presidente Paz dice que Israel tendrá un rol \"fundamental\" en las exportaciones de Bolivia",
-      "url": "https://eldeber.com.bo/economia/presidente-paz-dice-israel-tendra-rol-fundamental-exportaciones-bolivia_1765397849",
-      "summary": "Bolivia restableció relaciones diplomáticas con Israel y el presidente Rodrigo Paz afirmó que Israel tendrá un rol fundamental en las exportaciones bolivianas, en medio de esfuerzos por reactivar la economía y ampliar mercados. También mencionó que buscará reanudar relaciones con Estados Unidos y otros países compatibles con una cooperación productiva.",
-      "summary_es": "Bolivia restableció relaciones diplomáticas con Israel y el presidente Rodrigo Paz afirmó que Israel tendrá un rol fundamental en las exportaciones bolivianas, en medio de esfuerzos por reactivar la economía y ampliar mercados. También mencionó que buscará reanudar relaciones con Estados Unidos y otros países compatibles con una cooperación productiva.",
-      "summary_en": "Bolivia has restored diplomatic relations with Israel, and President Rodrigo Paz said that Israel will play a fundamental role in Bolivian exports, amid efforts to revive the economy and broaden markets. He also said he would seek to resume relations with the United States and with other countries willing to cooperate productively.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-10T16:17:00-04:00",
-      "published_at_bo": "2025-12-10T16:17:00-04:00",
-      "fetched_at_utc": "2025-12-11T02:03:18.453761+00:00",
-      "day": "2025-12-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "El nuevo plan económico 2026-2035 tiene siete ejes y busca construir una visión nacional de largo plazo",
-      "url": "https://eldeber.com.bo/economia/nuevo-plan-economico-2026-2035-tiene-siete-ejes-busca-construir-vision-nacional-largo-plazo_1765381557",
-      "summary": "El Gobierno presentó los siete ejes del nuevo Plan General de Desarrollo Económico y Social 2026-2035, un proyecto de largo plazo que busca articular visión económica, estatal y territorial con los sectores productivos para transformar el país, socializado en Cochabamba. Los pilares abarcan crecimiento con bienestar humano, integración internacional, gobernanza regional, modernización del Estado, lucha contra la corrupción, desarrollo humano y sostenibilidad ambiental, con una meta de finalizar el plan en febrero de 2026 y alinear POA y presupuestos regionales para julio de 2026.",
-      "summary_es": "El Gobierno presentó los siete ejes del nuevo Plan General de Desarrollo Económico y Social 2026-2035, un proyecto de largo plazo que busca articular visión económica, estatal y territorial con los sectores productivos para transformar el país, socializado en Cochabamba. Los pilares abarcan crecimiento con bienestar humano, integración internacional, gobernanza regional, modernización del Estado, lucha contra la corrupción, desarrollo humano y sostenibilidad ambiental, con una meta de finalizar el plan en febrero de 2026 y alinear POA y presupuestos regionales para julio de 2026.",
-      "summary_en": "The Government unveiled the seven pillars of the new General Plan for Economic and Social Development 2026-2035, a long-term project aimed at aligning economic, state, and territorial visions with productive sectors to transform the country, presented in Cochabamba. The pillars include growth with human well-being, international integration, regional governance, modernization of the State, the fight against corruption, human development, and environmental sustainability, with a target of finalizing the plan in February 2026 and aligning the annual operating plan (POA) and regional budgets by July 2026.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-10T12:01:00-04:00",
-      "published_at_bo": "2025-12-10T12:01:00-04:00",
-      "fetched_at_utc": "2025-12-10T21:28:11.823301+00:00",
-      "day": "2025-12-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "El kilo vivo de res bajó de Bs 28 a Bs 23, informan los ganaderos",
-      "url": "https://eldeber.com.bo/economia/kilo-vivo-res-bs-28-bs-23-informan-ganaderos_1765381362",
-      "summary": "El presidente de Fegasacruz, Wálter Ruiz, explicó que, pese a la menor cotización del dólar, el kilo vivo cayó de 28 a 23 Bs y que los productores reflejan ese comportamiento en los precios, pero la rebaja no llega al consumidor por el papel de intermediarios y otros actores de la cadena. Aseguró que la producción interna está garantizada con un hato de 11 millones y un excedente exportable de 70.000 toneladas, y que se apunta a mercados como Egipto y Chile.",
-      "summary_es": "El presidente de Fegasacruz, Wálter Ruiz, explicó que, pese a la menor cotización del dólar, el kilo vivo cayó de 28 a 23 Bs y que los productores reflejan ese comportamiento en los precios, pero la rebaja no llega al consumidor por el papel de intermediarios y otros actores de la cadena. Aseguró que la producción interna está garantizada con un hato de 11 millones y un excedente exportable de 70.000 toneladas, y que se apunta a mercados como Egipto y Chile.",
-      "summary_en": "The president of Fegasacruz, Wálter Ruiz, explained that despite the weaker dollar, the live-weight price per kilogram fell from 28 to 23 bolívares, and that producers reflect this trend in prices. However, the reduction does not reach consumers due to the role of intermediaries and other players in the supply chain. He stressed that domestic production is secure, with a herd of 11 million head and an exportable surplus of 70,000 tons, and that markets such as Egypt and Chile are being targeted.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-10T11:42:00-04:00",
-      "published_at_bo": "2025-12-10T11:42:00-04:00",
-      "fetched_at_utc": "2025-12-10T21:28:12.801463+00:00",
-      "day": "2025-12-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "El daño económico por contratos con Botrading alcanza los $us 857 millones",
-      "url": "https://eldeber.com.bo/economia/dano-economico-contratos-botrading-alcanza-us-857-millones_1765366389",
-      "summary": "La denuncia por venta de combustible con sobreprecio en 2023 derivó en el descubrimiento de un negociado entre funcionarios de YPFB y la paraguaya Botrading S.A., con un daño económico inicial estimado en 857 millones de dólares. La Fiscalía imputa a Armin Dorgathen y otras personas por delitos como uso indebido de influencias y contratos lesivos al Estado, mientras la investigación continúa.",
-      "summary_es": "La denuncia por venta de combustible con sobreprecio en 2023 derivó en el descubrimiento de un negociado entre funcionarios de YPFB y la paraguaya Botrading S.A., con un daño económico inicial estimado en 857 millones de dólares. La Fiscalía imputa a Armin Dorgathen y otras personas por delitos como uso indebido de influencias y contratos lesivos al Estado, mientras la investigación continúa.",
-      "summary_en": "A complaint over the sale of fuel at an inflated price in 2023 led to the discovery of a scheme involving YPFB officials and Paraguayan Botrading S.A., with an initial estimated economic damage of $857 million. The Fiscalía has charged Armin Dorgathen and others with offenses including abuse of influence and contracts detrimental to the State, as the investigation continues.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-10T07:33:00-04:00",
-      "published_at_bo": "2025-12-10T07:33:00-04:00",
-      "fetched_at_utc": "2025-12-10T17:27:57.992132+00:00",
-      "day": "2025-12-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Electrodomésticos a la baja; mientras los alimentos siguen caros, a pesar de un dólar bajo",
-      "url": "https://eldeber.com.bo/economia/electrodomesticos-baja-mientras-alimentos-siguen-caros-pesar-dolar_1765338197",
-      "summary": "En diciembre, pese a una inyección de más de Bs 3.000 millones por aguinaldo, los precios se desequilibran: los productos tecnológicos y electrodomésticos bajan notablemente (hasta 40%) impulsados por la caída del dólar paralelo, mientras que los alimentos, especialmente la carne, se mantienen altos. Expertos señalan que la variación de precios está más relacionada con la cotización del dólar que con anuncios oficiales, y advierten que la estabilidad no debe depender de la divisa.",
-      "summary_es": "En diciembre, pese a una inyección de más de Bs 3.000 millones por aguinaldo, los precios se desequilibran: los productos tecnológicos y electrodomésticos bajan notablemente (hasta 40%) impulsados por la caída del dólar paralelo, mientras que los alimentos, especialmente la carne, se mantienen altos. Expertos señalan que la variación de precios está más relacionada con la cotización del dólar que con anuncios oficiales, y advierten que la estabilidad no debe depender de la divisa.",
-      "summary_en": "In December, despite an injection of more than 3,000 million bolivianos through the aguinaldo (year-end bonus), prices become unbalanced: technological products and household appliances fall sharply (up to 40%), driven by the drop in the parallel dollar, while foods, especially meat, stay high. Experts say price changes are more closely tied to the dollar’s exchange rate than to official announcements, and warn that stability should not depend on the currency.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-10T04:00:00-04:00",
-      "published_at_bo": "2025-12-10T04:00:00-04:00",
-      "fetched_at_utc": "2025-12-10T09:30:26.937048+00:00",
-      "day": "2025-12-10"
     }
   ]
 }
