@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-27T17:21:28.585886+00:00",
+  "generated_at_utc": "2025-12-27T17:31:52.800353+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ABC reporta transitabilidad en ruta a los valles cruceños tras emergencias por lluvias",
+      "url": "https://eldeber.com.bo/economia/abc-reporta-transitabilidad-ruta-valles-crucenos-emergencias-lluvias_1766852834",
+      "summary": "La ABC Regional Santa Cruz informó que la carretera hacia los valles cruceños está habilitada para la circulación tras las lluvias, con intervención de técnicos en deslizamientos y mantenimiento para garantizar la transitabilidad en todos los tramos, además de anunciar una evaluación geológica en La Negra para definir una solución de fondo.",
+      "summary_es": "La ABC Regional Santa Cruz informó que la carretera hacia los valles cruceños está habilitada para la circulación tras las lluvias, con intervención de técnicos en deslizamientos y mantenimiento para garantizar la transitabilidad en todos los tramos, además de anunciar una evaluación geológica en La Negra para definir una solución de fondo.",
+      "summary_en": "The ABC Regional Santa Cruz reported that the road to the Santa Cruz valleys has been reopened to traffic after the rains, with the intervention of landslide specialists and maintenance to ensure passability across all sections. It also announced a geological assessment in La Negra to define a long-term solution.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-27T12:36:00-04:00",
+      "published_at_bo": "2025-12-27T12:36:00-04:00",
+      "fetched_at_utc": "2025-12-27T17:21:24.765382+00:00",
+      "day": "2025-12-27"
+    },
     {
       "source": "El Deber",
       "title": "Plazo para comprar el SOAT 2026 vence el 31 de diciembre; los precios se mantienen respecto a 2025",
