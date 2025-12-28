@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-28T14:24:13.246235+00:00",
+  "generated_at_utc": "2025-12-28T14:34:38.394401+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno ve en el Decreto 5503 el inicio de un nuevo modelo económico, ante protestas de algunos sectores",
+      "url": "https://eldeber.com.bo/economia/gobierno-ve-decreto-5503-inicio-nuevo-modelo-economico-protestas-algunos-sectores_1766928904",
+      "summary": "El Decreto Supremo 5503 se presenta como el inicio de un nuevo modelo de país para revertir la crisis, buscando compatibilizar estabilidad macroeconómica con justicia social y una mayor eficiencia del Estado al facilitar la actividad productiva. Mientras el Gobierno defiende la medida y su énfasis en un “capitalismo para todos” y un escudo social, la COB ha rechazado el decreto y mantiene protestas, mientras otros sectores negocian y apoyan parcialmente su implementación.",
+      "summary_es": "El Decreto Supremo 5503 se presenta como el inicio de un nuevo modelo de país para revertir la crisis, buscando compatibilizar estabilidad macroeconómica con justicia social y una mayor eficiencia del Estado al facilitar la actividad productiva. Mientras el Gobierno defiende la medida y su énfasis en un “capitalismo para todos” y un escudo social, la COB ha rechazado el decreto y mantiene protestas, mientras otros sectores negocian y apoyan parcialmente su implementación.",
+      "summary_en": "Supreme Decree 5503 is framed as the start of a new model for the country to reverse the crisis, aiming to reconcile macroeconomic stability with social justice and greater state efficiency to spur productive activity. While the government defends the measure and its emphasis on a “capitalism for all” and a social shield, the COB has rejected the decree and continues protests, while other sectors negotiate and partially back its implementation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-28T09:58:00-04:00",
+      "published_at_bo": "2025-12-28T09:58:00-04:00",
+      "fetched_at_utc": "2025-12-28T14:24:10.319209+00:00",
+      "day": "2025-12-28"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno apuesta por bloques mayoristas para asegurar combustibles y mejorar el servicio",
