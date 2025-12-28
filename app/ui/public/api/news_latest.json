@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-28T20:28:34.748914+00:00",
+  "generated_at_utc": "2025-12-28T20:36:24.306677+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno confirma interés de firmas globales en centros de datos de El Alto y Cochabamba",
+      "url": "https://eldeber.com.bo/economia/gobierno-confirma-interes-firmas-globales-centros-datos-alto-cochabamba_1766948979",
+      "summary": "El Gobierno de Bolivia anunció que, a partir de enero de 2026, firmas internacionales como Tesla, Amazon y otras invertirán en los primeros centros de datos en El Alto y Cochabamba, impulsados por el Decreto Supremo 5509 para avanzar en la infraestructura digital y la conectividad. Además, se contempla un programa de 10,000 becas en 2026 (más 7,000 ya previstas) para formación tecnológica, y la habilitación de servicios de conectividad satelital como Starlink, como parte de una estrategia de modernización y digitalización del país.",
+      "summary_es": "El Gobierno de Bolivia anunció que, a partir de enero de 2026, firmas internacionales como Tesla, Amazon y otras invertirán en los primeros centros de datos en El Alto y Cochabamba, impulsados por el Decreto Supremo 5509 para avanzar en la infraestructura digital y la conectividad. Además, se contempla un programa de 10,000 becas en 2026 (más 7,000 ya previstas) para formación tecnológica, y la habilitación de servicios de conectividad satelital como Starlink, como parte de una estrategia de modernización y digitalización del país.",
+      "summary_en": "The Bolivian government announced that starting in January 2026, international firms such as Tesla, Amazon and others will invest in the country’s first data centers in El Alto and Cochabamba, under Supreme Decree 5509 to advance digital infrastructure and connectivity. The plan also includes a program of 10,000 scholarships in 2026 (on top of 7,000 already planned) for technology training, and the activation of satellite connectivity services like Starlink as part of a broader modernization and digitalization strategy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-28T15:22:00-04:00",
+      "published_at_bo": "2025-12-28T15:22:00-04:00",
+      "fetched_at_utc": "2025-12-28T20:28:29.902330+00:00",
+      "day": "2025-12-28"
+    },
     {
       "source": "El Deber",
       "title": "Cepal destaca leve crecimiento de Bolivia, pero será parte del freno regional en 2026",
