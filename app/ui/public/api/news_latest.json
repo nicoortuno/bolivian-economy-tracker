@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-28T15:25:10.701000+00:00",
+  "generated_at_utc": "2025-12-28T15:33:48.284263+00:00",
   "count": 98,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Reapertura del cruce en Bermejo desata largas filas y tensión en la frontera con Argentina",
+      "url": "https://eldeber.com.bo/economia/reapertura-cruce-bermejo-desata-largas-filas-tension-frontera-argentina_1766934040",
+      "summary": "La reapertura parcial del cruce Aguas Blancas–Bermejo provocó largas filas y momentos de tensión, con cientos de personas buscando cruzar el Bermejo impulsadas por la demanda comercial y la brecha cambiaria favorable en Bolivia. El paso, históricamente sensible por contrabando y comercio informal, volvió a generar movilización de comerciantes y viajeros y resaltó la vigilancia y controles entre Argentina y Bolivia ante la reactivación del flujo fronterizo.",
+      "summary_es": "La reapertura parcial del cruce Aguas Blancas–Bermejo provocó largas filas y momentos de tensión, con cientos de personas buscando cruzar el Bermejo impulsadas por la demanda comercial y la brecha cambiaria favorable en Bolivia. El paso, históricamente sensible por contrabando y comercio informal, volvió a generar movilización de comerciantes y viajeros y resaltó la vigilancia y controles entre Argentina y Bolivia ante la reactivación del flujo fronterizo.",
+      "summary_en": "Partial reopening of the Aguas Blancas–Bermejo border crossing sparked long queues and tense moments, with hundreds trying to cross the Bermejo driven by commercial demand and the favorable exchange-rate gap in Bolivia. The crossing, historically sensitive to smuggling and informal trade, once again drew merchants and travelers and highlighted increased vigilance and checks between Argentina and Bolivia as cross-border flow resumes.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-28T11:12:00-04:00",
+      "published_at_bo": "2025-12-28T11:12:00-04:00",
+      "fetched_at_utc": "2025-12-28T15:25:05.877513+00:00",
+      "day": "2025-12-28"
+    },
+    {
+      "source": "El Deber",
+      "title": "Distribuidores garantizan que la garrafa de gas licuado se mantiene en Bs 22,5",
+      "url": "https://eldeber.com.bo/economia/distribuidores-garantizan-garrafa-gas-licuado-mantiene-bs-22-5_1766933440",
+      "summary": "El sector de distribuidores de GLP aseguró que, tras una reunión con el Gobierno, el precio de la garrafa se mantendrá en 22,50 Bs, y se trabaja en una nueva hoja de costos que aumentará las comisiones de distribución de YPFB para sostener ese precio.",
+      "summary_es": "El sector de distribuidores de GLP aseguró que, tras una reunión con el Gobierno, el precio de la garrafa se mantendrá en 22,50 Bs, y se trabaja en una nueva hoja de costos que aumentará las comisiones de distribución de YPFB para sostener ese precio.",
+      "summary_en": "The LPG distributors association said after a meeting with the government that the price of the gas cylinder will remain at 22.50 bolivianos, and work is underway on a new cost sheet that will raise YPFB’s distribution commissions to sustain that price.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-28T11:07:00-04:00",
+      "published_at_bo": "2025-12-28T11:07:00-04:00",
+      "fetched_at_utc": "2025-12-28T15:25:06.839025+00:00",
+      "day": "2025-12-28"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno ve en el Decreto 5503 el inicio de un nuevo modelo económico, ante protestas de algunos sectores",
