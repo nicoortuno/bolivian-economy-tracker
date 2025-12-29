@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-29T17:23:29.566492+00:00",
+  "generated_at_utc": "2025-12-29T17:33:52.935909+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno y gremiales acuerdan mesas técnicas para implementar el monotributo",
+      "url": "https://eldeber.com.bo/economia/gobierno-gremiales-acuerdan-mesas-tecnicas-implementar-monotributo_1767026234",
+      "summary": "Gobierno y dirigentes gremiales avanzaron en la creación de mesas técnicas para definir la implementación del Decreto Supremo 5503 que regula el monotributo en Bolivia, con el objetivo de analizar alcances y diseñar sistemas tributarios transparentes y libres de abusos. Las mesas buscarán diálogo con gremiales, transportistas y productores, para acordar ajustes necesarios y evitar movilizaciones, priorizando soluciones concretas y la reconstrucción del país.",
+      "summary_es": "Gobierno y dirigentes gremiales avanzaron en la creación de mesas técnicas para definir la implementación del Decreto Supremo 5503 que regula el monotributo en Bolivia, con el objetivo de analizar alcances y diseñar sistemas tributarios transparentes y libres de abusos. Las mesas buscarán diálogo con gremiales, transportistas y productores, para acordar ajustes necesarios y evitar movilizaciones, priorizando soluciones concretas y la reconstrucción del país.",
+      "summary_en": "The government and union leaders advanced the creation of technical working groups to define the implementation of Supreme Decree 5503, which regulates the monotributo in Bolivia. The aim is to analyze its scope and design transparent, abuse-free tax systems. The groups will seek dialogue with unions, transport operators, and producers to agree on necessary adjustments and to prevent protests, prioritizing concrete solutions and the country’s reconstruction.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T12:52:00-04:00",
+      "published_at_bo": "2025-12-29T12:52:00-04:00",
+      "fetched_at_utc": "2025-12-29T17:23:25.839861+00:00",
+      "day": "2025-12-29"
+    },
     {
       "source": "El Deber",
       "title": "La COB cuestiona atribuciones al Banco Central y alerta sobre deuda sin control",
