@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-29T22:25:04.701743+00:00",
+  "generated_at_utc": "2025-12-29T22:35:12.287391+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La ABE descarta quiebra y proyecta Bs 225 millones en ingresos para 2025",
+      "url": "https://eldeber.com.bo/economia/abe-descarta-quiebra-proyecta-bs-225-millones-ingresos-2025_1767044316",
+      "summary": "La Agencia Boliviana Espacial (ABE) afirmó no estar en quiebra y proyecta ingresos de 225 millones de Bs para 2025 gracias a sus operaciones de telecomunicaciones satelitales, manteniendo una cuota de mercado cercana al 99% en el sector público y privado, con el satélite Túpac Katari al 88% de ocupación para servir telefonía móvil, internet y TV, especialmente en áreas rurales. Aclaran que las supuestas pérdidas se deben a la depreciación contable, no a una pérdida real, destacando su impacto económico y el aumento de cobertura móvil del 33,9% al 81,5% en zonas rurales entre 2012 y 2024, con el 95% de la población cubierto por 3G o superior.",
+      "summary_es": "La Agencia Boliviana Espacial (ABE) afirmó no estar en quiebra y proyecta ingresos de 225 millones de Bs para 2025 gracias a sus operaciones de telecomunicaciones satelitales, manteniendo una cuota de mercado cercana al 99% en el sector público y privado, con el satélite Túpac Katari al 88% de ocupación para servir telefonía móvil, internet y TV, especialmente en áreas rurales. Aclaran que las supuestas pérdidas se deben a la depreciación contable, no a una pérdida real, destacando su impacto económico y el aumento de cobertura móvil del 33,9% al 81,5% en zonas rurales entre 2012 y 2024, con el 95% de la población cubierto por 3G o superior.",
+      "summary_en": "The Bolivian Space Agency (ABE) says it is not bankrupt and projects revenues of 225 million Bolivian bolivians (Bs) for 2025 thanks to its satellite telecommunications operations. It maintains a market share of about 99% in both the public and private sectors, with the Tupac Katari satellite at 88% occupancy to support mobile telephony, internet, and TV, especially in rural areas. It clarifies that the alleged losses stem from accounting depreciation, not from real losses, highlighting their economic impact and the growth in mobile coverage—from 33.9% to 81.5% in rural areas between 2012 and 2024, with 95% of the population covered by 3G or higher.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T17:47:00-04:00",
+      "published_at_bo": "2025-12-29T17:47:00-04:00",
+      "fetched_at_utc": "2025-12-29T22:24:58.886750+00:00",
+      "day": "2025-12-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Asosur cuestiona nuevas restricciones para usuarios directos de diésel",
+      "url": "https://eldeber.com.bo/economia/asosur-cuestiona-nuevas-restricciones-usuarios-directos-diesel_1767043165",
+      "summary": "Asosur alertó que una resolución de la ANH restringe la venta de diésel a usuarios directos, impone trámites y reduce volúmenes, lo que podría afectar la libre comercialización y generar incertidumbre operativa en las estaciones. En respuesta, la ANH sostuvo que la venta de gasolina en envases pequeños se mantiene bajo la normativa vigente y que el único requisito para comprar en bidones es presentar el carnet de identidad.",
+      "summary_es": "Asosur alertó que una resolución de la ANH restringe la venta de diésel a usuarios directos, impone trámites y reduce volúmenes, lo que podría afectar la libre comercialización y generar incertidumbre operativa en las estaciones. En respuesta, la ANH sostuvo que la venta de gasolina en envases pequeños se mantiene bajo la normativa vigente y que el único requisito para comprar en bidones es presentar el carnet de identidad.",
+      "summary_en": "Asosur warned that a resolution from ANH restricts diesel sales to direct users, imposes red tape, and reduces volumes, which could impact free trade and create operational uncertainty at stations. In response, ANH said that gasoline sales in small containers remain in line with current regulations, and that the only requirement to buy in drums is presenting an identity card.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T17:38:00-04:00",
+      "published_at_bo": "2025-12-29T17:38:00-04:00",
+      "fetched_at_utc": "2025-12-29T22:24:59.847181+00:00",
+      "day": "2025-12-29"
+    },
     {
       "source": "El Deber",
       "title": "Entel revela que su principal desafío será adecuarse para habilitar operaciones de Starlink de SpaceX, OneWeb y Kuiper de Amazon",
