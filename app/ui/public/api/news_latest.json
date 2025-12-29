@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-29T20:30:06.048163+00:00",
+  "generated_at_utc": "2025-12-29T20:37:47.429702+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Entel revela que su principal desafío será adecuarse para habilitar operaciones de Starlink de SpaceX, OneWeb y Kuiper de Amazon",
+      "url": "https://eldeber.com.bo/economia/entel-revela-principal-desafio-sera-adecuarse-habilitar-operaciones-starlink-spacex-oneweb-kuiper-amazon_1767039408",
+      "summary": "La estatal Entel enfrenta un giro estratégico impulsado por el Decreto Supremo 5509, que abre el país a operadores de internet satelital de órbita baja y busca ampliar la cobertura y reducir la brecha digital. El gobierno propone modernizar la conectividad con alianzas internacionales, polos tecnológicos, 10.000 becas y la llegada de centros de datos, marcando una nueva etapa de inversión privada y desarrollo tecnológico en Bolivia.",
+      "summary_es": "La estatal Entel enfrenta un giro estratégico impulsado por el Decreto Supremo 5509, que abre el país a operadores de internet satelital de órbita baja y busca ampliar la cobertura y reducir la brecha digital. El gobierno propone modernizar la conectividad con alianzas internacionales, polos tecnológicos, 10.000 becas y la llegada de centros de datos, marcando una nueva etapa de inversión privada y desarrollo tecnológico en Bolivia.",
+      "summary_en": "State-owned Entel is facing a strategic shift driven by Supreme Decree 5509, which opens Bolivia to low Earth orbit satellite internet operators and aims to expand coverage and reduce the digital divide. The government proposes modernizing connectivity through international partnerships, technology hubs, 10,000 scholarships, and the arrival of data centers, signaling a new era of private investment and technological development in Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T16:24:00-04:00",
+      "published_at_bo": "2025-12-29T16:24:00-04:00",
+      "fetched_at_utc": "2025-12-29T20:30:00.328116+00:00",
+      "day": "2025-12-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Los pasajes interdepartamentales siguen altos y viajeros esperan tarifas oficiales de la ATT",
+      "url": "https://eldeber.com.bo/economia/pasajes-interdepartamentales-siguen-altos-viajeros-esperan-tarifas-oficiales-att_1767032714",
+      "summary": "Los pasajes interdepartamentales desde La Paz se mantienen elevados pese a una ligera rebaja, y la ATT no ha emitido aún las tarifas oficiales que regirán los costos; autoridades y transportistas se reúnen para acordarlas. A 29 de diciembre, los precios oscilan entre 40 Bs a Oruro y 350 Bs a Tarija, con expectativas de nuevos aumentos para el primer feriado largo de 2026 que podrían dejar los costos similares a los de Navidad.",
+      "summary_es": "Los pasajes interdepartamentales desde La Paz se mantienen elevados pese a una ligera rebaja, y la ATT no ha emitido aún las tarifas oficiales que regirán los costos; autoridades y transportistas se reúnen para acordarlas. A 29 de diciembre, los precios oscilan entre 40 Bs a Oruro y 350 Bs a Tarija, con expectativas de nuevos aumentos para el primer feriado largo de 2026 que podrían dejar los costos similares a los de Navidad.",
+      "summary_en": "Interdepartmental bus fares from La Paz remain high despite a slight drop, and the ATT has not yet issued the official tariffs that will set the prices; authorities and transport operators are meeting to agree them. As of December 29, prices range from 40 Bs to Oruro to 350 Bs to Tarija, with expectations of further increases for the first long weekend of 2026 that could bring costs roughly in line with Christmas levels.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T15:50:00-04:00",
+      "published_at_bo": "2025-12-29T15:50:00-04:00",
+      "fetched_at_utc": "2025-12-29T20:30:01.278378+00:00",
+      "day": "2025-12-29"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno y gremiales acuerdan mesas técnicas para implementar el monotributo",
