@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-29T16:32:43.736223+00:00",
+  "generated_at_utc": "2025-12-29T16:41:43.007507+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La COB cuestiona atribuciones al Banco Central y alerta sobre deuda sin control",
+      "url": "https://eldeber.com.bo/economia/cob-cuestiona-atribuciones-banco-central-alerta-deuda-control_1767024552",
+      "summary": "La Central Obrera Boliviana critica el Decreto Supremo 5503 por ampliar las atribuciones del Banco Central y debilitar el control del Legislativo sobre el endeudamiento público, advirtiendo que podría generar deudas con poca transparencia y rendición de cuentas. La COB anunciará nuevas movilizaciones y mantiene su postura de abrogar la norma.",
+      "summary_es": "La Central Obrera Boliviana critica el Decreto Supremo 5503 por ampliar las atribuciones del Banco Central y debilitar el control del Legislativo sobre el endeudamiento público, advirtiendo que podría generar deudas con poca transparencia y rendición de cuentas. La COB anunciará nuevas movilizaciones y mantiene su postura de abrogar la norma.",
+      "summary_en": "The Bolivian Workers’ Center (COB) criticized Supreme Decree 5503 for expanding the Central Bank’s powers and weakening the Legislature’s oversight of public debt, warning it could generate debt with little transparency and accountability. The COB will announce new mobilizations and maintains its position to repeal the decree.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T12:21:00-04:00",
+      "published_at_bo": "2025-12-29T12:21:00-04:00",
+      "fetched_at_utc": "2025-12-29T16:32:40.801634+00:00",
+      "day": "2025-12-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno y gremiales abren diálogo por rechazo al monotributo",
+      "url": "https://eldeber.com.bo/economia/gobierno-gremiales-abren-dialogo-rechazo-monotributo_1767023117",
+      "summary": "El Gobierno sostuvo una reunión clave con dirigentes gremiales que se oponen al restablecimiento del SIETE-RG, buscando destrabar un conflicto que podría escalar a protestas si no se atienden sus observaciones sobre la voluntariedad, discriminación y límites del régimen. La reglamentación debe estar lista en 15 días, en medio de críticas sobre costos y complejidad de la facturación electrónica.",
+      "summary_es": "El Gobierno sostuvo una reunión clave con dirigentes gremiales que se oponen al restablecimiento del SIETE-RG, buscando destrabar un conflicto que podría escalar a protestas si no se atienden sus observaciones sobre la voluntariedad, discriminación y límites del régimen. La reglamentación debe estar lista en 15 días, en medio de críticas sobre costos y complejidad de la facturación electrónica.",
+      "summary_en": "The government held a key meeting with union leaders who oppose the reinstatement of SIETE-RG, aiming to unblock a dispute that could escalate into protests if their concerns about voluntariness, discrimination, and the regime’s limits are not addressed. The regulations are to be ready in 15 days, amid criticisms over the costs and complexity of electronic invoicing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T11:51:00-04:00",
+      "published_at_bo": "2025-12-29T11:51:00-04:00",
+      "fetched_at_utc": "2025-12-29T16:32:41.759851+00:00",
+      "day": "2025-12-29"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno confirma interés de firmas globales en centros de datos de El Alto y Cochabamba",
