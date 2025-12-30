@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2025-12-30T02:04:35.364574+00:00",
+  "generated_at_utc": "2025-12-30T02:26:11.121042+00:00",
   "count": 109,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El sector productivo ve señales de cambio y apuesta a un 2026 de estabilidad tras reunión con el ministro Espinoza",
+      "url": "https://eldeber.com.bo/economia/sector-productivo-ve-senales-cambio-apuesta-2026-estabilidad-reunion-ministro-espinoza_1767057899",
+      "summary": "Representantes del sector público y privado celebraron un entendimiento clave tras la implementación del Decreto Supremo 5503, que eliminó la subvención a los carburantes para frenar el contrabando y abrir un proceso de cambio tras 20 años de gestión económica. Aunque 2025 fue duro, se destaca una mayor certidumbre y expectativas de crecimiento en 2026 gracias a acuerdos para fortalecer la inversión, la seguridad jurídica y el abastecimiento de combustibles.",
+      "summary_es": "Representantes del sector público y privado celebraron un entendimiento clave tras la implementación del Decreto Supremo 5503, que eliminó la subvención a los carburantes para frenar el contrabando y abrir un proceso de cambio tras 20 años de gestión económica. Aunque 2025 fue duro, se destaca una mayor certidumbre y expectativas de crecimiento en 2026 gracias a acuerdos para fortalecer la inversión, la seguridad jurídica y el abastecimiento de combustibles.",
+      "summary_en": "Public and private sector representatives hailed a key understanding following the implementation of Supreme Decree 5503, which eliminated fuel subsidies to curb smuggling and to start a process of change after 20 years of economic management. Although 2025 was tough, there is greater certainty and expectations of growth in 2026 thanks to agreements to strengthen investment, legal certainty, and the fuel supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T21:38:00-04:00",
+      "published_at_bo": "2025-12-29T21:38:00-04:00",
+      "fetched_at_utc": "2025-12-30T02:04:27.575095+00:00",
+      "day": "2025-12-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Los gremiales rechazan protestas de la COB y afirman que precios subieron antes del Decreto 5503",
+      "url": "https://eldeber.com.bo/economia/gremiales-rechazan-protestas-cob-afirman-precios-subieron-antes-decreto-5503_1767055664",
+      "summary": "César Gonzales, presidente de la Confederación de Gremiales de Bolivia, sostuvo que el monotributo del Decreto Supremo 5503 debe dirigirse a sectores con mayor capacidad económica y evitar la incorporación forzada de pequeños comerciantes, enfatizando que la norma no corresponde al comercio minorista de subsistencia. Además, pidió diálogo con el Gobierno, afirmó que las movilizaciones de la COB buscan culpar al decreto por aumentos de precios ya existentes y reiteró que los ajustes deben ser consensuados y claros para evitar confusión y confrontación.",
+      "summary_es": "César Gonzales, presidente de la Confederación de Gremiales de Bolivia, sostuvo que el monotributo del Decreto Supremo 5503 debe dirigirse a sectores con mayor capacidad económica y evitar la incorporación forzada de pequeños comerciantes, enfatizando que la norma no corresponde al comercio minorista de subsistencia. Además, pidió diálogo con el Gobierno, afirmó que las movilizaciones de la COB buscan culpar al decreto por aumentos de precios ya existentes y reiteró que los ajustes deben ser consensuados y claros para evitar confusión y confrontación.",
+      "summary_en": "César Gonzales, president of Bolivia’s Confederation of Gremial Cooperatives, said that the monotributo under Supreme Decree 5503 should be aimed at sectors with greater economic capacity and should avoid the forced inclusion of small traders, stressing that the rule does not apply to subsistence retail. He also called for dialogue with the government, argued that COB mobilizations are a bid to blame the decree for preexisting price increases, and reiterated that any adjustments must be agreed upon and clearly communicated to prevent confusion and confrontation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T20:49:00-04:00",
+      "published_at_bo": "2025-12-29T20:49:00-04:00",
+      "fetched_at_utc": "2025-12-30T02:04:28.558110+00:00",
+      "day": "2025-12-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Hotelería: Feriado largo moverá más de $us 60 millones en turismo",
+      "url": "https://eldeber.com.bo/economia/hoteleria-feriado-largo-movera-us-60-millones-turismo_1767052317",
+      "summary": "El sector turístico boliviano espera un significativo impulso por el feriado largo del 2 de enero, con proyecciones de más de 60 millones de dólares de movimiento económico y mayor ocupación y consumo en el país. Los representantes reclaman mayor previsibilidad y planificación anticipada para definir feriados y feriados largos a partir de 2026, para facilitar paquetes y respuestas a la demanda.",
+      "summary_es": "El sector turístico boliviano espera un significativo impulso por el feriado largo del 2 de enero, con proyecciones de más de 60 millones de dólares de movimiento económico y mayor ocupación y consumo en el país. Los representantes reclaman mayor previsibilidad y planificación anticipada para definir feriados y feriados largos a partir de 2026, para facilitar paquetes y respuestas a la demanda.",
+      "summary_en": "The Bolivian tourism sector expects a significant boost from the long New Year holiday on January 2, with projections of more than $60 million in economic activity and higher occupancy and consumption across the country. Industry representatives are calling for greater predictability and advance planning to set holidays and long weekends starting in 2026, in order to facilitate travel packages and better respond to demand.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-29T20:04:00-04:00",
+      "published_at_bo": "2025-12-29T20:04:00-04:00",
+      "fetched_at_utc": "2025-12-30T02:04:29.539654+00:00",
+      "day": "2025-12-29"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno: Feriado puente de Navidad disparó el turismo y casi duplicó la ocupación hotelera",
