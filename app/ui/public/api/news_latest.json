@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-30T21:25:48.353424+00:00",
+  "generated_at_utc": "2025-12-30T21:32:08.259171+00:00",
   "count": 115,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Mendra apuesta por industrializar la almendra amazónica boliviana",
+      "url": "https://eldeber.com.bo/economia/mendra-apuesta-industrializar-almendra-amazonica-boliviana_1767126608",
+      "summary": "Mendra es un emprendimiento boliviano que busca industrializar la almendra amazónica y convertirla en productos terminados con valor agregado y marca nacional, desde snacks saludables hasta harina de almendra. Su desarrollo, apoyo a través de EmprendeFuturo y su expansión en mercados locales e industriales muestran un giro de Bolivia hacia la construcción de industria y identidad productiva, más allá de la exportación de materia prima.",
+      "summary_es": "Mendra es un emprendimiento boliviano que busca industrializar la almendra amazónica y convertirla en productos terminados con valor agregado y marca nacional, desde snacks saludables hasta harina de almendra. Su desarrollo, apoyo a través de EmprendeFuturo y su expansión en mercados locales e industriales muestran un giro de Bolivia hacia la construcción de industria y identidad productiva, más allá de la exportación de materia prima.",
+      "summary_en": "Mendra is a Bolivian startup aimed at industrializing Amazonian almonds and turning them into finished products with added value and a national brand, from healthy snacks to almond flour. Its development, support through EmprendeFuturo, and expansion into local and industrial markets signal a shift in Bolivia toward building an industry and a productive identity, beyond exporting raw materials.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-30T17:04:00-04:00",
+      "published_at_bo": "2025-12-30T17:04:00-04:00",
+      "fetched_at_utc": "2025-12-30T21:25:37.699477+00:00",
+      "day": "2025-12-30"
+    },
+    {
+      "source": "El Deber",
+      "title": "El BCB fija el calendario económico 2026 y apuesta por mayor previsibilidad y transparencia",
+      "url": "https://eldeber.com.bo/economia/bcb-fija-calendario-economico-2026-apuesta-mayor-previsibilidad-transparencia_1767123342",
+      "summary": "El Banco Central de Bolivia publicó el Calendario Anticipado de Divulgación de Datos (CAD) para 2026, definiendo con anticipación las fechas de difusión de indicadores clave para aumentar la previsibilidad y la transparencia, en línea con estándares internacionales y la Ley N.º 1670. El CAD busca fortalecer la confianza y reducir la asimetría de información, aunque su utilidad depende de la consistencia de cifras y de explicaciones técnicas oportunas.",
+      "summary_es": "El Banco Central de Bolivia publicó el Calendario Anticipado de Divulgación de Datos (CAD) para 2026, definiendo con anticipación las fechas de difusión de indicadores clave para aumentar la previsibilidad y la transparencia, en línea con estándares internacionales y la Ley N.º 1670. El CAD busca fortalecer la confianza y reducir la asimetría de información, aunque su utilidad depende de la consistencia de cifras y de explicaciones técnicas oportunas.",
+      "summary_en": "The Central Bank of Bolivia has published the 2026 Advanced Data Disclosure Calendar (CAD), which заранее sets the release dates for key indicators to boost predictability and transparency, in line with international standards and Law No. 1670. The CAD aims to strengthen trust and reduce information asymmetry, though its usefulness depends on the consistency of figures and timely technical explanations.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-30T16:39:00-04:00",
+      "published_at_bo": "2025-12-30T16:39:00-04:00",
+      "fetched_at_utc": "2025-12-30T21:25:38.663368+00:00",
+      "day": "2025-12-30"
+    },
     {
       "source": "El Deber",
       "title": "ANH deja sin efecto la declaración jurada para la venta directa de diésel",
