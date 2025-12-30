@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-30T18:38:50.201356+00:00",
+  "generated_at_utc": "2025-12-30T18:48:50.670544+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Productores lecheros del Beni se declaran en huelga de hambre por deudas de EBA",
+      "url": "https://eldeber.com.bo/economia/productores-lecheros-beni-declaran-huelga-hambre-deudas-eba_1767114403",
+      "summary": "Un grupo de 30 productores lecheros del Beni inició una huelga de hambre para exigir el pago de deudas pendientes por parte de la Empresa Boliviana de Alimentos (EBA), con montos entre 3.000 y 5.000 bolivianos por productor. Denuncian que el incumplimiento y el incremento de costos tras el gasolinazo han erosionado su poder adquisitivo, y señalan deudas también en Tarija que podrían indicar un problema de alcance nacional, con montos que superan el 100.000 bolivianos en EBA San Lorenzo.",
+      "summary_es": "Un grupo de 30 productores lecheros del Beni inició una huelga de hambre para exigir el pago de deudas pendientes por parte de la Empresa Boliviana de Alimentos (EBA), con montos entre 3.000 y 5.000 bolivianos por productor. Denuncian que el incumplimiento y el incremento de costos tras el gasolinazo han erosionado su poder adquisitivo, y señalan deudas también en Tarija que podrían indicar un problema de alcance nacional, con montos que superan el 100.000 bolivianos en EBA San Lorenzo.",
+      "summary_en": "A group of 30 dairy producers from Beni has begun a hunger strike to demand payment of outstanding debts by the Bolivian Food Company (EBA), ranging from 3,000 to 5,000 bolivianos per producer. They say nonpayment and higher costs following the fuel price hike have eroded their purchasing power, and they point to debts also in Tarija that could indicate a nationwide scope, with amounts exceeding 100,000 bolivianos at EBA San Lorenzo.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-30T14:30:00-04:00",
+      "published_at_bo": "2025-12-30T14:30:00-04:00",
+      "fetched_at_utc": "2025-12-30T18:38:46.064129+00:00",
+      "day": "2025-12-30"
+    },
     {
       "source": "El Deber",
       "title": "Después de 28 años, gobierno anuncia retorno al régimen de precios para derivados de petróleo",
@@ -14,6 +28,20 @@
       "published_at_utc": "2025-12-30T14:24:00-04:00",
       "published_at_bo": "2025-12-30T14:24:00-04:00",
       "fetched_at_utc": "2025-12-30T18:38:47.360679+00:00",
+      "day": "2025-12-30"
+    },
+    {
+      "source": "El Deber",
+      "title": "COB cumple nueve días de protesta contra el DS 5503 e inicia con huelgas de hambre",
+      "url": "https://eldeber.com.bo/economia/cob-cumple-nueve-dias-protesta-ds-5503-inicia-huelgas-hambre_1767112051",
+      "summary": "La COB entra en su noveno día de movilizaciones y huelgas de hambre en La Paz para exigir la abrogación del DS 5503, pero el respaldo social se va reduciendo pese a la radicalización de las medidas. El Gobierno mantiene acercamientos con otros sectores y recibe apoyos, mientras la protesta enfrenta creciente rechazo por su impacto en la circulación y la vida diaria.",
+      "summary_es": "La COB entra en su noveno día de movilizaciones y huelgas de hambre en La Paz para exigir la abrogación del DS 5503, pero el respaldo social se va reduciendo pese a la radicalización de las medidas. El Gobierno mantiene acercamientos con otros sectores y recibe apoyos, mientras la protesta enfrenta creciente rechazo por su impacto en la circulación y la vida diaria.",
+      "summary_en": "The COB enters its ninth day of protests and hunger strikes in La Paz, demanding the repeal of Supreme Decree 5503. Social support is waning despite the measures' increasingly radical tone. The government is maintaining outreach with other sectors and receiving backing, while the demonstrations face growing opposition because of their impact on traffic and daily life.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-30T14:23:00-04:00",
+      "published_at_bo": "2025-12-30T14:23:00-04:00",
+      "fetched_at_utc": "2025-12-30T18:38:48.339454+00:00",
       "day": "2025-12-30"
     },
     {
