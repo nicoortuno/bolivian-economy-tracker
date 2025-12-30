@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-30T17:25:36.319496+00:00",
+  "generated_at_utc": "2025-12-30T17:36:09.506801+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Después de 28 años, gobierno anuncia retorno al régimen de precios para derivados de petróleo",
+      "url": "https://eldeber.com.bo/economia/despues-28-anos-gobierno-anuncia-retorno-regimen-precios-derivados-petroleo_1767113366",
+      "summary": "El Gobierno de Bolivia anunció el retorno, tras 28 años, a un régimen de precios para los derivados del petróleo mediante el Decreto Supremo 5503, con una metodología técnica y referencias de mercado para stabilizar precios, asegurar el abastecimiento y ordenar el consumo. El esquema prevé subir el pago a los productores por parte de YPFB, lo que impulsará inversiones y aumentará la recaudación del Impuesto Directo a los Hidrocarburos (IDH), beneficiando a gobernaciones, municipios y universidades.",
+      "summary_es": "El Gobierno de Bolivia anunció el retorno, tras 28 años, a un régimen de precios para los derivados del petróleo mediante el Decreto Supremo 5503, con una metodología técnica y referencias de mercado para stabilizar precios, asegurar el abastecimiento y ordenar el consumo. El esquema prevé subir el pago a los productores por parte de YPFB, lo que impulsará inversiones y aumentará la recaudación del Impuesto Directo a los Hidrocarburos (IDH), beneficiando a gobernaciones, municipios y universidades.",
+      "summary_en": "The Bolivian government announced a return, after 28 years, to a price-regulation regime for petroleum products through Supreme Decree 5503, using a technical methodology and market references to stabilize prices, ensure supply, and curb consumption. The plan includes raising payments to producers by YPFB, which would spur investment and boost revenue from the Direct Tax on Hydrocarbons (IDH), benefiting regional governments, municipalities, and universities.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-30T12:55:00-04:00",
+      "published_at_bo": "2025-12-30T12:55:00-04:00",
+      "fetched_at_utc": "2025-12-30T17:25:34.375245+00:00",
+      "day": "2025-12-30"
+    },
     {
       "source": "El Deber",
       "title": "Líder de la COB evita decir cuánto gana tras revelarse sueldos altos de mineros",
