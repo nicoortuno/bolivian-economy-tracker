@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-31T02:04:46.032752+00:00",
+  "generated_at_utc": "2025-12-31T02:26:54.585348+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Gobierno atribuye caída del 50% en el consumo de diésel al fin de la subvención y al freno del contrabando",
+      "url": "https://eldeber.com.bo/economia/gobierno-atribuye-caida-50-consumo-diesel-fin-subvencion-freno-contrabando_1767137279",
+      "summary": "El Gobierno de Bolivia anunció que el consumo de diésel cayó aproximadamente un 50% tras retirar la subvención con el Decreto 5503, señalando que la medida frena el contrabando y reduce la necesidad de importaciones, con una estabilización esperada entre 30% y 40%. También destacó que la norma restablece un sistema de precios y que, pese a la resistencia de la COB, busca asegurar el abastecimiento y ordenar el consumo de carburantes.",
+      "summary_es": "El Gobierno de Bolivia anunció que el consumo de diésel cayó aproximadamente un 50% tras retirar la subvención con el Decreto 5503, señalando que la medida frena el contrabando y reduce la necesidad de importaciones, con una estabilización esperada entre 30% y 40%. También destacó que la norma restablece un sistema de precios y que, pese a la resistencia de la COB, busca asegurar el abastecimiento y ordenar el consumo de carburantes.",
+      "summary_en": "The Bolivian government announced that diesel consumption has dropped by about 50% after removing the subsidy through Decree 5503, saying the move helps curb smuggling and reduces the need for imports, with consumption expected to stabilize at roughly 30% to 40% of prior levels. It also noted that the measure restores a pricing system and, despite resistance from COB, aims to secure supply and regulate fuel use.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-30T19:35:00-04:00",
+      "published_at_bo": "2025-12-30T19:35:00-04:00",
+      "fetched_at_utc": "2025-12-31T02:04:42.082131+00:00",
+      "day": "2025-12-30"
+    },
     {
       "source": "El Deber",
       "title": "El desvío millonario de combustibles: el Gobierno cifra en hasta $us 3 millones diarios el negocio ilegal",
