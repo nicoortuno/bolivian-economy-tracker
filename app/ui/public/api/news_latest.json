@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2025-12-31T11:23:54.506439+00:00",
+  "generated_at_utc": "2025-12-31T11:30:17.534875+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Anuncian nuevo régimen de precios para carburantes dentro de seis meses",
+      "url": "https://eldeber.com.bo/economia/anuncian-nuevo-regimen-precios-carburantes-dentro-seis-meses_1767178292",
+      "summary": "Bolivia volverá al régimen de precios para los derivados del petróleo tras la vigencia de seis meses del Decreto Supremo 5503, con una nueva metodología y mayores márgenes para YPFB, para asegurar el abastecimiento, evitar colas y aumentar la recaudación del IDH.",
+      "summary_es": "Bolivia volverá al régimen de precios para los derivados del petróleo tras la vigencia de seis meses del Decreto Supremo 5503, con una nueva metodología y mayores márgenes para YPFB, para asegurar el abastecimiento, evitar colas y aumentar la recaudación del IDH.",
+      "summary_en": "Bolivia will revert to a price-control regime for petroleum derivatives after the six-month period of Supreme Decree 5503, with a new methodology and higher margins for YPFB, to ensure supply, prevent queues, and boost IDH revenue.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-31T06:51:00-04:00",
+      "published_at_bo": "2025-12-31T06:51:00-04:00",
+      "fetched_at_utc": "2025-12-31T11:23:51.772371+00:00",
+      "day": "2025-12-31"
+    },
+    {
+      "source": "El Deber",
+      "title": "Disponen venta de diésel sin declaración jurada y arancel cero para gasolinas",
+      "url": "https://eldeber.com.bo/economia/disponen-venta-diesel-declaracion-jurada-arancel-cero-gasolinas_1767178175",
+      "summary": "El Gobierno eliminó la declaración jurada para la compra de diésel en estaciones de servicio y amplió hasta diciembre de 2026 el arancel cero para la importación de gasolinas, con el objetivo de aliviar problemas de abastecimiento y reducir costos de importación. Estas medidas, anunciadas por la ANH y formalizadas por el Ministerio de Hidrocarburos y Energías y por el DS 5512, facilitan el acceso a los combustibles y fortalecen la entrada de gasolina desde el exterior.",
+      "summary_es": "El Gobierno eliminó la declaración jurada para la compra de diésel en estaciones de servicio y amplió hasta diciembre de 2026 el arancel cero para la importación de gasolinas, con el objetivo de aliviar problemas de abastecimiento y reducir costos de importación. Estas medidas, anunciadas por la ANH y formalizadas por el Ministerio de Hidrocarburos y Energías y por el DS 5512, facilitan el acceso a los combustibles y fortalecen la entrada de gasolina desde el exterior.",
+      "summary_en": "The government scrapped the sworn declaration for diesel purchases at service stations and extended the zero tariff on gasoline imports through December 2026, aiming to ease supply problems and cut import costs. Announced by the ANH and formalized by the Ministry of Hydrocarbons and Energies and by Supreme Decree 5512, the measures facilitate access to fuels and bolster the entry of gasoline from abroad.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-31T06:49:00-04:00",
+      "published_at_bo": "2025-12-31T06:49:00-04:00",
+      "fetched_at_utc": "2025-12-31T11:23:52.743949+00:00",
+      "day": "2025-12-31"
+    },
     {
       "source": "El Deber",
       "title": "El Gobierno atribuye caída del 50% en el consumo de diésel al fin de la subvención y al freno del contrabando",
