@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-31T19:19:57.255543+00:00",
+  "generated_at_utc": "2025-12-31T19:28:26.174667+00:00",
   "count": 114,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Baja demanda de pasajeros reduce precios de pasajes en buses por fin de año",
+      "url": "https://eldeber.com.bo/economia/baja-demanda-pasajeros-reduce-precios-pasajes-buses-fin-ano_1767205540",
+      "summary": "La demanda de pasajes interdepartamentales por fin de año cayó en varias terminales, lo que provó una reducción de precios en rutas clave como La Paz, Oruro y Santa Cruz, con ofertas entre 60 y 80 Bs en algunos casos. A pesar del menor movimiento, las terminales mantienen atención normal durante Año Nuevo, con cierres temporales de oficinas y refuerzo de controles de tránsito para evitar incidentes.",
+      "summary_es": "La demanda de pasajes interdepartamentales por fin de año cayó en varias terminales, lo que provó una reducción de precios en rutas clave como La Paz, Oruro y Santa Cruz, con ofertas entre 60 y 80 Bs en algunos casos. A pesar del menor movimiento, las terminales mantienen atención normal durante Año Nuevo, con cierres temporales de oficinas y refuerzo de controles de tránsito para evitar incidentes.",
+      "summary_en": "Demand for interdepartmental bus tickets at year’s end fell at several terminals, prompting price cuts on key routes such as La Paz, Oruro, and Santa Cruz, with fares down by around 60 to 80 bolivianos in some cases. Despite the lower movement, the terminals will operate normally during the New Year period, with some offices closing temporarily and traffic controls being stepped up to prevent incidents.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-31T14:39:00-04:00",
+      "published_at_bo": "2025-12-31T14:39:00-04:00",
+      "fetched_at_utc": "2025-12-31T19:19:51.984255+00:00",
+      "day": "2025-12-31"
+    },
     {
       "source": "El Deber",
       "title": "BoA recupera un Airbus A330-200 y refuerza su flota tras mantenimiento",
