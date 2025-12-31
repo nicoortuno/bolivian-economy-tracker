@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2025-12-31T14:25:42.102131+00:00",
+  "generated_at_utc": "2025-12-31T14:36:39.836370+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El dólar paralelo cierra 2025 en Bs 9,60 tras un año de escasez y alta volatilidad",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-cierra-2025-bs-9-60-ano-escasez-alta-volatilidad_1767188511",
+      "summary": "El dólar paralelo cerró 2025 alrededor de 9,60 bolivianos, mientras el tipo de cambio oficial se mantuvo significativamente por debajo (7,89 de compra y 8,55 de venta), evidenciando una brecha cambiaria persistente. Aunque la volatilidad se moderó y se aprecia mayor control de expectativas, la dualidad entre mercados continúa siendo un reto para la economía boliviana.",
+      "summary_es": "El dólar paralelo cerró 2025 alrededor de 9,60 bolivianos, mientras el tipo de cambio oficial se mantuvo significativamente por debajo (7,89 de compra y 8,55 de venta), evidenciando una brecha cambiaria persistente. Aunque la volatilidad se moderó y se aprecia mayor control de expectativas, la dualidad entre mercados continúa siendo un reto para la economía boliviana.",
+      "summary_en": "The parallel dollar closed 2025 at around 9.60 bolivianos, while the official rate remained well below, at 7.89 for buying and 8.55 for selling, underscoring a persistent exchange-rate gap. Although volatility has moderated and expectations appear better anchored, the split between the two markets remains a challenge for the Bolivian economy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2025-12-31T09:55:00-04:00",
+      "published_at_bo": "2025-12-31T09:55:00-04:00",
+      "fetched_at_utc": "2025-12-31T14:25:38.386695+00:00",
+      "day": "2025-12-31"
+    },
     {
       "source": "El Deber",
       "title": "Anuncian nuevo régimen de precios para carburantes dentro de seis meses",
