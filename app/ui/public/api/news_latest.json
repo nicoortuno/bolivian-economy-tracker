@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-01T16:33:26.102510+00:00",
+  "generated_at_utc": "2026-01-01T16:43:14.879953+00:00",
   "count": 107,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El dólar paralelo se enfría y abre 2026 lejos de los extremos de 2025",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-enfria-abre-2026-lejos-extremos-2025_1767281324",
+      "summary": "El dólar paralelo inició 2026 en 9,64 bolivianos de compra y 9,63 de venta, manteniendo la estabilización observada tras la crisis de 2025 que llevó a picos de hasta 19 y afectó precios. Aunque se mantiene por debajo de 10 desde finales de 2025, el paralelo sigue condicionando la inflación y los precios, y el desafío es reconstruir un flujo de divisas y credibilidad para que deje de ser la referencia obligada.",
+      "summary_es": "El dólar paralelo inició 2026 en 9,64 bolivianos de compra y 9,63 de venta, manteniendo la estabilización observada tras la crisis de 2025 que llevó a picos de hasta 19 y afectó precios. Aunque se mantiene por debajo de 10 desde finales de 2025, el paralelo sigue condicionando la inflación y los precios, y el desafío es reconstruir un flujo de divisas y credibilidad para que deje de ser la referencia obligada.",
+      "summary_en": "The parallel dollar started 2026 at 9.64 bolivianos for purchases and 9.63 for sales, maintaining the stabilization seen after the 2025 crisis that pushed peaks up to 19 and affected prices. Although it has remained below 10 since late 2025, the parallel market continues to influence inflation and prices, and the challenge is to rebuild a flow of foreign currency and credibility so that it ceases to be the unavoidable reference.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-01T11:49:00-04:00",
+      "published_at_bo": "2026-01-01T11:49:00-04:00",
+      "fetched_at_utc": "2026-01-01T16:33:23.276965+00:00",
+      "day": "2026-01-01"
+    },
     {
       "source": "El Deber",
       "title": "Proyecciones indican que YPFB despacha por día 1.440 toneladas de GLP",
