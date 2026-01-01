@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-01T14:25:12.179178+00:00",
+  "generated_at_utc": "2026-01-01T14:35:41.212289+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Proyecciones indican que YPFB despacha por día 1.440 toneladas de GLP",
+      "url": "https://eldeber.com.bo/economia/proyecciones-indican-ypfb-despacha-dia-1-440-toneladas-glp_1767275433",
+      "summary": "YPFB despacha en promedio 1.440 toneladas métricas diarias de GLP en todo el país, con cumplimiento de Prode que garantiza el abastecimiento interno; a nivel departamental, las cifras para La Paz (457 TM), Santa Cruz (334 TM) y Cochabamba (204 TM) fueron aprobadas por Prode. Para jueves 01 y viernes 02-01-2026, La Paz contará con 200–500 garrafas disponibles para que las distribuidoras retiren directamente de planta y comercialicen el producto en las zonas requeridas en coordinación con la ANH.",
+      "summary_es": "YPFB despacha en promedio 1.440 toneladas métricas diarias de GLP en todo el país, con cumplimiento de Prode que garantiza el abastecimiento interno; a nivel departamental, las cifras para La Paz (457 TM), Santa Cruz (334 TM) y Cochabamba (204 TM) fueron aprobadas por Prode. Para jueves 01 y viernes 02-01-2026, La Paz contará con 200–500 garrafas disponibles para que las distribuidoras retiren directamente de planta y comercialicen el producto en las zonas requeridas en coordinación con la ANH.",
+      "summary_en": "YPFB dispatches an average of 1,440 metric tons of LPG per day across the country, with Prode ensuring internal supply. At the departmental level, Prode has approved the figures for La Paz (457 MT), Santa Cruz (334 MT), and Cochabamba (204 MT).\n\nFor Thursday, January 1 and Friday, January 2, 2026, La Paz will have 200–500 LPG cylinders available for distributors to collect directly from the plant and market the product in the required zones in coordination with the ANH.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-01T10:08:00-04:00",
+      "published_at_bo": "2026-01-01T10:08:00-04:00",
+      "fetched_at_utc": "2026-01-01T14:25:10.303024+00:00",
+      "day": "2026-01-01"
+    },
     {
       "source": "El Deber",
       "title": "Baja demanda de pasajeros reduce precios de pasajes en buses por fin de año",
