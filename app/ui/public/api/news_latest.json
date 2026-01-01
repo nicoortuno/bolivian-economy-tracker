@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-01T20:29:46.013150+00:00",
+  "generated_at_utc": "2026-01-01T20:37:41.217772+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno dice que Decreto 5503 atraerá inversiones y que no se entregarán los recursos naturales",
+      "url": "https://eldeber.com.bo/economia/gobierno-dice-decreto-5503-atraera-inversiones-no-entregaran-recursos-naturales_1767297591",
+      "summary": "El ministro Gabriel Espinoza niega que el Decreto Supremo 5503 implique la entrega de recursos naturales ni que sea una orden del FMI, y afirma que busca atraer inversión de forma transparente mediante un mecanismo fast track, no para beneficiar a otros países. Señala que el decreto fue elaborado por bolivianos para estabilizar la economía y que las críticas señalan narrativas políticas de gobiernos pasados.",
+      "summary_es": "El ministro Gabriel Espinoza niega que el Decreto Supremo 5503 implique la entrega de recursos naturales ni que sea una orden del FMI, y afirma que busca atraer inversión de forma transparente mediante un mecanismo fast track, no para beneficiar a otros países. Señala que el decreto fue elaborado por bolivianos para estabilizar la economía y que las críticas señalan narrativas políticas de gobiernos pasados.",
+      "summary_en": "Minister Gabriel Espinoza denies that Supreme Decree 5503 involves handing over natural resources or that it is an IMF order, and says it aims to attract investment transparently through a fast-track mechanism, not to benefit other countries. He notes that the decree was drafted by Bolivians to stabilize the economy and that critics point to political narratives from past governments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-01T16:31:00-04:00",
+      "published_at_bo": "2026-01-01T16:31:00-04:00",
+      "fetched_at_utc": "2026-01-01T20:29:41.155819+00:00",
+      "day": "2026-01-01"
+    },
     {
       "source": "El Deber",
       "title": "Estas son las nuevas tarifas para los viajes en buses interdepartamentales",
