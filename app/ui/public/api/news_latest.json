@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-01T22:25:29.899927+00:00",
+  "generated_at_utc": "2026-01-01T22:35:38.765389+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno apunta a devolver el 100% del crédito fiscal del IVA en combustibles",
+      "url": "https://eldeber.com.bo/economia/gobierno-apunta-devolver-100-credito-fiscal-iva-combustibles_1767302138",
+      "summary": "El Ministerio de Economía y Finanzas Públicas informó que presentó un proyecto de ley para derogar la limitación del 70% del crédito fiscal del IVA en la compra de combustibles y restituir el 100% del crédito, buscando coherencia tributaria y seguridad jurídica. La medida, que parte de un contexto de medidas urgentes y temporales, persigue un tratamiento equitativo sin nuevos impuestos y con mayor claridad normativa para apoyar la actividad productiva y la formalización.",
+      "summary_es": "El Ministerio de Economía y Finanzas Públicas informó que presentó un proyecto de ley para derogar la limitación del 70% del crédito fiscal del IVA en la compra de combustibles y restituir el 100% del crédito, buscando coherencia tributaria y seguridad jurídica. La medida, que parte de un contexto de medidas urgentes y temporales, persigue un tratamiento equitativo sin nuevos impuestos y con mayor claridad normativa para apoyar la actividad productiva y la formalización.",
+      "summary_en": "The Ministry of Economy and Public Finance announced that it has introduced a bill to repeal the 70% cap on the VAT credit for fuel purchases and restore the full 100% credit, aiming for tax coherence and greater legal certainty. The measure, which arises from a context of urgent and temporary actions, seeks fair treatment without new taxes and with clearer regulations to support productive activity and formalization.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-01T17:44:00-04:00",
+      "published_at_bo": "2026-01-01T17:44:00-04:00",
+      "fetched_at_utc": "2026-01-01T22:25:25.167382+00:00",
+      "day": "2026-01-01"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno dice que Decreto 5503 atraerá inversiones y que no se entregarán los recursos naturales",
