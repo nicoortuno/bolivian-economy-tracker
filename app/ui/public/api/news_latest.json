@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-02T15:27:52.224038+00:00",
+  "generated_at_utc": "2026-01-02T15:34:50.646028+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Arancel cero y levantamiento de subsidio a carburantes, supone un alivio de costos para el agro cochabambino",
+      "url": "https://eldeber.com.bo/economia/arancel-cero-levantamiento-subsidio-carburantes-supone-alivio-costos-agro-cochabambino_1767363562",
+      "summary": "El Decreto Supremo 5503 elimina el gravamen a la importación de maquinaria, repuestos, equipos e insumos productivos y levanta la subvención de combustibles, medida que la CAC ve como un nuevo modelo económico que podría reducir costos y mejorar la competitividad del agro para el mercado interno y la exportación. La iniciativa fortalece sectores como bananas y flores en el trópico de Cochabamba y estará vigente hasta el 31 de diciembre de 2026.",
+      "summary_es": "El Decreto Supremo 5503 elimina el gravamen a la importación de maquinaria, repuestos, equipos e insumos productivos y levanta la subvención de combustibles, medida que la CAC ve como un nuevo modelo económico que podría reducir costos y mejorar la competitividad del agro para el mercado interno y la exportación. La iniciativa fortalece sectores como bananas y flores en el trópico de Cochabamba y estará vigente hasta el 31 de diciembre de 2026.",
+      "summary_en": "Supreme Decree 5503 eliminates the import levy on machinery, spare parts, equipment, and productive inputs and removes the fuel subsidy. The CAC views the move as a new economic model that could reduce costs and boost the competitiveness of the agricultural sector for both domestic and export markets. The measure strengthens sectors such as bananas and flowers in Cochabamba’s Tropic region and will be in effect until December 31, 2026.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-02T10:31:00-04:00",
+      "published_at_bo": "2026-01-02T10:31:00-04:00",
+      "fetched_at_utc": "2026-01-02T15:27:50.243981+00:00",
+      "day": "2026-01-02"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno apunta a devolver el 100% del crédito fiscal del IVA en combustibles",
