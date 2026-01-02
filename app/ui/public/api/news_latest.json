@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-02T22:26:21.083272+00:00",
+  "generated_at_utc": "2026-01-02T22:36:25.213152+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Decomisan 188 cerdos por contrabando inverso en el lago Titicaca",
+      "url": "https://eldeber.com.bo/economia/decomisan-188-cerdos-contrabando-inverso-lago-titicaca_1767385787",
+      "summary": "El contrabando inverso de alimentos se mantiene activo en las zonas fronterizas de Bolivia, evidenciado por un decomiso en el lago Titicaca de productos pecuarios sin documentación. La Armada incautó 128 cerdos faenados y 60 cerdos vivos en dos embarcaciones sin certificación sanitaria ni respaldo legal, valorados en unos 440.000 Bs, y la mercadería fue entregada a Senasag para su análisis.",
+      "summary_es": "El contrabando inverso de alimentos se mantiene activo en las zonas fronterizas de Bolivia, evidenciado por un decomiso en el lago Titicaca de productos pecuarios sin documentación. La Armada incautó 128 cerdos faenados y 60 cerdos vivos en dos embarcaciones sin certificación sanitaria ni respaldo legal, valorados en unos 440.000 Bs, y la mercadería fue entregada a Senasag para su análisis.",
+      "summary_en": "Reverse food smuggling remains active along Bolivia’s border areas, as shown by a Lake Titicaca seizure of undocumented livestock products. The Navy seized 128 butchered pigs and 60 live pigs on two vessels without sanitary certification or legal backing, valued at about 440,000 bolivianos, and the goods were handed over to Senasag for analysis.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-02T17:35:00-04:00",
+      "published_at_bo": "2026-01-02T17:35:00-04:00",
+      "fetched_at_utc": "2026-01-02T22:26:16.258342+00:00",
+      "day": "2026-01-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "Brasil autoriza a Petrobras importar hasta 20 MMm3d de gas boliviano",
+      "url": "https://eldeber.com.bo/economia/brasil-autoriza-petrobras-importar-20-mmm3d-gas-boliviano_1767388789",
+      "summary": "La ANP autorizó a Petrobras a importar hasta 20 MMm3/d de gas boliviano por un periodo de dos años, con entradas en Corumbá (Gasbol) y Cáceres (GasOcidente Lateral Cuiabá), para abastecer prácticamente todo Brasil excepto la región Norte y el mercado termoeléctrico de Mato Grosso. Esta decisión se enmarca en la Ley del Gas (Ley 14.134/2021), que busca promover competencia y seguridad energética en el país.",
+      "summary_es": "La ANP autorizó a Petrobras a importar hasta 20 MMm3/d de gas boliviano por un periodo de dos años, con entradas en Corumbá (Gasbol) y Cáceres (GasOcidente Lateral Cuiabá), para abastecer prácticamente todo Brasil excepto la región Norte y el mercado termoeléctrico de Mato Grosso. Esta decisión se enmarca en la Ley del Gas (Ley 14.134/2021), que busca promover competencia y seguridad energética en el país.",
+      "summary_en": "The ANP approved Petrobras to import up to 20 million cubic meters per day of Bolivian gas for a two-year period, with entry points at Corumbá (Gasbol) and Cáceres (GasOcidente Lateral Cuiabá), to supply almost all of Brazil except the North region and the Mato Grosso thermo-electric market. The decision is framed by the Gas Law (Law 14,134/2021), which aims to promote competition and energy security in the country.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-02T17:26:00-04:00",
+      "published_at_bo": "2026-01-02T17:26:00-04:00",
+      "fetched_at_utc": "2026-01-02T22:26:17.222312+00:00",
+      "day": "2026-01-02"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno basará el PDES 2026-2030 en siete ejes y prepara reuniones con el nivel regional",
