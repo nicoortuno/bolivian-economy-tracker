@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-02T16:32:26.363910+00:00",
+  "generated_at_utc": "2026-01-02T16:41:55.621738+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno defiende el Decreto 5503 y ratifica alivio crediticio sin intereses adicionales",
+      "url": "https://eldeber.com.bo/economia/gobierno-defiende-decreto-5503-ratifica-alivio-crediticio-intereses-adicionales_1767368757",
+      "summary": "El Decreto Supremo 5503 amplía el diferimiento de créditos e incluye a comercios y servicios, y el ministro Espinoza aseguró que la medida beneficia a todos los deudores con actividad económica, incluyendo créditos de vivienda social y productivos, sin exclusiones ni cobro de intereses sobre intereses. Además, afirmó que el objetivo es estabilizar la economía y evitar discriminaciones, y rechazó críticas sobre posibles impactos negativos.",
+      "summary_es": "El Decreto Supremo 5503 amplía el diferimiento de créditos e incluye a comercios y servicios, y el ministro Espinoza aseguró que la medida beneficia a todos los deudores con actividad económica, incluyendo créditos de vivienda social y productivos, sin exclusiones ni cobro de intereses sobre intereses. Además, afirmó que el objetivo es estabilizar la economía y evitar discriminaciones, y rechazó críticas sobre posibles impactos negativos.",
+      "summary_en": "Supreme Decree 5503 expands the credit deferral program to include commerce and services, and Minister Espinoza said the measure benefits all debtors with economic activity, including social housing and productive loans, with no exclusions and no interest-on-interest charges. He also asserted that the goal is to stabilize the economy and avoid discrimination, and he rejected criticisms about potential negative impacts.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-02T11:59:00-04:00",
+      "published_at_bo": "2026-01-02T11:59:00-04:00",
+      "fetched_at_utc": "2026-01-02T16:32:23.457248+00:00",
+      "day": "2026-01-02"
+    },
     {
       "source": "El Deber",
       "title": "Arancel cero y levantamiento de subsidio a carburantes, supone un alivio de costos para el agro cochabambino",
