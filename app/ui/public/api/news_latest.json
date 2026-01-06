@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-06T22:27:16.826926+00:00",
+  "generated_at_utc": "2026-01-06T22:37:40.729635+00:00",
   "count": 98,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Inversiones pueden girar al norte y no mirar al sur del continente",
+      "url": "https://eldeber.com.bo/economia/inversiones-pueden-girar-norte-no-mirar-sur-continente_1767736232",
+      "summary": "El anuncio de Trump de tomar el control pleno del negocio petrolero venezolano podría facilitar una mayor producción y estabilizar precios, lo que beneficiaría a Bolivia al reducir costos de diésel y gasolina, pero también podría atraer inversión hacia EE. UU. y restar pujanza a Bolivia como jugador energético. Aunque la presencia estadounidense podría generar confianza jurídica y atraer capital, también podría desplazar inversiones de la región; a la vez, podrían aumentar las remesas de venezolanos a Bolivia y generar impactos laborales en otros países vecinos.",
+      "summary_es": "El anuncio de Trump de tomar el control pleno del negocio petrolero venezolano podría facilitar una mayor producción y estabilizar precios, lo que beneficiaría a Bolivia al reducir costos de diésel y gasolina, pero también podría atraer inversión hacia EE. UU. y restar pujanza a Bolivia como jugador energético. Aunque la presencia estadounidense podría generar confianza jurídica y atraer capital, también podría desplazar inversiones de la región; a la vez, podrían aumentar las remesas de venezolanos a Bolivia y generar impactos laborales en otros países vecinos.",
+      "summary_en": "Trump’s announcement to take full control of Venezuela’s oil sector could boost production and stabilize prices, which would benefit Bolivia by lowering diesel and gasoline costs, but it could also attract investment to the United States and undermine Bolivia’s position as an energy player. While the U.S. presence could provide legal certainty and attract capital, it could also shift investments away from the region; at the same time, it could increase remittances from Venezuelans to Bolivia and have labor-market impacts in other neighboring countries.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-06T18:05:00-04:00",
+      "published_at_bo": "2026-01-06T18:05:00-04:00",
+      "fetched_at_utc": "2026-01-06T22:27:11.887548+00:00",
+      "day": "2026-01-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "Comunarios toman estación estratégica de YPFB y paralizan operaciones en Oconi",
+      "url": "https://eldeber.com.bo/economia/comunarios-toman-estacion-estrategica-ypfb-paralizan-operaciones-oconi_1767735699",
+      "summary": "YPFB Transporte S.A. informó que la Estación de Compresión y Bombeo Oconi fue tomada por comunarios, lo que provocó la paralización de operaciones y la activación de su Plan de Respuesta a Emergencias para preservar la seguridad del personal y de los manifestantes. La empresa indicó que la acción es externa a su operación y aún no se han reportado impactos concretos en el transporte de gas o combustibles, mientras los productores campesinos atribuyen la ocupación al rechazo al Decreto Supremo 5503, que eliminó subsidios y aumentó costos de producción.",
+      "summary_es": "YPFB Transporte S.A. informó que la Estación de Compresión y Bombeo Oconi fue tomada por comunarios, lo que provocó la paralización de operaciones y la activación de su Plan de Respuesta a Emergencias para preservar la seguridad del personal y de los manifestantes. La empresa indicó que la acción es externa a su operación y aún no se han reportado impactos concretos en el transporte de gas o combustibles, mientras los productores campesinos atribuyen la ocupación al rechazo al Decreto Supremo 5503, que eliminó subsidios y aumentó costos de producción.",
+      "summary_en": "YPFB Transporte S.A. said that the Oconi Compression and Pumping Station was taken over by community members, causing its operations to shut down and triggering the company’s Emergency Response Plan to protect the safety of staff and the protesters. The firm noted that the action is external to its operations and no concrete impacts on gas or fuel transport have been reported so far. Meanwhile, the rural producers attribute the occupation to their rejection of Supreme Decree 5503, which eliminated subsidies and raised production costs.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-06T17:54:00-04:00",
+      "published_at_bo": "2026-01-06T17:54:00-04:00",
+      "fetched_at_utc": "2026-01-06T22:27:12.867735+00:00",
+      "day": "2026-01-06"
+    },
     {
       "source": "El Deber",
       "title": "El BID vuelve a Bolivia tras 15 años y pone la mira en infraestructura y crédito",
