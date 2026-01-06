@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-06T16:36:38.231649+00:00",
+  "generated_at_utc": "2026-01-06T16:48:32.149310+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La inflación acumulada en 2025 fue del 20,40% y en 2024, del 9,97%, según el INE",
+      "url": "https://eldeber.com.bo/economia/inflacion-acumulada-2025-fue-20-40-2024-9-97-ine_1767714058",
+      "summary": "La inflación anual 2025 fue de 20,40% y el diciembre mostró un incremento de 0,59%, con 189 de 397 productos y servicios cotizados reduciendo su precio frente a 175 que suben y 33 que se mantienen. El Gobierno atribuye esta estabilidad a la menor presión inflacionaria, estabilización del tipo de cambio y otros factores, señalando que si la tendencia continúa podría sostenerse un crecimiento económico sostenido.",
+      "summary_es": "La inflación anual 2025 fue de 20,40% y el diciembre mostró un incremento de 0,59%, con 189 de 397 productos y servicios cotizados reduciendo su precio frente a 175 que suben y 33 que se mantienen. El Gobierno atribuye esta estabilidad a la menor presión inflacionaria, estabilización del tipo de cambio y otros factores, señalando que si la tendencia continúa podría sostenerse un crecimiento económico sostenido.",
+      "summary_en": "Annual inflation for 2025 stood at 20.40%, and December saw a 0.59% rise, with 189 of 397 goods and services tracked recording price declines, while 175 rose and 33 remained unchanged. The government attributes this stability to lower inflationary pressure, exchange-rate stabilization, and other factors, saying that if the trend continues it could support sustained economic growth.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-06T12:30:00-04:00",
+      "published_at_bo": "2026-01-06T12:30:00-04:00",
+      "fetched_at_utc": "2026-01-06T16:36:35.338764+00:00",
+      "day": "2026-01-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno anuncia reunión con la COB y dirigentes sindicales a mediodía",
+      "url": "https://eldeber.com.bo/economia/gobierno-anuncia-reunion-cob-dirigentes-sindicales-mediodia_1767710659",
+      "summary": "El ministro de Gobierno, Marco Antonio Oviedo, anunció una reunión hoy al mediodía con la COB y representantes de mineros y fabriles para abrir mesas de diálogo sobre el DS 5503, en medio de tensiones por la suspensión de subsidios y el salario público. El Gobierno desmintió que Mario Argollo fuera aprehendido y se reportó que la Policía intervino el Hotel de la COB en busca de explosivos.",
+      "summary_es": "El ministro de Gobierno, Marco Antonio Oviedo, anunció una reunión hoy al mediodía con la COB y representantes de mineros y fabriles para abrir mesas de diálogo sobre el DS 5503, en medio de tensiones por la suspensión de subsidios y el salario público. El Gobierno desmintió que Mario Argollo fuera aprehendido y se reportó que la Policía intervino el Hotel de la COB en busca de explosivos.",
+      "summary_en": "Government Minister Marco Antonio Oviedo announced a noon meeting today with the COB and representatives of miners and factory workers to open dialogue on Decree 5503, amid tensions over the suspension of subsidies and public salaries. The government denied that Mario Argollo had been apprehended, and reports said police intervened at the COB Hotel in search of explosives.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-06T11:46:00-04:00",
+      "published_at_bo": "2026-01-06T11:46:00-04:00",
+      "fetched_at_utc": "2026-01-06T16:36:36.309188+00:00",
+      "day": "2026-01-06"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno consolida acuerdos con el sistema financiero para aplicar alivio crediticio responsable",
