@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-07T10:30:46.055374+00:00",
+  "generated_at_utc": "2026-01-07T10:43:36.038642+00:00",
   "count": 93,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "En medio de rechazo popular, sectores  mantienen bloqueos  de vías y toman planta  de gas",
+      "url": "https://eldeber.com.bo/economia/medio-rechazo-popular-sectores-mantienen-bloqueos-vias-toman-planta-gas_1767781072",
+      "summary": "La COB y sectores afines mantienen bloqueos y tomas de infraestructura en rechazo al Decreto Supremo 5503 que elimina el subsidio a los combustibles, generando tensiones y afectando servicios, transporte y producción en varias regiones, mientras la ciudadanía muestra un rechazo mayoritario a estas acciones y se prioriza la estabilidad económica. Debates políticos y opiniones de dirigentes señalan motivaciones ideológicas y privilegios, aunque algunos analistas señalan impactos difíciles para el país.",
+      "summary_es": "La COB y sectores afines mantienen bloqueos y tomas de infraestructura en rechazo al Decreto Supremo 5503 que elimina el subsidio a los combustibles, generando tensiones y afectando servicios, transporte y producción en varias regiones, mientras la ciudadanía muestra un rechazo mayoritario a estas acciones y se prioriza la estabilidad económica. Debates políticos y opiniones de dirigentes señalan motivaciones ideológicas y privilegios, aunque algunos analistas señalan impactos difíciles para el país.",
+      "summary_en": "The COB and allied sectors continue blockades and takeovers of infrastructure in opposition to Supreme Decree 5503, which eliminates fuel subsidies, creating tensions and affecting services, transportation, and production in several regions. At the same time, the public shows wide opposition to these actions, with economic stability prioritized. Political debates and leaders’ comments point to ideological motivations and privileges, though some analysts warn of significant impacts for the country.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-07T06:17:00-04:00",
+      "published_at_bo": "2026-01-07T06:17:00-04:00",
+      "fetched_at_utc": "2026-01-07T10:30:44.082974+00:00",
+      "day": "2026-01-07"
+    },
     {
       "source": "El Deber",
       "title": "Cainco rechaza los bloqueos y defiende el derecho a trabajar y producir",
