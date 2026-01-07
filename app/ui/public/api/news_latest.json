@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-07T11:25:47.620868+00:00",
+  "generated_at_utc": "2026-01-07T11:33:18.358839+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Seis regiones registran filas y protestas por GLP; señalan cinco factores por escasez",
+      "url": "https://eldeber.com.bo/economia/seis-regiones-registran-filas-protestas-glp-senalan-cinco-factores-escasez_1767782440",
+      "summary": "Seis regiones de Bolivia reportaron filas y protestas por la escasez de GLP, motivadas por rumores de desabastecimiento, bloqueos en plantas envasadoras, deterioro del parque de garrafas, capacidad operativa reducida y contrabando. Las autoridades implementaron medidas como aumentar la asignación a distribuidoras y vender con carnet de identidad para evitar acopio.",
+      "summary_es": "Seis regiones de Bolivia reportaron filas y protestas por la escasez de GLP, motivadas por rumores de desabastecimiento, bloqueos en plantas envasadoras, deterioro del parque de garrafas, capacidad operativa reducida y contrabando. Las autoridades implementaron medidas como aumentar la asignación a distribuidoras y vender con carnet de identidad para evitar acopio.",
+      "summary_en": "Six regions in Bolivia reported long queues and protests over LPG shortages, driven by rumors of supply disruptions, blockades at bottling plants, deterioration of the cylinder fleet, reduced operating capacity, and smuggling. Authorities implemented measures such as increasing allocations to distributors and selling LPG by identity card to prevent hoarding.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-07T06:40:00-04:00",
+      "published_at_bo": "2026-01-07T06:40:00-04:00",
+      "fetched_at_utc": "2026-01-07T11:25:44.704454+00:00",
+      "day": "2026-01-07"
+    },
     {
       "source": "El Deber",
       "title": "En medio de rechazo popular, sectores  mantienen bloqueos  de vías y toman planta  de gas",
