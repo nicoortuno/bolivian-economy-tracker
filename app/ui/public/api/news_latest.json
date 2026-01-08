@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-08T11:26:11.418606+00:00",
+  "generated_at_utc": "2026-01-08T11:33:45.354443+00:00",
   "count": 95,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Empresarios prevén daños de $us 60 millones diarios por cortes de rutas en el país",
+      "url": "https://eldeber.com.bo/economia/empresarios-preven-danos-us-60-millones-diarios-cortes-rutas-pais_1767868442",
+      "summary": "La tensión social en Bolivia se intensificó por más de 20 bloqueos a nivel nacional contra el Decreto Supremo 5503, que elimina el subsidio a los combustibles, con la COB al frente y pérdidas económicas significativas para la industria y la producción. El Gobierno mantiene un diálogo en mesas técnicas para analizar el decreto, mientras se mantiene la posibilidad de ajustes sin revertir la eliminación del subsidio.",
+      "summary_es": "La tensión social en Bolivia se intensificó por más de 20 bloqueos a nivel nacional contra el Decreto Supremo 5503, que elimina el subsidio a los combustibles, con la COB al frente y pérdidas económicas significativas para la industria y la producción. El Gobierno mantiene un diálogo en mesas técnicas para analizar el decreto, mientras se mantiene la posibilidad de ajustes sin revertir la eliminación del subsidio.",
+      "summary_en": "Social tensions in Bolivia intensified after more than 20 nationwide blockades against Supreme Decree 5503, which eliminates fuel subsidies, led by the COB union and causing significant economic losses for industry and production. The government is keeping talks in technical working groups to examine the decree, while also keeping the possibility of adjustments on the table that do not reverse the elimination of the subsidy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-08T06:34:00-04:00",
+      "published_at_bo": "2026-01-08T06:34:00-04:00",
+      "fetched_at_utc": "2026-01-08T11:26:09.556227+00:00",
+      "day": "2026-01-08"
+    },
     {
       "source": "El Deber",
       "title": "Industriales: el subsidio no debe volver y los bloqueos solo hunden la economía",
