@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-08T18:36:39.246747+00:00",
+  "generated_at_utc": "2026-01-08T18:47:18.170894+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Latinoamérica crecerá 2,3 % en 2026, con desempeños dispares entre países, según la ONU",
+      "url": "https://eldeber.com.bo/economia/latinoamerica-crecera-2-3-2026-desempenos-dispares-paises-onu_1767897133",
+      "summary": "La ONU proyecta un crecimiento de Latinoamérica y el Caribe del 2,3% en 2026 y del 2,5% en 2027, con evolución heterogénea y riesgos derivados de restricciones fiscales internas y de un entorno externo más adverso. Señala avances moderados para Brasil ( ~2,0% en 2026), México (≈1,3%), Argentina (≈3,8%) y repunte turístico e inversión para otros países, mientras el Caribe crece poco y la inflación converge hacia 4% en 2026, ante alta deuda y menor margen de maniobra fiscal y monetaria.",
+      "summary_es": "La ONU proyecta un crecimiento de Latinoamérica y el Caribe del 2,3% en 2026 y del 2,5% en 2027, con evolución heterogénea y riesgos derivados de restricciones fiscales internas y de un entorno externo más adverso. Señala avances moderados para Brasil ( ~2,0% en 2026), México (≈1,3%), Argentina (≈3,8%) y repunte turístico e inversión para otros países, mientras el Caribe crece poco y la inflación converge hacia 4% en 2026, ante alta deuda y menor margen de maniobra fiscal y monetaria.",
+      "summary_en": "The UN projects Latin America and the Caribbean to grow 2.3% in 2026 and 2.5% in 2027, with uneven progress and risks from internal fiscal constraints and a more adverse external environment. It notes moderate advances for Brazil (about 2.0% in 2026), Mexico (about 1.3%), Argentina (about 3.8%), and a rally in tourism and investment for other countries, while the Caribbean is seen to grow slowly and inflation converge toward 4% in 2026, amid high debt and less room for fiscal and monetary maneuver.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-08T14:41:00-04:00",
+      "published_at_bo": "2026-01-08T14:41:00-04:00",
+      "fetched_at_utc": "2026-01-08T18:36:37.330801+00:00",
+      "day": "2026-01-08"
+    },
     {
       "source": "El Deber",
       "title": "Empresarios prevén daños de $us 60 millones diarios por cortes de rutas en el país",
