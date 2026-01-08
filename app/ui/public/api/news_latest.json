@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-08T10:44:37.615212+00:00",
-  "count": 96,
+  "generated_at_utc": "2026-01-08T11:26:11.418606+00:00",
+  "count": 95,
   "items": [
     {
       "source": "El Deber",
@@ -1317,34 +1317,6 @@
       "published_at_bo": "2025-12-23T07:35:00-04:00",
       "fetched_at_utc": "2025-12-23T17:25:28.463114+00:00",
       "day": "2025-12-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "El IBCE advierte una crisis multidimensional y plantea a las exportaciones como la salida para 2026",
-      "url": "https://eldeber.com.bo/economia/ibce-advierte-crisis-multidimensional-plantea-exportaciones-salida-2026_1766426143",
-      "summary": "En 2025 Bolivia enfrenta una crisis multidimensional de estanflación, déficits fiscal y comercial, y una inflación cercana al 20%, con caída del PIB y menor poder adquisitivo; se advierte un mayor déficit comercial y necesidad de activar exportaciones y políticas para estabilizar las Reservas Internacionales Netas. El IBCE destaca que la única ruta estructural es aumentar las divisas mediante exportaciones, atracción de inversión y repatriación de capitales, con unidad entre sector público y privado.",
-      "summary_es": "En 2025 Bolivia enfrenta una crisis multidimensional de estanflación, déficits fiscal y comercial, y una inflación cercana al 20%, con caída del PIB y menor poder adquisitivo; se advierte un mayor déficit comercial y necesidad de activar exportaciones y políticas para estabilizar las Reservas Internacionales Netas. El IBCE destaca que la única ruta estructural es aumentar las divisas mediante exportaciones, atracción de inversión y repatriación de capitales, con unidad entre sector público y privado.",
-      "summary_en": "In 2025, Bolivia faces a multidimensional crisis of stagflation, fiscal and current-account deficits, and inflation near 20%, with a shrinking GDP and diminished purchasing power. A larger trade deficit is anticipated, along with the need to boost exports and implement policies to stabilize Net International Reserves. The IBCE notes that the only structural path is to increase foreign exchange earnings through exports, attract investment, and repatriate capital, with unity between the public and private sectors.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-22T13:56:00-04:00",
-      "published_at_bo": "2025-12-22T13:56:00-04:00",
-      "fetched_at_utc": "2025-12-22T23:24:41.763647+00:00",
-      "day": "2025-12-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Prevén que Decreto 5503 golpeará más fuerte a las mypes en 2026",
-      "url": "https://eldeber.com.bo/economia/preven-decreto-5503-golpeara-fuerte-mypes-2026_1766372306",
-      "summary": "El Decreto Supremo 5503, que eleva el Salario Mínimo a 3.300 Bs para 2026 y elimina los subsidios a los combustibles, podría incrementar costos y reducir ventas, derivando en cierres de miles de mypes y desempleo. Este escenario amenaza la formalidad y podría acelerar la informalidad laboral si no se implementan políticas de sostenibilidad para las micro y pequeñas empresas.",
-      "summary_es": "El Decreto Supremo 5503, que eleva el Salario Mínimo a 3.300 Bs para 2026 y elimina los subsidios a los combustibles, podría incrementar costos y reducir ventas, derivando en cierres de miles de mypes y desempleo. Este escenario amenaza la formalidad y podría acelerar la informalidad laboral si no se implementan políticas de sostenibilidad para las micro y pequeñas empresas.",
-      "summary_en": "Supreme Decree 5503 raises the minimum wage to 3,300 Bs for 2026 and ends fuel subsidies, potentially increasing costs and reducing sales. It could trigger the closure of thousands of micro and small businesses and result in job losses. The scenario threatens formality and could accelerate informal employment unless sustainability policies for micro and small enterprises are put in place.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-22T03:00:00-04:00",
-      "published_at_bo": "2025-12-22T03:00:00-04:00",
-      "fetched_at_utc": "2025-12-22T08:37:20.939759+00:00",
-      "day": "2025-12-22"
     }
   ]
 }
