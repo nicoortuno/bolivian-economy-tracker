@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-10T15:24:48.235354+00:00",
+  "generated_at_utc": "2026-01-10T15:33:27.136153+00:00",
   "count": 80,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Exministro Montaño acusado de desfalcar $us 3 millones se acoge al silencio",
+      "url": "https://eldeber.com.bo/economia/exministro-montano-acusado-desfalcar-us-3-millones-acoge-silencio_1768056022",
+      "summary": "La Fiscalía confirmó la aprehensión del exministro de Obras Públicas, Édgar Montaño, acusado de provocar un daño económico de unos 3 millones de dólares al suscribir contratos lesivos y cláusulas irregulares en la obra vial El Sillar, de más de 400 millones de dólares, en una investigación que abarca a nueve personas. Montaño se acogió al derecho al silencio ante las autoridades judiciales, y la Fiscalía solicita detención preventiva mientras continúa la indagación.",
+      "summary_es": "La Fiscalía confirmó la aprehensión del exministro de Obras Públicas, Édgar Montaño, acusado de provocar un daño económico de unos 3 millones de dólares al suscribir contratos lesivos y cláusulas irregulares en la obra vial El Sillar, de más de 400 millones de dólares, en una investigación que abarca a nueve personas. Montaño se acogió al derecho al silencio ante las autoridades judiciales, y la Fiscalía solicita detención preventiva mientras continúa la indagación.",
+      "summary_en": "The Prosecutor General’s Office confirmed the arrest of former Public Works Minister Édgar Montaño, who is accused of causing roughly $3 million in economic damage by signing detrimental contracts and irregular clauses in the El Sillar road project, valued at more than $400 million, in an investigation involving nine people. Montaño invoked his right to remain silent before judicial authorities, and the Prosecutor’s Office is seeking preventive detention while the inquiry continues.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-10T11:05:00-04:00",
+      "published_at_bo": "2026-01-10T11:05:00-04:00",
+      "fetched_at_utc": "2026-01-10T15:24:45.421553+00:00",
+      "day": "2026-01-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "En seis días, bloqueos dejan $us 600 millones de pérdidas; \"son recursos irrecuperables\"",
+      "url": "https://eldeber.com.bo/economia/seis-dias-bloqueos-dejan-us-600-millones-perdidas-recursos-irrecuperables_1768054211",
+      "summary": "Las fuerzas obreras y otros sectores bloquearon rutas en Bolivia durante seis días, generando estimaciones de pérdidas superiores a 600 millones de dólares y afectando producción, comercio y precios de bienes básicos, con impactos también en turismo y transporte. La COB mantiene las protestas para lograr la abrogación del Decreto Supremo 5503, pese a que las pérdidas se consideran irrecuperables y podrían intensificarse si persisten los bloqueos.",
+      "summary_es": "Las fuerzas obreras y otros sectores bloquearon rutas en Bolivia durante seis días, generando estimaciones de pérdidas superiores a 600 millones de dólares y afectando producción, comercio y precios de bienes básicos, con impactos también en turismo y transporte. La COB mantiene las protestas para lograr la abrogación del Decreto Supremo 5503, pese a que las pérdidas se consideran irrecuperables y podrían intensificarse si persisten los bloqueos.",
+      "summary_en": "Workers’ unions and other sectors blocked routes in Bolivia for six days, with estimates of losses exceeding $600 million and impacts on production, trade, and prices of basic goods, also affecting tourism and transport. The Bolivian Workers’ Center (COB) is maintaining the protests to push for the repeal of Supreme Decree 5503, even though the losses are seen as irrecoverable and could worsen if the blockades persist.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-10T10:27:00-04:00",
+      "published_at_bo": "2026-01-10T10:27:00-04:00",
+      "fetched_at_utc": "2026-01-10T15:24:46.385256+00:00",
+      "day": "2026-01-10"
+    },
     {
       "source": "El Deber",
       "title": "Mauricio Medinaceli: “El Decreto 5503 permitió controlar la corrupción en los combustibles por eso ahora se vuelcan a las garrafas de GLP”",
