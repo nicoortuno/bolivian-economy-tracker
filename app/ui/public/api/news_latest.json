@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-01-10T18:35:57.229646+00:00",
+  "generated_at_utc": "2026-01-10T18:45:26.591833+00:00",
   "count": 84,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bloqueos y sobreoferta hunden al sector avícola: productores pierden millones",
+      "url": "https://eldeber.com.bo/economia/bloqueos-sobreoferta-hunden-sector-avicola-productores-pierden-millones_1768061179",
+      "summary": "La crisis avícola boliviana se agrava por bloqueos de carreteras y una sobreoferta histórica, que mantiene el kilo de pollo por debajo del costo de producción y provoca pérdidas para productores pequeños y, en menor medida, medianos y grandes. Además, la capacidad ociosa podría exportarse para generar unos 220 millones de dólares al año, pero los bloqueos y la limitada apertura de mercados impiden aprovecharla.",
+      "summary_es": "La crisis avícola boliviana se agrava por bloqueos de carreteras y una sobreoferta histórica, que mantiene el kilo de pollo por debajo del costo de producción y provoca pérdidas para productores pequeños y, en menor medida, medianos y grandes. Además, la capacidad ociosa podría exportarse para generar unos 220 millones de dólares al año, pero los bloqueos y la limitada apertura de mercados impiden aprovecharla.",
+      "summary_en": "The Bolivian poultry crisis is being worsened by road blockades and a historic oversupply, which keeps the price of a kilo of chicken below production costs and is causing losses for small producers, and to a lesser extent, for medium and large producers. In addition, idle capacity could be exported to generate about $220 million a year, but blockades and limited market access are preventing this opportunity from being seized.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-10T14:28:00-04:00",
+      "published_at_bo": "2026-01-10T14:28:00-04:00",
+      "fetched_at_utc": "2026-01-10T18:35:50.326583+00:00",
+      "day": "2026-01-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Hay escasez de pollo en La Paz por bloqueos de rutas; el kilo se vende a Bs 30",
+      "url": "https://eldeber.com.bo/economia/hay-escasez-pollo-paz-bloqueos-rutas-kilo-vende-bs-30_1768059202",
+      "summary": "La escasez de pollo en La Paz, causada por bloqueos en las carreteras, reduce la oferta y eleva los precios, mientras en Santa Cruz hay sobreoferta que presiona a la baja, con el kilo de pollo a unos Bs 15. En Santa Cruz también se observan caídas en otros cortes, como patitas, corazón, hígado y pechugas, frente a la escasez de abastecimiento en La Paz.",
+      "summary_es": "La escasez de pollo en La Paz, causada por bloqueos en las carreteras, reduce la oferta y eleva los precios, mientras en Santa Cruz hay sobreoferta que presiona a la baja, con el kilo de pollo a unos Bs 15. En Santa Cruz también se observan caídas en otros cortes, como patitas, corazón, hígado y pechugas, frente a la escasez de abastecimiento en La Paz.",
+      "summary_en": "The chicken shortage in La Paz, caused by road blockades, is reducing supply and driving up prices, while in Santa Cruz there is an oversupply that is pushing prices down, with chicken at around Bs 15 per kilogram. In Santa Cruz, there are also declines in other cuts—such as feet, heart, liver, and breasts—compared with the supply shortages in La Paz.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-10T14:24:00-04:00",
+      "published_at_bo": "2026-01-10T14:24:00-04:00",
+      "fetched_at_utc": "2026-01-10T18:35:51.289895+00:00",
+      "day": "2026-01-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno rescata a turistas varados en Uyuni por los bloqueos",
+      "url": "https://eldeber.com.bo/economia/gobierno-rescata-turistas-varados-uyuni-bloqueos_1768068892",
+      "summary": "El Ministerio de Turismo activó una operación de evacuación aérea para decenas de turistas varados en Uyuni por bloqueos de caminos, con dos vuelos chárter de la Fuerza Aérea de Bolivia (70 pasajeros cada uno) para trasladar alrededor de 135 extranjeros y mitigar el impacto en la imagen turística y las pérdidas del sector.",
+      "summary_es": "El Ministerio de Turismo activó una operación de evacuación aérea para decenas de turistas varados en Uyuni por bloqueos de caminos, con dos vuelos chárter de la Fuerza Aérea de Bolivia (70 pasajeros cada uno) para trasladar alrededor de 135 extranjeros y mitigar el impacto en la imagen turística y las pérdidas del sector.",
+      "summary_en": "The Ministry of Tourism has launched an air-evacuation operation for dozens of tourists stranded in Uyuni due to road blockades, using two Bolivian Air Force charter flights carrying 70 passengers each to move about 135 foreigners and mitigate the impact on the tourism sector’s image and losses.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-10T14:21:00-04:00",
+      "published_at_bo": "2026-01-10T14:21:00-04:00",
+      "fetched_at_utc": "2026-01-10T18:35:52.262092+00:00",
+      "day": "2026-01-10"
+    },
     {
       "source": "El Deber",
       "title": "Canotur advierte que conflictos erosionan la imagen del país como destino turístico",
