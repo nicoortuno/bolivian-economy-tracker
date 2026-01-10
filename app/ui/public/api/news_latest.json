@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-10T23:24:33.756430+00:00",
+  "generated_at_utc": "2026-01-10T23:31:58.739418+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cifabol alerta desabastecimiento de medicamentos por bloqueos y pide libre tránsito",
+      "url": "https://eldeber.com.bo/economia/cifabol-alerta-desabastecimiento-medicamentos-bloqueos-pide-libre-transito_1768079244",
+      "summary": "La Cámara de la Industria Farmacéutica Boliviana (Cifabol) alertó sobre dificultades en el abastecimiento de medicamentos, dispositivos médicos y oxígeno medicinal debido a paros y bloqueos, y pidió garantizar libre tránsito de los vehículos que transportan estos insumos. Advirtió que la interrupción de la cadena logística podría afectar la atención médica y los tratamientos de la población.",
+      "summary_es": "La Cámara de la Industria Farmacéutica Boliviana (Cifabol) alertó sobre dificultades en el abastecimiento de medicamentos, dispositivos médicos y oxígeno medicinal debido a paros y bloqueos, y pidió garantizar libre tránsito de los vehículos que transportan estos insumos. Advirtió que la interrupción de la cadena logística podría afectar la atención médica y los tratamientos de la población.",
+      "summary_en": "The Bolivian Pharmaceutical Industry Chamber (Cifabol) warned of shortages in medicines, medical devices, and medical oxygen due to strikes and blockades, and urged the free passage of vehicles transporting these shipments. It warned that disruption of the supply chain could impact medical care and treatments for the population.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-10T18:53:00-04:00",
+      "published_at_bo": "2026-01-10T18:53:00-04:00",
+      "fetched_at_utc": "2026-01-10T23:24:28.949743+00:00",
+      "day": "2026-01-10"
+    },
     {
       "source": "El Deber",
       "title": "Industriales denuncian que bloqueos ponen en riesgo suministro de oxígeno y medicinas",
