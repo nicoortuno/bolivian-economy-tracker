@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-11T14:34:38.279460+00:00",
-  "count": 87,
+  "generated_at_utc": "2026-01-11T15:25:30.045274+00:00",
+  "count": 83,
   "items": [
     {
       "source": "El Deber",
@@ -1149,76 +1149,6 @@
       "published_at_bo": "2025-12-27T09:34:00-04:00",
       "fetched_at_utc": "2025-12-27T19:19:26.277316+00:00",
       "day": "2025-12-27"
-    },
-    {
-      "source": "El Deber",
-      "title": "Susy Dorado, gerente de Asosur, celebra apertura de autoridades después de una etapa \"muy dura\"",
-      "url": "https://eldeber.com.bo/economia/susy-dorado-gerente-asosur-celebra-apertura-autoridades-despues-etapa-dura_1766683876",
-      "summary": "Susy Dorado, gerente general de Asosur, destaca un cambio notable desde amenazas y procesos por expresar la verdad hacia un diálogo más transparente y coordinado con las autoridades, facilitando el acceso a volúmenes y requerimientos de abastecimiento. También señala avances y desafíos sobre la calidad de los combustibles, la distribución subvencionada y la posibilidad de crear una empresa dedicada a la importación, en un contexto de mayor apertura regulatoria.",
-      "summary_es": "Susy Dorado, gerente general de Asosur, destaca un cambio notable desde amenazas y procesos por expresar la verdad hacia un diálogo más transparente y coordinado con las autoridades, facilitando el acceso a volúmenes y requerimientos de abastecimiento. También señala avances y desafíos sobre la calidad de los combustibles, la distribución subvencionada y la posibilidad de crear una empresa dedicada a la importación, en un contexto de mayor apertura regulatoria.",
-      "summary_en": "Susy Dorado, general manager of Asosur, notes a notable shift—from threats and legal action for speaking out to a more transparent and coordinated dialogue with authorities, easing access to volumes and supply requirements. She also highlights progress and challenges regarding fuel quality, subsidized distribution, and the possibility of establishing a company dedicated to imports, all within a context of greater regulatory openness.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-25T19:19:00-04:00",
-      "published_at_bo": "2025-12-25T19:19:00-04:00",
-      "fetched_at_utc": "2025-12-25T23:24:18.135422+00:00",
-      "day": "2025-12-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "\"Era una tarea complicada, muy grave, con amenazas infinitas de proceso\", así era el trato con los surtidores",
-      "url": "https://eldeber.com.bo/economia/era-tarea-complicada-grave-amenazas-infinitas-proceso-asi-era-trato-surtidores_1766678569",
-      "summary": "Susy Dorado, gerente general de Asosur, revela en una entrevista que ha enfrentado procesos penales y hostigamiento por defender la verdad frente a la anterior gestión de YPFB, pero afirma que la cooperación y la coordinación han mejorado con la nueva administración y que se esperan tiempos mejores para el sector. La entrevista se emite este jueves 25 de diciembre en el programa Dinero de ED24.",
-      "summary_es": "Susy Dorado, gerente general de Asosur, revela en una entrevista que ha enfrentado procesos penales y hostigamiento por defender la verdad frente a la anterior gestión de YPFB, pero afirma que la cooperación y la coordinación han mejorado con la nueva administración y que se esperan tiempos mejores para el sector. La entrevista se emite este jueves 25 de diciembre en el programa Dinero de ED24.",
-      "summary_en": "Susy Dorado, general manager of Asosur, reveals in an interview that she faced criminal proceedings and harassment for defending the truth against the previous YPFB management, but she says cooperation and coordination have improved with the new administration and that better times are expected for the sector. The interview airs this Thursday, December 25, on ED24's Dinero program.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-25T12:02:00-04:00",
-      "published_at_bo": "2025-12-25T12:02:00-04:00",
-      "fetched_at_utc": "2025-12-25T21:23:39.460958+00:00",
-      "day": "2025-12-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "ANH pone en vigencia nuevo registro para consumidores de diésel: una declaración jurada en línea",
-      "url": "https://eldeber.com.bo/economia/anh-pone-vigencia-nuevo-registro-consumidores-diesel-declaracion-jurada-linea_1766673471",
-      "summary": "La ANH implementa una nueva modalidad de registro para consumidores de diésel mediante una declaración jurada en línea, con requisitos como carnet de identidad, actividad productiva y volumen de consumo; la ANH asignará hasta tres estaciones de servicio cercanas y el registro debe completarse con una versión impresa en 5 días hábiles. Si la declaración es falsa, pueden haber sanciones administrativas y penales.",
-      "summary_es": "La ANH implementa una nueva modalidad de registro para consumidores de diésel mediante una declaración jurada en línea, con requisitos como carnet de identidad, actividad productiva y volumen de consumo; la ANH asignará hasta tres estaciones de servicio cercanas y el registro debe completarse con una versión impresa en 5 días hábiles. Si la declaración es falsa, pueden haber sanciones administrativas y penales.",
-      "summary_en": "The ANH has introduced a new registration method for diesel consumers via an online sworn statement, requiring, among other things, an identity card, productive activity, and volume of consumption. The ANH will assign up to three nearby service stations, and the registration must be completed with a printed version within five business days. If the statement is false, administrative and criminal penalties may apply.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-25T10:55:00-04:00",
-      "published_at_bo": "2025-12-25T10:55:00-04:00",
-      "fetched_at_utc": "2025-12-25T20:28:57.397869+00:00",
-      "day": "2025-12-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "¿Qué es el bono PEPE y quiénes lo puede recibir?",
-      "url": "https://eldeber.com.bo/economia/bono-pepe-quienes-puede-recibir_1766671649",
-      "summary": "El gobierno boliviano formalizó el inicio del pago del bono PEPE (Programa Extraordinario de Protección y Equidad) a partir de enero de 2026, con tres pagos mensuales de 150 bolivianos (un total de 450 Bs) para familias en situación de vulnerabilidad. El Decreto Supremo 5503 también contempla aumentos en la Renta Dignidad y el Bono Juancito Pinto, y la Gestora Pública afirmó que no se requiere inscripción ni actualización de datos para acceder a los beneficios.",
-      "summary_es": "El gobierno boliviano formalizó el inicio del pago del bono PEPE (Programa Extraordinario de Protección y Equidad) a partir de enero de 2026, con tres pagos mensuales de 150 bolivianos (un total de 450 Bs) para familias en situación de vulnerabilidad. El Decreto Supremo 5503 también contempla aumentos en la Renta Dignidad y el Bono Juancito Pinto, y la Gestora Pública afirmó que no se requiere inscripción ni actualización de datos para acceder a los beneficios.",
-      "summary_en": "The Bolivian government formalized the start of payments for the PEPE program (Programa Extraordinario de Protección y Equidad) starting January 2026, with three monthly payments of 150 bolivianos (a total of 450 Bs) for families in vulnerable situations. Supreme Decree 5503 also envisions increases to the Renta Dignidad and the Juancito Pinto bonus, and the Public Management Agency said that no registration or data update is required to access the benefits.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-25T10:12:00-04:00",
-      "published_at_bo": "2025-12-25T10:12:00-04:00",
-      "fetched_at_utc": "2025-12-25T19:20:16.859441+00:00",
-      "day": "2025-12-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "Compras navideñas con medida:  el gasto es menor al de otros años",
-      "url": "https://eldeber.com.bo/economia/compras-navidenas-medida-gasto-menor-otros-anos_1766663228",
-      "summary": "Las compras navideñas en Santa Cruz se caracterizan por un consumo más prudente y selectivo, con menos volumen por cliente y mayor énfasis en alimentos básicos ante presupuestos ajustados y el aumento de precios tras la eliminación del subsidio a los combustibles. La demanda concentra especialmente en la cena navideña (principalmente carne de cerdo), canastones y regalos, con picos de afluencia en la tarde y precios de cortes como pierna, costilla y lechón por encima de los del año pasado.",
-      "summary_es": "Las compras navideñas en Santa Cruz se caracterizan por un consumo más prudente y selectivo, con menos volumen por cliente y mayor énfasis en alimentos básicos ante presupuestos ajustados y el aumento de precios tras la eliminación del subsidio a los combustibles. La demanda concentra especialmente en la cena navideña (principalmente carne de cerdo), canastones y regalos, con picos de afluencia en la tarde y precios de cortes como pierna, costilla y lechón por encima de los del año pasado.",
-      "summary_en": "Christmas shopping in Santa Cruz is characterized by more prudent, selective spending, with smaller per-customer volume and a greater emphasis on staples as budgets tighten and prices rise after the fuel subsidy was removed. Demand is especially focused on the Christmas dinner (primarily pork), large gift baskets, and gifts, with peak crowds in the afternoon and prices for cuts such as leg, ribs, and suckling pig above last year's levels.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-25T07:47:00-04:00",
-      "published_at_bo": "2025-12-25T07:47:00-04:00",
-      "fetched_at_utc": "2025-12-25T17:22:34.820427+00:00",
-      "day": "2025-12-25"
     }
   ]
 }
