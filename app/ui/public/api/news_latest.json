@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-11T22:24:52.273378+00:00",
+  "generated_at_utc": "2026-01-11T22:35:17.537273+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Carniceros declaran paro indefinido y amenazan el abastecimiento",
+      "url": "https://eldeber.com.bo/economia/carniceros-declaran-paro-indefinido-amenazan-abastecimiento_1768166192",
+      "summary": "Contracabol declaró un paro indefinido y movilización a nivel nacional para exigir la abrogación de los decretos 5503, 5509 y 5515, ordenando el cierre de mataderos, cámaras frigoríficas, ferias y mercados cárnicos como presión contundente. La medida, en un contexto de alta conflictividad y desabastecimiento, podría trasladar el costo del conflicto a los consumidores al aumentar la escasez y los precios de la carne.",
+      "summary_es": "Contracabol declaró un paro indefinido y movilización a nivel nacional para exigir la abrogación de los decretos 5503, 5509 y 5515, ordenando el cierre de mataderos, cámaras frigoríficas, ferias y mercados cárnicos como presión contundente. La medida, en un contexto de alta conflictividad y desabastecimiento, podría trasladar el costo del conflicto a los consumidores al aumentar la escasez y los precios de la carne.",
+      "summary_en": "Contracabol announced an indefinite strike and nationwide mobilization to demand the repeal of Decrees 5503, 5509, and 5515, ordering the closure of slaughterhouses, cold storage facilities, fairs, and meat markets as a pressure tactic. The move, set against a backdrop of heightened conflict and shortages, could transfer the cost of the conflict to consumers by boosting meat shortages and prices.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-11T17:26:00-04:00",
+      "published_at_bo": "2026-01-11T17:26:00-04:00",
+      "fetched_at_utc": "2026-01-11T22:24:46.369664+00:00",
+      "day": "2026-01-11"
+    },
     {
       "source": "El Deber",
       "title": "Amenazan con saqueos a comercios de El Alto en protestas contra el Decreto 5503",
