@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-11T21:23:41.311244+00:00",
+  "generated_at_utc": "2026-01-11T21:30:59.066864+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Amenazan con saqueos a comercios de El Alto en protestas contra el Decreto 5503",
+      "url": "https://eldeber.com.bo/economia/amenazan-saqueos-comercios-alto-protestas-decreto-5503_1768164302",
+      "summary": "Durante el fin de semana, sectores que exigen la abrogación del Decreto Supremo 5503 intensificaron las protestas en El Alto, con bloqueos y amenazas a pequeños comercios en la zona de San Roque, generando miedo a posibles saqueos. Este clima de confrontación eleva el riesgo para el orden público y agrava la presión económica sobre hogares de bajos ingresos, afectando el abastecimiento y la actividad comercial local.",
+      "summary_es": "Durante el fin de semana, sectores que exigen la abrogación del Decreto Supremo 5503 intensificaron las protestas en El Alto, con bloqueos y amenazas a pequeños comercios en la zona de San Roque, generando miedo a posibles saqueos. Este clima de confrontación eleva el riesgo para el orden público y agrava la presión económica sobre hogares de bajos ingresos, afectando el abastecimiento y la actividad comercial local.",
+      "summary_en": "Over the weekend, groups demanding the repeal of Supreme Decree 5503 intensified protests in El Alto, including roadblocks and threats to small businesses in the San Roque area, sparking fears of looting. This confrontation heightens the risk to public order and worsens the economic pressure on low-income households, impacting supply and local commerce.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-11T17:21:00-04:00",
+      "published_at_bo": "2026-01-11T17:21:00-04:00",
+      "fetched_at_utc": "2026-01-11T21:23:35.436960+00:00",
+      "day": "2026-01-11"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno reporta ahorro de $us 240 millones por eliminar subsidio a combustibles en 22 días",
