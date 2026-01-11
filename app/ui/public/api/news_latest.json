@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-11T20:28:48.195214+00:00",
+  "generated_at_utc": "2026-01-11T20:36:23.417396+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno reporta ahorro de $us 240 millones por eliminar subsidio a combustibles en 22 días",
+      "url": "https://eldeber.com.bo/economia/gobierno-reporta-ahorro-us-240-millones-eliminar-subsidio-combustibles-22-dias_1768151563",
+      "summary": "El ministro José Gabriel Espinoza anunció un ahorro de aproximadamente 240 millones de dólares en 22 días tras eliminar el subsidio a los combustibles, recursos que según él podrán destinarse a obras públicas, infraestructura y desarrollo. En medio de protestas y bloqueos que afectan transporte y precios, el Ejecutivo defiende la medida como necesaria, mientras la COB la rechaza sin proponer alternativas.",
+      "summary_es": "El ministro José Gabriel Espinoza anunció un ahorro de aproximadamente 240 millones de dólares en 22 días tras eliminar el subsidio a los combustibles, recursos que según él podrán destinarse a obras públicas, infraestructura y desarrollo. En medio de protestas y bloqueos que afectan transporte y precios, el Ejecutivo defiende la medida como necesaria, mientras la COB la rechaza sin proponer alternativas.",
+      "summary_en": "Minister José Gabriel Espinoza announced savings of about $240 million in 22 days after scrapping fuel subsidies, funds he says could be directed to public works, infrastructure, and development. Amid protests and blockades affecting transportation and prices, the government defends the measure as necessary, while COB rejects it without proposing alternatives.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-11T16:00:00-04:00",
+      "published_at_bo": "2026-01-11T16:00:00-04:00",
+      "fetched_at_utc": "2026-01-11T20:28:42.494107+00:00",
+      "day": "2026-01-11"
+    },
     {
       "source": "El Deber",
       "title": "Bloqueos y acopio agravan escasez de GLP pese a mayor despacho en La Paz",
