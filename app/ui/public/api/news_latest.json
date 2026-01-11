@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-11T15:32:34.047686+00:00",
-  "count": 83,
+  "generated_at_utc": "2026-01-11T16:31:10.044744+00:00",
+  "count": 85,
   "items": [
     {
       "source": "El Deber",
@@ -13,7 +13,7 @@
       "sentiment": null,
       "published_at_utc": "2026-01-11T10:55:00-04:00",
       "published_at_bo": "2026-01-11T10:55:00-04:00",
-      "fetched_at_utc": "2026-01-11T15:25:28.083289+00:00",
+      "fetched_at_utc": "2026-01-11T16:31:08.345761+00:00",
       "day": "2026-01-11"
     },
     {
