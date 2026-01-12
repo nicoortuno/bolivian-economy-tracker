@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-12T05:34:25.331018+00:00",
+  "generated_at_utc": "2026-01-12T05:48:19.793270+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "CANEB exige al Gobierno mantener el cambio del modelo económico y no retroceder por presiones",
+      "url": "https://eldeber.com.bo/economia/caneb-exige-gobierno-mantener-cambio-modelo-economico-no-retroceder-presiones_1768185079",
+      "summary": "La CANEB dio la bienvenida al acuerdo para levantar los bloqueos, pero advirtió que modificar el Decreto 5503 podría retroceder el cambio estructural del modelo económico ante presiones sectoriales; pidió al Gobierno mantener el rumbo de reformas y garantizar que las decisiones económicas sirvan al interés nacional.",
+      "summary_es": "La CANEB dio la bienvenida al acuerdo para levantar los bloqueos, pero advirtió que modificar el Decreto 5503 podría retroceder el cambio estructural del modelo económico ante presiones sectoriales; pidió al Gobierno mantener el rumbo de reformas y garantizar que las decisiones económicas sirvan al interés nacional.",
+      "summary_en": "CANEB welcomed the agreement to lift the blockades, but warned that amending Decree 5503 could undo the structural shift in the economic model in the face of sectoral pressures; it urged the government to stay on the reform path and ensure that economic decisions serve the national interest.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-12T00:20:00-04:00",
+      "published_at_bo": "2026-01-12T00:20:00-04:00",
+      "fetched_at_utc": "2026-01-12T05:34:23.535413+00:00",
+      "day": "2026-01-12"
+    },
     {
       "source": "El Deber",
       "title": "Exigen a YPFB declarar pausa ambiental y paralizar el proyecto exploratorio Domo Oso X3",
