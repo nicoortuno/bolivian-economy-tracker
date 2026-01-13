@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-13T17:31:17.219947+00:00",
+  "generated_at_utc": "2026-01-13T17:43:44.908537+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BID califica de “muy buena” la reunión con el BCB para la estabilidad del país",
+      "url": "https://eldeber.com.bo/economia/bid-califica-buena-reunion-bcb-estabilidad-pais_1768323029",
+      "summary": "El presidente del BID, Ilan Goldfajn, se reunió en La Paz con el Banco Central de Bolivia y luego con ministros, en su primera misión oficial de un presidente del Grupo BID en 15 años. El BID anunció un posible apoyo de hasta 4.500 millones de dólares para financiar proyectos en Bolivia durante este periodo de transición.",
+      "summary_es": "El presidente del BID, Ilan Goldfajn, se reunió en La Paz con el Banco Central de Bolivia y luego con ministros, en su primera misión oficial de un presidente del Grupo BID en 15 años. El BID anunció un posible apoyo de hasta 4.500 millones de dólares para financiar proyectos en Bolivia durante este periodo de transición.",
+      "summary_en": "Ilan Goldfajn, president of the IDB, met in La Paz with Bolivia’s central bank and later with ministers, in his first official mission as president of the IDB Group in 15 years. The IDB announced potential support of up to $4.5 billion to finance projects in Bolivia during this transition period.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-13T13:09:00-04:00",
+      "published_at_bo": "2026-01-13T13:09:00-04:00",
+      "fetched_at_utc": "2026-01-13T17:31:11.354229+00:00",
+      "day": "2026-01-13"
+    },
+    {
+      "source": "El Deber",
+      "title": "El sistema financiero registró una mora de 3,1%  en subida lenta",
+      "url": "https://eldeber.com.bo/economia/sistema-financiero-registro-mora-3-1-subida-lenta_1768322251",
+      "summary": "La mora del sistema financiero boliviano fue de 3,1% en noviembre de 2025, un nivel bajo pero en alza desde 2020 que refleja un deterioro crediticio contenido, no una mejora estructural de la capacidad de pago. El crédito total asciende a 228.389 millones de bolivianos, con mayor concentración en microcrédito (30,9%), y una cobertura de previsiones del 135% frente a una cartera en mora de 7.136 millones; además, un proyecto de diferimiento de créditos podría beneficiar a ~1,4 millones de prestatarios con un impacto limitado al 3% de la cartera.",
+      "summary_es": "La mora del sistema financiero boliviano fue de 3,1% en noviembre de 2025, un nivel bajo pero en alza desde 2020 que refleja un deterioro crediticio contenido, no una mejora estructural de la capacidad de pago. El crédito total asciende a 228.389 millones de bolivianos, con mayor concentración en microcrédito (30,9%), y una cobertura de previsiones del 135% frente a una cartera en mora de 7.136 millones; además, un proyecto de diferimiento de créditos podría beneficiar a ~1,4 millones de prestatarios con un impacto limitado al 3% de la cartera.",
+      "summary_en": "Bolivia’s financial system non-performing loan ratio stood at 3.1% in November 2025—low, but rising since 2020, reflecting contained credit weakening rather than a structural improvement in borrowers’ ability to pay. Total credit reached 228.389 billion bolivianos, with a larger share in microcredit (30.9%), and a provisions coverage of 135% against a delinquent portfolio of 7.136 billion. Additionally, a proposed credit-deferral plan could benefit about 1.4 million borrowers, with a limited impact of around 3% on the portfolio.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-13T12:40:00-04:00",
+      "published_at_bo": "2026-01-13T12:40:00-04:00",
+      "fetched_at_utc": "2026-01-13T17:31:12.345318+00:00",
+      "day": "2026-01-13"
+    },
     {
       "source": "El Deber",
       "title": "El diferimiento frena la mora, pero deja una carga mayor a futuro",
