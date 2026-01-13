@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-13T13:45:24.456198+00:00",
+  "generated_at_utc": "2026-01-13T13:53:32.721398+00:00",
   "count": 84,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Presidente del BID llega a Bolivia; se reunirá con Paz, ministros, BCB y empresarios",
+      "url": "https://eldeber.com.bo/economia/presidente-bid-llega-bolivia-reunira-paz-ministros-bcb-empresarios_1768310599",
+      "summary": "El presidente del BID, Ilan Goldfajn, llegó al aeropuerto de El Alto y se reunirá con el Banco Central de Bolivia, el gabinete ministerial y representantes del empresariado, en una agenda coordinada por el Ministerio de Relaciones Exteriores y el de Planificación. Luego la delegación viajará a Santa Cruz para participar en una agenda con el sector privado empresarial.",
+      "summary_es": "El presidente del BID, Ilan Goldfajn, llegó al aeropuerto de El Alto y se reunirá con el Banco Central de Bolivia, el gabinete ministerial y representantes del empresariado, en una agenda coordinada por el Ministerio de Relaciones Exteriores y el de Planificación. Luego la delegación viajará a Santa Cruz para participar en una agenda con el sector privado empresarial.",
+      "summary_en": "The president of the Inter-American Development Bank (IDB), Ilan Goldfajn, arrived at El Alto Airport and will meet with the Central Bank of Bolivia, the Cabinet, and representatives of the business sector, in an agenda coordinated by the Ministries of Foreign Affairs and Planning. The delegation will then travel to Santa Cruz to participate in meetings with the private business sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-13T09:31:00-04:00",
+      "published_at_bo": "2026-01-13T09:31:00-04:00",
+      "fetched_at_utc": "2026-01-13T13:45:20.550119+00:00",
+      "day": "2026-01-13"
+    },
     {
       "source": "El Deber",
       "title": "El BID evalúa la calificación de Bolivia como prestatario",
