@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-13T18:38:06.127092+00:00",
+  "generated_at_utc": "2026-01-13T18:50:06.954454+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "“Gobierno socialista o el actual, estamos con ustedes”: Rusia dona a Bolivia 1.400 toneladas de trigo",
+      "url": "https://eldeber.com.bo/economia/gobierno-socialista-actual-estamos-ustedes-rusia-dona-bolivia-1-400-toneladas-trigo_1768326273",
+      "summary": "Rusia donó 1.400 toneladas de trigo a Bolivia para fortalecer la seguridad alimentaria, entregadas a través de un proyecto conjunto con la ONU y la cooperación con el Gobierno boliviano. El trigo será transformado en harina para ser destinado al subsidio de lactancia, priorizando la alimentación de madres y niños.",
+      "summary_es": "Rusia donó 1.400 toneladas de trigo a Bolivia para fortalecer la seguridad alimentaria, entregadas a través de un proyecto conjunto con la ONU y la cooperación con el Gobierno boliviano. El trigo será transformado en harina para ser destinado al subsidio de lactancia, priorizando la alimentación de madres y niños.",
+      "summary_en": "Russia donated 1,400 metric tons of wheat to Bolivia to bolster food security, delivered through a joint project with the United Nations and in cooperation with the Bolivian government. The wheat will be processed into flour for a breastfeeding subsidy, prioritizing the feeding of mothers and children.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-13T13:52:00-04:00",
+      "published_at_bo": "2026-01-13T13:52:00-04:00",
+      "fetched_at_utc": "2026-01-13T18:37:58.807765+00:00",
+      "day": "2026-01-13"
+    },
     {
       "source": "El Deber",
       "title": "BID califica de “muy buena” la reunión con el BCB para la estabilidad del país",
