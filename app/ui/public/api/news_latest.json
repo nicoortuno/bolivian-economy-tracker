@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-14T16:38:11.090431+00:00",
+  "generated_at_utc": "2026-01-14T16:50:31.812918+00:00",
   "count": 80,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El presidente del BID se reúne con los empresarios del país",
+      "url": "https://eldeber.com.bo/economia/presidente-bid-reune-empresarios-pais_1768405096",
+      "summary": "El titular del BID, Ilan Goldfajn, se reunió con empresarios en Santa Cruz para destacar que, además de la estabilidad, se busca impulsar el crecimiento económico de Bolivia. En el encuentro se anunció un financiamiento de más de 4.500 millones de dólares bajo el programa Bolivia Crece, destinado a beneficiar al Gobierno, alcaldías, gobernaciones y el sector privado al eliminar cuellos de botella y facilitar inversiones.",
+      "summary_es": "El titular del BID, Ilan Goldfajn, se reunió con empresarios en Santa Cruz para destacar que, además de la estabilidad, se busca impulsar el crecimiento económico de Bolivia. En el encuentro se anunció un financiamiento de más de 4.500 millones de dólares bajo el programa Bolivia Crece, destinado a beneficiar al Gobierno, alcaldías, gobernaciones y el sector privado al eliminar cuellos de botella y facilitar inversiones.",
+      "summary_en": "Inter-American Development Bank President Ilan Goldfajn met with business leaders in Santa Cruz to emphasize that, beyond stability, the aim is to spur Bolivia’s economic growth. At the meeting, a financing package of more than $4.5 billion under the Bolivia Crece program was announced, designed to benefit the government, municipalities, departments, and the private sector by removing bottlenecks and facilitating investments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-14T11:47:00-04:00",
+      "published_at_bo": "2026-01-14T11:47:00-04:00",
+      "fetched_at_utc": "2026-01-14T16:38:08.191469+00:00",
+      "day": "2026-01-14"
+    },
     {
       "source": "El Deber",
       "title": "BID trae $us 4.500 millones y el Gobierno perfila mesas técnicas para la inversión",
