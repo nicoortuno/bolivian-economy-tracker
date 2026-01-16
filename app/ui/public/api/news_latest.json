@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-16T11:25:15.297015+00:00",
+  "generated_at_utc": "2026-01-16T11:33:00.177819+00:00",
   "count": 68,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Con respaldo del BID, Bolivia busca reactivar su economía y atraer inversión",
+      "url": "https://eldeber.com.bo/economia/respaldo-bid-bolivia-busca-reactivar-economia-atraer-inversion_1768562167",
+      "summary": "El programa Crece Bolivia del BID, con más de 4.5 mil millones de dólares, podría impulsar la reactivación económica si se aplica con ejecución técnica, transparencia y criterios profesionales, evitando repetir los elefantes blancos del pasado. El BID abriría dos ventanillas, Invest y Lab, para financiar al sector privado y apoyar a emprendedores jóvenes, marcando un giro en el que el Estado facilita y el private sector se convierte en protagonista, aunque persisten dudas sobre la distribución de los recursos.",
+      "summary_es": "El programa Crece Bolivia del BID, con más de 4.5 mil millones de dólares, podría impulsar la reactivación económica si se aplica con ejecución técnica, transparencia y criterios profesionales, evitando repetir los elefantes blancos del pasado. El BID abriría dos ventanillas, Invest y Lab, para financiar al sector privado y apoyar a emprendedores jóvenes, marcando un giro en el que el Estado facilita y el private sector se convierte en protagonista, aunque persisten dudas sobre la distribución de los recursos.",
+      "summary_en": "The IDB’s Crece Bolivia program, with more than $4.5 billion, could spur economic revival if it is implemented with solid technical execution, transparency, and professional criteria, avoiding the White Elephants of the past. The IDB would open two funding windows, Invest and Lab, to finance the private sector and support young entrepreneurs, signaling a shift in which the state facilitates and the private sector takes the lead, though questions remain about how the resources will be distributed.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-16T07:16:00-04:00",
+      "published_at_bo": "2026-01-16T07:16:00-04:00",
+      "fetched_at_utc": "2026-01-16T11:25:12.423005+00:00",
+      "day": "2026-01-16"
+    },
+    {
+      "source": "El Deber",
+      "title": "Avicultura, panificación y gastronomía operan al límite por escasez de gas",
+      "url": "https://eldeber.com.bo/economia/avicultura-panificacion-gastronomia-operan-limite-escasez-gas_1768560835",
+      "summary": "La escasez de GLP en Bolivia genera pérdidas y desabastecimiento en avicultura, panadería y gastronomía, afectando desde la cría de pollos hasta la producción de pan y la atención al cliente, con contrabando que alcanza unos 200.000 dólares diarios. Se distribuyen unas 170.932 garrafas diarias a nivel nacional, mientras autoridades evalúan soluciones tecnológicas y operativos para frenar el desvío y garantizar el suministro.",
+      "summary_es": "La escasez de GLP en Bolivia genera pérdidas y desabastecimiento en avicultura, panadería y gastronomía, afectando desde la cría de pollos hasta la producción de pan y la atención al cliente, con contrabando que alcanza unos 200.000 dólares diarios. Se distribuyen unas 170.932 garrafas diarias a nivel nacional, mientras autoridades evalúan soluciones tecnológicas y operativos para frenar el desvío y garantizar el suministro.",
+      "summary_en": "Bolivia’s LPG shortage is causing losses and supply gaps across poultry farming, bakeries, and the gastronomy sector, impacting everything from chicken rearing to bread production and customer service. Smuggling is estimated at about $200,000 a day. About 170,932 LPG cylinders are distributed daily nationwide, as authorities weigh technological and operational measures to curb diversion and ensure a steady supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-16T06:53:00-04:00",
+      "published_at_bo": "2026-01-16T06:53:00-04:00",
+      "fetched_at_utc": "2026-01-16T11:25:13.394267+00:00",
+      "day": "2026-01-16"
+    },
     {
       "source": "El Deber",
       "title": "Farmacéuticos se declaran en emergencia ante el arancel cero para medicamentos importados",
