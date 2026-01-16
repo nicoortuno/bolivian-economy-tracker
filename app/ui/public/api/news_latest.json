@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-16T10:42:41.717136+00:00",
-  "count": 72,
+  "generated_at_utc": "2026-01-16T11:25:15.297015+00:00",
+  "count": 68,
   "items": [
     {
       "source": "El Deber",
@@ -925,90 +925,6 @@
       "published_at_bo": "2026-01-01T10:08:00-04:00",
       "fetched_at_utc": "2026-01-01T19:21:38.189532+00:00",
       "day": "2026-01-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "Baja demanda de pasajeros reduce precios de pasajes en buses por fin de año",
-      "url": "https://eldeber.com.bo/economia/baja-demanda-pasajeros-reduce-precios-pasajes-buses-fin-ano_1767205540",
-      "summary": "La demanda de pasajes interdepartamentales por fin de año cayó en varias terminales, lo que provó una reducción de precios en rutas clave como La Paz, Oruro y Santa Cruz, con ofertas entre 60 y 80 Bs en algunos casos. A pesar del menor movimiento, las terminales mantienen atención normal durante Año Nuevo, con cierres temporales de oficinas y refuerzo de controles de tránsito para evitar incidentes.",
-      "summary_es": "La demanda de pasajes interdepartamentales por fin de año cayó en varias terminales, lo que provó una reducción de precios en rutas clave como La Paz, Oruro y Santa Cruz, con ofertas entre 60 y 80 Bs en algunos casos. A pesar del menor movimiento, las terminales mantienen atención normal durante Año Nuevo, con cierres temporales de oficinas y refuerzo de controles de tránsito para evitar incidentes.",
-      "summary_en": "Demand for interdepartmental bus tickets at year’s end fell at several terminals, prompting price cuts on key routes such as La Paz, Oruro, and Santa Cruz, with fares down by around 60 to 80 bolivianos in some cases. Despite the lower movement, the terminals will operate normally during the New Year period, with some offices closing temporarily and traffic controls being stepped up to prevent incidents.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-31T14:39:00-04:00",
-      "published_at_bo": "2025-12-31T14:39:00-04:00",
-      "fetched_at_utc": "2025-12-31T23:25:08.928809+00:00",
-      "day": "2025-12-31"
-    },
-    {
-      "source": "El Deber",
-      "title": "BoA recupera un Airbus A330-200 y refuerza su flota tras mantenimiento",
-      "url": "https://eldeber.com.bo/economia/boa-recupera-airbus-a330-200-refuerza-flota_1767193421",
-      "summary": "El Airbus A330-200? CP-3214 de BoA retornó a Bolivia tras un mantenimiento en México, marcando un avance del Plan de Recuperación de Flota impulsado por el Gobierno para restituir capacidades operativas de la aerolínea. Con ello, BoA prevé reforzar su programación y ampliar capacidad, especialmente en rutas de mayor demanda, como parte del proceso de reactivación y modernización del transporte aéreo estatal.",
-      "summary_es": "El Airbus A330-200? CP-3214 de BoA retornó a Bolivia tras un mantenimiento en México, marcando un avance del Plan de Recuperación de Flota impulsado por el Gobierno para restituir capacidades operativas de la aerolínea. Con ello, BoA prevé reforzar su programación y ampliar capacidad, especialmente en rutas de mayor demanda, como parte del proceso de reactivación y modernización del transporte aéreo estatal.",
-      "summary_en": "The Airbus A330-200, registration CP-3214, of Boliviana de Aviación (BoA) has returned to Bolivia after maintenance in Mexico, marking a milestone in the Fleet Recovery Plan driven by the government to restore the airline’s operational capabilities. BoA plans to bolster its schedule and expand capacity, especially on higher-demand routes, as part of the ongoing reactivation and modernization of the state-owned air transport sector.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-31T11:12:00-04:00",
-      "published_at_bo": "2025-12-31T11:12:00-04:00",
-      "fetched_at_utc": "2025-12-31T20:28:39.647152+00:00",
-      "day": "2025-12-31"
-    },
-    {
-      "source": "El Deber",
-      "title": "Ante alta demanda, la FAB activa vuelos solidarios por fin de año",
-      "url": "https://eldeber.com.bo/economia/alta-demanda-fab-activa-vuelos-solidarios-fin-ano_1767191149",
-      "summary": "La Fuerza Aérea Boliviana habilitó vuelos solidarios entre el 29 de diciembre de 2025 y el 4 de enero de 2026 para facilitar el traslado de pasajeros ante la alta demanda y la limitada capacidad del transporte comercial, operando con dos aeronaves (Boeing 737 y BAe 146) en rutas clave del eje central y norte amazónico. Las tarifas cubren solo costos operativos y, si se compran vía agencias, pueden incluir una comisión adicional; se exige check-in una hora antes y presentación de documento de identidad.",
-      "summary_es": "La Fuerza Aérea Boliviana habilitó vuelos solidarios entre el 29 de diciembre de 2025 y el 4 de enero de 2026 para facilitar el traslado de pasajeros ante la alta demanda y la limitada capacidad del transporte comercial, operando con dos aeronaves (Boeing 737 y BAe 146) en rutas clave del eje central y norte amazónico. Las tarifas cubren solo costos operativos y, si se compran vía agencias, pueden incluir una comisión adicional; se exige check-in una hora antes y presentación de documento de identidad.",
-      "summary_en": "The Bolivian Air Force has authorized solidarity flights from December 29, 2025 to January 4, 2026 to facilitate passenger travel amid high demand and limited commercial transport capacity. The service will operate with two aircraft (a Boeing 737 and a BAe 146) on key routes in the central and northern Amazon axis. Fares cover only operating costs and may include an additional commission when booked through agencies; check-in is required one hour before departure and passengers must present a valid ID.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-31T10:31:00-04:00",
-      "published_at_bo": "2025-12-31T10:31:00-04:00",
-      "fetched_at_utc": "2025-12-31T19:19:54.444103+00:00",
-      "day": "2025-12-31"
-    },
-    {
-      "source": "El Deber",
-      "title": "El dólar paralelo cierra 2025 en Bs 9,60 tras un año de escasez y alta volatilidad",
-      "url": "https://eldeber.com.bo/economia/dolar-paralelo-cierra-2025-bs-9-60-ano-escasez-alta-volatilidad_1767188511",
-      "summary": "El dólar paralelo cerró 2025 alrededor de 9,60 bolivianos, mientras el tipo de cambio oficial se mantuvo significativamente por debajo (7,89 de compra y 8,55 de venta), evidenciando una brecha cambiaria persistente. Aunque la volatilidad se moderó y se aprecia mayor control de expectativas, la dualidad entre mercados continúa siendo un reto para la economía boliviana.",
-      "summary_es": "El dólar paralelo cerró 2025 alrededor de 9,60 bolivianos, mientras el tipo de cambio oficial se mantuvo significativamente por debajo (7,89 de compra y 8,55 de venta), evidenciando una brecha cambiaria persistente. Aunque la volatilidad se moderó y se aprecia mayor control de expectativas, la dualidad entre mercados continúa siendo un reto para la economía boliviana.",
-      "summary_en": "The parallel dollar closed 2025 at around 9.60 bolivianos, while the official rate remained well below, at 7.89 for buying and 8.55 for selling, underscoring a persistent exchange-rate gap. Although volatility has moderated and expectations appear better anchored, the split between the two markets remains a challenge for the Bolivian economy.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-31T09:55:00-04:00",
-      "published_at_bo": "2025-12-31T09:55:00-04:00",
-      "fetched_at_utc": "2025-12-31T19:19:55.408131+00:00",
-      "day": "2025-12-31"
-    },
-    {
-      "source": "El Deber",
-      "title": "Anuncian nuevo régimen de precios para carburantes dentro de seis meses",
-      "url": "https://eldeber.com.bo/economia/anuncian-nuevo-regimen-precios-carburantes-dentro-seis-meses_1767178292",
-      "summary": "Bolivia volverá al régimen de precios para los derivados del petróleo tras la vigencia de seis meses del Decreto Supremo 5503, con una nueva metodología y mayores márgenes para YPFB, para asegurar el abastecimiento, evitar colas y aumentar la recaudación del IDH.",
-      "summary_es": "Bolivia volverá al régimen de precios para los derivados del petróleo tras la vigencia de seis meses del Decreto Supremo 5503, con una nueva metodología y mayores márgenes para YPFB, para asegurar el abastecimiento, evitar colas y aumentar la recaudación del IDH.",
-      "summary_en": "Bolivia will revert to a price-control regime for petroleum derivatives after the six-month period of Supreme Decree 5503, with a new methodology and higher margins for YPFB, to ensure supply, prevent queues, and boost IDH revenue.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-31T06:51:00-04:00",
-      "published_at_bo": "2025-12-31T06:51:00-04:00",
-      "fetched_at_utc": "2025-12-31T16:32:32.414416+00:00",
-      "day": "2025-12-31"
-    },
-    {
-      "source": "El Deber",
-      "title": "Disponen venta de diésel sin declaración jurada y arancel cero para gasolinas",
-      "url": "https://eldeber.com.bo/economia/disponen-venta-diesel-declaracion-jurada-arancel-cero-gasolinas_1767178175",
-      "summary": "El Gobierno eliminó la declaración jurada para la compra de diésel en estaciones de servicio y amplió hasta diciembre de 2026 el arancel cero para la importación de gasolinas, con el objetivo de aliviar problemas de abastecimiento y reducir costos de importación. Estas medidas, anunciadas por la ANH y formalizadas por el Ministerio de Hidrocarburos y Energías y por el DS 5512, facilitan el acceso a los combustibles y fortalecen la entrada de gasolina desde el exterior.",
-      "summary_es": "El Gobierno eliminó la declaración jurada para la compra de diésel en estaciones de servicio y amplió hasta diciembre de 2026 el arancel cero para la importación de gasolinas, con el objetivo de aliviar problemas de abastecimiento y reducir costos de importación. Estas medidas, anunciadas por la ANH y formalizadas por el Ministerio de Hidrocarburos y Energías y por el DS 5512, facilitan el acceso a los combustibles y fortalecen la entrada de gasolina desde el exterior.",
-      "summary_en": "The government scrapped the sworn declaration for diesel purchases at service stations and extended the zero tariff on gasoline imports through December 2026, aiming to ease supply problems and cut import costs. Announced by the ANH and formalized by the Ministry of Hydrocarbons and Energies and by Supreme Decree 5512, the measures facilitate access to fuels and bolster the entry of gasoline from abroad.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2025-12-31T06:49:00-04:00",
-      "published_at_bo": "2025-12-31T06:49:00-04:00",
-      "fetched_at_utc": "2025-12-31T16:32:33.378401+00:00",
-      "day": "2025-12-31"
     }
   ]
 }
