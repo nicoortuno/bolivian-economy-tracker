@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-16T15:29:52.046324+00:00",
+  "generated_at_utc": "2026-01-16T15:39:10.888828+00:00",
   "count": 69,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno prevé “normalizar” el abastecimiento de GLP hasta fin de semana",
+      "url": "https://eldeber.com.bo/economia/gobierno-preve-normalizar-abastecimiento-glp-fin-semana_1768572236",
+      "summary": "El ministro de Hidrocarburos, Mauricio Medinaceli, afirmó que el suministro de GLP se normalizará para el fin de semana y que, de existir escasez, la ANH coordinará el envío. El Gobierno reconoce un incremento del consumo y del contrabando de GLP tras la eliminación de subvenciones a diésel y gasolina, y propone penas más duras, mejor control fronterizo y medidas tecnológicas para evitar su venta en Perú.",
+      "summary_es": "El ministro de Hidrocarburos, Mauricio Medinaceli, afirmó que el suministro de GLP se normalizará para el fin de semana y que, de existir escasez, la ANH coordinará el envío. El Gobierno reconoce un incremento del consumo y del contrabando de GLP tras la eliminación de subvenciones a diésel y gasolina, y propone penas más duras, mejor control fronterizo y medidas tecnológicas para evitar su venta en Perú.",
+      "summary_en": "The Minister of Hydrocarbons, Mauricio Medinaceli, said that LPG supplies will normalize by the end of the weekend and that, if shortages occur, the ANH will coordinate shipments. The government acknowledges an uptick in LPG consumption and smuggling following the removal of subsidies on diesel and gasoline, and proposes tougher penalties, better border controls, and tech-based measures to prevent its sale in Peru.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-16T10:32:00-04:00",
+      "published_at_bo": "2026-01-16T10:32:00-04:00",
+      "fetched_at_utc": "2026-01-16T15:29:47.538218+00:00",
+      "day": "2026-01-16"
+    },
     {
       "source": "El Deber",
       "title": "Con respaldo del BID, Bolivia busca reactivar su economía y atraer inversión",
