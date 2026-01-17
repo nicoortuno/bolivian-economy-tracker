@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-17T19:19:22.814417+00:00",
+  "generated_at_utc": "2026-01-17T19:32:25.347079+00:00",
   "count": 69,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cotización del dólar: ¿hay variaciones?",
+      "url": "https://eldeber.com.bo/economia/cotizacion-dolar-hay-variaciones_1768676080",
+      "summary": "Se registró una leve subida del tipo de cambio referencial, que quedó en 9,21 para la compra y 8,40 para la venta, tras iniciar la semana por debajo de 8 bolivianos. El BCB mantiene el cambio oficial en 6,96 (venta) y 6,86 (compra), mientras el paralelo/Blue se sitúa alrededor de 9,46–9,51 y otras plataformas reportan 9,47–9,51 para la compra/venta.",
+      "summary_es": "Se registró una leve subida del tipo de cambio referencial, que quedó en 9,21 para la compra y 8,40 para la venta, tras iniciar la semana por debajo de 8 bolivianos. El BCB mantiene el cambio oficial en 6,96 (venta) y 6,86 (compra), mientras el paralelo/Blue se sitúa alrededor de 9,46–9,51 y otras plataformas reportan 9,47–9,51 para la compra/venta.",
+      "summary_en": "There was a slight uptick in the reference exchange rate, which stood at 9.21 per dollar for buying and 8.40 for selling, after starting the week below 8 bolivianos. The Central Bank of Bolivia kept the official rate at 6.96 for selling and 6.86 for buying, while the parallel/Blue market sits around 9.46–9.51 and other platforms report 9.47–9.51 for buying and selling.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-17T14:54:00-04:00",
+      "published_at_bo": "2026-01-17T14:54:00-04:00",
+      "fetched_at_utc": "2026-01-17T19:19:18.990305+00:00",
+      "day": "2026-01-17"
+    },
     {
       "source": "El Deber",
       "title": "Transición política y ajuste económico: el BCB cerró 2025 con giro contractivo",
