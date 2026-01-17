@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-17T02:01:39.848485+00:00",
+  "generated_at_utc": "2026-01-17T02:22:45.031347+00:00",
   "count": 71,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Fitch Ratings ofrece un respaldo a Bolivia y eleva la calificación de riesgo de CCC- a CCC",
+      "url": "https://eldeber.com.bo/economia/fitch-ratings-ofrece-respaldarazo-bolivia-eleva-calificacion-riesgo-ccc-ccc_1768613572",
+      "summary": "Fitch Ratings elevó la calificación de Bolivia de CCC- a CCC, citando factores como las reformas económicas, la eliminación de subsidios a los combustibles y una mayor confianza en la gestión, que podrían contribuir a reducir el déficit fiscal y aumentar las reservas. El ministro Espinoza lo interpreta como reconocimiento de avances para salir de la crisis, aunque el informe advierte sobre limitados colchones de liquidez externa.",
+      "summary_es": "Fitch Ratings elevó la calificación de Bolivia de CCC- a CCC, citando factores como las reformas económicas, la eliminación de subsidios a los combustibles y una mayor confianza en la gestión, que podrían contribuir a reducir el déficit fiscal y aumentar las reservas. El ministro Espinoza lo interpreta como reconocimiento de avances para salir de la crisis, aunque el informe advierte sobre limitados colchones de liquidez externa.",
+      "summary_en": "Fitch Ratings upgraded Bolivia’s rating from CCC- to CCC, citing factors such as economic reforms, the elimination of fuel subsidies, and greater confidence in governance that could help reduce the fiscal deficit and bolster reserves. Minister Espinoza interprets it as recognition of progress toward overcoming the crisis, though the report warns of limited external liquidity cushions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-16T21:52:00-04:00",
+      "published_at_bo": "2026-01-16T21:52:00-04:00",
+      "fetched_at_utc": "2026-01-17T02:01:36.933279+00:00",
+      "day": "2026-01-16"
+    },
+    {
+      "source": "El Deber",
+      "title": "La CAO se pronuncia sobre el proyecto de interconexión eléctrica para el municipio de San Ignacio de Velasco",
+      "url": "https://eldeber.com.bo/economia/cao-pronuncia-proyecto-interconexion-electrica-municipio-san-ignacio-velasco_1768608586",
+      "summary": "La CAO solicita información actualizada sobre el avance del proyecto de interconexión eléctrica de San Ignacio de Velasco, considerado clave para el desarrollo sostenible de la Chiquitanía y surgido como una iniciativa del sector. Además, destacan que la ejecución está a cargo de ENDE y CRE R.L., y piden claridad sobre el estado real, plazos y posibles ajustes para garantizar una suministro estable que permita la previsibilidad de inversiones agropecuarias e industriales.",
+      "summary_es": "La CAO solicita información actualizada sobre el avance del proyecto de interconexión eléctrica de San Ignacio de Velasco, considerado clave para el desarrollo sostenible de la Chiquitanía y surgido como una iniciativa del sector. Además, destacan que la ejecución está a cargo de ENDE y CRE R.L., y piden claridad sobre el estado real, plazos y posibles ajustes para garantizar una suministro estable que permita la previsibilidad de inversiones agropecuarias e industriales.",
+      "summary_en": "The CAO is requesting updated information on the progress of the San Ignacio de Velasco electrical interconnection project, deemed key to the sustainable development of the Chiquitanía and launched as an industry-led initiative. They also note that the project execution is being handled by ENDE and CRE R.L. and are asking for clarity on the current status, timelines, and possible adjustments to ensure a stable supply that would provide predictability for agricultural and industrial investments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-16T20:17:00-04:00",
+      "published_at_bo": "2026-01-16T20:17:00-04:00",
+      "fetched_at_utc": "2026-01-17T02:01:37.912038+00:00",
+      "day": "2026-01-16"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno prevé “normalizar” el abastecimiento de GLP hasta fin de semana",
