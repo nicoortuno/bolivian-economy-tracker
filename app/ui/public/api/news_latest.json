@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-18T14:23:28.250575+00:00",
+  "generated_at_utc": "2026-01-18T14:37:56.864089+00:00",
   "count": 64,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cocaleros del trópico se suman a los reclamos por escasez de GLP",
+      "url": "https://eldeber.com.bo/economia/cocaleros-tropico-suman-reclamos-escasez-glp_1768742762",
+      "summary": "Los cocaleros del trópico de Cochabamba advierten que la escasez de GLP pone en riesgo la operatividad agrícola regional, ya que el cupo oficial no cubre la demanda, elevando el precio y dificultando procesos como el secado de hojas y la maduración de frutas. Mientras tanto, el contrabando hacia Perú agrava la presión sobre los volúmenes disponibles y las autoridades anuncian refuerzos para frenar estas prácticas.",
+      "summary_es": "Los cocaleros del trópico de Cochabamba advierten que la escasez de GLP pone en riesgo la operatividad agrícola regional, ya que el cupo oficial no cubre la demanda, elevando el precio y dificultando procesos como el secado de hojas y la maduración de frutas. Mientras tanto, el contrabando hacia Perú agrava la presión sobre los volúmenes disponibles y las autoridades anuncian refuerzos para frenar estas prácticas.",
+      "summary_en": "Coca growers in Bolivia’s Tropic of Cochabamba warn that LPG shortages threaten regional agriculture, as the official quota does not meet demand, pushing up prices and complicating processes such as leaf drying and fruit maturation. Meanwhile, smuggling to Peru is tightening pressure on available volumes, and authorities say they will reinforce efforts to curb these practices.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-18T09:43:00-04:00",
+      "published_at_bo": "2026-01-18T09:43:00-04:00",
+      "fetched_at_utc": "2026-01-18T14:23:25.308253+00:00",
+      "day": "2026-01-18"
+    },
     {
       "source": "El Deber",
       "title": "Pozo Iñau X-3D entra en fase decisiva tras hallazgo anticipado de hidrocarburos en Chuquisaca",
