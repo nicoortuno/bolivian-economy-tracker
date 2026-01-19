@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-19T16:36:31.235691+00:00",
+  "generated_at_utc": "2026-01-19T16:48:33.641048+00:00",
   "count": 66,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Acuerdo Mercosur–UE abre oportunidades, pero exigen reformas internas en Bolivia",
+      "url": "https://eldeber.com.bo/economia/acuerdo-mercosur-ue-abre-oportunidades-exigen-reformas-internas-bolivia_1768838979",
+      "summary": "El acuerdo Mercosur–UE abre un mercado de 700 millones de personas y representa una oportunidad estratégica para Bolivia, pero exige acelerar reformas internas, estabilidad macroeconómica y su adhesión plena al Mercosur para aprovechar sus beneficios. Además, el país debe fortalecer su política exterior, ganar credibilidad internacional y desarrollar sectores como turismo, minería sostenible y agroindustria para impulsar exportaciones e inversión.",
+      "summary_es": "El acuerdo Mercosur–UE abre un mercado de 700 millones de personas y representa una oportunidad estratégica para Bolivia, pero exige acelerar reformas internas, estabilidad macroeconómica y su adhesión plena al Mercosur para aprovechar sus beneficios. Además, el país debe fortalecer su política exterior, ganar credibilidad internacional y desarrollar sectores como turismo, minería sostenible y agroindustria para impulsar exportaciones e inversión.",
+      "summary_en": "The Mercosur–EU agreement opens a market of 700 million people and represents a strategic opportunity for Bolivia, but it requires accelerating internal reforms, macroeconomic stability, and full adhesion to Mercosur to reap its benefits. Additionally, the country must strengthen its foreign policy, gain international credibility, and develop sectors such as tourism, sustainable mining, and agro-industry to boost exports and investment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-19T12:23:00-04:00",
+      "published_at_bo": "2026-01-19T12:23:00-04:00",
+      "fetched_at_utc": "2026-01-19T16:36:27.349102+00:00",
+      "day": "2026-01-19"
+    },
     {
       "source": "El Deber",
       "title": "Fitch mejora la nota de Bolivia y aleja el default, pero la economía sigue en zona de alto riesgo",
