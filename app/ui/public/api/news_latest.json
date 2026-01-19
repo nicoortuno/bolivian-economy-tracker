@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-19T14:33:54.696116+00:00",
+  "generated_at_utc": "2026-01-19T14:47:09.008247+00:00",
   "count": 64,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Contrabando de GLP agrava la escasez: en países vecinos la garrafa cuesta hasta Bs 200",
+      "url": "https://eldeber.com.bo/economia/contrabando-glp-agrava-escasez-paises-vecinos-garrafa-cuesta-bs-200_1768831577",
+      "summary": "La escasez de GLP en Bolivia está impulsada por el contrabando hacia países vecinos aprovechando el subsidio, agravada por la caída de la producción de gas natural en un 52% en la última década y la posibilidad de importar el producto si no se recupera la oferta interna. El experto propone una retirada gradual del subsidio, focalización hacia las familias más vulnerables y una política hidrocarburífera de largo plazo que fomente exploración e inversión, además de reforzar el control fronterizo.",
+      "summary_es": "La escasez de GLP en Bolivia está impulsada por el contrabando hacia países vecinos aprovechando el subsidio, agravada por la caída de la producción de gas natural en un 52% en la última década y la posibilidad de importar el producto si no se recupera la oferta interna. El experto propone una retirada gradual del subsidio, focalización hacia las familias más vulnerables y una política hidrocarburífera de largo plazo que fomente exploración e inversión, además de reforzar el control fronterizo.",
+      "summary_en": "The LPG shortage in Bolivia is being driven by smuggling to neighboring countries that takes advantage of the subsidy, worsened by a 52% drop in natural gas production over the past decade and the option to import the product if domestic supply cannot be restored. An expert proposes a gradual subsidy withdrawal, targeted support for the most vulnerable families, and a long‑term hydrocarbons policy that encourages exploration and investment, along with stronger border controls.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-19T10:13:00-04:00",
+      "published_at_bo": "2026-01-19T10:13:00-04:00",
+      "fetched_at_utc": "2026-01-19T14:33:52.878412+00:00",
+      "day": "2026-01-19"
+    },
     {
       "source": "El Deber",
       "title": "Acuerdo Mercosur-Unión Europea: conozca los principales puntos y cómo se abre la ventana para Bolivia",
