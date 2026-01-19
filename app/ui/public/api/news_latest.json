@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-19T13:56:48.226236+00:00",
-  "count": 65,
+  "generated_at_utc": "2026-01-19T14:33:54.696116+00:00",
+  "count": 64,
   "items": [
     {
       "source": "El Deber",
@@ -883,34 +883,6 @@
       "published_at_bo": "2026-01-06T11:46:00-04:00",
       "fetched_at_utc": "2026-01-06T20:30:30.726618+00:00",
       "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno consolida acuerdos con el sistema financiero para aplicar alivio crediticio responsable",
-      "url": "https://eldeber.com.bo/economia/gobierno-consolida-acuerdos-sistema-financiero-aplicar-alivio-crediticio-responsable_1767653409",
-      "summary": "El Gobierno, a través del Ministerio de Economía y Finanzas Públicas, suscribió un acuerdo para aliviar créditos de vivienda de interés social y de la micro y pequeña empresa conforme al Decreto Supremo 5503, que incluye la suspensión de medidas judiciales por seis meses para vivienda, diferimiento voluntario y evaluado caso por caso, tratamiento excepcional para operaciones no cubiertas, mantenimiento de condiciones financieras y reprogramación proporcional de las cuotas sin generar intereses o sanciones. Participaron además representantes del sistema financiero y de organizaciones de prestatarios y microempresas.",
-      "summary_es": "El Gobierno, a través del Ministerio de Economía y Finanzas Públicas, suscribió un acuerdo para aliviar créditos de vivienda de interés social y de la micro y pequeña empresa conforme al Decreto Supremo 5503, que incluye la suspensión de medidas judiciales por seis meses para vivienda, diferimiento voluntario y evaluado caso por caso, tratamiento excepcional para operaciones no cubiertas, mantenimiento de condiciones financieras y reprogramación proporcional de las cuotas sin generar intereses o sanciones. Participaron además representantes del sistema financiero y de organizaciones de prestatarios y microempresas.",
-      "summary_en": "The government, through the Ministry of Economy and Public Finance, signed an agreement to ease social housing loans and micro and small business loans in accordance with Supreme Decree 5503. The pact includes a six-month suspension of judicial measures for housing, voluntary deferment evaluated on a case-by-case basis, exceptional treatment for uncovered operations, maintenance of financial terms, and proportional rescheduling of installments without accruing interest or penalties. Representatives from the financial system as well as borrower and microenterprise organizations also participated.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-05T18:56:00-04:00",
-      "published_at_bo": "2026-01-05T18:56:00-04:00",
-      "fetched_at_utc": "2026-01-06T04:44:01.220055+00:00",
-      "day": "2026-01-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "Tariquia: Se inicia fase operativa del proyecto DMO-X3 en Saicán con posturas encontradas",
-      "url": "https://eldeber.com.bo/economia/tariquia-inicia-fase-operativa-proyecto-dmo-x3-saican-posturas-encontradas_1767647064",
-      "summary": "Petrobras Bolivia inició la fase operativa del proyecto exploratorio DMO-X3 en el área San Telmo Norte (Tarija), con ingreso de personal y vehículos bajo resguardo policial mientras comunarios de Saicán mantienen una vigilia y protestas por posibles impactos ambientales en la zona de recarga hídrica de Tariquía. La empresa, que señala contar con permisos y licencias ambientales, afirma que el proyecto cumple la legalidad y mantiene abiertas vías de diálogo con las comunidades y autoridades.",
-      "summary_es": "Petrobras Bolivia inició la fase operativa del proyecto exploratorio DMO-X3 en el área San Telmo Norte (Tarija), con ingreso de personal y vehículos bajo resguardo policial mientras comunarios de Saicán mantienen una vigilia y protestas por posibles impactos ambientales en la zona de recarga hídrica de Tariquía. La empresa, que señala contar con permisos y licencias ambientales, afirma que el proyecto cumple la legalidad y mantiene abiertas vías de diálogo con las comunidades y autoridades.",
-      "summary_en": "Petrobras Bolivia has entered the operational phase of the DMO-X3 exploratory project in the San Telmo Norte area of Tarija, with personnel and vehicles entering under police protection as Saicán community members hold a vigil and protest over potential environmental impacts in the Tariquía water recharge area. The company says it holds environmental permits and licenses, and maintains that the project complies with the law and keeps channels of dialogue open with communities and authorities.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-05T18:28:00-04:00",
-      "published_at_bo": "2026-01-05T18:28:00-04:00",
-      "fetched_at_utc": "2026-01-06T02:06:24.721841+00:00",
-      "day": "2026-01-05"
     }
   ]
 }
