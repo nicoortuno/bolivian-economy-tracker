@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-19T15:32:31.295343+00:00",
+  "generated_at_utc": "2026-01-19T15:42:14.205251+00:00",
   "count": 65,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Fitch mejora la nota de Bolivia y aleja el default, pero la economía sigue en zona de alto riesgo",
+      "url": "https://eldeber.com.bo/economia/fitch-mejora-nota-bolivia-aleja-default-economia-sigue-zona-alto-riesgo_1768835707",
+      "summary": "Fitch elevó la calificación de riesgo país de Bolivia de CCC- a CCC, señalando alivio y un cambio de tendencia tras el cambio de gobierno, aunque el país sigue en una franja de alto riesgo y lejos de una estabilidad económica sostenible. Analistas destacan que la mejora se apoyó en el retorno del financiamiento multilateral y el aumento de reservas, pero advierten que aún persisten déficits fiscales elevados, inflación y desafíos estructurales que podrían revertirse si no se mantienen las reformas.",
+      "summary_es": "Fitch elevó la calificación de riesgo país de Bolivia de CCC- a CCC, señalando alivio y un cambio de tendencia tras el cambio de gobierno, aunque el país sigue en una franja de alto riesgo y lejos de una estabilidad económica sostenible. Analistas destacan que la mejora se apoyó en el retorno del financiamiento multilateral y el aumento de reservas, pero advierten que aún persisten déficits fiscales elevados, inflación y desafíos estructurales que podrían revertirse si no se mantienen las reformas.",
+      "summary_en": "Fitch upgraded Bolivia’s sovereign credit rating from CCC- to CCC, signaling relief and a shift in trend after the change of government, though the country remains in a high-risk band and far from sustainable economic stability. Analysts say the improvement was supported by the return of multilateral financing and higher reserves, but caution that elevated fiscal deficits, inflation, and structural challenges persist and could reverse if reforms are not maintained.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-19T11:21:00-04:00",
+      "published_at_bo": "2026-01-19T11:21:00-04:00",
+      "fetched_at_utc": "2026-01-19T15:32:28.274624+00:00",
+      "day": "2026-01-19"
+    },
     {
       "source": "El Deber",
       "title": "Contrabando de GLP agrava la escasez: en países vecinos la garrafa cuesta hasta Bs 200",
