@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-20T17:34:59.083769+00:00",
+  "generated_at_utc": "2026-01-20T17:47:26.602153+00:00",
   "count": 66,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB advierte riesgo por alta concentración de reservas en oro",
+      "url": "https://eldeber.com.bo/economia/bcb-advierte-riesgo-alta-concentracion-reservas-oro_1768926022",
+      "summary": "El BCB alertó que el 85% de las Reservas Internacionales Netas están en oro, lo que considera riesgoso y poco adecuado para la gestión financiera, y propone modificar la Ley 1503 para diversificar y flexibilizar la administración de ese activo. En 2025 Bolivia registró 22,3 toneladas de oro valuadas en 3.102 millones de dólares, con la mayoría invertida en bancos de primera línea y prácticas de compra-refinado-venta que no deben repetirse, además de operaciones forward y reservas líquidas en divisas que buscan fortalecerse y reducir riesgos.",
+      "summary_es": "El BCB alertó que el 85% de las Reservas Internacionales Netas están en oro, lo que considera riesgoso y poco adecuado para la gestión financiera, y propone modificar la Ley 1503 para diversificar y flexibilizar la administración de ese activo. En 2025 Bolivia registró 22,3 toneladas de oro valuadas en 3.102 millones de dólares, con la mayoría invertida en bancos de primera línea y prácticas de compra-refinado-venta que no deben repetirse, además de operaciones forward y reservas líquidas en divisas que buscan fortalecerse y reducir riesgos.",
+      "summary_en": "The Central Bank of Bolivia warned that 85% of the Net International Reserves are held in gold, a situation it deems risky and ill-suited for sound financial management. It proposes amending Law 1503 to diversify and flexibilize the management of this asset. In 2025 Bolivia recorded 22.3 tons of gold valued at $3.102 billion, with the majority invested in top-tier banks. It criticized buy-refine-sell practices that should not be repeated, along with forward operations and liquid foreign currency reserves aimed at strengthening the balance and reducing risk.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-20T12:42:00-04:00",
+      "published_at_bo": "2026-01-20T12:42:00-04:00",
+      "fetched_at_utc": "2026-01-20T17:34:53.255822+00:00",
+      "day": "2026-01-20"
+    },
     {
       "source": "El Deber",
       "title": "De Bolivia a la región: la evolución estratégica de Quantum Motors",
