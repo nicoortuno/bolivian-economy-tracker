@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-20T10:48:19.112912+00:00",
-  "count": 67,
+  "generated_at_utc": "2026-01-20T11:28:25.619640+00:00",
+  "count": 61,
   "items": [
     {
       "source": "El Deber",
@@ -841,104 +841,6 @@
       "published_at_bo": "2026-01-07T06:17:00-04:00",
       "fetched_at_utc": "2026-01-07T15:31:47.145286+00:00",
       "day": "2026-01-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cainco rechaza los bloqueos y defiende el derecho a trabajar y producir",
-      "url": "https://eldeber.com.bo/economia/cainco-rechaza-bloqueos-defiende-derecho-trabajar-producir_1767742853",
-      "summary": "Jean Pierre Antelo, presidente de Cainco, cuestionó las medidas de presión basadas en bloqueos de carreteras organizadas por la COB, afirmando que no son legítimas y que afectan el trabajo y la producción de la mayoría. Instó a buscar consensos mediante el trabajo y la producción, advirtiendo sobre pérdidas económicas y el riesgo para la recuperación del país.",
-      "summary_es": "Jean Pierre Antelo, presidente de Cainco, cuestionó las medidas de presión basadas en bloqueos de carreteras organizadas por la COB, afirmando que no son legítimas y que afectan el trabajo y la producción de la mayoría. Instó a buscar consensos mediante el trabajo y la producción, advirtiendo sobre pérdidas económicas y el riesgo para la recuperación del país.",
-      "summary_en": "Jean Pierre Antelo, president of Cainco, questioned the pressure measures based on road blockades organized by the COB, saying they are illegitimate and harm the work and production of the majority. He urged seeking consensus through work and production, warning of economic losses and the risk to the country’s recovery.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T19:49:00-04:00",
-      "published_at_bo": "2026-01-06T19:49:00-04:00",
-      "fetched_at_utc": "2026-01-07T05:30:31.024751+00:00",
-      "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Inversiones pueden girar al norte y no mirar al sur del continente",
-      "url": "https://eldeber.com.bo/economia/inversiones-pueden-girar-norte-no-mirar-sur-continente_1767736232",
-      "summary": "El anuncio de Trump de tomar el control pleno del negocio petrolero venezolano podría facilitar una mayor producción y estabilizar precios, lo que beneficiaría a Bolivia al reducir costos de diésel y gasolina, pero también podría atraer inversión hacia EE. UU. y restar pujanza a Bolivia como jugador energético. Aunque la presencia estadounidense podría generar confianza jurídica y atraer capital, también podría desplazar inversiones de la región; a la vez, podrían aumentar las remesas de venezolanos a Bolivia y generar impactos laborales en otros países vecinos.",
-      "summary_es": "El anuncio de Trump de tomar el control pleno del negocio petrolero venezolano podría facilitar una mayor producción y estabilizar precios, lo que beneficiaría a Bolivia al reducir costos de diésel y gasolina, pero también podría atraer inversión hacia EE. UU. y restar pujanza a Bolivia como jugador energético. Aunque la presencia estadounidense podría generar confianza jurídica y atraer capital, también podría desplazar inversiones de la región; a la vez, podrían aumentar las remesas de venezolanos a Bolivia y generar impactos laborales en otros países vecinos.",
-      "summary_en": "Trump’s announcement to take full control of Venezuela’s oil sector could boost production and stabilize prices, which would benefit Bolivia by lowering diesel and gasoline costs, but it could also attract investment to the United States and undermine Bolivia’s position as an energy player. While the U.S. presence could provide legal certainty and attract capital, it could also shift investments away from the region; at the same time, it could increase remittances from Venezuelans to Bolivia and have labor-market impacts in other neighboring countries.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T18:05:00-04:00",
-      "published_at_bo": "2026-01-06T18:05:00-04:00",
-      "fetched_at_utc": "2026-01-07T03:45:13.376625+00:00",
-      "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Comunarios toman estación estratégica de YPFB y paralizan operaciones en Oconi",
-      "url": "https://eldeber.com.bo/economia/comunarios-toman-estacion-estrategica-ypfb-paralizan-operaciones-oconi_1767735699",
-      "summary": "YPFB Transporte S.A. informó que la Estación de Compresión y Bombeo Oconi fue tomada por comunarios, lo que provocó la paralización de operaciones y la activación de su Plan de Respuesta a Emergencias para preservar la seguridad del personal y de los manifestantes. La empresa indicó que la acción es externa a su operación y aún no se han reportado impactos concretos en el transporte de gas o combustibles, mientras los productores campesinos atribuyen la ocupación al rechazo al Decreto Supremo 5503, que eliminó subsidios y aumentó costos de producción.",
-      "summary_es": "YPFB Transporte S.A. informó que la Estación de Compresión y Bombeo Oconi fue tomada por comunarios, lo que provocó la paralización de operaciones y la activación de su Plan de Respuesta a Emergencias para preservar la seguridad del personal y de los manifestantes. La empresa indicó que la acción es externa a su operación y aún no se han reportado impactos concretos en el transporte de gas o combustibles, mientras los productores campesinos atribuyen la ocupación al rechazo al Decreto Supremo 5503, que eliminó subsidios y aumentó costos de producción.",
-      "summary_en": "YPFB Transporte S.A. said that the Oconi Compression and Pumping Station was taken over by community members, causing its operations to shut down and triggering the company’s Emergency Response Plan to protect the safety of staff and the protesters. The firm noted that the action is external to its operations and no concrete impacts on gas or fuel transport have been reported so far. Meanwhile, the rural producers attribute the occupation to their rejection of Supreme Decree 5503, which eliminated subsidies and raised production costs.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T17:54:00-04:00",
-      "published_at_bo": "2026-01-06T17:54:00-04:00",
-      "fetched_at_utc": "2026-01-07T02:06:09.003400+00:00",
-      "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "El BID vuelve a Bolivia tras 15 años y pone la mira en infraestructura y crédito",
-      "url": "https://eldeber.com.bo/economia/bid-vuelve-bolivia-15-anos-pone-mira-infraestructura-credito_1767733685",
-      "summary": "La visita oficial del Banco Interamericano de Desarrollo (BID) a Bolivia los días 13 y 14 de enero reabre una ventana clave de financiamiento internacional para sostener inversión pública, dinamizar la inversión privada y asegurar recursos externos para proyectos estratégicos. Con el BID como principal financiador externo de infraestructura vial en el país, la gira se interpreta como una señal de continuidad institucional y de posibilidad de estructurar nuevos créditos y flujos de divisas.",
-      "summary_es": "La visita oficial del Banco Interamericano de Desarrollo (BID) a Bolivia los días 13 y 14 de enero reabre una ventana clave de financiamiento internacional para sostener inversión pública, dinamizar la inversión privada y asegurar recursos externos para proyectos estratégicos. Con el BID como principal financiador externo de infraestructura vial en el país, la gira se interpreta como una señal de continuidad institucional y de posibilidad de estructurar nuevos créditos y flujos de divisas.",
-      "summary_en": "The official visit of the Inter-American Development Bank (IDB) to Bolivia on January 13 and 14 reopens a key window of international financing to sustain public investment, stimulate private investment, and secure external resources for strategic projects. With the IDB as Bolivia’s main external financier of road infrastructure, the trip is seen as a sign of institutional continuity and the potential to structure new loans and foreign currency inflows.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T17:17:00-04:00",
-      "published_at_bo": "2026-01-06T17:17:00-04:00",
-      "fetched_at_utc": "2026-01-07T02:06:09.959630+00:00",
-      "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Venezuela se alista para ser un competidor de ‘peso’ en la región",
-      "url": "https://eldeber.com.bo/economia/venezuela-alista-ser-competidor-peso-region_1767732065",
-      "summary": "La detención de Nicolás Maduro no provocó una subida sostenida del petróleo a corto plazo, con movimientos modestos en los precios y una respuesta calma de OPEP+. No obstante, expertos señalan que, si no hay giros abruptos, en dos a tres años podría reactivarse la industria petrolera venezolana gracias a inversiones estadounidenses, convirtiéndola en un competidor regional de peso.",
-      "summary_es": "La detención de Nicolás Maduro no provocó una subida sostenida del petróleo a corto plazo, con movimientos modestos en los precios y una respuesta calma de OPEP+. No obstante, expertos señalan que, si no hay giros abruptos, en dos a tres años podría reactivarse la industria petrolera venezolana gracias a inversiones estadounidenses, convirtiéndola en un competidor regional de peso.",
-      "summary_en": "Nicolás Maduro’s detention did not trigger a sustained short-term rise in oil prices, with only modest moves and a measured response from OPEC+. However, experts say that, if there are no abrupt twists, within two to three years the Venezuelan oil industry could be revived thanks to U.S. investments, making it a major regional competitor.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T17:06:00-04:00",
-      "published_at_bo": "2026-01-06T17:06:00-04:00",
-      "fetched_at_utc": "2026-01-07T02:06:11.287198+00:00",
-      "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "La inflación acumulada en 2025 fue del 20,40% y en 2024, del 9,97%, según el INE",
-      "url": "https://eldeber.com.bo/economia/inflacion-acumulada-2025-fue-20-40-2024-9-97-ine_1767714058",
-      "summary": "La inflación anual 2025 fue de 20,40% y el diciembre mostró un incremento de 0,59%, con 189 de 397 productos y servicios cotizados reduciendo su precio frente a 175 que suben y 33 que se mantienen. El Gobierno atribuye esta estabilidad a la menor presión inflacionaria, estabilización del tipo de cambio y otros factores, señalando que si la tendencia continúa podría sostenerse un crecimiento económico sostenido.",
-      "summary_es": "La inflación anual 2025 fue de 20,40% y el diciembre mostró un incremento de 0,59%, con 189 de 397 productos y servicios cotizados reduciendo su precio frente a 175 que suben y 33 que se mantienen. El Gobierno atribuye esta estabilidad a la menor presión inflacionaria, estabilización del tipo de cambio y otros factores, señalando que si la tendencia continúa podría sostenerse un crecimiento económico sostenido.",
-      "summary_en": "Annual inflation for 2025 stood at 20.40%, and December saw a 0.59% rise, with 189 of 397 goods and services tracked recording price declines, while 175 rose and 33 remained unchanged. The government attributes this stability to lower inflationary pressure, exchange-rate stabilization, and other factors, saying that if the trend continues it could support sustained economic growth.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T12:30:00-04:00",
-      "published_at_bo": "2026-01-06T12:30:00-04:00",
-      "fetched_at_utc": "2026-01-06T21:26:28.128259+00:00",
-      "day": "2026-01-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno anuncia reunión con la COB y dirigentes sindicales a mediodía",
-      "url": "https://eldeber.com.bo/economia/gobierno-anuncia-reunion-cob-dirigentes-sindicales-mediodia_1767710659",
-      "summary": "El ministro de Gobierno, Marco Antonio Oviedo, anunció una reunión hoy al mediodía con la COB y representantes de mineros y fabriles para abrir mesas de diálogo sobre el DS 5503, en medio de tensiones por la suspensión de subsidios y el salario público. El Gobierno desmintió que Mario Argollo fuera aprehendido y se reportó que la Policía intervino el Hotel de la COB en busca de explosivos.",
-      "summary_es": "El ministro de Gobierno, Marco Antonio Oviedo, anunció una reunión hoy al mediodía con la COB y representantes de mineros y fabriles para abrir mesas de diálogo sobre el DS 5503, en medio de tensiones por la suspensión de subsidios y el salario público. El Gobierno desmintió que Mario Argollo fuera aprehendido y se reportó que la Policía intervino el Hotel de la COB en busca de explosivos.",
-      "summary_en": "Government Minister Marco Antonio Oviedo announced a noon meeting today with the COB and representatives of miners and factory workers to open dialogue on Decree 5503, amid tensions over the suspension of subsidies and public salaries. The government denied that Mario Argollo had been apprehended, and reports said police intervened at the COB Hotel in search of explosives.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-06T11:46:00-04:00",
-      "published_at_bo": "2026-01-06T11:46:00-04:00",
-      "fetched_at_utc": "2026-01-06T20:30:30.726618+00:00",
-      "day": "2026-01-06"
     }
   ]
 }
