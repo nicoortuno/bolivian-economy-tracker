@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-20T14:37:26.307374+00:00",
+  "generated_at_utc": "2026-01-20T14:51:41.206936+00:00",
   "count": 63,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Riesgo país de Bolivia baja y el Gobierno atribuye el descenso a la estabilización económica",
+      "url": "https://eldeber.com.bo/economia/riesgo-pais-bolivia-baja-gobierno-atribuye-descenso-estabilizacion-economica_1768918426",
+      "summary": "El riesgo país de Bolivia cayó a 636 puntos el 15 de enero, impulsado por la estabilización macroeconómica, la reducción de subsidios y la recuperación de la confianza de organismos internacionales, según el EMBI calculado por JP Morgan. Aun así, desde un máximo de 2.242 puntos en abril de 2025, el indicador ha mostrado una notable reducción, reflejando un cambio de percepción y mayor dinamismo económico regional.",
+      "summary_es": "El riesgo país de Bolivia cayó a 636 puntos el 15 de enero, impulsado por la estabilización macroeconómica, la reducción de subsidios y la recuperación de la confianza de organismos internacionales, según el EMBI calculado por JP Morgan. Aun así, desde un máximo de 2.242 puntos en abril de 2025, el indicador ha mostrado una notable reducción, reflejando un cambio de percepción y mayor dinamismo económico regional.",
+      "summary_en": "Bolivia’s country risk fell to 636 points on January 15, helped by macroeconomic stabilization, subsidy cuts, and renewed confidence from international organizations, according to the EMBI calculated by JP Morgan. Still, from a high of 2,242 points in April 2025, the indicator has declined notably, signaling a shift in perception and stronger regional economic momentum.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-20T10:30:00-04:00",
+      "published_at_bo": "2026-01-20T10:30:00-04:00",
+      "fetched_at_utc": "2026-01-20T14:37:22.276914+00:00",
+      "day": "2026-01-20"
+    },
+    {
+      "source": "El Deber",
+      "title": "Asosur se declara en emergencia por trabas para importar combustibles y crisis de costos en el sector",
+      "url": "https://eldeber.com.bo/economia/asosur-declara-emergencia-trabas-importar-combustibles-crisis-costos-sector_1768916507",
+      "summary": "Asosur declara estado de emergencia por la restricción que permitiría importar combustibles de proveedores distintos a YPFB, advirtiendo que la medida asfixia al sector y amenaza el abastecimiento, y exige la derogación de la Resolución Administrativa 051/2024 por reducir la competencia y elevar costos. La asociación también reclama un análisis urgente de la estructura de costos del GNV, estándares internacionales de calidad para todos los combustibles, respeto a la Ley 3058 y respuestas rápidas de la ANH y el Ministerio de Hidrocarburos sobre biocombustibles.",
+      "summary_es": "Asosur declara estado de emergencia por la restricción que permitiría importar combustibles de proveedores distintos a YPFB, advirtiendo que la medida asfixia al sector y amenaza el abastecimiento, y exige la derogación de la Resolución Administrativa 051/2024 por reducir la competencia y elevar costos. La asociación también reclama un análisis urgente de la estructura de costos del GNV, estándares internacionales de calidad para todos los combustibles, respeto a la Ley 3058 y respuestas rápidas de la ANH y el Ministerio de Hidrocarburos sobre biocombustibles.",
+      "summary_en": "Asosur has declared a state of emergency over a restriction that would allow imports from fuel suppliers other than YPFB, warning that the measure could choke the sector and threaten supply. It is calling for the repeal of Administrative Resolution 051/2024, which it says reduces competition and raises costs. The association also demands an urgent analysis of the cost structure for CNG, internationally recognized quality standards for all fuels, adherence to Law 3058, and swift responses from the ANH and the Ministry of Hydrocarbons on biofuels.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-20T09:54:00-04:00",
+      "published_at_bo": "2026-01-20T09:54:00-04:00",
+      "fetched_at_utc": "2026-01-20T14:37:23.256580+00:00",
+      "day": "2026-01-20"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia gira su política exterior y vuelve a Davos en busca de más inversión",
