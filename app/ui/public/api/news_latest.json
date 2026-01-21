@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-21T08:38:36.200185+00:00",
+  "generated_at_utc": "2026-01-21T08:50:49.826659+00:00",
   "count": 66,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB plantea que el oro represente solo el 20% de las RIN por liquidez",
+      "url": "https://eldeber.com.bo/economia/bcb-plantea-oro-represente-solo-20-rin-liquidez_1768967938",
+      "summary": "El Banco Central de Bolivia propone modificar la Ley 1503 para que las Reservas Internacionales Netas (RIN) reduzcan su concentración en oro del 85% actual a entre el 10% y el 20% con el fin de mejorar la liquidez de las reservas. Actualmente, al 31 de diciembre de 2025, las RIN ascienden a 3.713 millones de dólares, de los cuales alrededor del 84% corresponde a oro, mientras las divisas se ubican en unos 650 millones.",
+      "summary_es": "El Banco Central de Bolivia propone modificar la Ley 1503 para que las Reservas Internacionales Netas (RIN) reduzcan su concentración en oro del 85% actual a entre el 10% y el 20% con el fin de mejorar la liquidez de las reservas. Actualmente, al 31 de diciembre de 2025, las RIN ascienden a 3.713 millones de dólares, de los cuales alrededor del 84% corresponde a oro, mientras las divisas se ubican en unos 650 millones.",
+      "summary_en": "The Central Bank of Bolivia proposes amending Law 1503 to reduce the concentration of Net International Reserves (NIR) in gold from the current 85% to between 10% and 20%, aiming to improve the reserves' liquidity. As of December 31, 2025, the NIR stood at $3.713 billion, with around 84% in gold, while foreign currencies totaled about $650 million.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-21T04:00:00-04:00",
+      "published_at_bo": "2026-01-21T04:00:00-04:00",
+      "fetched_at_utc": "2026-01-21T08:38:34.122790+00:00",
+      "day": "2026-01-21"
+    },
     {
       "source": "El Deber",
       "title": "\"El hub de Santa Cruz se lo va a hacer, ese proyecto tan anhelado, se lo va a hacer\", afirma el ministro de Obras Públicas",
