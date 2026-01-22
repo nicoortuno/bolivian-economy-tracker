@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-22T08:39:59.954707+00:00",
+  "generated_at_utc": "2026-01-22T08:51:39.791205+00:00",
   "count": 73,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno proyecta reducir el déficit fiscal al 7% del PIB y la inflación hasta en 17%",
+      "url": "https://eldeber.com.bo/economia/gobierno-proyecta-reducir-deficit-fiscal-7-pib-inflacion-17_1769057326",
+      "summary": "El Gobierno boliviano propone reducir el déficit fiscal de ~12% del PIB a 7% y la inflación de 20,5% a 12–17% en 2026, principalmente mediante recorte del gasto público, eliminación de subsidios a combustibles y ajustes salariales y tributarios. Sin embargo, economistas advierten que el cumplimiento depende de la gobernabilidad, la gobernanza y la reducción real del gasto, así como de la informalidad y del contexto externo.",
+      "summary_es": "El Gobierno boliviano propone reducir el déficit fiscal de ~12% del PIB a 7% y la inflación de 20,5% a 12–17% en 2026, principalmente mediante recorte del gasto público, eliminación de subsidios a combustibles y ajustes salariales y tributarios. Sin embargo, economistas advierten que el cumplimiento depende de la gobernabilidad, la gobernanza y la reducción real del gasto, así como de la informalidad y del contexto externo.",
+      "summary_en": "The Bolivian government proposes to shrink the fiscal deficit from about 12% of GDP to 7% and bring inflation down from 20.5% to a range of 12–17% in 2026, mainly through cutting public spending, eliminating fuel subsidies, and making wage and tax adjustments. However, economists warn that meeting these targets depends on governability, governance, and real spending reductions, as well as on informality and the external environment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-22T04:00:00-04:00",
+      "published_at_bo": "2026-01-22T04:00:00-04:00",
+      "fetched_at_utc": "2026-01-22T08:39:56.946254+00:00",
+      "day": "2026-01-22"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bono PEPE: ¿quiénes cobran, dónde y hasta cuándo se paga?",
+      "url": "https://eldeber.com.bo/economia/bono-pepe-quienes-cobran-donde-cuando-paga_1769058376",
+      "summary": "A partir del 26 de enero se iniciará el pago del Bono PEPE, de 450 bolivianos en tres entregas mensuales de 150 (enero, febrero y marzo de 2026) con retiro total hasta el 30 de abril; se priorizará un único pago por familia entre los distintos grupos beneficiarios y la identificación se hará a partir de bases estatales sin necesidad de inscripciones.",
+      "summary_es": "A partir del 26 de enero se iniciará el pago del Bono PEPE, de 450 bolivianos en tres entregas mensuales de 150 (enero, febrero y marzo de 2026) con retiro total hasta el 30 de abril; se priorizará un único pago por familia entre los distintos grupos beneficiarios y la identificación se hará a partir de bases estatales sin necesidad de inscripciones.",
+      "summary_en": "Starting January 26, payments for the PEPE Bonus will begin, totaling 450 bolivianos in three monthly installments of 150 (January, February, and March 2026), with the full withdrawal available until April 30. A single payment per family will be prioritized across the various beneficiary groups, and verification will be conducted using government databases, with no registration required.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-22T04:00:00-04:00",
+      "published_at_bo": "2026-01-22T04:00:00-04:00",
+      "fetched_at_utc": "2026-01-22T08:39:55.650754+00:00",
+      "day": "2026-01-22"
+    },
     {
       "source": "El Deber",
       "title": "Las Cámaras de Construcción del país se declaran en emergencia",
