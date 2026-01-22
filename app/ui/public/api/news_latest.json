@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-22T04:12:00.560746+00:00",
+  "generated_at_utc": "2026-01-22T04:18:40.572068+00:00",
   "count": 75,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Las Cámaras de Construcción del país se declaran en emergencia",
+      "url": "https://eldeber.com.bo/economia/camaras-construccion-pais-declaran-emergencia_1769050652",
+      "summary": "La Cámara Boliviana de la Construcción (CABOCO) declara emergencia ante la falta de políticas de reactivación y propone movilizaciones, suspensión temporal de obras y concentraciones nacionales para exigir la aprobación del Decreto Supremo de Reactivación Económica del Sector de la Construcción, centrado en el reajuste de precios en la obra pública. Advierte que, sin medidas inmediatas, la industria podría entrar en un colapso con graves consecuencias para el empleo, la inversión y la estabilidad económica nacional.",
+      "summary_es": "La Cámara Boliviana de la Construcción (CABOCO) declara emergencia ante la falta de políticas de reactivación y propone movilizaciones, suspensión temporal de obras y concentraciones nacionales para exigir la aprobación del Decreto Supremo de Reactivación Económica del Sector de la Construcción, centrado en el reajuste de precios en la obra pública. Advierte que, sin medidas inmediatas, la industria podría entrar en un colapso con graves consecuencias para el empleo, la inversión y la estabilidad económica nacional.",
+      "summary_en": "The Bolivian Chamber of Construction (CABOCO) declares an emergency over the lack of reactivation policies and proposes mobilizations, a temporary suspension of projects, and national demonstrations to demand the approval of the Supreme Decree on Economic Reactivation for the Construction Sector, focused on price adjustments in public works. It warns that, without immediate measures, the industry could collapse, with serious consequences for employment, investment, and national economic stability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-21T22:57:00-04:00",
+      "published_at_bo": "2026-01-21T22:57:00-04:00",
+      "fetched_at_utc": "2026-01-22T04:11:56.927703+00:00",
+      "day": "2026-01-21"
+    },
     {
       "source": "El Deber",
       "title": "Asume nuevo Director del IICA y promete fortalecer el agro en América con ciencia y cooperación",
