@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-01-23T02:07:31.655154+00:00",
+  "generated_at_utc": "2026-01-23T02:31:01.473680+00:00",
   "count": 78,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Asosur Santa Cruz declara cuarto intermedio y garantiza abastecimiento",
+      "url": "https://eldeber.com.bo/economia/asosur-santa-cruz-declara-cuarto-intermedio-garantiza-abastecimiento_1769129456",
+      "summary": "Asosur Santa Cruz declaró un cuarto intermedio en sus protestas tras recibir una nota de la ANH, para abrir espacio al diálogo institucional y activar mesas técnicas que aborden sus demandas, además de solicitar una reunión con el Ejecutivo para buscar soluciones. Mientras tanto, aseguró que continúa prestando el servicio de combustible con normalidad y seguridad.",
+      "summary_es": "Asosur Santa Cruz declaró un cuarto intermedio en sus protestas tras recibir una nota de la ANH, para abrir espacio al diálogo institucional y activar mesas técnicas que aborden sus demandas, además de solicitar una reunión con el Ejecutivo para buscar soluciones. Mientras tanto, aseguró que continúa prestando el servicio de combustible con normalidad y seguridad.",
+      "summary_en": "Asosur Santa Cruz announced a temporary halt to its protests after receiving a note from the ANH, to create room for institutional dialogue and to activate technical working groups to address their demands, and to request a meeting with the Executive to seek solutions. In the meantime, it said it would continue to provide fuel services with normality and safety.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-22T20:57:00-04:00",
+      "published_at_bo": "2026-01-22T20:57:00-04:00",
+      "fetched_at_utc": "2026-01-23T02:07:28.065484+00:00",
+      "day": "2026-01-22"
+    },
+    {
+      "source": "El Deber",
+      "title": "YPFB garantiza abastecimiento de gas para el feriado y despacha 152.000 garrafas de GLP",
+      "url": "https://eldeber.com.bo/economia/ypfb-garantiza-abastecimiento-gas-feriado-despacha-152-000-garrafas-glp_1769128732",
+      "summary": "YPFB despacha en promedio 152,000 garrafas de 10 kilos de GLP diarias y, ante el feriado, programó un despacho adicional de 132,000 garrafas para garantizar el abastecimiento. La venta se incrementó de 144,000 a 152,000 garrafas diarias entre diciembre de 2025 y enero de 2026.",
+      "summary_es": "YPFB despacha en promedio 152,000 garrafas de 10 kilos de GLP diarias y, ante el feriado, programó un despacho adicional de 132,000 garrafas para garantizar el abastecimiento. La venta se incrementó de 144,000 a 152,000 garrafas diarias entre diciembre de 2025 y enero de 2026.",
+      "summary_en": "YPFB ships an average of 152,000 ten-kilogram LPG cylinders per day, and in anticipation of the holiday it scheduled an extra 132,000 cylinders to ensure supplies. Sales rose from 144,000 to 152,000 cylinders per day between December 2025 and January 2026.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-22T20:38:00-04:00",
+      "published_at_bo": "2026-01-22T20:38:00-04:00",
+      "fetched_at_utc": "2026-01-23T02:07:29.012976+00:00",
+      "day": "2026-01-22"
+    },
+    {
+      "source": "El Deber",
+      "title": "Transparencia investiga red de cobros ilegales en ANH: detectan enriquecimiento por más de Bs 2,5 millones",
+      "url": "https://eldeber.com.bo/economia/transparencia-investiga-red-cobros-ilegales-anh-detectan-enriquecimiento-bs-2-5-millones_1769126305",
+      "summary": "El Viceministerio de Transparencia identificó al sector de hidrocarburos como el más denunciado por presuntos actos de corrupción, con más de 73 denuncias por cobros ilegales en la ANH. La investigación encontró una estructura interna que habría generado ganancias ilícitas y un incremento patrimonial superior a 2,5 millones de bolivianos, y se ampliará para identificar a intermediarios y responsables penales.",
+      "summary_es": "El Viceministerio de Transparencia identificó al sector de hidrocarburos como el más denunciado por presuntos actos de corrupción, con más de 73 denuncias por cobros ilegales en la ANH. La investigación encontró una estructura interna que habría generado ganancias ilícitas y un incremento patrimonial superior a 2,5 millones de bolivianos, y se ampliará para identificar a intermediarios y responsables penales.",
+      "summary_en": "The Deputy Ministry of Transparency identified the hydrocarbons sector as the most reported for alleged acts of corruption, with more than 73 complaints of illegal charges at the ANH. The investigation found an internal structure that would have generated illicit gains and a patrimonial increase totaling more than 2.5 million bolivianos, and the probe will be expanded to identify intermediaries and those criminally responsible.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-22T20:16:00-04:00",
+      "published_at_bo": "2026-01-22T20:16:00-04:00",
+      "fetched_at_utc": "2026-01-23T02:07:29.982129+00:00",
+      "day": "2026-01-22"
+    },
     {
       "source": "El Deber",
       "title": "\"Hay un plan que va ser ejecutado\" para terminar el avasallamiento de tierras",
