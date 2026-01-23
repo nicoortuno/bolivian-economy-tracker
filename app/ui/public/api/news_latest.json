@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-23T19:28:26.374979+00:00",
+  "generated_at_utc": "2026-01-23T19:34:05.700497+00:00",
   "count": 80,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bono PEPE: qué deben hacer los beneficiarios desde este lunes para cobrar el pago",
+      "url": "https://eldeber.com.bo/economia/bono-pepe-deben-hacer-beneficiarios-este-lunes-cobrar-pago_1769185113",
+      "summary": "A partir de este lunes inicia el pago del bono PEPE, organizado por día de nacimiento y disponible en 44 entidades financieras (Banco FIE no participa), con la cédula de identidad original y una fotocopia como requisitos. Los beneficiarios son quienes en 2025 hayan recibido bonos como Juancito Pinto, indigencia, discapacidad, y el pago se realizará en enero, febrero y marzo, con abril como mes extraordinario para un retiro único si no se pudo cobrar antes.",
+      "summary_es": "A partir de este lunes inicia el pago del bono PEPE, organizado por día de nacimiento y disponible en 44 entidades financieras (Banco FIE no participa), con la cédula de identidad original y una fotocopia como requisitos. Los beneficiarios son quienes en 2025 hayan recibido bonos como Juancito Pinto, indigencia, discapacidad, y el pago se realizará en enero, febrero y marzo, con abril como mes extraordinario para un retiro único si no se pudo cobrar antes.",
+      "summary_en": "Starting this Monday, the PEPE bonus payments begin, organized by birth date and available at 44 financial institutions (Banco FIE is not participating). Applicants must present the original identity card and a photocopy. Beneficiaries are those who in 2025 have received bonuses such as Juancito Pinto, indigencia, or disability. Payments will take place in January, February, and March, with April designated as an extraordinary month for a one-time withdrawal if the funds could not be collected earlier.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-23T15:18:00-04:00",
+      "published_at_bo": "2026-01-23T15:18:00-04:00",
+      "fetched_at_utc": "2026-01-23T19:28:21.735157+00:00",
+      "day": "2026-01-23"
+    },
     {
       "source": "El Deber",
       "title": "El mal estado de las garrafas limita el uso de GPL sólo al 20-25%",
