@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-23T11:33:36.487575+00:00",
-  "count": 78,
+  "generated_at_utc": "2026-01-23T12:59:06.289925+00:00",
+  "count": 76,
   "items": [
     {
       "source": "El Deber",
@@ -1051,48 +1051,6 @@
       "published_at_bo": "2026-01-10T10:27:00-04:00",
       "fetched_at_utc": "2026-01-10T19:19:35.013156+00:00",
       "day": "2026-01-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Mauricio Medinaceli: “El Decreto 5503 permitió controlar la corrupción en los combustibles por eso ahora se vuelcan a las garrafas de GLP”",
-      "url": "https://eldeber.com.bo/economia/mauricio-medinaceli-decreto-5503-permitio-controlar-corrupcion-combustibles-eso-ahora-vuelcan-garrafas-glp_1767981347",
-      "summary": "El ministro Mauricio Medinaceli afirmó que el Decreto Supremo 5503 logró desincentivar la corrupción en la comercialización de combustibles, reduciendo la demanda de diésel y gasolina y ahorrando alrededor de 10 millones de dólares diarios. Sin embargo, indicó que, ante los precios altos de diésel y gasolina, los delincuentes migraron su negocio al GLP, provocando una sobredemanda de unas 300.000 toneladas por día y desencadenando desabastecimiento en varias ciudades.",
-      "summary_es": "El ministro Mauricio Medinaceli afirmó que el Decreto Supremo 5503 logró desincentivar la corrupción en la comercialización de combustibles, reduciendo la demanda de diésel y gasolina y ahorrando alrededor de 10 millones de dólares diarios. Sin embargo, indicó que, ante los precios altos de diésel y gasolina, los delincuentes migraron su negocio al GLP, provocando una sobredemanda de unas 300.000 toneladas por día y desencadenando desabastecimiento en varias ciudades.",
-      "summary_en": "Minister Mauricio Medinaceli said that Supreme Decree 5503 has helped deter corruption in the fuel trade, reducing demand for diesel and gasoline and saving about $10 million a day. However, he noted that with diesel and gasoline prices high, criminals shifted their business to LPG, causing an over-demand of about 300,000 tons per day and triggering shortages in several cities.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-09T15:23:00-04:00",
-      "published_at_bo": "2026-01-09T15:23:00-04:00",
-      "fetched_at_utc": "2026-01-09T23:26:09.379109+00:00",
-      "day": "2026-01-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia ajusta estrategia de comercio exterior con base en cinco líneas de trabajo",
-      "url": "https://eldeber.com.bo/economia/bolivia-ajusta-estrategia-comercio-exterior-base-cinco-lineas-trabajo_1767957158",
-      "summary": "El Gobierno boliviano avanza una nueva estrategia de comercio exterior en cinco ejes (agilización de trámites aduaneros, digitalización, armonización de fronteras, mejor gestión de frontera y transporte, y atracción de inversión), con mayor participación del sector privado en el Comité Nacional de Facilitación del Comercio y coordinación entre ministerios para reducir costos y tiempos y potenciar la exportación.",
-      "summary_es": "El Gobierno boliviano avanza una nueva estrategia de comercio exterior en cinco ejes (agilización de trámites aduaneros, digitalización, armonización de fronteras, mejor gestión de frontera y transporte, y atracción de inversión), con mayor participación del sector privado en el Comité Nacional de Facilitación del Comercio y coordinación entre ministerios para reducir costos y tiempos y potenciar la exportación.",
-      "summary_en": "Bolivia's government is moving ahead with a new foreign trade strategy built on five pillars: streamlining customs procedures, digitalization, border harmonization, better border and transport management, and attracting investment. It envisions greater participation by the private sector in the National Committee for Trade Facilitation and closer coordination among ministries to reduce costs and processing times and bolster exports.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-09T07:12:00-04:00",
-      "published_at_bo": "2026-01-09T07:12:00-04:00",
-      "fetched_at_utc": "2026-01-09T16:35:29.371256+00:00",
-      "day": "2026-01-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Productores alertan pérdidas millonarias y mercados en riesgo",
-      "url": "https://eldeber.com.bo/economia/productores-alertan-perdidas-millonarias-mercados-riesgo_1767954659",
-      "summary": "El corte de rutas, vigente desde el martes, genera pérdidas millonarias para el sector productivo boliviano, afectando especialmente a la avicultura, porcicultura y la producción de leche, y poniendo en riesgo mercados como el argentino. Los gremios piden que las autoridades liberen las carreteras para evitar mayores daños y asegurar la continuidad de la producción y ventas.",
-      "summary_es": "El corte de rutas, vigente desde el martes, genera pérdidas millonarias para el sector productivo boliviano, afectando especialmente a la avicultura, porcicultura y la producción de leche, y poniendo en riesgo mercados como el argentino. Los gremios piden que las autoridades liberen las carreteras para evitar mayores daños y asegurar la continuidad de la producción y ventas.",
-      "summary_en": "The road blockades, in place since Tuesday, are causing millions in losses for Bolivia’s productive sector, hitting especially poultry farming, pig farming, and milk production, and risking markets such as Argentina. The associations are calling on authorities to reopen the roads to prevent further damage and to ensure the continuity of production and sales.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-09T06:32:00-04:00",
-      "published_at_bo": "2026-01-09T06:32:00-04:00",
-      "fetched_at_utc": "2026-01-09T15:30:03.666138+00:00",
-      "day": "2026-01-09"
     }
   ]
 }
