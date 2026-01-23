@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-23T17:29:43.446192+00:00",
+  "generated_at_utc": "2026-01-23T17:39:21.541408+00:00",
   "count": 79,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El mal estado de las garrafas limita el uso de GPL sólo al 20-25%",
+      "url": "https://eldeber.com.bo/economia/pesar-incremento-gpl-mal-estado-garrafas-solo-pueden-usar-20-25-afecta-abastecimiento_1769186047",
+      "summary": "YPFB informó que el despacho de GLP aumentó a 152,000 garrafas de 10 kilos diarias, pero en barrios de La Paz y Santa Cruz la provisión sigue irregular por retrasos de camiones y escasez de stock de seguridad. La estatal adelantó 132,000 garrafas adicionales para el feriado y fin de semana, mientras las distribuidoras señalan que la falta de stock impide una venta completamente normal.",
+      "summary_es": "YPFB informó que el despacho de GLP aumentó a 152,000 garrafas de 10 kilos diarias, pero en barrios de La Paz y Santa Cruz la provisión sigue irregular por retrasos de camiones y escasez de stock de seguridad. La estatal adelantó 132,000 garrafas adicionales para el feriado y fin de semana, mientras las distribuidoras señalan que la falta de stock impide una venta completamente normal.",
+      "summary_en": "YPFB said LPG dispatch rose to 152,000 ten-kilogram cylinders per day, but in the neighborhoods of La Paz and Santa Cruz supply remains irregular due to truck delays and a stock shortage. The state company said it would advance 132,000 additional cylinders for the holiday and weekend, while distributors argue that the lack of stock is preventing a fully normal sale.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-23T13:05:00-04:00",
+      "published_at_bo": "2026-01-23T13:05:00-04:00",
+      "fetched_at_utc": "2026-01-23T17:29:38.645321+00:00",
+      "day": "2026-01-23"
+    },
+    {
+      "source": "El Deber",
+      "title": "El FMI expresa respaldo al plan económico de Bolivia y ofrece apoyo para cada etapa de ese proceso",
+      "url": "https://eldeber.com.bo/economia/fmi-expresa-respaldo-plan-economico-bolivia-ofrece-apoyo-cada-etapa-ese-proceso_1769186709",
+      "summary": "El FMI formalizó su disposición a acompañar a Bolivia en su proceso de reformas económicas, ratificado tras reuniones en Davos y Washington que destacaron el apoyo técnico y la colaboración del organismo. El gobierno de Rodrigo Paz busca estabilización, crecimiento y prosperidad con respaldo internacional para recuperar la confianza y atraer inversión.",
+      "summary_es": "El FMI formalizó su disposición a acompañar a Bolivia en su proceso de reformas económicas, ratificado tras reuniones en Davos y Washington que destacaron el apoyo técnico y la colaboración del organismo. El gobierno de Rodrigo Paz busca estabilización, crecimiento y prosperidad con respaldo internacional para recuperar la confianza y atraer inversión.",
+      "summary_en": "The IMF formalized its readiness to accompany Bolivia in its process of economic reforms, a commitment confirmed after meetings in Davos and Washington that highlighted the Fund’s technical support and collaboration. The government of Rodrigo Paz seeks stabilization, growth, and prosperity with international backing to restore confidence and attract investment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-23T13:00:00-04:00",
+      "published_at_bo": "2026-01-23T13:00:00-04:00",
+      "fetched_at_utc": "2026-01-23T17:29:39.650860+00:00",
+      "day": "2026-01-23"
+    },
     {
       "source": "El Deber",
       "title": "Cabotur: \"Sin bloqueos y con combustibles, los feriados largos benefician al turismo\"",
