@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-25T14:24:43.543766+00:00",
+  "generated_at_utc": "2026-01-25T14:35:23.911026+00:00",
   "count": 68,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ATT dispone tarifas máximas para vuelos aéreos nacionales",
+      "url": "https://eldeber.com.bo/economia/att-dispone-tarifas-maximas-vuelos-aereos-nacionales_1769350808",
+      "summary": "A partir del lunes 26 de enero entran en vigor tarifas máximas para pasajes aéreos nacionales, aplicables a 17 rutas existentes y 5 nuevas, con vigencia de 180 días, según la Resolución Administrativa Regulatoria ATT-DJ-RAR-TR LP 2/2026 firmada por Carlos Agreda. La ATT publicó el tarifario nacional correspondiente.",
+      "summary_es": "A partir del lunes 26 de enero entran en vigor tarifas máximas para pasajes aéreos nacionales, aplicables a 17 rutas existentes y 5 nuevas, con vigencia de 180 días, según la Resolución Administrativa Regulatoria ATT-DJ-RAR-TR LP 2/2026 firmada por Carlos Agreda. La ATT publicó el tarifario nacional correspondiente.",
+      "summary_en": "From Monday, January 26, maximum fares for domestic air travel will take effect, applying to 17 existing routes and 5 new ones, and will be valid for 180 days, according to Administrative Regulatory Resolution ATT-DJ-RAR-TR LP 2/2026 signed by Carlos Agreda. The ATT released the corresponding national tariff.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-25T10:20:00-04:00",
+      "published_at_bo": "2026-01-25T10:20:00-04:00",
+      "fetched_at_utc": "2026-01-25T14:24:41.743041+00:00",
+      "day": "2026-01-25"
+    },
     {
       "source": "El Deber",
       "title": "Aduana intercepta cargamento de mercurio camuflado en pintura proveniente de México",
