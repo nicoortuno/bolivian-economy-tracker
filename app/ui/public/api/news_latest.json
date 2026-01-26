@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-26T20:33:52.209635+00:00",
+  "generated_at_utc": "2026-01-26T20:43:22.518753+00:00",
   "count": 73,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Antes de los seis meses, el Gobierno comienza a devolver depósitos en dólares a los ahorristas",
+      "url": "https://eldeber.com.bo/economia/antes-seis-meses-gobierno-comienza-devolver-depositos-dolares-ahorristas_1769456715",
+      "summary": "El presidente Rodrigo Paz inició el proceso de devolución de ahorros en dólares retenidos por el BCB durante la gestión de Arce, adelantando los plazos oficiales para que más de 75.000 familias puedan retirar hasta 1.000 dólares cada una. El gobierno busca reordenar las finanzas y recuperar la confianza, combatiendo gastos improductivos y mejorando la percepción de riesgo país para favorecer la inversión extranjera.",
+      "summary_es": "El presidente Rodrigo Paz inició el proceso de devolución de ahorros en dólares retenidos por el BCB durante la gestión de Arce, adelantando los plazos oficiales para que más de 75.000 familias puedan retirar hasta 1.000 dólares cada una. El gobierno busca reordenar las finanzas y recuperar la confianza, combatiendo gastos improductivos y mejorando la percepción de riesgo país para favorecer la inversión extranjera.",
+      "summary_en": "President Rodrigo Paz has launched the process to return dollar-denominated savings held by the Central Bank during Arce’s tenure, fast-tracking the official timelines so that more than 75,000 families can withdraw up to $1,000 each. The government aims to reorganize finances and restore confidence, cutting unproductive spending and improving the perception of the country’s risk to attract foreign investment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-26T15:48:00-04:00",
+      "published_at_bo": "2026-01-26T15:48:00-04:00",
+      "fetched_at_utc": "2026-01-26T20:33:49.476240+00:00",
+      "day": "2026-01-26"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia busca reposicionarse en la agenda económica regional en foro de la CAF",
