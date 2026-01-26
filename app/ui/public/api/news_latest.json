@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-26T02:24:08.161338+00:00",
+  "generated_at_utc": "2026-01-26T02:41:24.807800+00:00",
   "count": 71,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Pollo y canasta básica: ¿han bajado los precios en las últimas dos semanas?",
+      "url": "https://eldeber.com.bo/economia/pollo-canasta-basica-han-bajado-precios-ultimas-dos-semanas_1769386657",
+      "summary": "Se observan movimientos en los precios de la canasta básica: el pollo registra variaciones por ciudad (Cochabamba alrededor de 20 Bs/kg; La Paz/El Alto cercano a 28 Bs/kg; Santa Cruz 18–20 Bs/kg, frente a semanas anteriores de menores de 15 Bs/kg) y se registran descensos moderados en arroz, azúcar y aceite, mientras que otros alimentos como la harina muestran tendencias al alza. Sin embargo, la inflación de alimentos sigue alta y erosiona el poder adquisitivo de las familias, aunque ocasionalmente haya alivio puntual por caídas puntuales.",
+      "summary_es": "Se observan movimientos en los precios de la canasta básica: el pollo registra variaciones por ciudad (Cochabamba alrededor de 20 Bs/kg; La Paz/El Alto cercano a 28 Bs/kg; Santa Cruz 18–20 Bs/kg, frente a semanas anteriores de menores de 15 Bs/kg) y se registran descensos moderados en arroz, azúcar y aceite, mientras que otros alimentos como la harina muestran tendencias al alza. Sin embargo, la inflación de alimentos sigue alta y erosiona el poder adquisitivo de las familias, aunque ocasionalmente haya alivio puntual por caídas puntuales.",
+      "summary_en": "Prices in the basic food basket are moving: chicken varies by city (Cochabamba around 20 Bs/kg; La Paz/El Alto about 28 Bs/kg; Santa Cruz 18–20 Bs/kg, after weeks when it was below 15 Bs/kg). There are moderate declines in rice, sugar, and oil, while other items like flour show an upward trend. However, food inflation remains high and erodes households’ purchasing power, even though occasional relief can come from sharp price drops.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-25T20:20:00-04:00",
+      "published_at_bo": "2026-01-25T20:20:00-04:00",
+      "fetched_at_utc": "2026-01-26T02:24:05.228067+00:00",
+      "day": "2026-01-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "El dólar paralelo se acerca al valor referencial del BCB: ¿qué implica para el país?",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-acerca-valor-referencial-bcb-implica-pais_1769383451",
+      "summary": "En enero de 2026, el dólar paralelo en Bolivia se mantiene estable en torno a Bs 9,53–9,54, por debajo de los Bs 10, y se acerca al referencial del BCB, lo que podría indicar menor presión de demanda y una mayor estabilidad cambiaria. Aunque persiste una brecha con el tipo de cambio oficial, la moderación del paralelo podría beneficiar a importadores, comerciantes y ahorristas si se mantiene la tendencia.",
+      "summary_es": "En enero de 2026, el dólar paralelo en Bolivia se mantiene estable en torno a Bs 9,53–9,54, por debajo de los Bs 10, y se acerca al referencial del BCB, lo que podría indicar menor presión de demanda y una mayor estabilidad cambiaria. Aunque persiste una brecha con el tipo de cambio oficial, la moderación del paralelo podría beneficiar a importadores, comerciantes y ahorristas si se mantiene la tendencia.",
+      "summary_en": "In January 2026, Bolivia’s parallel (informal) dollar held steady at around Bs 9.53–9.54, below Bs 10, and moved closer to the central bank’s reference rate. This could indicate softer demand pressure and greater exchange-rate stability. Although the gap with the official rate persists, the moderation of the parallel rate could benefit importers, traders, and savers if the trend continues.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-25T20:01:00-04:00",
+      "published_at_bo": "2026-01-25T20:01:00-04:00",
+      "fetched_at_utc": "2026-01-26T02:24:06.191685+00:00",
+      "day": "2026-01-25"
+    },
     {
       "source": "El Deber",
       "title": "CAF convoca en Panamá a líderes globales para reposicionar a América Latina",
