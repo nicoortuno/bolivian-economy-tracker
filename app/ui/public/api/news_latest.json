@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-27T22:27:41.466936+00:00",
+  "generated_at_utc": "2026-01-27T22:37:58.607278+00:00",
   "count": 74,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA asegura que sus tarifas se mantendrán por debajo del tope máximo, pese al incremento del jet fuel",
+      "url": "https://eldeber.com.bo/economia/boa-asegura-tarifas-mantendran-debajo-tope-maximo-pese-incremento-jet-fuel_1769549061",
+      "summary": "BoA mantiene una estructura de tarifas mínimas por ruta y anticipación, con precios por debajo de las tarifas máximas autorizadas, pese al incremento del costo del jet fuel registrado por el Decreto Supremo N°5516 desde enero de 2026. Junto a esto, la aerolínea busca estabilidad económica y mejorar la puntualidad, que ha subido de 50% a 85% gracias a ajustes operativos, aunque las tarifas siguen siendo sensibles a la demanda y la estacionalidad.",
+      "summary_es": "BoA mantiene una estructura de tarifas mínimas por ruta y anticipación, con precios por debajo de las tarifas máximas autorizadas, pese al incremento del costo del jet fuel registrado por el Decreto Supremo N°5516 desde enero de 2026. Junto a esto, la aerolínea busca estabilidad económica y mejorar la puntualidad, que ha subido de 50% a 85% gracias a ajustes operativos, aunque las tarifas siguen siendo sensibles a la demanda y la estacionalidad.",
+      "summary_en": "BoA maintains a minimum-fare structure by route and advance purchase, with prices below the maximum authorized fares, despite jet fuel costs rising since January 2026 under Supreme Decree No. 5516. The airline is also pursuing financial stability and improved punctuality, which has climbed from 50% to 85% thanks to operational adjustments, though fares remain sensitive to demand and seasonality.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-27T17:35:00-04:00",
+      "published_at_bo": "2026-01-27T17:35:00-04:00",
+      "fetched_at_utc": "2026-01-27T22:27:38.623759+00:00",
+      "day": "2026-01-27"
+    },
     {
       "source": "El Deber",
       "title": "Senadora alista proyecto de ley para frenar el ‘tarifazo’ aéreo y critica la gestión de BoA",
