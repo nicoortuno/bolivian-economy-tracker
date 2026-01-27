@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-01-27T02:20:39.486429+00:00",
+  "generated_at_utc": "2026-01-27T02:36:51.569981+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Foro de la CAF: podrá seguir las diversas conferencias por la señal de EL DEBER",
+      "url": "https://eldeber.com.bo/economia/foro-caf-podra-seguir-diversas-conferencias-senal-deber_1769474771",
+      "summary": "Panamá se convertirá en centro económico regional desde el 27 de enero y EL DEBER cubrirá el Foro Económico Internacional América Latina y Caribe, con transmisiones en YouTube y Facebook. Bolivia tendrá un panel exclusivo el 28 de enero sobre la Agenda de Crecimiento, Inversión y Desarrollo Sostenible, inauguración con autoridades regionales, y el 29 de enero Sissi Áñez moderará la mesa sobre la Ruta Crítica de la Interconexión Eléctrica; el martes se destacará la cultura y la diversidad de la región.",
+      "summary_es": "Panamá se convertirá en centro económico regional desde el 27 de enero y EL DEBER cubrirá el Foro Económico Internacional América Latina y Caribe, con transmisiones en YouTube y Facebook. Bolivia tendrá un panel exclusivo el 28 de enero sobre la Agenda de Crecimiento, Inversión y Desarrollo Sostenible, inauguración con autoridades regionales, y el 29 de enero Sissi Áñez moderará la mesa sobre la Ruta Crítica de la Interconexión Eléctrica; el martes se destacará la cultura y la diversidad de la región.",
+      "summary_en": "From January 27, Panama will become a regional economic hub, and EL DEBER will cover the Latin American and Caribbean International Economic Forum, with broadcasts on YouTube and Facebook. Bolivia will host an exclusive panel on January 28 about the Growth, Investment and Sustainable Development Agenda, opening with regional authorities, and on January 29 Sissi Áñez will moderate the panel on the Critical Route of the Electrical Interconnection; Tuesday will highlight the region’s culture and diversity.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-26T21:28:00-04:00",
+      "published_at_bo": "2026-01-26T21:28:00-04:00",
+      "fetched_at_utc": "2026-01-27T02:20:35.695472+00:00",
+      "day": "2026-01-26"
+    },
+    {
+      "source": "El Deber",
+      "title": "Cotización paralela cae tras el anuncio de devolución de depósitos en dólares",
+      "url": "https://eldeber.com.bo/economia/cotizacion-paralela-cae-anuncio-devolucion-depositos-dolares_1769475346",
+      "summary": "El dólar paralelo en Bolivia cayó ligeramente tras el anuncio oficial de devolución de depósitos en dólares, con una cotización de Bs 9,42 para compra y Bs 9,37 para venta, impulsada por mayores disponibilidades y menor demanda especulativa. Analistas señalan que este primer ajuste refleja una mejora de confianza y mayor oferta de divisas, posibilidad de normalizar gradualmente el mercado cambiario y reducir la brecha con el dólar oficial si se mantiene la medida.",
+      "summary_es": "El dólar paralelo en Bolivia cayó ligeramente tras el anuncio oficial de devolución de depósitos en dólares, con una cotización de Bs 9,42 para compra y Bs 9,37 para venta, impulsada por mayores disponibilidades y menor demanda especulativa. Analistas señalan que este primer ajuste refleja una mejora de confianza y mayor oferta de divisas, posibilidad de normalizar gradualmente el mercado cambiario y reducir la brecha con el dólar oficial si se mantiene la medida.",
+      "summary_en": "The Bolivian parallel/dollar parallel fell slightly after the official announcement of the return of dollar-denominated deposits, with a quote of Bs 9.42 for buying and Bs 9.37 for selling, driven by higher supply and lower speculative demand. Analysts say this initial adjustment signals improved confidence and a larger supply of foreign exchange, with the potential to gradually normalize the exchange market and narrow the gap with the official dollar if the measure is sustained.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-26T21:06:00-04:00",
+      "published_at_bo": "2026-01-26T21:06:00-04:00",
+      "fetched_at_utc": "2026-01-27T02:20:36.651445+00:00",
+      "day": "2026-01-26"
+    },
+    {
+      "source": "El Deber",
+      "title": "Banco Central inicia devolución de $us 48 millones a pequeños ahorristas",
+      "url": "https://eldeber.com.bo/economia/banco-central-inicia-devolucion-us-48-millones-pequenos-ahorristas_1769469513",
+      "summary": "El Banco Central de Bolivia anunció el inicio de la devolución de depósitos en dólares de hasta 1.000 para 770.000 ahorristas y 20.000 empresas, con un monto total de 48 millones de dólares provenientes de la reforma del encaje legal. Los bancos ya cuentan con los dólares para entregar los fondos y el proceso busca reactivar la economía y restituir la confianza en el sistema financiero.",
+      "summary_es": "El Banco Central de Bolivia anunció el inicio de la devolución de depósitos en dólares de hasta 1.000 para 770.000 ahorristas y 20.000 empresas, con un monto total de 48 millones de dólares provenientes de la reforma del encaje legal. Los bancos ya cuentan con los dólares para entregar los fondos y el proceso busca reactivar la economía y restituir la confianza en el sistema financiero.",
+      "summary_en": "The Central Bank of Bolivia announced the start of returning dollar deposits of up to $1,000 for 770,000 savers and 20,000 businesses, totaling $48 million stemming from the reform of the reserve requirement. Banks already have the dollars ready to distribute, and the process aims to restart the economy and restore confidence in the financial system.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-26T19:35:00-04:00",
+      "published_at_bo": "2026-01-26T19:35:00-04:00",
+      "fetched_at_utc": "2026-01-27T02:20:37.638097+00:00",
+      "day": "2026-01-26"
+    },
     {
       "source": "El Deber",
       "title": "Antes de los seis meses, el Gobierno comienza a devolver depósitos en dólares a los ahorristas",
