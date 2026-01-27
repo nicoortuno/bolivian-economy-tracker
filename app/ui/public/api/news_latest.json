@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-27T21:24:11.827409+00:00",
+  "generated_at_utc": "2026-01-27T21:32:45.399816+00:00",
   "count": 73,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Senadora alista proyecto de ley para frenar el ‘tarifazo’ aéreo y critica la gestión de BoA",
+      "url": "https://eldeber.com.bo/economia/senadora-alista-proyecto-ley-frenar-tarifazo-aereo-critica-gestion-boa_1769532406",
+      "summary": "La senadora Marcela Guerrero rechazó el incremento de pasajes implementado por la ATT, anunciando un proyecto de ley para dejar sin efecto la resolución que permite el alza y argumentando que carece de transparencia y apoyo de los sectores productivos. Señaló que el tarifazo perjudica especialmente al turismo y a las economías regionales como Tarija, y afirmó que se requiere un estudio técnico consensuado con los actores que dinamizan la economía para evitar un daño irreversible en la conectividad del país.",
+      "summary_es": "La senadora Marcela Guerrero rechazó el incremento de pasajes implementado por la ATT, anunciando un proyecto de ley para dejar sin efecto la resolución que permite el alza y argumentando que carece de transparencia y apoyo de los sectores productivos. Señaló que el tarifazo perjudica especialmente al turismo y a las economías regionales como Tarija, y afirmó que se requiere un estudio técnico consensuado con los actores que dinamizan la economía para evitar un daño irreversible en la conectividad del país.",
+      "summary_en": "Senator Marcela Guerrero opposed the fare increase implemented by the ATT, announcing a bill to repeal the resolution that allows the rise and arguing that it lacks transparency and support from the productive sectors. She noted that the tariff hike hurts tourism and regional economies such as Tarija, and she said a technically sound, jointly agreed study with the actors driving the economy is needed to avoid irreparable damage to the country’s connectivity.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-27T16:53:00-04:00",
+      "published_at_bo": "2026-01-27T16:53:00-04:00",
+      "fetched_at_utc": "2026-01-27T21:24:07.861092+00:00",
+      "day": "2026-01-27"
+    },
     {
       "source": "El Deber",
       "title": "Precio del dólar paralelo continúa en descenso y reabre el debate sobre el tipo de cambio",
