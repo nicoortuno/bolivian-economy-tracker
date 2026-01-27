@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-27T10:34:34.292239+00:00",
+  "generated_at_utc": "2026-01-27T10:49:50.565728+00:00",
   "count": 68,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "“Se acabo el corralito” dice Paz y comienza la devolución de dólares",
+      "url": "https://eldeber.com.bo/economia/acabo-corralito-dice-paz-comienza-devolucion-dolares_1769509287",
+      "summary": "El presidente Rodrigo Paz anunció la devolución oficial de los dólares retenidos en el sistema financiero, iniciando el 27 de enero con aproximadamente 48 millones de dólares para más de 770 mil ahorristas y 20 mil pequeñas empresas, con el objetivo de restablecer la confianza y estimular la inversión y la generación de empleo. Además, explicó que la medida se facilita con una reducción del encaje legal para liberar liquidez y permite devolver depósitos de hasta 1.000 dólares, buscando superar el efecto del corralito y estabilizar la economía.",
+      "summary_es": "El presidente Rodrigo Paz anunció la devolución oficial de los dólares retenidos en el sistema financiero, iniciando el 27 de enero con aproximadamente 48 millones de dólares para más de 770 mil ahorristas y 20 mil pequeñas empresas, con el objetivo de restablecer la confianza y estimular la inversión y la generación de empleo. Además, explicó que la medida se facilita con una reducción del encaje legal para liberar liquidez y permite devolver depósitos de hasta 1.000 dólares, buscando superar el efecto del corralito y estabilizar la economía.",
+      "summary_en": "President Rodrigo Paz announced the official return of dollars held in the financial system, starting January 27 with about $48 million for more than 770,000 savers and 20,000 small businesses, aimed at restoring confidence and stimulating investment and job creation. He also explained that the measure is facilitated by a reduction in the legal reserve requirement to free up liquidity and allows the repayment of deposits of up to $1,000, seeking to overcome the impact of the corralito and stabilize the economy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-27T06:21:00-04:00",
+      "published_at_bo": "2026-01-27T06:21:00-04:00",
+      "fetched_at_utc": "2026-01-27T10:34:32.489308+00:00",
+      "day": "2026-01-27"
+    },
     {
       "source": "El Deber",
       "title": "Foro de la CAF: podrá seguir las diversas conferencias por la señal de EL DEBER",
