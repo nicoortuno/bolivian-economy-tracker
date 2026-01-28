@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-28T15:39:03.848093+00:00",
+  "generated_at_utc": "2026-01-28T15:51:29.472345+00:00",
   "count": 74,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Rodrigo Paz en la CAF ofrece a Chile “puertos” de Bolivia para acceder a Brasil",
+      "url": "https://eldeber.com.bo/economia/rodrigo-paz-caf-ofrece-chile-puertos-bolivia-acceder-brasil_1769614433",
+      "summary": "El presidente Rodrigo Paz participó en la inauguración del Foro Económico Internacional de la CAF en Panamá y afirmó que Bolivia tiene más puertos que sus países vecinos gracias a sus cinco fronteras. Además, propuso a Chile usar sus puertos y citó la hidrovía como complemento para integrarse al mar del continente.",
+      "summary_es": "El presidente Rodrigo Paz participó en la inauguración del Foro Económico Internacional de la CAF en Panamá y afirmó que Bolivia tiene más puertos que sus países vecinos gracias a sus cinco fronteras. Además, propuso a Chile usar sus puertos y citó la hidrovía como complemento para integrarse al mar del continente.",
+      "summary_en": "President Rodrigo Paz took part in the opening of the CAF International Economic Forum in Panama and said that Bolivia has more ports than its neighboring countries thanks to its five land borders. He also proposed that Chile use its ports and cited the inland waterway (hydrovia) as a complement to integrating with the continent’s sea.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-28T11:35:00-04:00",
+      "published_at_bo": "2026-01-28T11:35:00-04:00",
+      "fetched_at_utc": "2026-01-28T15:38:59.839122+00:00",
+      "day": "2026-01-28"
+    },
+    {
+      "source": "El Deber",
+      "title": "Posesionan a Hormando Vaca Díez como viceministro de Tierras",
+      "url": "https://eldeber.com.bo/economia/posesionan-hormando-vaca-diez-viceministro-tierras_1769612302",
+      "summary": "En La Paz, Hormando Vaca Díez Jiménez fue posesionado como nuevo viceministro de Tierras, en un contexto de conflictos por avasallamientos y esfuerzos por restaurar la institucionalidad del INRA y la protección de territorios ancestrales. Vaca Díez prometió devolver la institucionalidad al INRA, defender la propiedad y el territorio de campesinos e indígenas, y combatir las mafias y la violencia asociada a la venta y ocupación de tierras.",
+      "summary_es": "En La Paz, Hormando Vaca Díez Jiménez fue posesionado como nuevo viceministro de Tierras, en un contexto de conflictos por avasallamientos y esfuerzos por restaurar la institucionalidad del INRA y la protección de territorios ancestrales. Vaca Díez prometió devolver la institucionalidad al INRA, defender la propiedad y el territorio de campesinos e indígenas, y combatir las mafias y la violencia asociada a la venta y ocupación de tierras.",
+      "summary_en": "In La Paz, Hormando Vaca Díez Jiménez was sworn in as the new Deputy Minister of Lands, amid conflicts over land grabs and efforts to restore the INRA’s institutional framework and protect ancestral territories. Vaca Díez pledged to restore INRA’s institutional legitimacy, defend the property and territory of peasants and Indigenous peoples, and combat the mafias and violence linked to land sales and occupations.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-28T11:03:00-04:00",
+      "published_at_bo": "2026-01-28T11:03:00-04:00",
+      "fetched_at_utc": "2026-01-28T15:39:00.820731+00:00",
+      "day": "2026-01-28"
+    },
     {
       "source": "El Deber",
       "title": "Devolución de dólares arranca con escasa demanda de los ahorristas",
