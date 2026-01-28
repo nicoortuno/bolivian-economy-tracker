@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-28T10:49:28.605154+00:00",
-  "count": 74,
+  "generated_at_utc": "2026-01-28T11:28:14.438479+00:00",
+  "count": 72,
   "items": [
     {
       "source": "El Deber",
@@ -995,48 +995,6 @@
       "published_at_bo": "2026-01-15T07:24:00-04:00",
       "fetched_at_utc": "2026-01-15T16:41:19.931033+00:00",
       "day": "2026-01-15"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia expondrá su agenda de crecimiento e inversión en Foro Económico de la CAF",
-      "url": "https://eldeber.com.bo/economia/bolivia-expondra-agenda-crecimiento-inversion-foro-economico-caf_1768408955",
-      "summary": "El panel “Bolivia: Agenda de Crecimiento, Inversión y Desarrollo Sostenible” reunirá a representantes del gobierno, el sector privado y organismos multilaterales para debatir retos y oportunidades de dinamizar la inversión pública y privada, diversificar la matriz productiva y fortalecer infraestructura y conectividad en Bolivia. En el marco del Foro Económico Internacional CAF 2026 en Panamá, se explorarán reformas, marcos regulatorios y alianzas para un desarrollo estable, inclusivo y sostenible.",
-      "summary_es": "El panel “Bolivia: Agenda de Crecimiento, Inversión y Desarrollo Sostenible” reunirá a representantes del gobierno, el sector privado y organismos multilaterales para debatir retos y oportunidades de dinamizar la inversión pública y privada, diversificar la matriz productiva y fortalecer infraestructura y conectividad en Bolivia. En el marco del Foro Económico Internacional CAF 2026 en Panamá, se explorarán reformas, marcos regulatorios y alianzas para un desarrollo estable, inclusivo y sostenible.",
-      "summary_en": "The panel “Bolivia: Growth, Investment, and the Sustainable Development Agenda” will bring together representatives from government, the private sector, and multilateral organizations to discuss the challenges and opportunities in boosting public and private investment, diversifying the country’s productive base, and strengthening infrastructure and connectivity in Bolivia. As part of the CAF 2026 International Economic Forum in Panama, reforms, regulatory frameworks, and partnerships for stable, inclusive, and sustainable development will be explored.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-14T12:48:00-04:00",
-      "published_at_bo": "2026-01-14T12:48:00-04:00",
-      "fetched_at_utc": "2026-01-14T22:28:11.895103+00:00",
-      "day": "2026-01-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "El presidente del BID se reúne con los empresarios del país",
-      "url": "https://eldeber.com.bo/economia/presidente-bid-reune-empresarios-pais_1768405096",
-      "summary": "El titular del BID, Ilan Goldfajn, se reunió con empresarios en Santa Cruz para destacar que, además de la estabilidad, se busca impulsar el crecimiento económico de Bolivia. En el encuentro se anunció un financiamiento de más de 4.500 millones de dólares bajo el programa Bolivia Crece, destinado a beneficiar al Gobierno, alcaldías, gobernaciones y el sector privado al eliminar cuellos de botella y facilitar inversiones.",
-      "summary_es": "El titular del BID, Ilan Goldfajn, se reunió con empresarios en Santa Cruz para destacar que, además de la estabilidad, se busca impulsar el crecimiento económico de Bolivia. En el encuentro se anunció un financiamiento de más de 4.500 millones de dólares bajo el programa Bolivia Crece, destinado a beneficiar al Gobierno, alcaldías, gobernaciones y el sector privado al eliminar cuellos de botella y facilitar inversiones.",
-      "summary_en": "Inter-American Development Bank President Ilan Goldfajn met with business leaders in Santa Cruz to emphasize that, beyond stability, the aim is to spur Bolivia’s economic growth. At the meeting, a financing package of more than $4.5 billion under the Bolivia Crece program was announced, designed to benefit the government, municipalities, departments, and the private sector by removing bottlenecks and facilitating investments.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-14T11:47:00-04:00",
-      "published_at_bo": "2026-01-14T11:47:00-04:00",
-      "fetched_at_utc": "2026-01-14T21:27:36.655825+00:00",
-      "day": "2026-01-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "BID trae $us 4.500 millones y el Gobierno perfila mesas técnicas para la inversión",
-      "url": "https://eldeber.com.bo/economia/bid-trae-us-4-500-millones-gobierno-perfila-mesas-tecnicas-inversion_1768387249",
-      "summary": "El Banco Interamericano de Desarrollo anunció un respaldo de 4.500 millones de dólares para Bolivia, entre 2026 y 2028, para generar empleos, promover la inversión productiva y reducir la informalidad, con énfasis en infraestructura, agua, saneamiento, educación, salud y desarrollo urbano. El plan prevé priorizar la cartera de proyectos mediante mesas técnicas y crear una Unidad técnica de implementación y programas como Bolivia Crece y BID Lab para acompañar la ejecución y fortalecer la innovación y la juventud.",
-      "summary_es": "El Banco Interamericano de Desarrollo anunció un respaldo de 4.500 millones de dólares para Bolivia, entre 2026 y 2028, para generar empleos, promover la inversión productiva y reducir la informalidad, con énfasis en infraestructura, agua, saneamiento, educación, salud y desarrollo urbano. El plan prevé priorizar la cartera de proyectos mediante mesas técnicas y crear una Unidad técnica de implementación y programas como Bolivia Crece y BID Lab para acompañar la ejecución y fortalecer la innovación y la juventud.",
-      "summary_en": "The Inter­American Development Bank announced a $4.5 billion financing package for Bolivia for 2026–2028, aimed at creating jobs, spur productive investment, and reduce informality, with a focus on infrastructure, water and sanitation, education, health, and urban development. The plan calls for prioritizing the project portfolio through technical working groups and establishing a Technical Implementation Unit, along with programs such as Bolivia Crece and BID Lab to support execution and strengthen innovation and youth.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-14T06:40:00-04:00",
-      "published_at_bo": "2026-01-14T06:40:00-04:00",
-      "fetched_at_utc": "2026-01-14T16:38:09.160787+00:00",
-      "day": "2026-01-14"
     }
   ]
 }
