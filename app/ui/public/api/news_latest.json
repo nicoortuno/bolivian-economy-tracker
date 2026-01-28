@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-28T11:28:14.438479+00:00",
+  "generated_at_utc": "2026-01-28T11:35:43.782198+00:00",
   "count": 72,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Devolución de dólares arranca con escasa demanda de los ahorristas",
+      "url": "https://eldeber.com.bo/economia/devolucion-dolares-arranca-escasa-demanda-ahorristas_1769597641",
+      "summary": "A partir del 27 de enero de 2026, se devolverán hasta 1.000 USD por cuenta a unos 770.000 ahorristas y 20.000 pequeñas empresas, bastando presentar la cédula de identidad para retirar las divisas. Sin embargo, persisten restricciones como pagos al exterior superiores a 100 USD y retiros/compras en línea en dólares, que limitan la plena operatividad de los ahorros, según economistas.",
+      "summary_es": "A partir del 27 de enero de 2026, se devolverán hasta 1.000 USD por cuenta a unos 770.000 ahorristas y 20.000 pequeñas empresas, bastando presentar la cédula de identidad para retirar las divisas. Sin embargo, persisten restricciones como pagos al exterior superiores a 100 USD y retiros/compras en línea en dólares, que limitan la plena operatividad de los ahorros, según economistas.",
+      "summary_en": "As of January 27, 2026, up to $1,000 per account will be refunded to about 770,000 savers and 20,000 small businesses, simply by presenting their identity card to withdraw the foreign currency. However, restrictions remain, such as outbound payments above $100 and online withdrawals and purchases in dollars, which limit the full usability of the savings, according to economists.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-28T06:54:00-04:00",
+      "published_at_bo": "2026-01-28T06:54:00-04:00",
+      "fetched_at_utc": "2026-01-28T11:28:12.654656+00:00",
+      "day": "2026-01-28"
+    },
     {
       "source": "El Deber",
       "title": "BoA asegura que sus tarifas se mantendrán por debajo del tope máximo, pese al incremento del jet fuel",
