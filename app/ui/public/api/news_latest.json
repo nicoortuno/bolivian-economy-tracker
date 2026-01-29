@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-29T16:51:39.826865+00:00",
+  "generated_at_utc": "2026-01-29T17:00:07.858758+00:00",
   "count": 85,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El dólar paralelo se vende más barato que la cotización referencial del Banco Central",
+      "url": "https://eldeber.com.bo/economia/dolar-paralelo-vende-barato-cotizacion-referencial-banco-central_1769702252",
+      "summary": "El dólar paralelo se mantiene por debajo del tipo de cambio oficial, con 8,96 Bs para venta en el mercado libre frente a 8,96 Bs que muestra el BCB para la venta, y 8,99 Bs en el caso de compra oficial frente a 9 Bs en la calle. El economista Fernando Romero sostiene que, para ordenar el tipo de cambio, sería necesaria una devaluación oficial o bandas cambiarias, pero advierte que se requieren entre 2.500 y 4.500 millones de dólares en reservas para evitar un golpe inflacionario si no se cuenta con ese colchón.",
+      "summary_es": "El dólar paralelo se mantiene por debajo del tipo de cambio oficial, con 8,96 Bs para venta en el mercado libre frente a 8,96 Bs que muestra el BCB para la venta, y 8,99 Bs en el caso de compra oficial frente a 9 Bs en la calle. El economista Fernando Romero sostiene que, para ordenar el tipo de cambio, sería necesaria una devaluación oficial o bandas cambiarias, pero advierte que se requieren entre 2.500 y 4.500 millones de dólares en reservas para evitar un golpe inflacionario si no se cuenta con ese colchón.",
+      "summary_en": "The parallel dollar remains below the official exchange rate, at 8.96 bolivianos per dollar for selling in the free market, versus 8.96 bolivianos shown by the central bank (BCB) for selling, and 8.99 bolivianos for official buying versus 9 bolivianos on the street.\n\nEconomist Fernando Romero says that to stabilize the exchange rate, an official devaluation or currency bands would be necessary, but he warns that Bolivia would need between $2.5 billion and $4.5 billion in reserves to avoid an inflationary shock if that cushion isn’t in place.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T12:03:00-04:00",
+      "published_at_bo": "2026-01-29T12:03:00-04:00",
+      "fetched_at_utc": "2026-01-29T16:51:35.739091+00:00",
+      "day": "2026-01-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "“Nos inspiran a tener una buena vecindad”, Kast sobre discurso del presidente Rodrigo Paz",
+      "url": "https://eldeber.com.bo/economia/nos-inspiran-tener-buena-vecindad-kast-discurso-presidente-rodrigo-paz_1769700798",
+      "summary": "Kast destacó el discurso de Paz en el Foro CAF Panamá, promoviendo una cultura de confianza, cooperación y buena vecindad en Latinoamérica, y subrayando la necesidad de cruzar fronteras ideológicas y nacionales. Señaló que la región no carece de ideas sino de carácter, y llamó a abordar desafíos como la pobreza, la informalidad y la violencia mediante unidad regional y cooperación real.",
+      "summary_es": "Kast destacó el discurso de Paz en el Foro CAF Panamá, promoviendo una cultura de confianza, cooperación y buena vecindad en Latinoamérica, y subrayando la necesidad de cruzar fronteras ideológicas y nacionales. Señaló que la región no carece de ideas sino de carácter, y llamó a abordar desafíos como la pobreza, la informalidad y la violencia mediante unidad regional y cooperación real.",
+      "summary_en": "Kast highlighted Paz’s speech at the CAF Forum in Panama, promoting a culture of trust, cooperation, and good neighboring in Latin America, and underscoring the need to cross ideological and national borders. He noted that the region is not short of ideas but of character, and called for addressing challenges such as poverty, informality, and violence through regional unity and real cooperation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T11:54:00-04:00",
+      "published_at_bo": "2026-01-29T11:54:00-04:00",
+      "fetched_at_utc": "2026-01-29T16:51:36.744091+00:00",
+      "day": "2026-01-29"
+    },
     {
       "source": "El Deber",
       "title": "El agro exige acelerar titulación de predios y detener a avasalladores",
