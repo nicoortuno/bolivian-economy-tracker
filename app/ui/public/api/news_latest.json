@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-29T23:31:46.198771+00:00",
+  "generated_at_utc": "2026-01-29T23:41:29.383361+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Porcicultores ven un nuevo escenario para el sector porcino tras liberación de subproductos de la soya",
+      "url": "https://eldeber.com.bo/economia/porcicultores-ven-nuevo-escenario-sector-porcino-liberacion-subproductos-soya_1769722386",
+      "summary": "Jorge Méndez, presidente de Adepor, aplaudió la liberación de las exportaciones de soya y el levantamiento de cupos para sus subproductos, asegurando que permitirá abastecer al sector pecuario y podría reducir costos de la carne y otros productos derivado. Además, indicó que se avanza hacia la internacionalización del sector, con planes de exportar y una eventual legalización del comercio de carne de cerdo con Perú, sujeto a acuerdos sanitarios.",
+      "summary_es": "Jorge Méndez, presidente de Adepor, aplaudió la liberación de las exportaciones de soya y el levantamiento de cupos para sus subproductos, asegurando que permitirá abastecer al sector pecuario y podría reducir costos de la carne y otros productos derivado. Además, indicó que se avanza hacia la internacionalización del sector, con planes de exportar y una eventual legalización del comercio de carne de cerdo con Perú, sujeto a acuerdos sanitarios.",
+      "summary_en": "Jorge Méndez, president of Adepor, praised the liberalization of soybean exports and the lifting of quotas on its byproducts, saying it will help supply the livestock sector and could reduce the cost of meat and other derived products. He also noted that the sector is moving toward internationalization, with plans to export and a potential legalization of pork trade with Peru, subject to sanitary agreements.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T18:42:00-04:00",
+      "published_at_bo": "2026-01-29T18:42:00-04:00",
+      "fetched_at_utc": "2026-01-29T23:31:41.333102+00:00",
+      "day": "2026-01-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Ecojet evalúa nuevas rutas al sur en un escenario de apertura del mercado aéreo",
+      "url": "https://eldeber.com.bo/economia/ecojet-evalua-nuevas-rutas-sur-escenario-apertura-mercado-aereo_1769724150",
+      "summary": "Ecojet realizará vuelos exploratorios en febrero hacia Tarija y Sucre para evaluar costos, demanda y viabilidad operativa, con la posibilidad de establecer dos frecuencias mínimas en corto plazo. El anuncio, hecho por el ministro Zamora tras reuniones con la aerolínea, se enmarca en la estrategia gubernamental para ampliar la conectividad aérea y fomentar la competencia en Bolivia.",
+      "summary_es": "Ecojet realizará vuelos exploratorios en febrero hacia Tarija y Sucre para evaluar costos, demanda y viabilidad operativa, con la posibilidad de establecer dos frecuencias mínimas en corto plazo. El anuncio, hecho por el ministro Zamora tras reuniones con la aerolínea, se enmarca en la estrategia gubernamental para ampliar la conectividad aérea y fomentar la competencia en Bolivia.",
+      "summary_en": "Ecojet will conduct exploratory flights in February to Tarija and Sucre to assess costs, demand, and operational viability, with the possibility of establishing two minimum weekly frequencies in the short term. The announcement, made by Minister Zamora after meetings with the airline, is part of the government’s strategy to expand air connectivity and foster competition in Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T18:40:00-04:00",
+      "published_at_bo": "2026-01-29T18:40:00-04:00",
+      "fetched_at_utc": "2026-01-29T23:31:42.301510+00:00",
+      "day": "2026-01-29"
+    },
     {
       "source": "El Deber",
       "title": "Ministro Medinaceli: \"La estabilización de precios destaca a Bolivia en el Foro de la CAF\"",
