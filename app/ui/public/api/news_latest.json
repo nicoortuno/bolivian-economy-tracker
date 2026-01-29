@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-29T20:37:32.323765+00:00",
+  "generated_at_utc": "2026-01-29T20:48:38.893170+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ministro Medinaceli: \"La estabilización de precios destaca a Bolivia en el Foro de la CAF\"",
+      "url": "https://eldeber.com.bo/economia/ministro-medinaceli-estabilizacion-precios-destaca-bolivia-foro-caf_1769715620",
+      "summary": "El ministro Mauricio Medinaceli calificó como completamente positiva la participación de Bolivia en las reuniones bilaterales del Foro CAF, destacando el interés de inversionistas internacionales y la estabilización de precios de carburantes como carta de presentación. Además, señaló acuerdos con Brasil para avanzar en una agenda detallada de proyectos y una mayor apertura a la inversión privada nacional e internacional, con futuras reuniones técnicas y mayor claridad en los contratos.",
+      "summary_es": "El ministro Mauricio Medinaceli calificó como completamente positiva la participación de Bolivia en las reuniones bilaterales del Foro CAF, destacando el interés de inversionistas internacionales y la estabilización de precios de carburantes como carta de presentación. Además, señaló acuerdos con Brasil para avanzar en una agenda detallada de proyectos y una mayor apertura a la inversión privada nacional e internacional, con futuras reuniones técnicas y mayor claridad en los contratos.",
+      "summary_en": "Minister Mauricio Medinaceli described Bolivia's participation in the CAF Forum's bilateral meetings as completely positive, highlighting international investors' interest and the stabilization of fuel prices as a calling card. He also noted agreements with Brazil to push a detailed project agenda and greater openness to domestic and international private investment, with future technical meetings and clearer contract terms.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T16:13:00-04:00",
+      "published_at_bo": "2026-01-29T16:13:00-04:00",
+      "fetched_at_utc": "2026-01-29T20:37:26.517571+00:00",
+      "day": "2026-01-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno abre diálogo con constructores tras protesta y admite obras paralizadas por alza de costos",
+      "url": "https://eldeber.com.bo/economia/gobierno-abre-dialogo-constructores-protesta-admite-obras-paralizadas-alza-costos_1769715575",
+      "summary": "El Gobierno anunció que escuchará y buscará mecanismos para atender las demandas de reajuste de precios de las empresas constructoras ante el incremento sostenido de costos en materiales, combustibles y servicios. La medida busca evitar el colapso del sector y la paralización de obras, ante una crisis que ya genera deudas, obras inconclusas y riesgos de desempleo en el ámbito de la construcción.",
+      "summary_es": "El Gobierno anunció que escuchará y buscará mecanismos para atender las demandas de reajuste de precios de las empresas constructoras ante el incremento sostenido de costos en materiales, combustibles y servicios. La medida busca evitar el colapso del sector y la paralización de obras, ante una crisis que ya genera deudas, obras inconclusas y riesgos de desempleo en el ámbito de la construcción.",
+      "summary_en": "The government announced that it will listen and seek mechanisms to address price-adjustment demands from construction firms in response to sustained increases in the costs of materials, fuels, and services. The measure aims to prevent the collapse of the sector and the halt of projects amid a crisis that is already generating debt, unfinished works, and unemployment risks in the construction industry.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T16:05:00-04:00",
+      "published_at_bo": "2026-01-29T16:05:00-04:00",
+      "fetched_at_utc": "2026-01-29T20:37:27.519926+00:00",
+      "day": "2026-01-29"
+    },
     {
       "source": "El Deber",
       "title": "¿Qué significa la caída del riesgo país? Bolivia bajó de 2.242 a 572 puntos en nueve meses",
