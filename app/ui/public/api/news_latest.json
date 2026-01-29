@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-29T17:40:56.752192+00:00",
+  "generated_at_utc": "2026-01-29T17:54:24.202090+00:00",
   "count": 86,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Qué significa la caída del riesgo país? Bolivia bajó de 2.242 a 572 puntos en nueve meses",
+      "url": "https://eldeber.com.bo/economia/significa-caida-riesgo-pais-bolivia-2-242-572-puntos-nueve-meses_1769706291",
+      "summary": "La caída del riesgo país de Bolivia de 2.242 puntos en abril de 2025 a 572 puntos en enero de 2026 indica que los inversionistas y acreedores internacionales tienen más confianza en el pago de la deuda y reducción de la rentabilidad requerida (del alrededor del 26% al ~10%). Sin embargo, persisten riesgos de balanza de pagos, déficit fiscal y tensiones en reservas, por lo que se requiere avanzar en reformas estructurales para sostener la mejora a mediano y largo plazo.",
+      "summary_es": "La caída del riesgo país de Bolivia de 2.242 puntos en abril de 2025 a 572 puntos en enero de 2026 indica que los inversionistas y acreedores internacionales tienen más confianza en el pago de la deuda y reducción de la rentabilidad requerida (del alrededor del 26% al ~10%). Sin embargo, persisten riesgos de balanza de pagos, déficit fiscal y tensiones en reservas, por lo que se requiere avanzar en reformas estructurales para sostener la mejora a mediano y largo plazo.",
+      "summary_en": "Bolivia’s country risk dropped from 2,242 points in April 2025 to 572 points in January 2026, signaling that international investors and creditors have greater confidence in the country’s ability to repay debt and a reduced required return (roughly 26% to about 10%). However, risks to the balance of payments, fiscal deficit, and reserve pressures persist, so advancing structural reforms is needed to sustain the improvement in the medium and long term.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T13:37:00-04:00",
+      "published_at_bo": "2026-01-29T13:37:00-04:00",
+      "fetched_at_utc": "2026-01-29T17:40:52.938667+00:00",
+      "day": "2026-01-29"
+    },
     {
       "source": "El Deber",
       "title": "El dólar paralelo se vende más barato que la cotización referencial del Banco Central",
