@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-29T02:32:23.201496+00:00",
+  "generated_at_utc": "2026-01-29T02:51:20.997944+00:00",
   "count": 85,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Anuncian el ingreso de aerolíneas internacionales en busca de “cielos abiertos\"",
+      "url": "https://eldeber.com.bo/economia/anuncian-ingreso-aerolineas-internacionales-busca-cielos-abiertos_1769643080",
+      "summary": "En Bolivia se avanza hacia la liberalización del espacio aéreo con la entrada de nuevas aerolíneas (Flybondi, Andina Airlines, Go Airlines, y potencialmente Arajet), para ampliar la oferta de vuelos domésticos e internacionales en 2026 bajo un marco de cielos abiertos. Paralelamente, la ATT actualizó las tarifas máximas y se impulsan acuerdos regionales, como la revisión del Acuerdo Bilateral de Servicios Aéreos con Paraguay, para facilitar la competencia, reducir trámites y ampliar rutas y costos operativos.",
+      "summary_es": "En Bolivia se avanza hacia la liberalización del espacio aéreo con la entrada de nuevas aerolíneas (Flybondi, Andina Airlines, Go Airlines, y potencialmente Arajet), para ampliar la oferta de vuelos domésticos e internacionales en 2026 bajo un marco de cielos abiertos. Paralelamente, la ATT actualizó las tarifas máximas y se impulsan acuerdos regionales, como la revisión del Acuerdo Bilateral de Servicios Aéreos con Paraguay, para facilitar la competencia, reducir trámites y ampliar rutas y costos operativos.",
+      "summary_en": "Bolivia is moving toward air liberalization with the entry of new airlines (Flybondi, Andina Airlines, Go Airlines, and potentially Arajet) to expand domestic and international flight offerings in 2026 under an open-skies framework. At the same time, the Bolivian civil aviation authority (ATT) has updated maximum fares and regional deals are being pursued, such as a review of the Bilateral Air Services Agreement with Paraguay, to promote competition, streamline procedures, and broaden routes while lowering operating costs.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-28T20:40:00-04:00",
+      "published_at_bo": "2026-01-28T20:40:00-04:00",
+      "fetched_at_utc": "2026-01-29T02:32:14.997467+00:00",
+      "day": "2026-01-28"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno libera exportación de soya y levanta controles en subproductos para estabilizar precios internos",
+      "url": "https://eldeber.com.bo/economia/gobierno-libera-exportacion-soya-levanta-controles-subproductos-estabilizar-precios-internos_1769640887",
+      "summary": "El Gobierno boliviano promulgó un paquete de medidas para facilitar las exportaciones de grano de soya y dinamizar la cadena productiva interna, eliminando controles de precios y cupos y simplificando la exportación directa. Además, se establecen reglas para garantizar al menos un 20% de la producción de soya en Bolivia para insumos como harina y aceite, buscando equilibrio entre competitividad externa y seguridad alimentaria interna.",
+      "summary_es": "El Gobierno boliviano promulgó un paquete de medidas para facilitar las exportaciones de grano de soya y dinamizar la cadena productiva interna, eliminando controles de precios y cupos y simplificando la exportación directa. Además, se establecen reglas para garantizar al menos un 20% de la producción de soya en Bolivia para insumos como harina y aceite, buscando equilibrio entre competitividad externa y seguridad alimentaria interna.",
+      "summary_en": "The Bolivian government has enacted a package of measures to facilitate soybean exports and boost the domestic production chain, removing price controls and quotas and simplifying direct exports. It also sets rules to guarantee at least 20% of Bolivia’s soybean production is allocated for inputs such as flour and oil, aiming to balance external competitiveness with internal food security.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-28T19:43:00-04:00",
+      "published_at_bo": "2026-01-28T19:43:00-04:00",
+      "fetched_at_utc": "2026-01-29T02:32:15.985637+00:00",
+      "day": "2026-01-28"
+    },
     {
       "source": "El Deber",
       "title": "JP Morgan rebaja riesgo país de Bolivia y gobierno destaca recuperación de confianza internacional",
