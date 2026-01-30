@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-30T10:55:55.422238+00:00",
-  "count": 92,
+  "generated_at_utc": "2026-01-30T11:34:06.002772+00:00",
+  "count": 88,
   "items": [
     {
       "source": "El Deber",
@@ -1219,76 +1219,6 @@
       "published_at_bo": "2026-01-17T07:58:00-04:00",
       "fetched_at_utc": "2026-01-17T17:21:42.174606+00:00",
       "day": "2026-01-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Fitch Ratings ofrece un respaldo a Bolivia y eleva la calificación de riesgo de CCC- a CCC",
-      "url": "https://eldeber.com.bo/economia/fitch-ratings-ofrece-respaldarazo-bolivia-eleva-calificacion-riesgo-ccc-ccc_1768613572",
-      "summary": "Fitch Ratings elevó la calificación de Bolivia de CCC- a CCC, citando factores como las reformas económicas, la eliminación de subsidios a los combustibles y una mayor confianza en la gestión, que podrían contribuir a reducir el déficit fiscal y aumentar las reservas. El ministro Espinoza lo interpreta como reconocimiento de avances para salir de la crisis, aunque el informe advierte sobre limitados colchones de liquidez externa.",
-      "summary_es": "Fitch Ratings elevó la calificación de Bolivia de CCC- a CCC, citando factores como las reformas económicas, la eliminación de subsidios a los combustibles y una mayor confianza en la gestión, que podrían contribuir a reducir el déficit fiscal y aumentar las reservas. El ministro Espinoza lo interpreta como reconocimiento de avances para salir de la crisis, aunque el informe advierte sobre limitados colchones de liquidez externa.",
-      "summary_en": "Fitch Ratings upgraded Bolivia’s rating from CCC- to CCC, citing factors such as economic reforms, the elimination of fuel subsidies, and greater confidence in governance that could help reduce the fiscal deficit and bolster reserves. Minister Espinoza interprets it as recognition of progress toward overcoming the crisis, though the report warns of limited external liquidity cushions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-16T21:52:00-04:00",
-      "published_at_bo": "2026-01-16T21:52:00-04:00",
-      "fetched_at_utc": "2026-01-17T07:24:04.360326+00:00",
-      "day": "2026-01-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "La CAO se pronuncia sobre el proyecto de interconexión eléctrica para el municipio de San Ignacio de Velasco",
-      "url": "https://eldeber.com.bo/economia/cao-pronuncia-proyecto-interconexion-electrica-municipio-san-ignacio-velasco_1768608586",
-      "summary": "La CAO solicita información actualizada sobre el avance del proyecto de interconexión eléctrica de San Ignacio de Velasco, considerado clave para el desarrollo sostenible de la Chiquitanía y surgido como una iniciativa del sector. Además, destacan que la ejecución está a cargo de ENDE y CRE R.L., y piden claridad sobre el estado real, plazos y posibles ajustes para garantizar una suministro estable que permita la previsibilidad de inversiones agropecuarias e industriales.",
-      "summary_es": "La CAO solicita información actualizada sobre el avance del proyecto de interconexión eléctrica de San Ignacio de Velasco, considerado clave para el desarrollo sostenible de la Chiquitanía y surgido como una iniciativa del sector. Además, destacan que la ejecución está a cargo de ENDE y CRE R.L., y piden claridad sobre el estado real, plazos y posibles ajustes para garantizar una suministro estable que permita la previsibilidad de inversiones agropecuarias e industriales.",
-      "summary_en": "The CAO is requesting updated information on the progress of the San Ignacio de Velasco electrical interconnection project, deemed key to the sustainable development of the Chiquitanía and launched as an industry-led initiative. They also note that the project execution is being handled by ENDE and CRE R.L. and are asking for clarity on the current status, timelines, and possible adjustments to ensure a stable supply that would provide predictability for agricultural and industrial investments.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-16T20:17:00-04:00",
-      "published_at_bo": "2026-01-16T20:17:00-04:00",
-      "fetched_at_utc": "2026-01-17T05:26:06.904479+00:00",
-      "day": "2026-01-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno prevé “normalizar” el abastecimiento de GLP hasta fin de semana",
-      "url": "https://eldeber.com.bo/economia/gobierno-preve-normalizar-abastecimiento-glp-fin-semana_1768572236",
-      "summary": "El ministro de Hidrocarburos, Mauricio Medinaceli, afirmó que el suministro de GLP se normalizará para el fin de semana y que, de existir escasez, la ANH coordinará el envío. El Gobierno reconoce un incremento del consumo y del contrabando de GLP tras la eliminación de subvenciones a diésel y gasolina, y propone penas más duras, mejor control fronterizo y medidas tecnológicas para evitar su venta en Perú.",
-      "summary_es": "El ministro de Hidrocarburos, Mauricio Medinaceli, afirmó que el suministro de GLP se normalizará para el fin de semana y que, de existir escasez, la ANH coordinará el envío. El Gobierno reconoce un incremento del consumo y del contrabando de GLP tras la eliminación de subvenciones a diésel y gasolina, y propone penas más duras, mejor control fronterizo y medidas tecnológicas para evitar su venta en Perú.",
-      "summary_en": "The Minister of Hydrocarbons, Mauricio Medinaceli, said that LPG supplies will normalize by the end of the weekend and that, if shortages occur, the ANH will coordinate shipments. The government acknowledges an uptick in LPG consumption and smuggling following the removal of subsidies on diesel and gasoline, and proposes tougher penalties, better border controls, and tech-based measures to prevent its sale in Peru.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-16T10:32:00-04:00",
-      "published_at_bo": "2026-01-16T10:32:00-04:00",
-      "fetched_at_utc": "2026-01-16T19:23:14.809877+00:00",
-      "day": "2026-01-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Con respaldo del BID, Bolivia busca reactivar su economía y atraer inversión",
-      "url": "https://eldeber.com.bo/economia/respaldo-bid-bolivia-busca-reactivar-economia-atraer-inversion_1768562167",
-      "summary": "El programa Crece Bolivia del BID, con más de 4.5 mil millones de dólares, podría impulsar la reactivación económica si se aplica con ejecución técnica, transparencia y criterios profesionales, evitando repetir los elefantes blancos del pasado. El BID abriría dos ventanillas, Invest y Lab, para financiar al sector privado y apoyar a emprendedores jóvenes, marcando un giro en el que el Estado facilita y el private sector se convierte en protagonista, aunque persisten dudas sobre la distribución de los recursos.",
-      "summary_es": "El programa Crece Bolivia del BID, con más de 4.5 mil millones de dólares, podría impulsar la reactivación económica si se aplica con ejecución técnica, transparencia y criterios profesionales, evitando repetir los elefantes blancos del pasado. El BID abriría dos ventanillas, Invest y Lab, para financiar al sector privado y apoyar a emprendedores jóvenes, marcando un giro en el que el Estado facilita y el private sector se convierte en protagonista, aunque persisten dudas sobre la distribución de los recursos.",
-      "summary_en": "The IDB’s Crece Bolivia program, with more than $4.5 billion, could spur economic revival if it is implemented with solid technical execution, transparency, and professional criteria, avoiding the White Elephants of the past. The IDB would open two funding windows, Invest and Lab, to finance the private sector and support young entrepreneurs, signaling a shift in which the state facilitates and the private sector takes the lead, though questions remain about how the resources will be distributed.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-16T07:16:00-04:00",
-      "published_at_bo": "2026-01-16T07:16:00-04:00",
-      "fetched_at_utc": "2026-01-16T16:36:25.001181+00:00",
-      "day": "2026-01-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Avicultura, panificación y gastronomía operan al límite por escasez de gas",
-      "url": "https://eldeber.com.bo/economia/avicultura-panificacion-gastronomia-operan-limite-escasez-gas_1768560835",
-      "summary": "La escasez de GLP en Bolivia genera pérdidas y desabastecimiento en avicultura, panadería y gastronomía, afectando desde la cría de pollos hasta la producción de pan y la atención al cliente, con contrabando que alcanza unos 200.000 dólares diarios. Se distribuyen unas 170.932 garrafas diarias a nivel nacional, mientras autoridades evalúan soluciones tecnológicas y operativos para frenar el desvío y garantizar el suministro.",
-      "summary_es": "La escasez de GLP en Bolivia genera pérdidas y desabastecimiento en avicultura, panadería y gastronomía, afectando desde la cría de pollos hasta la producción de pan y la atención al cliente, con contrabando que alcanza unos 200.000 dólares diarios. Se distribuyen unas 170.932 garrafas diarias a nivel nacional, mientras autoridades evalúan soluciones tecnológicas y operativos para frenar el desvío y garantizar el suministro.",
-      "summary_en": "Bolivia’s LPG shortage is causing losses and supply gaps across poultry farming, bakeries, and the gastronomy sector, impacting everything from chicken rearing to bread production and customer service. Smuggling is estimated at about $200,000 a day. About 170,932 LPG cylinders are distributed daily nationwide, as authorities weigh technological and operational measures to curb diversion and ensure a steady supply.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-16T06:53:00-04:00",
-      "published_at_bo": "2026-01-16T06:53:00-04:00",
-      "fetched_at_utc": "2026-01-16T16:36:25.986284+00:00",
-      "day": "2026-01-16"
     }
   ]
 }
