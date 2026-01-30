@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-01-30T02:32:34.820655+00:00",
+  "generated_at_utc": "2026-01-30T02:53:07.463819+00:00",
   "count": 92,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Aprueban proyecto de Ley que deja sin efecto aumento de pasajes aéreos",
+      "url": "https://eldeber.com.bo/economia/aprueban-proyecto-ley-deja-efecto-aumento-pasajes-aereos_1769739028",
+      "summary": "El Senado aprobó un proyecto de ley para dejar sin efecto la resolución de la ATT del 25 de enero que aprobó un incremento provisional de tarifas aéreas, argumentando que contraviene los principios de accesibilidad y universalidad. El proyecto, que eliminó artículos y pasó a Diputados, podría evitar que las alzas entren en vigor, aunque las aerolíneas ya trabajan con los precios anunciados y podría generar confusión si no se aprueba a tiempo.",
+      "summary_es": "El Senado aprobó un proyecto de ley para dejar sin efecto la resolución de la ATT del 25 de enero que aprobó un incremento provisional de tarifas aéreas, argumentando que contraviene los principios de accesibilidad y universalidad. El proyecto, que eliminó artículos y pasó a Diputados, podría evitar que las alzas entren en vigor, aunque las aerolíneas ya trabajan con los precios anunciados y podría generar confusión si no se aprueba a tiempo.",
+      "summary_en": "The Senate approved a bill to overturn the ATT resolution of January 25, which had authorized a provisional increase in airfares, arguing that it violates the principles of accessibility and universality. The bill, which removed certain provisions and moved to the Chamber of Deputies, could prevent the increases from taking effect, although airlines are already setting prices based on the announced rates and it could cause confusion if not approved in time.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T22:21:00-04:00",
+      "published_at_bo": "2026-01-29T22:21:00-04:00",
+      "fetched_at_utc": "2026-01-30T02:32:29.544655+00:00",
+      "day": "2026-01-29"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gran socavón en ruta chilena corta el paso de carga boliviana desde y hacia Arica",
+      "url": "https://eldeber.com.bo/economia/gran-socavon-ruta-chilena-corta-paso-carga-boliviana-arica_1769730425",
+      "summary": "Un gran socavón provocado por intensas lluvias obligó al cierre total de la Ruta 11-CH, dejando varados a cientos de camiones bolivianos y afectando el transporte hacia y desde el puerto de Arica. Las autoridades chilenas mantienen el paso interrumpido de forma indefinida y trabajan en la evaluación y reparación ante las condiciones meteorológicas adversas.",
+      "summary_es": "Un gran socavón provocado por intensas lluvias obligó al cierre total de la Ruta 11-CH, dejando varados a cientos de camiones bolivianos y afectando el transporte hacia y desde el puerto de Arica. Las autoridades chilenas mantienen el paso interrumpido de forma indefinida y trabajan en la evaluación y reparación ante las condiciones meteorológicas adversas.",
+      "summary_en": "A large sinkhole triggered by heavy rains forced the complete closure of Route 11-CH, leaving hundreds of Bolivian trucks stranded and disrupting transport to and from the port of Arica. Chilean authorities have kept the crossing closed indefinitely and are assessing the damage and carrying out repairs amid adverse weather conditions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-29T19:59:00-04:00",
+      "published_at_bo": "2026-01-29T19:59:00-04:00",
+      "fetched_at_utc": "2026-01-30T02:32:30.507610+00:00",
+      "day": "2026-01-29"
+    },
     {
       "source": "El Deber",
       "title": "Porcicultores ven un nuevo escenario para el sector porcino tras liberación de subproductos de la soya",
