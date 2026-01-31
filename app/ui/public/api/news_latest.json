@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-01-31T14:42:29.557393+00:00",
-  "count": 89,
+  "generated_at_utc": "2026-01-31T15:30:01.742062+00:00",
+  "count": 86,
   "items": [
     {
       "source": "El Deber",
@@ -1191,62 +1191,6 @@
       "published_at_bo": "2026-01-18T08:02:00-04:00",
       "fetched_at_utc": "2026-01-18T17:22:24.662479+00:00",
       "day": "2026-01-18"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cotización del dólar: ¿hay variaciones?",
-      "url": "https://eldeber.com.bo/economia/cotizacion-dolar-hay-variaciones_1768676080",
-      "summary": "Se registró una leve subida del tipo de cambio referencial, que quedó en 9,21 para la compra y 8,40 para la venta, tras iniciar la semana por debajo de 8 bolivianos. El BCB mantiene el cambio oficial en 6,96 (venta) y 6,86 (compra), mientras el paralelo/Blue se sitúa alrededor de 9,46–9,51 y otras plataformas reportan 9,47–9,51 para la compra/venta.",
-      "summary_es": "Se registró una leve subida del tipo de cambio referencial, que quedó en 9,21 para la compra y 8,40 para la venta, tras iniciar la semana por debajo de 8 bolivianos. El BCB mantiene el cambio oficial en 6,96 (venta) y 6,86 (compra), mientras el paralelo/Blue se sitúa alrededor de 9,46–9,51 y otras plataformas reportan 9,47–9,51 para la compra/venta.",
-      "summary_en": "There was a slight uptick in the reference exchange rate, which stood at 9.21 per dollar for buying and 8.40 for selling, after starting the week below 8 bolivianos. The Central Bank of Bolivia kept the official rate at 6.96 for selling and 6.86 for buying, while the parallel/Blue market sits around 9.46–9.51 and other platforms report 9.47–9.51 for buying and selling.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-17T14:54:00-04:00",
-      "published_at_bo": "2026-01-17T14:54:00-04:00",
-      "fetched_at_utc": "2026-01-17T23:24:19.202649+00:00",
-      "day": "2026-01-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Transición política y ajuste económico: el BCB cerró 2025 con giro contractivo",
-      "url": "https://eldeber.com.bo/economia/transicion-politica-ajuste-economico-bcb-cerro-2025-giro-contractivo_1768664466",
-      "summary": "El BCB cerró 2025 con una política monetaria claramente contractiva para frenar la inflación, aumentando la oferta de títulos y elevando tasas, lo que absorbió liquidez, encareció el crédito y fortaleció el anclaje de expectativas inflacionarias. Además, concluyó los programas de venta directa de valores (Bono BCB Directo y Bono BCB en Dólares), buscando recuperar el rol de Autoridad Monetaria y alinear la regulación monetaria con estándares internacionales.",
-      "summary_es": "El BCB cerró 2025 con una política monetaria claramente contractiva para frenar la inflación, aumentando la oferta de títulos y elevando tasas, lo que absorbió liquidez, encareció el crédito y fortaleció el anclaje de expectativas inflacionarias. Además, concluyó los programas de venta directa de valores (Bono BCB Directo y Bono BCB en Dólares), buscando recuperar el rol de Autoridad Monetaria y alinear la regulación monetaria con estándares internacionales.",
-      "summary_en": "The Central Bank of Bolivia ended 2025 with a clearly contractionary monetary policy aimed at curbing inflation, increasing the supply of securities and raising interest rates, which absorbed liquidity, pushed up borrowing costs, and strengthened the anchor for inflation expectations. It also concluded its direct-security sale programs (Direct BCB Bond and BCB Bond in Dollars), seeking to reclaim the central bank’s role and align monetary regulation with international standards.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-17T11:41:00-04:00",
-      "published_at_bo": "2026-01-17T11:41:00-04:00",
-      "fetched_at_utc": "2026-01-17T21:22:51.434732+00:00",
-      "day": "2026-01-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Televisores y monitores lideran las importaciones tecnológicas en Bolivia",
-      "url": "https://eldeber.com.bo/economia/televisores-monitores-lideran-importaciones-tecnologicas-bolivia_1768656959",
-      "summary": "Bolivia está consolidando la importación de tecnología de “línea negra” con los televisores y monitores liderando el gasto (72% proviene de China), y un arancel cero vigente hasta 31 de diciembre de 2026 busca dinamizar el mercado y reducir costos. En 2025, las televisiones y monitors representaron casi la mitad de las importaciones de este rubro (32 millones de USD de un total de 65 millones), en medio de una caída respecto a 2022 que refleja la crisis cambiaria.",
-      "summary_es": "Bolivia está consolidando la importación de tecnología de “línea negra” con los televisores y monitores liderando el gasto (72% proviene de China), y un arancel cero vigente hasta 31 de diciembre de 2026 busca dinamizar el mercado y reducir costos. En 2025, las televisiones y monitors representaron casi la mitad de las importaciones de este rubro (32 millones de USD de un total de 65 millones), en medio de una caída respecto a 2022 que refleja la crisis cambiaria.",
-      "summary_en": "Bolivia is consolidating the import of “black-line” technology, with televisions and monitors leading spending (72% of imports come from China). A zero tariff in effect through December 31, 2026 aims to boost the market and lower costs. In 2025, televisions and monitors accounted for nearly half of imports in this category (USD 32 million of a total of USD 65 million), amid a decline from 2022 tied to the currency crisis.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-17T09:41:00-04:00",
-      "published_at_bo": "2026-01-17T09:41:00-04:00",
-      "fetched_at_utc": "2026-01-17T19:19:20.962322+00:00",
-      "day": "2026-01-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Calificación de Fitch da un respiro a Bolivia, sin despejar los riesgos de fondo",
-      "url": "https://eldeber.com.bo/economia/calificacion-fitch-da-respiro-bolivia-despejar-riesgos-fondo_1768650348",
-      "summary": "La mejora de la calificación de Bolivia por Fitch (de CCC- a CCC) señala una estabilización frágil a corto plazo, pero no una transformación estructural de la economía, según Marcelo Rocha, quien sostiene que la reducción del riesgo de incumplimiento no cambia los fundamentos macroeconómicos. En su visión, persisten desequilibrios fiscales, externos y productivos, y la mejora “compra tiempo” para aplicar reformas de mediano plazo que fortalezcan la sostenibilidad fiscal y la generación de divisas, a impulsar principalmente desde el Legislativo.",
-      "summary_es": "La mejora de la calificación de Bolivia por Fitch (de CCC- a CCC) señala una estabilización frágil a corto plazo, pero no una transformación estructural de la economía, según Marcelo Rocha, quien sostiene que la reducción del riesgo de incumplimiento no cambia los fundamentos macroeconómicos. En su visión, persisten desequilibrios fiscales, externos y productivos, y la mejora “compra tiempo” para aplicar reformas de mediano plazo que fortalezcan la sostenibilidad fiscal y la generación de divisas, a impulsar principalmente desde el Legislativo.",
-      "summary_en": "Fitch’s upgrade of Bolivia’s rating from CCC- to CCC signals fragile short-term stabilization, but not a structural transformation of the economy, says Marcelo Rocha, who argues that the reduced risk of default does not alter macroeconomic fundamentals. In his view, fiscal, external, and productive imbalances persist, and the improvement “buys time” to implement medium-term reforms that strengthen fiscal sustainability and foreign exchange generation, to be driven mainly by the legislature.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-17T07:58:00-04:00",
-      "published_at_bo": "2026-01-17T07:58:00-04:00",
-      "fetched_at_utc": "2026-01-17T17:21:42.174606+00:00",
-      "day": "2026-01-17"
     }
   ]
 }
