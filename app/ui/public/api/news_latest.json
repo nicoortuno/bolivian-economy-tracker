@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-01-31T15:30:01.742062+00:00",
+  "generated_at_utc": "2026-01-31T15:38:46.776832+00:00",
   "count": 86,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El presidente elimina el IVA para importación de hidrocarburos, a través de decreto con firma digital",
+      "url": "https://eldeber.com.bo/economia/presidente-elimina-iva-importacion-hidrocarburos-traves-decreto-firma-digital_1769869895",
+      "summary": "El Decreto Supremo 5533, aprobado por el presidente Rodrigo Paz mediante firma digital prevista en el DS 5515 y ya publicado en la Gaceta Oficial, exime del IVA la importación de hidrocarburos como petróleo crudo, gasolinas y diésel. Este beneficio aplica a personas naturales o jurídicas que importen dichos productos, incluso cuando las autoridades estaban fuera del país.",
+      "summary_es": "El Decreto Supremo 5533, aprobado por el presidente Rodrigo Paz mediante firma digital prevista en el DS 5515 y ya publicado en la Gaceta Oficial, exime del IVA la importación de hidrocarburos como petróleo crudo, gasolinas y diésel. Este beneficio aplica a personas naturales o jurídicas que importen dichos productos, incluso cuando las autoridades estaban fuera del país.",
+      "summary_en": "Supreme Decree 5533, approved by President Rodrigo Paz with a digital signature provided for in Decree DS 5515 and already published in the Official Gazette, exempts the import of hydrocarbons—such as crude oil, gasoline, and diesel—from value-added tax (VAT). The benefit applies to natural or legal persons who import these products, even when the authorities were out of the country.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-01-31T10:45:00-04:00",
+      "published_at_bo": "2026-01-31T10:45:00-04:00",
+      "fetched_at_utc": "2026-01-31T15:29:59.867839+00:00",
+      "day": "2026-01-31"
+    },
     {
       "source": "El Deber",
       "title": "Tras los desalojos, soyeros exigen recuperar el Estado de Derecho en el área rural",
