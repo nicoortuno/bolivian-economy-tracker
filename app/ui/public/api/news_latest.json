@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-01T07:50:17.062858+00:00",
-  "count": 86,
+  "generated_at_utc": "2026-02-01T08:39:19.927017+00:00",
+  "count": 84,
   "items": [
     {
       "source": "El Deber",
@@ -1163,48 +1163,6 @@
       "published_at_bo": "2026-01-19T10:13:00-04:00",
       "fetched_at_utc": "2026-01-19T19:23:20.026763+00:00",
       "day": "2026-01-19"
-    },
-    {
-      "source": "El Deber",
-      "title": "Acuerdo Mercosur-Unión Europea: conozca los principales puntos y cómo se abre la ventana para Bolivia",
-      "url": "https://eldeber.com.bo/economia/acuerdo-mercosur-union-europea-conozca-principales-puntos-abre-ventana-bolivia_1768747591",
-      "summary": "Tras más de dos décadas de negociaciones, Mercosur y la Unión Europea firmaron un Acuerdo de Asociación Birregional que crea una zona de libre comercio para más de 700 millones de consumidores y establece un marco integral de reglas comerciales, cooperación y salvaguardias. Aunque Bolivia no es aún miembro pleno, la firma se interpreta como una oportunidad para su inserción internacional y diversificación exportadora, condicionada a cumplir requisitos técnicos y acelerar su adhesión plena al Mercosur.",
-      "summary_es": "Tras más de dos décadas de negociaciones, Mercosur y la Unión Europea firmaron un Acuerdo de Asociación Birregional que crea una zona de libre comercio para más de 700 millones de consumidores y establece un marco integral de reglas comerciales, cooperación y salvaguardias. Aunque Bolivia no es aún miembro pleno, la firma se interpreta como una oportunidad para su inserción internacional y diversificación exportadora, condicionada a cumplir requisitos técnicos y acelerar su adhesión plena al Mercosur.",
-      "summary_en": "After more than two decades of negotiations, Mercosur and the European Union signed a bi-regional Association Agreement that creates a free-trade area for more than 700 million consumers and establishes a comprehensive framework of trade rules, cooperation, and safeguards. Although Bolivia is not yet a full member, the signing is seen as an opportunity for its international integration and export diversification, contingent on meeting technical requirements and accelerating its full accession to Mercosur.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-18T11:06:00-04:00",
-      "published_at_bo": "2026-01-18T11:06:00-04:00",
-      "fetched_at_utc": "2026-01-18T20:28:16.770937+00:00",
-      "day": "2026-01-18"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cocaleros del trópico se suman a los reclamos por escasez de GLP",
-      "url": "https://eldeber.com.bo/economia/cocaleros-tropico-suman-reclamos-escasez-glp_1768742762",
-      "summary": "Los cocaleros del trópico de Cochabamba advierten que la escasez de GLP pone en riesgo la operatividad agrícola regional, ya que el cupo oficial no cubre la demanda, elevando el precio y dificultando procesos como el secado de hojas y la maduración de frutas. Mientras tanto, el contrabando hacia Perú agrava la presión sobre los volúmenes disponibles y las autoridades anuncian refuerzos para frenar estas prácticas.",
-      "summary_es": "Los cocaleros del trópico de Cochabamba advierten que la escasez de GLP pone en riesgo la operatividad agrícola regional, ya que el cupo oficial no cubre la demanda, elevando el precio y dificultando procesos como el secado de hojas y la maduración de frutas. Mientras tanto, el contrabando hacia Perú agrava la presión sobre los volúmenes disponibles y las autoridades anuncian refuerzos para frenar estas prácticas.",
-      "summary_en": "Coca growers in Bolivia’s Tropic of Cochabamba warn that LPG shortages threaten regional agriculture, as the official quota does not meet demand, pushing up prices and complicating processes such as leaf drying and fruit maturation. Meanwhile, smuggling to Peru is tightening pressure on available volumes, and authorities say they will reinforce efforts to curb these practices.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-18T09:43:00-04:00",
-      "published_at_bo": "2026-01-18T09:43:00-04:00",
-      "fetched_at_utc": "2026-01-18T19:20:00.229576+00:00",
-      "day": "2026-01-18"
-    },
-    {
-      "source": "El Deber",
-      "title": "Pozo Iñau X-3D entra en fase decisiva tras hallazgo anticipado de hidrocarburos en Chuquisaca",
-      "url": "https://eldeber.com.bo/economia/pozo-inau-x-3d-entra-fase-decisiva-hallazgo-anticipado-hidrocarburos-chuquisaca_1768737417",
-      "summary": "YPFB concluyó la perforación del pozo Iñau X-3D en Chuquisaca y ahora realiza pruebas de producción para determinar el potencial gasífero del yacimiento, tras detenerse a 4.803 metros al encontrar la arena Santa Rosa. Las pruebas, que incluyen la acumulación de presión (DST) y la revisión de reportes, buscan verificar el espesor de la arena, la presión y la capacidad de reservas recuperables, con una segunda prueba de producción prevista para fin de mes.",
-      "summary_es": "YPFB concluyó la perforación del pozo Iñau X-3D en Chuquisaca y ahora realiza pruebas de producción para determinar el potencial gasífero del yacimiento, tras detenerse a 4.803 metros al encontrar la arena Santa Rosa. Las pruebas, que incluyen la acumulación de presión (DST) y la revisión de reportes, buscan verificar el espesor de la arena, la presión y la capacidad de reservas recuperables, con una segunda prueba de producción prevista para fin de mes.",
-      "summary_en": "YPFB has completed drilling the Iñau X-3D well in Chuquisaca and is now conducting production tests to gauge the reservoir’s gas potential, after a stop at 4,803 meters upon encountering the Santa Rosa sandstone. The tests, which include pressure-build-up tests (DST) and a review of reports, aim to verify the sand thickness, pressure, and recoverable reserves, with a second production test expected by the end of the month.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-18T08:02:00-04:00",
-      "published_at_bo": "2026-01-18T08:02:00-04:00",
-      "fetched_at_utc": "2026-01-18T17:22:24.662479+00:00",
-      "day": "2026-01-18"
     }
   ]
 }
