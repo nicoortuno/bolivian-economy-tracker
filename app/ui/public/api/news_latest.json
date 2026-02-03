@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-03T10:49:13.731394+00:00",
+  "generated_at_utc": "2026-02-03T11:01:22.719498+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia registra superávit fiscal de Bs 2.300 millones en enero; es el 0,5% del PIB",
+      "url": "https://eldeber.com.bo/economia/bolivia-registra-superavit-fiscal-bs-2-300-millones-enero-0-5-pib_1770115338",
+      "summary": "Bolivia cerró enero con un superávit fiscal de Bs 2.300 millones (≈0,5% del PIB), visto por el Gobierno como la primera señal de estabilización macroeconómica. Sin embargo, analistas advierten que es dato preliminar y dependerá de factores estacionales y de pagos futuros de deuda y compromisos con el oro, por lo que podría no ser sostenible.",
+      "summary_es": "Bolivia cerró enero con un superávit fiscal de Bs 2.300 millones (≈0,5% del PIB), visto por el Gobierno como la primera señal de estabilización macroeconómica. Sin embargo, analistas advierten que es dato preliminar y dependerá de factores estacionales y de pagos futuros de deuda y compromisos con el oro, por lo que podría no ser sostenible.",
+      "summary_en": "Bolivia closed January with a fiscal surplus of 2.3 billion bolivianos (about 0.5% of GDP), seen by the government as the first sign of macroeconomic stabilization. However, analysts warn that this is a preliminary figure and will depend on seasonal factors and future debt payments and gold-related commitments, so it may not be sustainable.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-03T06:42:00-04:00",
+      "published_at_bo": "2026-02-03T06:42:00-04:00",
+      "fetched_at_utc": "2026-02-03T10:49:11.676003+00:00",
+      "day": "2026-02-03"
+    },
     {
       "source": "El Deber",
       "title": "\"Starlink inicia operaciones junto a Entel\", afirma el presidente Paz",
