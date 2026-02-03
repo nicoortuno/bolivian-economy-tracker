@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-03T22:35:37.423438+00:00",
+  "generated_at_utc": "2026-02-03T22:51:37.158438+00:00",
   "count": 82,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Empresarios destacan avances económicos, pero advierte que la crisis aún no ha sido superada",
+      "url": "https://eldeber.com.bo/economia/empresarios-destacan-avances-economicos-advierte-crisis-aun-no-ha-sido-superada_1770155572",
+      "summary": "La CEPB afirmó que Bolivia muestra avances macroeconómicos positivos a enero de 2026 y que el país “camina por el camino correcto” gracias a medidas gubernamentales como la eliminación de subsidios y la liberalización de exportaciones, entre otras. Sin embargo, advierte que persisten problemas estructurales, impacto en precios y liquidez, y pide medidas urgentes para sostener los logros y fortalecer la coordinación entre el gobierno, las regiones y el sector privado.",
+      "summary_es": "La CEPB afirmó que Bolivia muestra avances macroeconómicos positivos a enero de 2026 y que el país “camina por el camino correcto” gracias a medidas gubernamentales como la eliminación de subsidios y la liberalización de exportaciones, entre otras. Sin embargo, advierte que persisten problemas estructurales, impacto en precios y liquidez, y pide medidas urgentes para sostener los logros y fortalecer la coordinación entre el gobierno, las regiones y el sector privado.",
+      "summary_en": "The CEPB said that Bolivia shows positive macroeconomic progress as of January 2026 and that the country “is on the right track” thanks to government measures such as the elimination of subsidies and export liberalization, among others. However, it warns that structural problems persist, as well as impacts on prices and liquidity, and it calls for urgent steps to sustain the gains and strengthen coordination among the government, the regions, and the private sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-03T17:59:00-04:00",
+      "published_at_bo": "2026-02-03T17:59:00-04:00",
+      "fetched_at_utc": "2026-02-03T22:35:35.643809+00:00",
+      "day": "2026-02-03"
+    },
     {
       "source": "El Deber",
       "title": "Mototaxistas de Concepción dan 72 horas a la ANH para responder por presunta mala calidad de gasolina",
