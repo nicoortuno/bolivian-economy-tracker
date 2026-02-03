@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-03T02:39:08.186734+00:00",
+  "generated_at_utc": "2026-02-03T03:13:03.387675+00:00",
   "count": 85,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "\"Starlink inicia operaciones junto a Entel\", afirma el presidente Paz",
+      "url": "https://eldeber.com.bo/economia/starlink-inicia-operaciones-junto-entel-afirma-presidente-paz_1770082335",
+      "summary": "El presidente de Bolivia anunció que Starlink, en alianza con Entel, inicia operaciones en todo el país para reducir la brecha digital y llevar internet a escuelas, centros de salud y hogares remotos, conforme al Decreto Supremo 5509. Este decreto permite la llegada de servicios de Starlink, SpaceX, OneWeb y Amazon Leo, y autoriza la creación del primer polo digital en El Alto, que funcionará desde febrero de 2026 y se extenderá a otras regiones.",
+      "summary_es": "El presidente de Bolivia anunció que Starlink, en alianza con Entel, inicia operaciones en todo el país para reducir la brecha digital y llevar internet a escuelas, centros de salud y hogares remotos, conforme al Decreto Supremo 5509. Este decreto permite la llegada de servicios de Starlink, SpaceX, OneWeb y Amazon Leo, y autoriza la creación del primer polo digital en El Alto, que funcionará desde febrero de 2026 y se extenderá a otras regiones.",
+      "summary_en": "The president of Bolivia announced that Starlink, in partnership with Entel, will begin operations nationwide to close the digital gap and bring internet to schools, health centers, and remote homes, in line with Supreme Decree 5509. The decree allows the entry of Starlink, SpaceX, OneWeb, and Amazon Leo services, and authorizes the creation of the first digital hub in El Alto, which will be active from February 2026 and will expand to other regions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-02T22:03:00-04:00",
+      "published_at_bo": "2026-02-02T22:03:00-04:00",
+      "fetched_at_utc": "2026-02-03T02:39:03.987618+00:00",
+      "day": "2026-02-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "Reservas internacionales suben a $us 4.041 millones y divisas alcanzan $us 493 millones",
+      "url": "https://eldeber.com.bo/economia/reservas-internacionales-suben-us-4-041-millones-divisas-alcanzan-us-493-millones_1770076939",
+      "summary": "Las Reservas Internacionales Netas de Bolivia alcanzaron 4.041 millones de dólares a cierre de enero, con 493 millones en divisas, incremento explicado en parte por la valorización de activos y su uso para cubrir deuda externa e importaciones de combustibles. Este repunte refleja la recuperación macroeconómica y fortalece la capacidad de pago del país frente al exterior.",
+      "summary_es": "Las Reservas Internacionales Netas de Bolivia alcanzaron 4.041 millones de dólares a cierre de enero, con 493 millones en divisas, incremento explicado en parte por la valorización de activos y su uso para cubrir deuda externa e importaciones de combustibles. Este repunte refleja la recuperación macroeconómica y fortalece la capacidad de pago del país frente al exterior.",
+      "summary_en": "Bolivia’s Net International Reserves reached $4.041 billion at the end of January, with $493 million in foreign-currency assets, an increase driven in part by asset revaluation and by its use to cover external debt and fuel imports. The rebound signals a macroeconomic recovery and strengthens the country’s ability to meet external obligations.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-02T20:09:00-04:00",
+      "published_at_bo": "2026-02-02T20:09:00-04:00",
+      "fetched_at_utc": "2026-02-03T02:39:05.008198+00:00",
+      "day": "2026-02-02"
+    },
     {
       "source": "El Deber",
       "title": "La Unión Europea busca impulsar inversiones productivas en Bolivia más allá del litio",
