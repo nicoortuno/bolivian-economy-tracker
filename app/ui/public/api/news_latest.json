@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-03T19:02:30.783179+00:00",
+  "generated_at_utc": "2026-02-03T19:13:45.403195+00:00",
   "count": 81,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Mototaxistas de Concepción dan 72 horas a la ANH para responder por presunta mala calidad de gasolina",
+      "url": "https://eldeber.com.bo/economia/mototaxistas-concepcion-dan-72-horas-anh-responder-presunta-mala-calidad-gasolina_1770136237",
+      "summary": "La Federación Regional de Transporte de Mototaxis de Concepción dio 72 horas a la ANH para entregar un informe oficial sobre la calidad del combustible en el municipio, tras reportes de daños mecánicos en motorizados. Los dirigentes señalan posibles efectos por una alta proporción de etanol y otros químicos en la gasolina y advierten con medidas de presión si no hay respuesta.",
+      "summary_es": "La Federación Regional de Transporte de Mototaxis de Concepción dio 72 horas a la ANH para entregar un informe oficial sobre la calidad del combustible en el municipio, tras reportes de daños mecánicos en motorizados. Los dirigentes señalan posibles efectos por una alta proporción de etanol y otros químicos en la gasolina y advierten con medidas de presión si no hay respuesta.",
+      "summary_en": "The Regional Federation of Mototaxi Transport in Concepción gave the ANH 72 hours to deliver an official report on fuel quality in the municipality, following reports of mechanical damage to motorized units. The leaders cite possible effects from a high ethanol content and other additives in gasoline and warn of pressure measures if there is no response.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-03T14:57:00-04:00",
+      "published_at_bo": "2026-02-03T14:57:00-04:00",
+      "fetched_at_utc": "2026-02-03T19:02:25.855985+00:00",
+      "day": "2026-02-03"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno admite fallas en la calidad de combustibles por mala mezcla heredada y anuncia correcciones",
