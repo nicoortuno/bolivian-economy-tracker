@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-03T14:50:57.792483+00:00",
+  "generated_at_utc": "2026-02-03T15:03:51.665552+00:00",
   "count": 78,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Estancado: Bolivia no logra superar el 16% del coeficiente de industrialización desde hace siete décadas",
+      "url": "https://eldeber.com.bo/economia/estancado-bolivia-no-logra-superar-16-coeficiente-industrializacion-hace-siete-decadas_1770128998",
+      "summary": "Resumen: Bolivia mantiene un coeficiente de industrialización cercano al 16% del PIB, con la manufactura representando alrededor del 10–13%, lo que evidencia una brecha respecto a países vecinos y a las metas de desarrollo industrial. La Cámara Nacional de Industrias propone una Estrategia Ampliada que busque elevar ese porcentaje al 21% para 2030 mediante estabilidad macroeconómica, seguridad jurídica y un ecosistema propicio para la inversión, enfrentando factores como costos energéticos, volatilidad cambiaria, contrabando y retrasos en la inversión pública y privada.",
+      "summary_es": "Resumen: Bolivia mantiene un coeficiente de industrialización cercano al 16% del PIB, con la manufactura representando alrededor del 10–13%, lo que evidencia una brecha respecto a países vecinos y a las metas de desarrollo industrial. La Cámara Nacional de Industrias propone una Estrategia Ampliada que busque elevar ese porcentaje al 21% para 2030 mediante estabilidad macroeconómica, seguridad jurídica y un ecosistema propicio para la inversión, enfrentando factores como costos energéticos, volatilidad cambiaria, contrabando y retrasos en la inversión pública y privada.",
+      "summary_en": "Summary: Bolivia maintains an industrialization coefficient close to 16% of GDP, with manufacturing accounting for about 10–13%, highlighting a gap relative to neighboring countries and to industrial development targets. The National Chamber of Industries proposes an Expanded Strategy to raise that share to 21% by 2030 through macroeconomic stability, legal certainty, and an investment-friendly ecosystem, addressing factors such as energy costs, exchange-rate volatility, smuggling, and delays in public and private investment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-03T10:40:00-04:00",
+      "published_at_bo": "2026-02-03T10:40:00-04:00",
+      "fetched_at_utc": "2026-02-03T14:50:55.007359+00:00",
+      "day": "2026-02-03"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia registra superávit fiscal de Bs 2.300 millones en enero; es el 0,5% del PIB",
