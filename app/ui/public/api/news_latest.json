@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-03T17:00:15.754566+00:00",
+  "generated_at_utc": "2026-02-03T17:12:18.541033+00:00",
   "count": 80,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno admite fallas en la calidad de combustibles por mala mezcla heredada y anuncia correcciones",
+      "url": "https://eldeber.com.bo/economia/gobierno-admite-fallas-calidad-combustibles-mala-mezcla-heredada-anuncia-correcciones_1770135148",
+      "summary": "El Gobierno aseguró que las deficiencias de calidad de algunos combustibles provienen de residuos acumulados de la gestión anterior y no de la gasolina importada, y anunció medidas correctivas como reducir temporalmente la proporción de etanol y realizar la mezcla en refinerías para evitar contaminación residual. Además, se intensificaron las pruebas y los controles, con cooperación y transparencia para informar los resultados.",
+      "summary_es": "El Gobierno aseguró que las deficiencias de calidad de algunos combustibles provienen de residuos acumulados de la gestión anterior y no de la gasolina importada, y anunció medidas correctivas como reducir temporalmente la proporción de etanol y realizar la mezcla en refinerías para evitar contaminación residual. Además, se intensificaron las pruebas y los controles, con cooperación y transparencia para informar los resultados.",
+      "summary_en": "The government said that the quality deficiencies in some fuels are due to residues accumulated under the previous administration, not from the imported gasoline, and announced corrective measures such as temporarily reducing the ethanol content and carrying out blending at refineries to prevent residual contamination. It also said that testing and inspections would be intensified, with cooperation and transparency in reporting the results.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-03T12:26:00-04:00",
+      "published_at_bo": "2026-02-03T12:26:00-04:00",
+      "fetched_at_utc": "2026-02-03T17:00:11.908605+00:00",
+      "day": "2026-02-03"
+    },
     {
       "source": "El Deber",
       "title": "CNI insiste en agilizar aprobación de paquete legal para destrabar inversiones",
