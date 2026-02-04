@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-04T04:44:30.150623+00:00",
+  "generated_at_utc": "2026-02-04T04:52:26.102765+00:00",
   "count": 83,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "“Ya no circulará gasolina desestabilizada”, afirma YPFB tras denuncias por daños en vehículos",
+      "url": "https://eldeber.com.bo/economia/no-circulara-gasolina-desestabilizada-afirma-ypfb-denuncias-danos-vehiculos_1770173636",
+      "summary": "YPFB, junto al MHE y la ANH, anunció que tras un análisis exhaustivo de toda la cadena de suministro se confirmó que la gasolina importada y nacional cumple las especificaciones, y que ya no circulará gasolina desestabilizada. Se identificaron aisladas entregas anteriores con parámetros inferiores, se aisló y trató ese producto, y se implementaron controles reforzados y una mezcla de etanol para garantizar calidad y seguridad en el suministro.",
+      "summary_es": "YPFB, junto al MHE y la ANH, anunció que tras un análisis exhaustivo de toda la cadena de suministro se confirmó que la gasolina importada y nacional cumple las especificaciones, y que ya no circulará gasolina desestabilizada. Se identificaron aisladas entregas anteriores con parámetros inferiores, se aisló y trató ese producto, y se implementaron controles reforzados y una mezcla de etanol para garantizar calidad y seguridad en el suministro.",
+      "summary_en": "YPFB, together with the Ministry of Hydrocarbons and Energy (MHE) and the National Hydrocarbons Authority (ANH), announced that after a thorough analysis of the entire supply chain it was confirmed that both imported and domestic gasoline meet specifications, and that destabilized gasoline will no longer circulate. Isolated earlier deliveries with inferior parameters were identified; those products were isolated and treated, and reinforced controls and an ethanol blend were implemented to ensure the quality and security of the supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-03T22:55:00-04:00",
+      "published_at_bo": "2026-02-03T22:55:00-04:00",
+      "fetched_at_utc": "2026-02-04T04:44:28.219633+00:00",
+      "day": "2026-02-03"
+    },
     {
       "source": "El Deber",
       "title": "Empresarios destacan avances económicos, pero advierten que la crisis aún no ha sido superada",
