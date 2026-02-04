@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-04T21:38:35.364793+00:00",
+  "generated_at_utc": "2026-02-04T21:47:56.018434+00:00",
   "count": 77,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB anuncia ajuste de mezcla de etanol para “limpiar” tanques y garantizar calidad de la gasolina",
+      "url": "https://eldeber.com.bo/economia/ypfb-anuncia-ajuste-mezcla-etanol-limpiar-tanques-garantizar-calidad-gasolina_1770238537",
+      "summary": "YPFB anunció que reducirá al mínimo la mezcla de gasolina con etanol para limpiar tanques y garantizar que el carburante cumpla los estándares, y trasladará combustible a refinerías para verificar y estabilizar las mezclas. La medida se toma ante hallazgos de producto residual y se enmarca en protestas de transportistas que exigen resarcimiento y responsabilidad por la supuesta mala calidad del combustible.",
+      "summary_es": "YPFB anunció que reducirá al mínimo la mezcla de gasolina con etanol para limpiar tanques y garantizar que el carburante cumpla los estándares, y trasladará combustible a refinerías para verificar y estabilizar las mezclas. La medida se toma ante hallazgos de producto residual y se enmarca en protestas de transportistas que exigen resarcimiento y responsabilidad por la supuesta mala calidad del combustible.",
+      "summary_en": "YPFB said it would keep the gasoline-ethanol blend to a minimum to clean the tanks and ensure the fuel meets standards, and would move fuel to refineries to test and stabilize the blends. The measure comes in response to findings of residual product and is set against protests by transporters demanding compensation and accountability for the alleged poor quality of the fuel.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-04T17:16:00-04:00",
+      "published_at_bo": "2026-02-04T17:16:00-04:00",
+      "fetched_at_utc": "2026-02-04T21:38:32.607406+00:00",
+      "day": "2026-02-04"
+    },
     {
       "source": "El Deber",
       "title": "Ahorristas bolivianos volcaron Bs 573 millones al Bono Bicentenario, atraídos por el rendimiento del oro",
