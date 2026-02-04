@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-04T20:40:48.044189+00:00",
+  "generated_at_utc": "2026-02-04T20:52:50.249895+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ahorristas bolivianos volcaron Bs 573 millones al Bono Bicentenario, atraídos por el rendimiento del oro",
+      "url": "https://eldeber.com.bo/economia/ahorristas-bolivianos-volcaron-bs-573-millones-bono-bicentenario-atraidos-rendimiento-oro_1770233597",
+      "summary": "El Banco Central de Bolivia anunció la conclusión de la colocación del Bono BCB Bicentenario por 573 millones de Bs, con rendimiento de 9,75% fijo más una componente variable ligada al oro, dirigido a personas naturales por 364 días, alcanzando a 8.020 beneficiarios. La mayor concentración de ventas se dio en La Paz (72,96%), con Banco Unión como principal aliado (65,36%), mayoritariamente realizadas en efectivo (91,44%), reforzando su mensaje de inclusión financiera y ahorro seguro para la población.",
+      "summary_es": "El Banco Central de Bolivia anunció la conclusión de la colocación del Bono BCB Bicentenario por 573 millones de Bs, con rendimiento de 9,75% fijo más una componente variable ligada al oro, dirigido a personas naturales por 364 días, alcanzando a 8.020 beneficiarios. La mayor concentración de ventas se dio en La Paz (72,96%), con Banco Unión como principal aliado (65,36%), mayoritariamente realizadas en efectivo (91,44%), reforzando su mensaje de inclusión financiera y ahorro seguro para la población.",
+      "summary_en": "The Central Bank of Bolivia announced the conclusion of the placement of the Bicentennial BCB Bond for 573 million bolivianos, with a fixed yield of 9.75% plus a variable component linked to gold, aimed at individuals for a 364-day term, reaching 8,020 beneficiaries. The largest share of sales was concentrated in La Paz (72.96%), with Banco Unión as the main partner (65.36%), predominantly conducted in cash (91.44%), reinforcing its message of financial inclusion and secure savings for the population.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-04T15:41:00-04:00",
+      "published_at_bo": "2026-02-04T15:41:00-04:00",
+      "fetched_at_utc": "2026-02-04T20:40:46.096751+00:00",
+      "day": "2026-02-04"
+    },
     {
       "source": "El Deber",
       "title": "Starlink inicia operaciones bajo licencia experimental y se suma a la oferta de Entel",
