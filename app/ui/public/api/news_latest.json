@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-04T10:46:36.709950+00:00",
+  "generated_at_utc": "2026-02-04T11:01:12.492492+00:00",
   "count": 75,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Starlink inicia operaciones bajo licencia experimental y se suma a la oferta de Entel",
+      "url": "https://eldeber.com.bo/economia/starlink-inicia-operaciones-licencia-experimental-suma-oferta-entel_1770201134",
+      "summary": "Starlink inició operaciones en Bolivia con una licencia experimental de seis meses, complementando a Entel para ampliar la conectividad en zonas rurales y alejadas, bajo un marco regulatorio que permite la entrada de otros operadores. Entel podría actuar como revendedora del servicio, sin exclusividad, y el objetivo es impulsar la conectividad de alta velocidad mientras se elaboran reglamentos para el ingreso de más operadores.",
+      "summary_es": "Starlink inició operaciones en Bolivia con una licencia experimental de seis meses, complementando a Entel para ampliar la conectividad en zonas rurales y alejadas, bajo un marco regulatorio que permite la entrada de otros operadores. Entel podría actuar como revendedora del servicio, sin exclusividad, y el objetivo es impulsar la conectividad de alta velocidad mientras se elaboran reglamentos para el ingreso de más operadores.",
+      "summary_en": "Starlink has begun operating in Bolivia under a six-month experimental license, complementing Entel to expand connectivity in rural and remote areas, within a regulatory framework that allows other operators to enter. Entel could act as a reseller of the service, with no exclusivity, and the aim is to boost high‑speed connectivity while regulations are drawn up to permit more operators.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-04T06:32:00-04:00",
+      "published_at_bo": "2026-02-04T06:32:00-04:00",
+      "fetched_at_utc": "2026-02-04T10:46:33.640354+00:00",
+      "day": "2026-02-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "‘Carbonilla’: dolor de cabeza que afecta al motor y pone en duda la gasolina que se vende",
+      "url": "https://eldeber.com.bo/economia/carbonilla-dolor-cabeza-afecta-motor-pone-duda-gasolina-vende_1770200729",
+      "summary": "Un problema de calidad de la gasolina importada, con residuos en tanques heredados, estaría provocando la formación de carbonilla en motores de autos, motos y camionetas, generando fallas como tirones, apagones y necesidad de mantenimiento frecuente. El gobierno y YPFB admiten deficiencias pasadas en la cadena de suministro y, como medida, ajustaron la mezcla de etanol y la realización de mezclas directamente en refinerías, mientras continúan las verificaciones y controles de calidad.",
+      "summary_es": "Un problema de calidad de la gasolina importada, con residuos en tanques heredados, estaría provocando la formación de carbonilla en motores de autos, motos y camionetas, generando fallas como tirones, apagones y necesidad de mantenimiento frecuente. El gobierno y YPFB admiten deficiencias pasadas en la cadena de suministro y, como medida, ajustaron la mezcla de etanol y la realización de mezclas directamente en refinerías, mientras continúan las verificaciones y controles de calidad.",
+      "summary_en": "A problem with the quality of imported gasoline, combined with residues in legacy tanks, is causing carbon buildup in car, motorcycle, and pickup engines, leading to stalling, misfires, and the need for frequent maintenance. The government and YPFB acknowledge past deficiencies in the supply chain and, as a measure, have adjusted the ethanol blend and begun blending directly at refineries, while quality checks and monitoring continue.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-04T06:25:00-04:00",
+      "published_at_bo": "2026-02-04T06:25:00-04:00",
+      "fetched_at_utc": "2026-02-04T10:46:34.679454+00:00",
+      "day": "2026-02-04"
+    },
     {
       "source": "El Deber",
       "title": "“Ya no circulará gasolina desestabilizada”, afirma YPFB tras denuncias por daños en vehículos",
