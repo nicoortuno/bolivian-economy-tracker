@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-05T02:35:16.938203+00:00",
+  "generated_at_utc": "2026-02-05T03:11:10.985588+00:00",
   "count": 82,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno y sectores productivos impulsan las exportaciones y el abastecimiento interno",
+      "url": "https://eldeber.com.bo/economia/gobierno-sectores-productivos-impulsan-exportaciones-abastecimiento-interno_1770251982",
+      "summary": "El viceministro Gustavo Serrano encabezó un encuentro con gremios productivos y exportadores para socializar normativas vigentes y recoger propuestas que dinamicen la logística y el comercio exterior, con miras a incorporar medidas que incentiven producción y exportaciones sin afectar el abastecimiento interno. Participaron CAO, ANAPO, CADEX, CANEB, ANA, ADA y representantes del sector frigorífico e industrial, en apoyo a la visión del presidente Paz y la coordinación del Ministerio de Desarrollo Productivo, Rural y Agua.",
+      "summary_es": "El viceministro Gustavo Serrano encabezó un encuentro con gremios productivos y exportadores para socializar normativas vigentes y recoger propuestas que dinamicen la logística y el comercio exterior, con miras a incorporar medidas que incentiven producción y exportaciones sin afectar el abastecimiento interno. Participaron CAO, ANAPO, CADEX, CANEB, ANA, ADA y representantes del sector frigorífico e industrial, en apoyo a la visión del presidente Paz y la coordinación del Ministerio de Desarrollo Productivo, Rural y Agua.",
+      "summary_en": "Deputy Minister Gustavo Serrano led a meeting with productive sectors and exporters to brief them on current regulations and collect proposals to streamline logistics and foreign trade, with a view to introducing measures that boost production and exports without disrupting domestic supply. Participants included CAO, ANAPO, CADEX, CANEB, ANA, ADA, and representatives from the meat-packing and industrial sectors, in support of President Paz’s vision and the coordination of the Ministry of Productive Development, Rural and Water.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-04T20:39:00-04:00",
+      "published_at_bo": "2026-02-04T20:39:00-04:00",
+      "fetched_at_utc": "2026-02-05T02:35:09.571854+00:00",
+      "day": "2026-02-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "Inflación en Bolivia arranca 2026 con un alza de precios del 1,31% en enero, reporta el INE",
+      "url": "https://eldeber.com.bo/economia/inflacion-bolivia-arranca-2026-alza-precios-1-31-enero-reporta-ine_1770247520",
+      "summary": "El IPC de enero de 2026 subió 1,31% respecto a diciembre de 2025, con una inflación anual de 19,64% en los últimos 12 meses, impulsada principalmente por gasolina, transporte urbano, educación y alimentación (cebolla). Aunque hubo moderación en algunos productos como pollo, tomate o pasta dental, la aceleración general presiona la capacidad de compra, con diferencias regionales notables entre conurbaciones y capitales.",
+      "summary_es": "El IPC de enero de 2026 subió 1,31% respecto a diciembre de 2025, con una inflación anual de 19,64% en los últimos 12 meses, impulsada principalmente por gasolina, transporte urbano, educación y alimentación (cebolla). Aunque hubo moderación en algunos productos como pollo, tomate o pasta dental, la aceleración general presiona la capacidad de compra, con diferencias regionales notables entre conurbaciones y capitales.",
+      "summary_en": "January 2026 consumer prices rose 1.31% from December 2025, with a 12-month inflation rate of 19.64%. The increase was led by gasoline, urban transport, education, and food (notably onions). While some items—such as chicken, tomatoes, and toothpaste—showed moderation, the overall acceleration pressures purchasing power, with notable regional differences between metropolitan areas and capital cities.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-04T19:37:00-04:00",
+      "published_at_bo": "2026-02-04T19:37:00-04:00",
+      "fetched_at_utc": "2026-02-05T02:35:10.567762+00:00",
+      "day": "2026-02-04"
+    },
     {
       "source": "El Deber",
       "title": "Precio del dólar paralelo se recupera y apunta a superar el valor referencial del BCB",
