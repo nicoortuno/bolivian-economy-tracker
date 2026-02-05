@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-05T11:02:12.777029+00:00",
-  "count": 82,
+  "generated_at_utc": "2026-02-05T11:39:18.772996+00:00",
+  "count": 76,
   "items": [
     {
       "source": "El Deber",
@@ -1051,104 +1051,6 @@
       "published_at_bo": "2026-01-23T07:33:00-04:00",
       "fetched_at_utc": "2026-01-23T17:29:41.628531+00:00",
       "day": "2026-01-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Asosur Santa Cruz declara cuarto intermedio y garantiza abastecimiento",
-      "url": "https://eldeber.com.bo/economia/asosur-santa-cruz-declara-cuarto-intermedio-garantiza-abastecimiento_1769129456",
-      "summary": "Asosur Santa Cruz declaró un cuarto intermedio en sus protestas tras recibir una nota de la ANH, para abrir espacio al diálogo institucional y activar mesas técnicas que aborden sus demandas, además de solicitar una reunión con el Ejecutivo para buscar soluciones. Mientras tanto, aseguró que continúa prestando el servicio de combustible con normalidad y seguridad.",
-      "summary_es": "Asosur Santa Cruz declaró un cuarto intermedio en sus protestas tras recibir una nota de la ANH, para abrir espacio al diálogo institucional y activar mesas técnicas que aborden sus demandas, además de solicitar una reunión con el Ejecutivo para buscar soluciones. Mientras tanto, aseguró que continúa prestando el servicio de combustible con normalidad y seguridad.",
-      "summary_en": "Asosur Santa Cruz announced a temporary halt to its protests after receiving a note from the ANH, to create room for institutional dialogue and to activate technical working groups to address their demands, and to request a meeting with the Executive to seek solutions. In the meantime, it said it would continue to provide fuel services with normality and safety.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T20:57:00-04:00",
-      "published_at_bo": "2026-01-22T20:57:00-04:00",
-      "fetched_at_utc": "2026-01-23T06:42:22.046930+00:00",
-      "day": "2026-01-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "YPFB garantiza abastecimiento de gas para el feriado y despacha 152.000 garrafas de GLP",
-      "url": "https://eldeber.com.bo/economia/ypfb-garantiza-abastecimiento-gas-feriado-despacha-152-000-garrafas-glp_1769128732",
-      "summary": "YPFB despacha en promedio 152,000 garrafas de 10 kilos de GLP diarias y, ante el feriado, programó un despacho adicional de 132,000 garrafas para garantizar el abastecimiento. La venta se incrementó de 144,000 a 152,000 garrafas diarias entre diciembre de 2025 y enero de 2026.",
-      "summary_es": "YPFB despacha en promedio 152,000 garrafas de 10 kilos de GLP diarias y, ante el feriado, programó un despacho adicional de 132,000 garrafas para garantizar el abastecimiento. La venta se incrementó de 144,000 a 152,000 garrafas diarias entre diciembre de 2025 y enero de 2026.",
-      "summary_en": "YPFB ships an average of 152,000 ten-kilogram LPG cylinders per day, and in anticipation of the holiday it scheduled an extra 132,000 cylinders to ensure supplies. Sales rose from 144,000 to 152,000 cylinders per day between December 2025 and January 2026.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T20:38:00-04:00",
-      "published_at_bo": "2026-01-22T20:38:00-04:00",
-      "fetched_at_utc": "2026-01-23T05:33:31.989944+00:00",
-      "day": "2026-01-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Transparencia investiga red de cobros ilegales en ANH: detectan enriquecimiento por más de Bs 2,5 millones",
-      "url": "https://eldeber.com.bo/economia/transparencia-investiga-red-cobros-ilegales-anh-detectan-enriquecimiento-bs-2-5-millones_1769126305",
-      "summary": "El Viceministerio de Transparencia identificó al sector de hidrocarburos como el más denunciado por presuntos actos de corrupción, con más de 73 denuncias por cobros ilegales en la ANH. La investigación encontró una estructura interna que habría generado ganancias ilícitas y un incremento patrimonial superior a 2,5 millones de bolivianos, y se ampliará para identificar a intermediarios y responsables penales.",
-      "summary_es": "El Viceministerio de Transparencia identificó al sector de hidrocarburos como el más denunciado por presuntos actos de corrupción, con más de 73 denuncias por cobros ilegales en la ANH. La investigación encontró una estructura interna que habría generado ganancias ilícitas y un incremento patrimonial superior a 2,5 millones de bolivianos, y se ampliará para identificar a intermediarios y responsables penales.",
-      "summary_en": "The Deputy Ministry of Transparency identified the hydrocarbons sector as the most reported for alleged acts of corruption, with more than 73 complaints of illegal charges at the ANH. The investigation found an internal structure that would have generated illicit gains and a patrimonial increase totaling more than 2.5 million bolivianos, and the probe will be expanded to identify intermediaries and those criminally responsible.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T20:16:00-04:00",
-      "published_at_bo": "2026-01-22T20:16:00-04:00",
-      "fetched_at_utc": "2026-01-23T05:33:32.964217+00:00",
-      "day": "2026-01-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "\"Hay un plan que va ser ejecutado\" para terminar el avasallamiento de tierras",
-      "url": "https://eldeber.com.bo/economia/hay-plan-va-ser-ejecutado-terminar-avasallamiento-tierras_1769100374",
-      "summary": "El gobernador de Santa Cruz, Luis Fernando Camacho, anunció un plan concreto para desalojar predios avasallados y aseguró la coordinación con autoridades nacionales para garantizar la propiedad privada, proteger a comunidades indígenas y asegurar el abastecimiento de alimentos. Reiteró que la operación se ejecutará en las próximas horas y llamó a la población a estar atenta a su cumplimiento.",
-      "summary_es": "El gobernador de Santa Cruz, Luis Fernando Camacho, anunció un plan concreto para desalojar predios avasallados y aseguró la coordinación con autoridades nacionales para garantizar la propiedad privada, proteger a comunidades indígenas y asegurar el abastecimiento de alimentos. Reiteró que la operación se ejecutará en las próximas horas y llamó a la población a estar atenta a su cumplimiento.",
-      "summary_en": "The governor of Santa Cruz, Luis Fernando Camacho, announced a concrete plan to evict illegally occupied properties and said there would be coordination with national authorities to guarantee private property, protect Indigenous communities, and ensure food supplies. He reiterated that the operation will be carried out in the coming hours and urged the public to monitor its implementation.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T13:00:00-04:00",
-      "published_at_bo": "2026-01-22T13:00:00-04:00",
-      "fetched_at_utc": "2026-01-22T19:29:24.276103+00:00",
-      "day": "2026-01-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "CAO exige un INRA técnico y “no político” para garantizar seguridad jurídica",
-      "url": "https://eldeber.com.bo/economia/cao-exige-inra-tecnico-no-politico-garantizar-seguridad-juridica_1769095452",
-      "summary": "Klaus Frerking, presidente de la CAO, pidió frenar de forma definitiva los avasallamientos de tierras, señalando que responden a intereses de tráfico ilegal y no a conflictos sociales, y afirmó que solo la estricta aplicación de la ley y la seguridad jurídica pueden recuperar la inversión y el empleo. Exigió endurecer la normativa, que jueces y fiscales cumplan su rol, y que se ejecute de inmediato las órdenes de aprehensión y desalojo, además de proponer un INRA técnico y no político para enfrentar el problema en todo el país.",
-      "summary_es": "Klaus Frerking, presidente de la CAO, pidió frenar de forma definitiva los avasallamientos de tierras, señalando que responden a intereses de tráfico ilegal y no a conflictos sociales, y afirmó que solo la estricta aplicación de la ley y la seguridad jurídica pueden recuperar la inversión y el empleo. Exigió endurecer la normativa, que jueces y fiscales cumplan su rol, y que se ejecute de inmediato las órdenes de aprehensión y desalojo, además de proponer un INRA técnico y no político para enfrentar el problema en todo el país.",
-      "summary_en": "Klaus Frerking, president of CAO, called for a definitive halt to land grabs, saying they serve interests of illegal trafficking rather than social conflicts. He argued that only strict law enforcement and legal certainty can restore investment and employment. He urged tougher regulations, for judges and prosecutors to fulfill their roles, and for arrest and eviction warrants to be carried out immediately. He also proposed a technical, non-political INRA (National Institute of Agrarian Reform) to tackle the issue across the country.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T11:29:00-04:00",
-      "published_at_bo": "2026-01-22T11:29:00-04:00",
-      "fetched_at_utc": "2026-01-22T20:34:40.868918+00:00",
-      "day": "2026-01-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno proyecta reducir el déficit fiscal al 7% del PIB y la inflación hasta en 17%",
-      "url": "https://eldeber.com.bo/economia/gobierno-proyecta-reducir-deficit-fiscal-7-pib-inflacion-17_1769057326",
-      "summary": "El Gobierno boliviano propone reducir el déficit fiscal de ~12% del PIB a 7% y la inflación de 20,5% a 12–17% en 2026, principalmente mediante recorte del gasto público, eliminación de subsidios a combustibles y ajustes salariales y tributarios. Sin embargo, economistas advierten que el cumplimiento depende de la gobernabilidad, la gobernanza y la reducción real del gasto, así como de la informalidad y del contexto externo.",
-      "summary_es": "El Gobierno boliviano propone reducir el déficit fiscal de ~12% del PIB a 7% y la inflación de 20,5% a 12–17% en 2026, principalmente mediante recorte del gasto público, eliminación de subsidios a combustibles y ajustes salariales y tributarios. Sin embargo, economistas advierten que el cumplimiento depende de la gobernabilidad, la gobernanza y la reducción real del gasto, así como de la informalidad y del contexto externo.",
-      "summary_en": "The Bolivian government proposes to shrink the fiscal deficit from about 12% of GDP to 7% and bring inflation down from 20.5% to a range of 12–17% in 2026, mainly through cutting public spending, eliminating fuel subsidies, and making wage and tax adjustments. However, economists warn that meeting these targets depends on governability, governance, and real spending reductions, as well as on informality and the external environment.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T04:00:00-04:00",
-      "published_at_bo": "2026-01-22T04:00:00-04:00",
-      "fetched_at_utc": "2026-01-22T10:34:33.782818+00:00",
-      "day": "2026-01-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bono PEPE: ¿quiénes cobran, dónde y hasta cuándo se paga?",
-      "url": "https://eldeber.com.bo/economia/bono-pepe-quienes-cobran-donde-cuando-paga_1769058376",
-      "summary": "A partir del 26 de enero se iniciará el pago del Bono PEPE, de 450 bolivianos en tres entregas mensuales de 150 (enero, febrero y marzo de 2026) con retiro total hasta el 30 de abril; se priorizará un único pago por familia entre los distintos grupos beneficiarios y la identificación se hará a partir de bases estatales sin necesidad de inscripciones.",
-      "summary_es": "A partir del 26 de enero se iniciará el pago del Bono PEPE, de 450 bolivianos en tres entregas mensuales de 150 (enero, febrero y marzo de 2026) con retiro total hasta el 30 de abril; se priorizará un único pago por familia entre los distintos grupos beneficiarios y la identificación se hará a partir de bases estatales sin necesidad de inscripciones.",
-      "summary_en": "Starting January 26, payments for the PEPE Bonus will begin, totaling 450 bolivianos in three monthly installments of 150 (January, February, and March 2026), with the full withdrawal available until April 30. A single payment per family will be prioritized across the various beneficiary groups, and verification will be conducted using government databases, with no registration required.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-22T04:00:00-04:00",
-      "published_at_bo": "2026-01-22T04:00:00-04:00",
-      "fetched_at_utc": "2026-01-22T10:34:32.776477+00:00",
-      "day": "2026-01-22"
     }
   ]
 }
