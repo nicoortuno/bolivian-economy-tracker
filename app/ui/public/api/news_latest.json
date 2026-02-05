@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-05T16:57:28.275670+00:00",
+  "generated_at_utc": "2026-02-05T17:09:21.887511+00:00",
   "count": 80,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gasolina y el servicio de transporte impulsan la inflación de enero, según el INE",
+      "url": "https://eldeber.com.bo/economia/gasolina-servicio-transporte-impulsan-inflacion-enero-ine_1770309125",
+      "summary": "En enero de 2026, la inflación alcanzó 1,31% impulsada principalmente por el aumento de la gasolina tras la eliminación de subsidios y, en menor medida, por los servicios de transporte y otros bienes como almuerzo, educación superior y cebolla. En contraste, se vieron descensos en precios de algunos alimentos, como la carne de pollo y tomate, moderando parcialmente el incremento del IPC.",
+      "summary_es": "En enero de 2026, la inflación alcanzó 1,31% impulsada principalmente por el aumento de la gasolina tras la eliminación de subsidios y, en menor medida, por los servicios de transporte y otros bienes como almuerzo, educación superior y cebolla. En contraste, se vieron descensos en precios de algunos alimentos, como la carne de pollo y tomate, moderando parcialmente el incremento del IPC.",
+      "summary_en": "In January 2026, inflation reached 1.31%, driven mainly by higher gasoline prices after the removal of subsidies and, to a lesser extent, by transportation services and other goods such as lunch, higher education, and onions. By contrast, prices for some foods fell, including chicken and tomatoes, partially tempering the rise in the Consumer Price Index (CPI).",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-05T12:47:00-04:00",
+      "published_at_bo": "2026-02-05T12:47:00-04:00",
+      "fetched_at_utc": "2026-02-05T16:57:23.400182+00:00",
+      "day": "2026-02-05"
+    },
+    {
+      "source": "El Deber",
+      "title": "Banco Mundial aprueba crédito de $us 200 millones para financiar el bono PEPE",
+      "url": "https://eldeber.com.bo/economia/banco-mundial-aprueba-credito-us-200-millones-financiar-bono-pepe_1770306233",
+      "summary": "El Directorio Ejecutivo del Banco Mundial aprobó un préstamo de 200 millones de dólares para implementar el Programa Extraordinario de Protección y Equidad (PEPE) en Bolivia, destinado a apoyar a aproximadamente ocho millones de personas más vulnerables y mejorar la focalización y entrega de la asistencia. El objetivo es fortalecer la protección social, impulsar la productividad y atraer inversión, con el Ministerio de Economía y Finanzas Públicas como ejecutor y la Gestora Pública de la Seguridad Social de Largo Plazo como actor clave en elegibilidad y pago.",
+      "summary_es": "El Directorio Ejecutivo del Banco Mundial aprobó un préstamo de 200 millones de dólares para implementar el Programa Extraordinario de Protección y Equidad (PEPE) en Bolivia, destinado a apoyar a aproximadamente ocho millones de personas más vulnerables y mejorar la focalización y entrega de la asistencia. El objetivo es fortalecer la protección social, impulsar la productividad y atraer inversión, con el Ministerio de Economía y Finanzas Públicas como ejecutor y la Gestora Pública de la Seguridad Social de Largo Plazo como actor clave en elegibilidad y pago.",
+      "summary_en": "The World Bank’s Executive Board has approved a $200 million loan to implement Bolivia’s Extraordinary Program for Protection and Equity (PEPE), aimed at supporting about eight million of the most vulnerable people and improving the targeting and delivery of assistance. The goal is to strengthen social protection, boost productivity, and attract investment, with the Ministry of Economy and Public Finance as the implementing agency and the Public Manager of Long-Term Social Security as a key actor in eligibility and payments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-05T11:57:00-04:00",
+      "published_at_bo": "2026-02-05T11:57:00-04:00",
+      "fetched_at_utc": "2026-02-05T16:57:24.382976+00:00",
+      "day": "2026-02-05"
+    },
     {
       "source": "El Deber",
       "title": "Más de 800 mototaxistas parados y reparaciones de más Bs 1.200 desatan protestas",
