@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-05T11:39:18.772996+00:00",
+  "generated_at_utc": "2026-02-05T11:50:37.597685+00:00",
   "count": 76,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Deuda interna duplica a la externa y equivale a más de $us 33.000 MM",
+      "url": "https://eldeber.com.bo/economia/deuda-interna-duplica-externa-equivale-us-33-000-mm_1770288738",
+      "summary": "La deuda interna del Tesoro General de la Nación superó los Bs 231.419 millones (aproximadamente $us 33.250 millones) a finales de 2025, el doble de la deuda externa y con el Banco Central de Bolivia como principal financiador, lo que ha elevado el riesgo fiscal y reducido el margen de maniobra del Estado. Economistas advierten que la mayor dependencia de la emisión monetaria para financiar esa deuda interna incrementa la inflación, debilita el poder adquisitivo y expone al país a vulnerabilidades ante shocks externos.",
+      "summary_es": "La deuda interna del Tesoro General de la Nación superó los Bs 231.419 millones (aproximadamente $us 33.250 millones) a finales de 2025, el doble de la deuda externa y con el Banco Central de Bolivia como principal financiador, lo que ha elevado el riesgo fiscal y reducido el margen de maniobra del Estado. Economistas advierten que la mayor dependencia de la emisión monetaria para financiar esa deuda interna incrementa la inflación, debilita el poder adquisitivo y expone al país a vulnerabilidades ante shocks externos.",
+      "summary_en": "The internal debt of Bolivia’s General Treasury surpassed Bs 231.419 billion (about $33.25 billion) at the end of 2025, double the external debt, with the Central Bank of Bolivia as the main financier. This has increased fiscal risk and narrowed the government’s room to maneuver. Economists warn that greater reliance on monetary issuance to finance that internal debt could raise inflation, erode purchasing power, and leave the country vulnerable to external shocks.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-05T06:52:00-04:00",
+      "published_at_bo": "2026-02-05T06:52:00-04:00",
+      "fetched_at_utc": "2026-02-05T11:39:16.864511+00:00",
+      "day": "2026-02-05"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno y sectores productivos impulsan las exportaciones y el abastecimiento interno",
