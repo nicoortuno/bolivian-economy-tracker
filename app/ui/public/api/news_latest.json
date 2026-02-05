@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-05T15:47:35.500718+00:00",
+  "generated_at_utc": "2026-02-05T15:57:36.012767+00:00",
   "count": 78,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Más de 800 mototaxistas parados y reparaciones de más Bs 1.200 desatan protestas",
+      "url": "https://eldeber.com.bo/economia/800-mototaxistas-parados-reparaciones-bs-1-200-desatan-protestas_1770305056",
+      "summary": "Más de 800 mototaxistas paralizaron actividades y bloquean rutas en la ciudad y provincias por daños en sus motores causados por un combustible contaminado, con costos de reparación que superan 1.200 bolivianos por unidad. Exigen resarcimiento o reposición de motores y advierten que las protestas—indefinidas—seguirán hasta que el Gobierno atienda sus demandas.",
+      "summary_es": "Más de 800 mototaxistas paralizaron actividades y bloquean rutas en la ciudad y provincias por daños en sus motores causados por un combustible contaminado, con costos de reparación que superan 1.200 bolivianos por unidad. Exigen resarcimiento o reposición de motores y advierten que las protestas—indefinidas—seguirán hasta que el Gobierno atienda sus demandas.",
+      "summary_en": "More than 800 motorcycle taxi drivers halted work and blocked routes in the city and surrounding provinces after engines were damaged by contaminated fuel, with repair costs exceeding 1,200 bolivianos per unit. They are demanding compensation or engine replacement and warn that the protests—open-ended—will continue until the government addresses their demands.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-05T11:29:00-04:00",
+      "published_at_bo": "2026-02-05T11:29:00-04:00",
+      "fetched_at_utc": "2026-02-05T15:47:31.675256+00:00",
+      "day": "2026-02-05"
+    },
+    {
+      "source": "El Deber",
+      "title": "Planta del Mutún tiene graves deficiencias y el Estado alista acciones legales contra Sinosteel",
+      "url": "https://eldeber.com.bo/economia/planta-mutun-tiene-graves-deficiencias-estado-alista-acciones-legales-sinosteel_1770303222",
+      "summary": "El Complejo Siderúrgico del Mutún presenta serias deficiencias técnicas y ausencia de operatividad, y la ESM anunció la rescisión del contrato con Sinosteel (llave en mano) tras detectar fallas desde diseño hasta ejecución, pagos adelantados y falta de garantías. La empresa estatal buscará responsabilidades penales y exige a Sinosteel presentar un cronograma para subsanar las fallas si quiere evitar acciones legales.",
+      "summary_es": "El Complejo Siderúrgico del Mutún presenta serias deficiencias técnicas y ausencia de operatividad, y la ESM anunció la rescisión del contrato con Sinosteel (llave en mano) tras detectar fallas desde diseño hasta ejecución, pagos adelantados y falta de garantías. La empresa estatal buscará responsabilidades penales y exige a Sinosteel presentar un cronograma para subsanar las fallas si quiere evitar acciones legales.",
+      "summary_en": "The Mutún Iron and Steel Complex has serious technical deficiencies and is not operational, and the state-owned ESM announced the termination of the turnkey contract with Sinosteel after identifying flaws from design through execution, including advance payments and a lack of guarantees. The state company will pursue criminal liability and demands that Sinosteel submit a timetable to rectify the defects if it hopes to avoid legal action.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-05T11:05:00-04:00",
+      "published_at_bo": "2026-02-05T11:05:00-04:00",
+      "fetched_at_utc": "2026-02-05T15:47:32.700851+00:00",
+      "day": "2026-02-05"
+    },
     {
       "source": "El Deber",
       "title": "Deuda interna duplica a la externa y equivale a más de $us 33.000 MM",
