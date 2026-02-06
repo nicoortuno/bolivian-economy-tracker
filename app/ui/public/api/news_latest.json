@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-06T15:47:13.070772+00:00",
+  "generated_at_utc": "2026-02-06T15:58:34.962276+00:00",
   "count": 81,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Banco Central otorga crédito al gobierno por cerca de Bs 32.000 millones",
+      "url": "https://eldeber.com.bo/economia/banco-central-otorga-credito-gobierno-cerca-bs-32-000-millones_1770389252",
+      "summary": "El Banco Central de Bolivia aprobó un crédito extraordinario de 31.839 millones de bolivianos al Ministerio de Economía y Finanzas Públicas, a 4,55% anual, 35 años de plazo y cinco años de gracia, destinado exclusivamente a cubrir deudas de corto plazo del Gobierno en 2025, bajo la Ley del PGE 2026 y calificado como concesional (al menos 30%). Según economistas, esta operación facilita un manejo de pasivos y una dominancia fiscal, pero con riesgos como mayor deuda interna, menor disciplina fiscal y pérdida de independencia operativa del BCB.",
+      "summary_es": "El Banco Central de Bolivia aprobó un crédito extraordinario de 31.839 millones de bolivianos al Ministerio de Economía y Finanzas Públicas, a 4,55% anual, 35 años de plazo y cinco años de gracia, destinado exclusivamente a cubrir deudas de corto plazo del Gobierno en 2025, bajo la Ley del PGE 2026 y calificado como concesional (al menos 30%). Según economistas, esta operación facilita un manejo de pasivos y una dominancia fiscal, pero con riesgos como mayor deuda interna, menor disciplina fiscal y pérdida de independencia operativa del BCB.",
+      "summary_en": "The Central Bank of Bolivia approved an extraordinary credit of 31.839 billion Bolivianos to the Ministry of Economy and Public Finance, at 4.55% annually, with a 35-year term and a five-year grace period. The loan is earmarked exclusively to cover the government’s short-term debt in 2025, under the Law of the 2026 Public Expenditure and Financial Plan (PGE) and classified as concessional (at least 30%).\n\nEconomists say the operation facilitates liability management and fiscal dominance, but it carries risks, such as higher domestic debt, weaker fiscal discipline, and a loss of the Central Bank’s operational independence.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-06T11:19:00-04:00",
+      "published_at_bo": "2026-02-06T11:19:00-04:00",
+      "fetched_at_utc": "2026-02-06T15:47:08.199772+00:00",
+      "day": "2026-02-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "Economía boliviana registra contracción de 1,63 % en 2025 y apenas 0,03 % de crecimiento al último trimestre",
+      "url": "https://eldeber.com.bo/economia/economia-boliviana-registra-contraccion-1-63-2025-apenas-0-03-crecimiento-ultimo-trimestre_1770385739",
+      "summary": "La economía boliviana registró un decrecimiento acumulado de 1,63% entre enero y septiembre de 2025, aunque el tercer trimestre mostró un leve crecimiento interanual de 0,03%. Esta escasa recuperación contrasta con la meta del PGE 2025 de un PIB al alza de 3,51%, mientras la inflación arrancó 2026 con 1,31% en enero y 19,64% en los últimos 12 meses.",
+      "summary_es": "La economía boliviana registró un decrecimiento acumulado de 1,63% entre enero y septiembre de 2025, aunque el tercer trimestre mostró un leve crecimiento interanual de 0,03%. Esta escasa recuperación contrasta con la meta del PGE 2025 de un PIB al alza de 3,51%, mientras la inflación arrancó 2026 con 1,31% en enero y 19,64% en los últimos 12 meses.",
+      "summary_en": "Bolivia’s economy recorded an accumulated contraction of 1.63% from January to September 2025, although the third quarter posted a small year-on-year gain of 0.03%. This modest recovery contrasts with the 2025 State Budget’s growth target of 3.51% for GDP. Inflation began 2026 at 1.31% in January, with annual inflation at 19.64% over the last 12 months.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-06T10:51:00-04:00",
+      "published_at_bo": "2026-02-06T10:51:00-04:00",
+      "fetched_at_utc": "2026-02-06T15:47:09.194360+00:00",
+      "day": "2026-02-06"
+    },
     {
       "source": "El Deber",
       "title": "El litio de Bolivia aún anima a Europa; Alemania pone condiciones sociales",
