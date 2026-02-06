@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-06T18:59:04.357195+00:00",
+  "generated_at_utc": "2026-02-06T19:07:43.119326+00:00",
   "count": 82,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno apunta a desmontar el “Estado tranca” con un Centro de Gobierno digital",
+      "url": "https://eldeber.com.bo/economia/gobierno-apunta-desmontar-estado-tranca-centro-gobierno-digital_1770392670",
+      "summary": "Bolivia anunció la implementación del Centro de Gobierno (Cengob), una plataforma transversal para coordinar a todos los ministerios y convertir promesas de gobierno en metas concretas y evaluables, con seguimiento en tiempo real desde un tablero digital. El objetivo es aumentar la transparencia, la eficiencia y reducir la discrecionalidad, alineándolo con el Plan de Desarrollo 2026–2035 y con el apoyo técnico del BID para mejorar la gestión pública y reducir déficits fiscales.",
+      "summary_es": "Bolivia anunció la implementación del Centro de Gobierno (Cengob), una plataforma transversal para coordinar a todos los ministerios y convertir promesas de gobierno en metas concretas y evaluables, con seguimiento en tiempo real desde un tablero digital. El objetivo es aumentar la transparencia, la eficiencia y reducir la discrecionalidad, alineándolo con el Plan de Desarrollo 2026–2035 y con el apoyo técnico del BID para mejorar la gestión pública y reducir déficits fiscales.",
+      "summary_en": "Bolivia announced the implementation of the Government Center (Cengob), a cross-cutting platform to coordinate all ministries and convert government promises into concrete, measurable goals, with real-time monitoring from a digital dashboard. The aim is to increase transparency, improve efficiency, and reduce discretionary power, aligning it with the Development Plan 2026–2035 and with technical support from the IDB to strengthen public management and reduce fiscal deficits.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-06T13:00:00-04:00",
+      "published_at_bo": "2026-02-06T13:00:00-04:00",
+      "fetched_at_utc": "2026-02-06T18:59:00.201762+00:00",
+      "day": "2026-02-06"
+    },
     {
       "source": "El Deber",
       "title": "Banco Central otorga crédito al gobierno por cerca de Bs 32.000 millones",
