@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-06T21:36:55.122882+00:00",
+  "generated_at_utc": "2026-02-06T21:46:51.880955+00:00",
   "count": 86,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Impulsan denuncias penales contra el Estado por daños en motores",
+      "url": "https://eldeber.com.bo/economia/impulsan-denuncias-penales-estado-danos-motores_1770410812",
+      "summary": "La mala calidad de la gasolina en Bolivia desencadena denuncias penales y protestas de transportistas contra YPFB, ANH y autoridades, exigiendo resarcimiento por daños a vehículos. Mientras la estatal asegura haber identificado y aislado el fallo y propone diálogos con los afectados, la movilización persiste y se promete ampliar medidas si no hay diálogo.",
+      "summary_es": "La mala calidad de la gasolina en Bolivia desencadena denuncias penales y protestas de transportistas contra YPFB, ANH y autoridades, exigiendo resarcimiento por daños a vehículos. Mientras la estatal asegura haber identificado y aislado el fallo y propone diálogos con los afectados, la movilización persiste y se promete ampliar medidas si no hay diálogo.",
+      "summary_en": "Bolivia’s low-quality gasoline triggers criminal charges and protests by truckers against YPFB, ANH, and authorities, demanding compensation for vehicle damage. While the state oil company says it has identified and isolated the fault and proposes talks with those affected, the protests continue, and demonstrators say they will broaden measures if there is no dialogue.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-06T17:22:00-04:00",
+      "published_at_bo": "2026-02-06T17:22:00-04:00",
+      "fetched_at_utc": "2026-02-06T21:36:48.463069+00:00",
+      "day": "2026-02-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "BCB aclara que préstamo de Bs 31,8 mil millones es una reprogramación y que “dejó de ser la caja chica del Gobierno”",
+      "url": "https://eldeber.com.bo/economia/bcb-aclara-prestamo-bs-31-8-mil-millones-reprogramacion-dejo-ser-caja-chica-gobierno_1770406691",
+      "summary": "El Banco Central de Bolivia aprobó reprogramar créditos concedidos al Estado en 2025 por 31.839 millones de bolivianos, convirtiéndolos en deuda a 35 años con cinco años de gracia y una tasa de 4,55%, sin generar liquidez adicional ni inflación. El objetivo, según el BCB, es reducir la presión de liquidez de corto plazo y ordenar el sobreendeudamiento heredado, sin incrementar el endeudamiento real del país.",
+      "summary_es": "El Banco Central de Bolivia aprobó reprogramar créditos concedidos al Estado en 2025 por 31.839 millones de bolivianos, convirtiéndolos en deuda a 35 años con cinco años de gracia y una tasa de 4,55%, sin generar liquidez adicional ni inflación. El objetivo, según el BCB, es reducir la presión de liquidez de corto plazo y ordenar el sobreendeudamiento heredado, sin incrementar el endeudamiento real del país.",
+      "summary_en": "The Central Bank of Bolivia approved the reprogramming of loans granted to the state in 2025 totaling 31.839 billion bolivianos, converting them into 35-year debt with a five-year grace period and a 4.55% rate, without generating additional liquidity or inflation. The goal, the BCB says, is to ease short-term liquidity pressures and orderly the inherited over-indebtedness, without increasing the country’s real debt.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-06T16:41:00-04:00",
+      "published_at_bo": "2026-02-06T16:41:00-04:00",
+      "fetched_at_utc": "2026-02-06T21:36:49.425330+00:00",
+      "day": "2026-02-06"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno apunta a desmontar el “Estado tranca” con un Centro de Gobierno digital",
@@ -1149,6 +1177,34 @@
       "published_at_bo": "2026-01-24T15:46:00-04:00",
       "fetched_at_utc": "2026-01-24T23:24:52.368285+00:00",
       "day": "2026-01-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno exigirá cobertura nacional a nuevas aerolíneas interesadas en el mercado doméstico",
+      "url": "https://eldeber.com.bo/economia/gobierno-exigira-cobertura-nacional-nuevas-aerolineas-interesadas-mercado-domestico_1770395676",
+      "summary": "El ministro Zamora anunció una política de “cielos abiertos” en Bolivia orientada a fomentar la competencia, mejores tarifas y servicio, con reglas adaptadas a la realidad local y cobertura de todo el país, sin permitir rutas excesivamente rentables para algunas aerolíneas. Paralelamente, enfatizó la necesidad de fortalecer Boliviana de Aviación y evaluar experiencias internacionales para una apertura controlada que evite desequilibrios y mejore la calidad del servicio.",
+      "summary_es": "El ministro Zamora anunció una política de “cielos abiertos” en Bolivia orientada a fomentar la competencia, mejores tarifas y servicio, con reglas adaptadas a la realidad local y cobertura de todo el país, sin permitir rutas excesivamente rentables para algunas aerolíneas. Paralelamente, enfatizó la necesidad de fortalecer Boliviana de Aviación y evaluar experiencias internacionales para una apertura controlada que evite desequilibrios y mejore la calidad del servicio.",
+      "summary_en": "Minister Zamora announced a so-called \"open skies\" policy for Bolivia aimed at boosting competition, lower fares, and improved service, with rules tailored to local realities and nationwide coverage, while preventing routes from becoming excessively lucrative for certain airlines. At the same time, he stressed the need to strengthen Boliviana de Aviación and to study international experiences for a controlled opening that avoids imbalances and enhances service quality.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": null,
+      "published_at_bo": null,
+      "fetched_at_utc": "2026-02-06T21:36:53.084517+00:00",
+      "day": "2026-02-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "“Ya hay una solución”: gobierno responderá este viernes sobre solicitud de retorno de tren de pasajeros hacia la Chiquitania",
+      "url": "https://eldeber.com.bo/economia/hay-solucion-gobierno-respondera-este-viernes-solicitud-retorno-tren-pasajeros-chiquitania_1770397685",
+      "summary": "El gobierno y el Comité Pro Santa Cruz anunciarán un acuerdo para restablecer el tren de pasajeros entre Puerto Quijarro y Roboré en un plan de seis meses, con implementación inmediata y para evitar la huelga prevista, buscando una opción de transporte económico en la Chiquitania. También se destacó que los bloqueo no son la solución y que podrían desalentar inversiones.",
+      "summary_es": "El gobierno y el Comité Pro Santa Cruz anunciarán un acuerdo para restablecer el tren de pasajeros entre Puerto Quijarro y Roboré en un plan de seis meses, con implementación inmediata y para evitar la huelga prevista, buscando una opción de transporte económico en la Chiquitania. También se destacó que los bloqueo no son la solución y que podrían desalentar inversiones.",
+      "summary_en": "The government and the Pro Santa Cruz Committee will announce an agreement to restore passenger train service between Puerto Quijarro and Roboré as part of a six-month plan, with immediate implementation and aimed at preventing the planned strike, in search of an affordable transportation option in the Chiquitania. It was also stressed that blockades are not the solution and could deter investment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": null,
+      "published_at_bo": null,
+      "fetched_at_utc": "2026-02-06T21:36:50.395507+00:00",
+      "day": "2026-02-06"
     }
   ]
 }
