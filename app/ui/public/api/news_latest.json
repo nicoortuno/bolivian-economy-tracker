@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-07T15:31:17.003521+00:00",
+  "generated_at_utc": "2026-02-07T15:40:30.737998+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno confirma que el retorno del tren de pasajeros a la Chiquitania será mediante ferrobús turístico",
+      "url": "https://eldeber.com.bo/economia/gobierno-confirma-retorno-tren-pasajeros-chiquitania-sera-mediante-ferrobus-turistico_1770477842",
+      "summary": "El gobierno anunció que, por seis meses, volverá un ferrobús turístico de 42 pasajeros para conectar Santa Cruz con la frontera brasileña por la ruta de la Chiquitania, operado por Ferroviaria Oriental S.A. con el objetivo de impulsar el turismo, la conectividad y la economía regional.\n\nDurante ese periodo se evaluará la demanda y ocupación, y los pasajes serán fijados por la ATT en coordinación con la ferroviaria, buscando precios por debajo de las tarifas de los buses de la ruta Bioceánica.",
+      "summary_es": "El gobierno anunció que, por seis meses, volverá un ferrobús turístico de 42 pasajeros para conectar Santa Cruz con la frontera brasileña por la ruta de la Chiquitania, operado por Ferroviaria Oriental S.A. con el objetivo de impulsar el turismo, la conectividad y la economía regional.\n\nDurante ese periodo se evaluará la demanda y ocupación, y los pasajes serán fijados por la ATT en coordinación con la ferroviaria, buscando precios por debajo de las tarifas de los buses de la ruta Bioceánica.",
+      "summary_en": "The government announced that for six months a 42-seat tourist rail-bus will return to connect Santa Cruz with the Brazilian border along the Chiquitania route, operated by Ferroviaria Oriental S.A., with the aim of boosting tourism, connectivity, and the regional economy.\n\nDuring that period, demand and occupancy will be evaluated, and tickets will be set by the ATT in coordination with the railway company, seeking prices below the fares of buses on the Bioceanic route.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-07T11:24:00-04:00",
+      "published_at_bo": "2026-02-07T11:24:00-04:00",
+      "fetched_at_utc": "2026-02-07T15:31:12.191498+00:00",
+      "day": "2026-02-07"
+    },
     {
       "source": "El Deber",
       "title": "Ante incremento de reclamos, Naabol realiza inspección nocturna en Viru Viru",
