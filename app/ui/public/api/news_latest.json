@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-07T19:29:47.441908+00:00",
+  "generated_at_utc": "2026-02-07T19:36:43.217075+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Conozca el precio de los equipos de Starlink, según una representación oficial en Bolivia",
+      "url": "https://eldeber.com.bo/economia/conozca-precio-equipos-starlink-representacion-oficial-bolivia_1770490720",
+      "summary": "Starlink inició oficialmente operaciones en Bolivia con la alianza entre Entel y la marca para complementar la infraestructura existente, bajo la política gubernamental de apertura tecnológica y crecimiento de la conectividad rural. En Santa Cruz se anuncian dos kits homologados, Starlink Standard y Starlink Mini, con precios de Bs 2.800 y Bs 2.200, cuyas entregas comienzan el 27 de febrero.",
+      "summary_es": "Starlink inició oficialmente operaciones en Bolivia con la alianza entre Entel y la marca para complementar la infraestructura existente, bajo la política gubernamental de apertura tecnológica y crecimiento de la conectividad rural. En Santa Cruz se anuncian dos kits homologados, Starlink Standard y Starlink Mini, con precios de Bs 2.800 y Bs 2.200, cuyas entregas comienzan el 27 de febrero.",
+      "summary_en": "Starlink has officially launched operations in Bolivia through a partnership with Entel to complement the existing infrastructure, aligned with the government’s policy of technological openness and expanding rural connectivity. In Santa Cruz, two approved kits—Starlink Standard and Starlink Mini—will be offered at 2,800 and 2,200 bolivianos, with deliveries beginning February 27.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-07T15:08:00-04:00",
+      "published_at_bo": "2026-02-07T15:08:00-04:00",
+      "fetched_at_utc": "2026-02-07T19:29:43.803841+00:00",
+      "day": "2026-02-07"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno confirma que el retorno del tren de pasajeros a la Chiquitania será mediante ferrobús turístico",
