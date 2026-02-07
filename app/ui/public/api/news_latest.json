@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-07T13:01:06.854274+00:00",
+  "generated_at_utc": "2026-02-07T13:14:14.608995+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Satélite Túpac Katari tiene vida útil hasta 2030 y aún restan entre $us 40 y 50 millones por pagar",
+      "url": "https://eldeber.com.bo/economia/satelite-tupac-katari-tiene-vida-util-2030-aun-restan-us-40-50-millones-pagar_1770467212",
+      "summary": "El satélite boliviano Túpac Katari, puesto en órbita en 2013 desde China, tiene una vida útil proyectada hasta 2030 y mantiene un saldo pendiente de financiamiento de unos 40–50 millones de dólares; ha mejorado la conectividad rural con radiobases, telefonía móvil y difusión de TV y radio en comunidades de más de 50 habitantes. Aun así, analistas señalan limitaciones frente a tecnologías como Internet satelital de órbita baja (LEO), y, mientras Evo Morales defiende su soberanía tecnológica, admite riesgos de empresas extranjeras, con el presidente Rodrigo Paz anunciando una auditoría para revisar sus resultados financieros y operativos.",
+      "summary_es": "El satélite boliviano Túpac Katari, puesto en órbita en 2013 desde China, tiene una vida útil proyectada hasta 2030 y mantiene un saldo pendiente de financiamiento de unos 40–50 millones de dólares; ha mejorado la conectividad rural con radiobases, telefonía móvil y difusión de TV y radio en comunidades de más de 50 habitantes. Aun así, analistas señalan limitaciones frente a tecnologías como Internet satelital de órbita baja (LEO), y, mientras Evo Morales defiende su soberanía tecnológica, admite riesgos de empresas extranjeras, con el presidente Rodrigo Paz anunciando una auditoría para revisar sus resultados financieros y operativos.",
+      "summary_en": "The Bolivian satellite Túpac Katari, launched into orbit in 2013 from China, has a projected operational life until 2030 and an outstanding financing balance of about 40–50 million dollars. It has improved rural connectivity through radio bases, mobile telephony, and the broadcasting of TV and radio in communities of more than 50 inhabitants. Still, analysts point to limitations compared with technologies like low-Earth-orbit satellite Internet (LEO). While Evo Morales defends Bolivia’s technological sovereignty, he acknowledges risks from foreign companies, and President Rodrigo Paz has announced an audit to review its financial and operational performance.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-07T08:29:00-04:00",
+      "published_at_bo": "2026-02-07T08:29:00-04:00",
+      "fetched_at_utc": "2026-02-07T13:01:03.613626+00:00",
+      "day": "2026-02-07"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno activará seguro para cubrir daños a vehículos por gasolina “desestabilizada”",
+      "url": "https://eldeber.com.bo/economia/gobierno-activara-seguro-cubrir-danos-vehiculos-gasolina-desestabilizada_1770464154",
+      "summary": "El Gobierno, a través de YPFB Logística, anunció la activación de un seguro solidario de daño contra terceros para cubrir daños en vehículos causados por gasolina “desestabilizada”, evaluando cada caso y reparando directamente en talleres autorizados sin entregar dinero en efectivo. El ministro Medinaceli explicó que las evaluaciones técnicas determinarán el origen de los daños y que la gasolina comercializada mantiene buena calidad, invitando a la población a acudir a las estaciones de servicio con tranquilidad.",
+      "summary_es": "El Gobierno, a través de YPFB Logística, anunció la activación de un seguro solidario de daño contra terceros para cubrir daños en vehículos causados por gasolina “desestabilizada”, evaluando cada caso y reparando directamente en talleres autorizados sin entregar dinero en efectivo. El ministro Medinaceli explicó que las evaluaciones técnicas determinarán el origen de los daños y que la gasolina comercializada mantiene buena calidad, invitando a la población a acudir a las estaciones de servicio con tranquilidad.",
+      "summary_en": "The government, through YPFB Logística, announced the activation of a solidarity third-party damage insurance to cover vehicle damages caused by destabilized gasoline, evaluating each case and carrying out repairs directly at authorized workshops without cash payouts. Minister Medinaceli explained that technical assessments will determine the origin of the damages and that the gasoline sold remains of good quality, inviting the public to visit service stations with confidence.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-07T07:47:00-04:00",
+      "published_at_bo": "2026-02-07T07:47:00-04:00",
+      "fetched_at_utc": "2026-02-07T13:01:04.612247+00:00",
+      "day": "2026-02-07"
+    },
     {
       "source": "El Deber",
       "title": "Revelan que en el INRA de Santa Cruz solamente trabajaban 20 funcionarios",
