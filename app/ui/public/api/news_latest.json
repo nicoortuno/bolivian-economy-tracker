@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-07T13:48:34.742585+00:00",
+  "generated_at_utc": "2026-02-07T13:55:52.390884+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ante incremento de reclamos, Naabol realiza inspección nocturna en Viru Viru",
+      "url": "https://eldeber.com.bo/economia/incremento-reclamos-naabol-realiza-inspeccion-nocturna-viru-viru_1770471222",
+      "summary": "Naabol realizó una inspección técnica nocturna en el aeropuerto Viru Viru para optimizar los flujos de pasajeros y fortalecer el sistema de Facilitación (FAL), en coordinación con DGAC, Migración, Aduanas y aerolíneas, ante el incremento de reclamos de viajeros, especialmente de llegadas internacionales. Las autoridades buscan analizar equipamiento, infraestructura y distribución de flujos para agilizar la atención y esperan realizar operativos similares en otros aeropuertos.",
+      "summary_es": "Naabol realizó una inspección técnica nocturna en el aeropuerto Viru Viru para optimizar los flujos de pasajeros y fortalecer el sistema de Facilitación (FAL), en coordinación con DGAC, Migración, Aduanas y aerolíneas, ante el incremento de reclamos de viajeros, especialmente de llegadas internacionales. Las autoridades buscan analizar equipamiento, infraestructura y distribución de flujos para agilizar la atención y esperan realizar operativos similares en otros aeropuertos.",
+      "summary_en": "Naabol conducted a nighttime technical inspection at Viru Viru airport to optimize passenger flows and strengthen the Facilitation System (FAL), in coordination with DGAC, Migration, Customs, and airlines, amid rising traveler complaints, especially from international arrivals. Authorities aim to analyze equipment, infrastructure, and flow distribution to speed up service and plan similar operations at other airports.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-07T09:36:00-04:00",
+      "published_at_bo": "2026-02-07T09:36:00-04:00",
+      "fetched_at_utc": "2026-02-07T13:48:30.770626+00:00",
+      "day": "2026-02-07"
+    },
     {
       "source": "El Deber",
       "title": "Satélite Túpac Katari tiene vida útil hasta 2030 y aún restan entre $us 40 y 50 millones por pagar",
