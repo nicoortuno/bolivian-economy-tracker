@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-07T02:31:01.981452+00:00",
+  "generated_at_utc": "2026-02-07T02:50:33.780775+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El tren de pasajeros vuelve a la Chiquitania desde el 27 de febrero, tras seis años de suspensión",
+      "url": "https://eldeber.com.bo/economia/tren-pasajeros-vuelve-chiquitania-27-febrero-seis-anos-suspension_1770420888",
+      "summary": "El tren de pasajeros Santa Cruz–Puerto Quijarro volverá a operar a partir del 27 de febrero, tras seis años sin servicio, en un período inicial de seis meses definido por la ATT y la Ferroviaria Oriental y con un posible apoyo estatal para costear parte de los costos. Además, se inició un estudio de preinversión para conectar Motacucito–Mutún–Puerto Busch, buscando ampliar la red ferroviaria oriental en Bolivia.",
+      "summary_es": "El tren de pasajeros Santa Cruz–Puerto Quijarro volverá a operar a partir del 27 de febrero, tras seis años sin servicio, en un período inicial de seis meses definido por la ATT y la Ferroviaria Oriental y con un posible apoyo estatal para costear parte de los costos. Además, se inició un estudio de preinversión para conectar Motacucito–Mutún–Puerto Busch, buscando ampliar la red ferroviaria oriental en Bolivia.",
+      "summary_en": "The Santa Cruz–Puerto Quijarro passenger train will resume service on February 27 after six years without it, for an initial six-month period defined by the ATT and Ferroviaria Oriental, with possible state support to cover part of the costs. \n\nAdditionally, a pre-investment study has begun to connect Motacucito–Mutún–Puerto Busch, aiming to expand Bolivia’s eastern railway network.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-06T19:46:00-04:00",
+      "published_at_bo": "2026-02-06T19:46:00-04:00",
+      "fetched_at_utc": "2026-02-07T02:30:57.713263+00:00",
+      "day": "2026-02-06"
+    },
     {
       "source": "El Deber",
       "title": "Gasolina: YPFB refuerza controles, revisa licitación y descarta fallas en Potosí",
