@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-08T11:36:45.405480+00:00",
-  "count": 91,
+  "generated_at_utc": "2026-02-08T13:02:13.208058+00:00",
+  "count": 88,
   "items": [
     {
       "source": "El Deber",
@@ -1191,62 +1191,6 @@
       "published_at_bo": "2026-01-26T10:48:00-04:00",
       "fetched_at_utc": "2026-01-26T19:28:13.821562+00:00",
       "day": "2026-01-26"
-    },
-    {
-      "source": "El Deber",
-      "title": "Pollo y canasta básica: ¿han bajado los precios en las últimas dos semanas?",
-      "url": "https://eldeber.com.bo/economia/pollo-canasta-basica-han-bajado-precios-ultimas-dos-semanas_1769386657",
-      "summary": "Se observan movimientos en los precios de la canasta básica: el pollo registra variaciones por ciudad (Cochabamba alrededor de 20 Bs/kg; La Paz/El Alto cercano a 28 Bs/kg; Santa Cruz 18–20 Bs/kg, frente a semanas anteriores de menores de 15 Bs/kg) y se registran descensos moderados en arroz, azúcar y aceite, mientras que otros alimentos como la harina muestran tendencias al alza. Sin embargo, la inflación de alimentos sigue alta y erosiona el poder adquisitivo de las familias, aunque ocasionalmente haya alivio puntual por caídas puntuales.",
-      "summary_es": "Se observan movimientos en los precios de la canasta básica: el pollo registra variaciones por ciudad (Cochabamba alrededor de 20 Bs/kg; La Paz/El Alto cercano a 28 Bs/kg; Santa Cruz 18–20 Bs/kg, frente a semanas anteriores de menores de 15 Bs/kg) y se registran descensos moderados en arroz, azúcar y aceite, mientras que otros alimentos como la harina muestran tendencias al alza. Sin embargo, la inflación de alimentos sigue alta y erosiona el poder adquisitivo de las familias, aunque ocasionalmente haya alivio puntual por caídas puntuales.",
-      "summary_en": "Prices in the basic food basket are moving: chicken varies by city (Cochabamba around 20 Bs/kg; La Paz/El Alto about 28 Bs/kg; Santa Cruz 18–20 Bs/kg, after weeks when it was below 15 Bs/kg). There are moderate declines in rice, sugar, and oil, while other items like flour show an upward trend. However, food inflation remains high and erodes households’ purchasing power, even though occasional relief can come from sharp price drops.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-25T20:20:00-04:00",
-      "published_at_bo": "2026-01-25T20:20:00-04:00",
-      "fetched_at_utc": "2026-01-26T05:36:13.352483+00:00",
-      "day": "2026-01-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "El dólar paralelo se acerca al valor referencial del BCB: ¿qué implica para el país?",
-      "url": "https://eldeber.com.bo/economia/dolar-paralelo-acerca-valor-referencial-bcb-implica-pais_1769383451",
-      "summary": "En enero de 2026, el dólar paralelo en Bolivia se mantiene estable en torno a Bs 9,53–9,54, por debajo de los Bs 10, y se acerca al referencial del BCB, lo que podría indicar menor presión de demanda y una mayor estabilidad cambiaria. Aunque persiste una brecha con el tipo de cambio oficial, la moderación del paralelo podría beneficiar a importadores, comerciantes y ahorristas si se mantiene la tendencia.",
-      "summary_es": "En enero de 2026, el dólar paralelo en Bolivia se mantiene estable en torno a Bs 9,53–9,54, por debajo de los Bs 10, y se acerca al referencial del BCB, lo que podría indicar menor presión de demanda y una mayor estabilidad cambiaria. Aunque persiste una brecha con el tipo de cambio oficial, la moderación del paralelo podría beneficiar a importadores, comerciantes y ahorristas si se mantiene la tendencia.",
-      "summary_en": "In January 2026, Bolivia’s parallel (informal) dollar held steady at around Bs 9.53–9.54, below Bs 10, and moved closer to the central bank’s reference rate. This could indicate softer demand pressure and greater exchange-rate stability. Although the gap with the official rate persists, the moderation of the parallel rate could benefit importers, traders, and savers if the trend continues.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-25T20:01:00-04:00",
-      "published_at_bo": "2026-01-25T20:01:00-04:00",
-      "fetched_at_utc": "2026-01-26T04:19:05.704009+00:00",
-      "day": "2026-01-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "CAF convoca en Panamá a líderes globales para reposicionar a América Latina",
-      "url": "https://eldeber.com.bo/economia/caf-convoca-panama-lideres-globales-reposicionar-america-latina_1769357547",
-      "summary": "Sergio Díaz-Granados plantea la urgencia de reposicionar a América Latina y el Caribe en un mundo fragmentado y con tensiones geopolíticas, para que la región lidere en seguridad alimentaria, transición energética y gestión sostenible de recursos. El Foro Económico Internacional 2026, impulsado por CAF, busca convertir el diagnóstico en acción mediante una agenda de integración regional, desarrollo de bioeconomía y protección social inclusiva, promoviendo un multilateralismo regional y la cooperación para transformar recursos naturales en valor agregado.",
-      "summary_es": "Sergio Díaz-Granados plantea la urgencia de reposicionar a América Latina y el Caribe en un mundo fragmentado y con tensiones geopolíticas, para que la región lidere en seguridad alimentaria, transición energética y gestión sostenible de recursos. El Foro Económico Internacional 2026, impulsado por CAF, busca convertir el diagnóstico en acción mediante una agenda de integración regional, desarrollo de bioeconomía y protección social inclusiva, promoviendo un multilateralismo regional y la cooperación para transformar recursos naturales en valor agregado.",
-      "summary_en": "Sergio Díaz-Granados argues for the urgency of repositioning Latin America and the Caribbean in a fragmented world with geopolitical tensions, so the region can lead in food security, the energy transition, and sustainable resource management. The 2026 International Economic Forum, backed by CAF, seeks to turn the diagnosis into action with a regional integration agenda, the development of a bioeconomy, and inclusive social protection, promoting regional multilateralism and cooperation to convert natural resources into added value.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-25T12:19:00-04:00",
-      "published_at_bo": "2026-01-25T12:19:00-04:00",
-      "fetched_at_utc": "2026-01-25T21:24:30.376078+00:00",
-      "day": "2026-01-25"
-    },
-    {
-      "source": "El Deber",
-      "title": "ATT dispone tarifas máximas para vuelos aéreos nacionales",
-      "url": "https://eldeber.com.bo/economia/att-dispone-tarifas-maximas-vuelos-aereos-nacionales_1769350808",
-      "summary": "A partir del lunes 26 de enero entran en vigor tarifas máximas para pasajes aéreos nacionales, aplicables a 17 rutas existentes y 5 nuevas, con vigencia de 180 días, según la Resolución Administrativa Regulatoria ATT-DJ-RAR-TR LP 2/2026 firmada por Carlos Agreda. La ATT publicó el tarifario nacional correspondiente.",
-      "summary_es": "A partir del lunes 26 de enero entran en vigor tarifas máximas para pasajes aéreos nacionales, aplicables a 17 rutas existentes y 5 nuevas, con vigencia de 180 días, según la Resolución Administrativa Regulatoria ATT-DJ-RAR-TR LP 2/2026 firmada por Carlos Agreda. La ATT publicó el tarifario nacional correspondiente.",
-      "summary_en": "From Monday, January 26, maximum fares for domestic air travel will take effect, applying to 17 existing routes and 5 new ones, and will be valid for 180 days, according to Administrative Regulatory Resolution ATT-DJ-RAR-TR LP 2/2026 signed by Carlos Agreda. The ATT released the corresponding national tariff.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-25T10:20:00-04:00",
-      "published_at_bo": "2026-01-25T10:20:00-04:00",
-      "fetched_at_utc": "2026-01-25T19:21:37.215475+00:00",
-      "day": "2026-01-25"
     },
     {
       "source": "El Deber",
