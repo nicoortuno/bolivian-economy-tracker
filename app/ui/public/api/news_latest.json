@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-08T15:31:54.203803+00:00",
+  "generated_at_utc": "2026-02-08T15:41:37.155466+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gasolina defectuosa: cómo enfrentaron algunos países la compensación frente al reclamo de conductores",
+      "url": "https://eldeber.com.bo/economia/gasolina-defectuosa-enfrentaron-algunos-paises-compensacion-frente-reclamo-conductores_1770561274",
+      "summary": "La mala calidad de la gasolina en Bolivia escaló de queja técnica a demanda social, con sindicatos exigiendo compensaciones por daños a vehículos; el Gobierno anunció un seguro solidario, gestionado por YPFB y aseguradoras, para cubrir reparaciones verificadas en talleres autorizados, sin entrega de dinero en efectivo. Aun así, expertos señalan que la efectividad dependerá de criterios técnicos claros, talleres de confianza y rapidez en las gestiones.",
+      "summary_es": "La mala calidad de la gasolina en Bolivia escaló de queja técnica a demanda social, con sindicatos exigiendo compensaciones por daños a vehículos; el Gobierno anunció un seguro solidario, gestionado por YPFB y aseguradoras, para cubrir reparaciones verificadas en talleres autorizados, sin entrega de dinero en efectivo. Aun así, expertos señalan que la efectividad dependerá de criterios técnicos claros, talleres de confianza y rapidez en las gestiones.",
+      "summary_en": "The poor quality of gasoline in Bolivia has moved from a technical complaint to a social demand, with unions calling for compensation for vehicle damage. The government announced a solidarity insurance scheme, managed by YPFB and insurers, to cover repairs verified at authorized workshops, with no cash payouts. Still, experts say the scheme’s effectiveness will depend on clear technical criteria, trusted workshops, and swift processing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-08T10:40:00-04:00",
+      "published_at_bo": "2026-02-08T10:40:00-04:00",
+      "fetched_at_utc": "2026-02-08T15:31:51.357203+00:00",
+      "day": "2026-02-08"
+    },
     {
       "source": "El Deber",
       "title": "Choferes paceños decidirán este domingo si aceptan el seguro para motores dañados por combustible",
