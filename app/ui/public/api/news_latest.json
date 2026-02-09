@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-09T17:56:14.979881+00:00",
+  "generated_at_utc": "2026-02-09T18:04:36.452865+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Seguro Agrario indemniza a cerca de 5 mil familias de Chuquisaca, afectadas por eventos climáticos",
+      "url": "https://eldeber.com.bo/economia/seguro-agrario-indemniza-cerca-5-mil-familias-chuquisaca-afectadas-eventos-climaticos_1770654365",
+      "summary": "Más de 4.800 familias productoras de Chuquisaca recibieron indemnizaciones del Seguro Agrario Minka por daños en sus cultivos durante la campaña 2024–2025, ejecutadas por el INSA y que beneficiaron a 4.889 familias en 13 municipios y 222 comunidades. La inversión asciende a 3,81 millones de Bs para cubrir 3.817 hectáreas afectadas por fenómenos climáticos, con el objetivo de proteger la continuidad productiva y el sustento de las familias rurales.",
+      "summary_es": "Más de 4.800 familias productoras de Chuquisaca recibieron indemnizaciones del Seguro Agrario Minka por daños en sus cultivos durante la campaña 2024–2025, ejecutadas por el INSA y que beneficiaron a 4.889 familias en 13 municipios y 222 comunidades. La inversión asciende a 3,81 millones de Bs para cubrir 3.817 hectáreas afectadas por fenómenos climáticos, con el objetivo de proteger la continuidad productiva y el sustento de las familias rurales.",
+      "summary_en": "More than 4,800 farming families in Chuquisaca received payouts from the Minka Agricultural Insurance for crop losses during the 2024–2025 season, administered by INSA. The program benefited 4,889 families across 13 municipalities and 222 communities. The investment totaled 3.81 million bolivianos to cover 3,817 hectares affected by climate-related events, with the aim of safeguarding productive continuity and the livelihoods of rural families.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-09T12:30:00-04:00",
+      "published_at_bo": "2026-02-09T12:30:00-04:00",
+      "fetched_at_utc": "2026-02-09T17:56:10.201283+00:00",
+      "day": "2026-02-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Precio del dólar digital se mantiene por encima del referencial del BCB mientras el mercado se estabiliza",
+      "url": "https://eldeber.com.bo/economia/precio-dolar-digital-mantiene-encima-referencial-bcb-mientras-mercado-estabiliza_1770652908",
+      "summary": "El dólar paralelo sigue cotizando por encima del valor referencial oficial del BCB (6,86/6,96) pese a cierta estabilización; las cotizaciones digitales en plataformas P2P rondan 9,17–9,19 bolivianos y el dólar físico se negocia alrededor de 9,15–9,25, ante una escasez de divisas en el sistema formal que explica la persistente brecha.",
+      "summary_es": "El dólar paralelo sigue cotizando por encima del valor referencial oficial del BCB (6,86/6,96) pese a cierta estabilización; las cotizaciones digitales en plataformas P2P rondan 9,17–9,19 bolivianos y el dólar físico se negocia alrededor de 9,15–9,25, ante una escasez de divisas en el sistema formal que explica la persistente brecha.",
+      "summary_en": "The parallel dollar remains quoted above the Central Bank’s official reference range of 6.86/6.96 bolivianos, despite some stabilization; digital quotes on P2P platforms run around 9.17–9.19 bolivianos, and the physical dollar trades near 9.15–9.25 bolivianos, amid a shortage of foreign currency in the formal system that explains the persistent gap.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-09T12:17:00-04:00",
+      "published_at_bo": "2026-02-09T12:17:00-04:00",
+      "fetched_at_utc": "2026-02-09T17:56:11.201865+00:00",
+      "day": "2026-02-09"
+    },
     {
       "source": "El Deber",
       "title": "Con tensión y retraso, arranca reunión entre transporte, YPFB y cívicos por el seguro por gasolina defectuosa",
