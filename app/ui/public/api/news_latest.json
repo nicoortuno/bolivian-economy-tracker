@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-09T23:42:59.234561+00:00",
+  "generated_at_utc": "2026-02-09T23:54:04.328971+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "No conformes con el ferrobús, un sector de la Chiquitania amenaza con bloqueo de la vía si no vuelve el tren",
+      "url": "https://eldeber.com.bo/economia/no-conformes-ferrobus-sector-chiquitania-amenaza-bloqueo-via-si-no-vuelve-tren_1770674991",
+      "summary": "Representantes del Comité Impulsor advirtieron que, si no regresa el servicio de pasajeros para el 20 de febrero, retomarán el bloqueo de la vía férrea y obstruirán la circulación de los trenes de carga hacia la frontera con Brasil. Rechazan el ferrobús limitado y exigen el retorno del tren convencional de pasajeros con mayor capacidad y opción de carga, mientras FO y el Gobierno anuncian la operación del ferrobús a partir del 27 de febrero.",
+      "summary_es": "Representantes del Comité Impulsor advirtieron que, si no regresa el servicio de pasajeros para el 20 de febrero, retomarán el bloqueo de la vía férrea y obstruirán la circulación de los trenes de carga hacia la frontera con Brasil. Rechazan el ferrobús limitado y exigen el retorno del tren convencional de pasajeros con mayor capacidad y opción de carga, mientras FO y el Gobierno anuncian la operación del ferrobús a partir del 27 de febrero.",
+      "summary_en": "Representatives of the Steering Committee warned that if passenger service does not resume by February 20, they will restart the blockade of the rail line and disrupt the movement of freight trains toward the Brazil border. They reject the limited ferrobus and demand the return of the conventional passenger train with greater capacity and freight options, even as FO and the government announce the ferrobus will begin operating on February 27.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-09T18:42:00-04:00",
+      "published_at_bo": "2026-02-09T18:42:00-04:00",
+      "fetched_at_utc": "2026-02-09T23:42:56.307342+00:00",
+      "day": "2026-02-09"
+    },
     {
       "source": "El Deber",
       "title": "Transportistas y gobierno acuerdan acta de seis puntos por gasolina \"desestabilizada\", pero sigue la emergencia",
