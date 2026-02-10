@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-10T16:14:32.828931+00:00",
+  "generated_at_utc": "2026-02-10T17:18:54.805842+00:00",
   "count": 88,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La refinanciación al Tesoro y la independencia del Banco Central de Bolivia",
+      "url": "https://eldeber.com.bo/economia/refinanciacion-tesoro-independencia-banco-central-bolivia_1770737792",
+      "summary": "La operación del BCB no concede gasto nuevo ni aumenta el endeudamiento público, solo repara plazos de pagos al Tesoro y alivia liquidez de corto plazo; sin embargo, revela dominancia fiscal y condiciona la independencia operativa del banco ante un déficit estructural persistente. En ausencia de una corrección fiscal, el BCB seguirá desempeñando un papel de financiamiento indirecto del sector público, afectando la estabilidad monetaria a largo plazo.",
+      "summary_es": "La operación del BCB no concede gasto nuevo ni aumenta el endeudamiento público, solo repara plazos de pagos al Tesoro y alivia liquidez de corto plazo; sin embargo, revela dominancia fiscal y condiciona la independencia operativa del banco ante un déficit estructural persistente. En ausencia de una corrección fiscal, el BCB seguirá desempeñando un papel de financiamiento indirecto del sector público, afectando la estabilidad monetaria a largo plazo.",
+      "summary_en": "The Central Bank’s operation does not incur new spending or raise public debt; it merely adjusts payment deadlines with the Treasury and eases short-term liquidity. However, it reveals fiscal dominance and conditions the bank’s operational independence in the face of a persistent structural deficit. In the absence of fiscal consolidation, the Central Bank will continue to play an indirect financing role for the public sector, undermining long-term monetary stability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-10T11:36:00-04:00",
+      "published_at_bo": "2026-02-10T11:36:00-04:00",
+      "fetched_at_utc": "2026-02-10T16:14:27.420863+00:00",
+      "day": "2026-02-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Aeropuertos de Oruro y Tarija recibirán vuelos internacionales de forma temporal por Carnaval",
+      "url": "https://eldeber.com.bo/economia/aeropuertos-oruro-tarija-recibiran-vuelos-internacionales-forma-temporal-carnaval_1770736442",
+      "summary": "Del 12 al 18 de febrero de 2026, los aeropuertos Juan Mendoza (Oruro) y Oriel Lea Plaza (Tarija) podrán recibir vuelos internacionales de manera temporal para facilitar la llegada de visitantes durante el Carnaval, operando con servicios de Migración y Aduana bajo la normativa RAB 997. La medida busca mejorar la conectividad y descongestionar otros aeropuertos al permitir vuelos directos de Estados extranjeros hacia estas ciudades con alta afluencia turística.",
+      "summary_es": "Del 12 al 18 de febrero de 2026, los aeropuertos Juan Mendoza (Oruro) y Oriel Lea Plaza (Tarija) podrán recibir vuelos internacionales de manera temporal para facilitar la llegada de visitantes durante el Carnaval, operando con servicios de Migración y Aduana bajo la normativa RAB 997. La medida busca mejorar la conectividad y descongestionar otros aeropuertos al permitir vuelos directos de Estados extranjeros hacia estas ciudades con alta afluencia turística.",
+      "summary_en": "From February 12 to 18, 2026, Juan Mendoza Airport in Oruro and Oriel Lea Plaza Airport in Tarija will be able to receive international flights on a temporary basis to facilitate the arrival of visitors for Carnival, with immigration and customs services operating under RAB 997 regulations. The measure aims to improve connectivity and ease congestion at other airports by allowing direct flights from foreign countries to these high-tourism cities.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-10T11:20:00-04:00",
+      "published_at_bo": "2026-02-10T11:20:00-04:00",
+      "fetched_at_utc": "2026-02-10T16:14:28.438885+00:00",
+      "day": "2026-02-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Transportistas denuncian que seguros rechazan cubrir daños por gasolina de mala calidad",
+      "url": "https://eldeber.com.bo/economia/transportistas-denuncian-seguros-rechazan-cubrir-danos-gasolina-mala-calidad_1770735349",
+      "summary": "Limbert Tancara denuncia que, pese a pólizas vigentes, las aseguradoras se negaron a cubrir los daños causados por gasolina en mal estado, dejando a los transportistas en un vacío de responsabilidad, ya que las garantías solo cubren fallas mecánicas. El Gobierno y YPFB proponen activar un seguro solidario de daño a terceros para agilizar los reclamos y cubrir las fallas técnicas vinculadas al combustible.",
+      "summary_es": "Limbert Tancara denuncia que, pese a pólizas vigentes, las aseguradoras se negaron a cubrir los daños causados por gasolina en mal estado, dejando a los transportistas en un vacío de responsabilidad, ya que las garantías solo cubren fallas mecánicas. El Gobierno y YPFB proponen activar un seguro solidario de daño a terceros para agilizar los reclamos y cubrir las fallas técnicas vinculadas al combustible.",
+      "summary_en": "Limbert Tancara says that, despite valid policies, insurers refused to cover damages caused by bad-quality gasoline, leaving transporters with a liability gap since warranties only cover mechanical failures. The Government and YPFB propose activating a solidarity third-party damage insurance to speed up claims and cover technical faults linked to the fuel.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-10T11:11:00-04:00",
+      "published_at_bo": "2026-02-10T11:11:00-04:00",
+      "fetched_at_utc": "2026-02-10T16:14:29.444035+00:00",
+      "day": "2026-02-10"
+    },
     {
       "source": "El Deber",
       "title": "Activan mesas técnicas para definir seguro por daños de gasolina “desestabilizada”",
