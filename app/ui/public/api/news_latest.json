@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-11T19:10:56.771817+00:00",
+  "generated_at_utc": "2026-02-11T19:20:51.221649+00:00",
   "count": 92,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Planta del Mutún sigue paralizada; contrato “llave en mano” fue modificado siete veces",
+      "url": "https://eldeber.com.bo/economia/planta-mutun-sigue-paralizada-contrato-llave-mano-fue-modificado-siete-veces_1770829522",
+      "summary": "La planta siderúrgica del Mutún, entregada como “llave en mano” pero paralizada y sin producción, no funciona pese a múltiples cambios al contrato y a una recepción prematura; las boletas de garantía vencidas limitan la protección del Estado y la ESM busca la rescisión del contrato con Sinosteel. Además, hay una querella penal en curso para esclarecer responsabilidades por el estado actual y el daño económico.",
+      "summary_es": "La planta siderúrgica del Mutún, entregada como “llave en mano” pero paralizada y sin producción, no funciona pese a múltiples cambios al contrato y a una recepción prematura; las boletas de garantía vencidas limitan la protección del Estado y la ESM busca la rescisión del contrato con Sinosteel. Además, hay una querella penal en curso para esclarecer responsabilidades por el estado actual y el daño económico.",
+      "summary_en": "The Mutún steel plant, delivered as a turnkey project but now paralyzed and non-operational, does not function despite multiple contract changes and an early handover. The expired guarantee bonds limit the state's protections, and ESM is pursuing termination of the contract with Sinosteel. Additionally, a criminal complaint has been filed to determine responsibilities for the current condition and the resulting economic damage.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T13:14:00-04:00",
+      "published_at_bo": "2026-02-11T13:14:00-04:00",
+      "fetched_at_utc": "2026-02-11T19:10:50.941967+00:00",
+      "day": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "El 80% del parque automotor adquiere el SOAT 2026",
+      "url": "https://eldeber.com.bo/economia/80-parque-automotor-adquiere-soat-2026_1770826939",
+      "summary": "Univida informó que se vendieron más de 1,4 millones de pólizas del SOAT 2026, equivalente al 80% del parque automotor nacional, y lanzó brigadas de control para verificar que los vehículos cuenten con el seguro, no haya consumo de alcohol y no haya sobreprecios. Estas brigadas se enfocan principalmente en la ruta La Paz–Oruro y luego se extenderán a Cochabamba.",
+      "summary_es": "Univida informó que se vendieron más de 1,4 millones de pólizas del SOAT 2026, equivalente al 80% del parque automotor nacional, y lanzó brigadas de control para verificar que los vehículos cuenten con el seguro, no haya consumo de alcohol y no haya sobreprecios. Estas brigadas se enfocan principalmente en la ruta La Paz–Oruro y luego se extenderán a Cochabamba.",
+      "summary_en": "Univida said that more than 1.4 million SOAT 2026 policies have been sold, representing about 80% of the national vehicle fleet, and that it has launched inspection brigades to verify that vehicles are insured, that drivers are not under the influence of alcohol, and that there is no price gouging. These brigades will focus mainly on the La Paz–Oruro corridor and then expand to Cochabamba.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T12:39:00-04:00",
+      "published_at_bo": "2026-02-11T12:39:00-04:00",
+      "fetched_at_utc": "2026-02-11T19:10:51.930193+00:00",
+      "day": "2026-02-11"
+    },
     {
       "source": "El Deber",
       "title": "ESM activa querella penal por presunto daño económico al Estado en el proyecto Mutún",
