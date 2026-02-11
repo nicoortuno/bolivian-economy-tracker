@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-11T16:06:51.911172+00:00",
+  "generated_at_utc": "2026-02-11T17:18:24.453430+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ESM activa querella penal por presunto daño económico al Estado en el proyecto Mutún",
+      "url": "https://eldeber.com.bo/economia/esm-activa-querella-penal-presunto-dano-economico-estado-proyecto-mutun_1770820437",
+      "summary": "El presidente ejecutivo de la Empresa Siderúrgica del Mutún (ESM), Álvaro Tejerina, presentó una querella penal ante la Fiscalía de Santa Cruz por presuntos incumplimientos y daño económico al Estado vinculados a la gestión y ejecución de contratos del proyecto Mutún, señalando como primeros denunciados a exfuncionarios y a la empresa Sino Steel. La denuncia, indicó, será ampliada conforme avance la investigación y busca esclarecer responsables y delitos asociados a la demora en la producción de acero.",
+      "summary_es": "El presidente ejecutivo de la Empresa Siderúrgica del Mutún (ESM), Álvaro Tejerina, presentó una querella penal ante la Fiscalía de Santa Cruz por presuntos incumplimientos y daño económico al Estado vinculados a la gestión y ejecución de contratos del proyecto Mutún, señalando como primeros denunciados a exfuncionarios y a la empresa Sino Steel. La denuncia, indicó, será ampliada conforme avance la investigación y busca esclarecer responsables y delitos asociados a la demora en la producción de acero.",
+      "summary_en": "The chief executive of the Mutún Ironworks Company (ESM), Álvaro Tejerina, filed a criminal complaint with the Santa Cruz Prosecutor’s Office over alleged breaches and economic damage to the state connected with the management and execution of contracts for the Mutún project. He named former officials and the company Sino Steel as the initial defendants. Tejerina said the complaint will be expanded as the investigation progresses and aims to identify those responsible and the crimes linked to delays in steel production.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T11:59:00-04:00",
+      "published_at_bo": "2026-02-11T11:59:00-04:00",
+      "fetched_at_utc": "2026-02-11T16:06:46.165343+00:00",
+      "day": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bolivia se ubica como el tercer país más corrupto de Sudamérica, según estudio internacional",
+      "url": "https://eldeber.com.bo/economia/bolivia-ubica-tercer-pais-corrupto-sudamerica-estudio-internacional_1770823299",
+      "summary": "Según el IPC 2025, Bolivia ocupa el tercer lugar en corrupción en Sudamérica y presenta una corrupción estructural que frena el crecimiento, eleva el costo de la inversión y debilita la confianza jurídica. El economista Fernando Romero propone fortalecer la independencia judicial, transparentar contratos sensibles, combatir el lavado de dinero, digitalizar las compras públicas y proteger a denunciantes para revertir la tendencia.",
+      "summary_es": "Según el IPC 2025, Bolivia ocupa el tercer lugar en corrupción en Sudamérica y presenta una corrupción estructural que frena el crecimiento, eleva el costo de la inversión y debilita la confianza jurídica. El economista Fernando Romero propone fortalecer la independencia judicial, transparentar contratos sensibles, combatir el lavado de dinero, digitalizar las compras públicas y proteger a denunciantes para revertir la tendencia.",
+      "summary_en": "According to the 2025 Corruption Perceptions Index, Bolivia ranks third in corruption in South America and exhibits structural corruption that hampers growth, raises investment costs, and weakens trust in the judiciary. Economist Fernando Romero proposes strengthening judicial independence, increasing transparency of sensitive contracts, combating money laundering, digitalizing public procurement, and protecting whistleblowers to reverse the trend.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T11:44:00-04:00",
+      "published_at_bo": "2026-02-11T11:44:00-04:00",
+      "fetched_at_utc": "2026-02-11T16:06:47.143494+00:00",
+      "day": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Crisis por combustible: Margot Ayala deja la ANH y denuncia presiones internas",
+      "url": "https://eldeber.com.bo/economia/renuncia-directora-anh-polemica-calidad-gasolina_1770824111",
+      "summary": "Margot Ayala renunció como directora ejecutiva de la ANH tras el escándalo por la calidad de la gasolina, asegurando que deja una institución ordenada, transparente y comprometida con combatir la corrupción, pese a críticas y presiones internas. En su intervención explicó los límites de la ANH frente al operador y adelantó que se remitirán sanciones cuando corresponda, tras detectar combustible fuera de norma y realizar esfuerzos de verificación en toda la cadena de hidrocarburos.",
+      "summary_es": "Margot Ayala renunció como directora ejecutiva de la ANH tras el escándalo por la calidad de la gasolina, asegurando que deja una institución ordenada, transparente y comprometida con combatir la corrupción, pese a críticas y presiones internas. En su intervención explicó los límites de la ANH frente al operador y adelantó que se remitirán sanciones cuando corresponda, tras detectar combustible fuera de norma y realizar esfuerzos de verificación en toda la cadena de hidrocarburos.",
+      "summary_en": "Margot Ayala resigned as chief executive of the ANH in the wake of the gasoline quality scandal, saying she leaves behind an orderly, transparent institution committed to fighting corruption, despite criticism and internal pressure. In her remarks, she outlined the ANH’s limits in relation to the operator and indicated that sanctions will be pursued when appropriate after detecting substandard fuel and carrying out verification efforts across the entire hydrocarbon supply chain.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T11:35:00-04:00",
+      "published_at_bo": "2026-02-11T11:35:00-04:00",
+      "fetched_at_utc": "2026-02-11T16:06:48.102956+00:00",
+      "day": "2026-02-11"
+    },
     {
       "source": "El Deber",
       "title": "Akly: “Nos están mintiendo descaradamente, YPFB no compra con sobreprecio”",
