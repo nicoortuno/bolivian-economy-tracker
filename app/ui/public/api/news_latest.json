@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-12T21:39:39.790820+00:00",
+  "generated_at_utc": "2026-02-12T21:50:36.505365+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Complejo Siderúrgico del Mutún: la “ciudad de acero” que hoy respira óxido y maleza",
+      "url": "https://eldeber.com.bo/economia/complejo-siderurgico-mutun-ciudad-acero-hoy-respira-oxido-maleza_1770931415",
+      "summary": "El Complejo Siderúrgico de Mutún, inaugurado en 2025, prometía producir 200 mil toneladas de acero, pero a la fecha no ha generado ni una tonelada y permanece en gran parte paralizado, con más de 300 observaciones a la obra y riesgos ambientales por un dique de relaves no instalado. La mayoría de los trabajadores son chinos de Sinosteel y la ESM acusa incumplimientos contractuales, habiendo iniciado acciones legales contra exejecutivos y buscando subsanar las deficiencias para que la planta funcione.",
+      "summary_es": "El Complejo Siderúrgico de Mutún, inaugurado en 2025, prometía producir 200 mil toneladas de acero, pero a la fecha no ha generado ni una tonelada y permanece en gran parte paralizado, con más de 300 observaciones a la obra y riesgos ambientales por un dique de relaves no instalado. La mayoría de los trabajadores son chinos de Sinosteel y la ESM acusa incumplimientos contractuales, habiendo iniciado acciones legales contra exejecutivos y buscando subsanar las deficiencias para que la planta funcione.",
+      "summary_en": "The Mutún Steel Complex, inaugurated in 2025 with a promise to produce 200,000 tons of steel, has yet to generate a single ton and remains largely paralyzed. More than 300 inspections have flagged issues, and there are environmental risks due to a tailings dam that has not been installed. Most of the workforce is Chinese from Sinosteel, and ESM accuses contractual breaches, having filed lawsuits against former executives and seeking to remedy the deficiencies so the plant can operate.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-12T17:39:00-04:00",
+      "published_at_bo": "2026-02-12T17:39:00-04:00",
+      "fetched_at_utc": "2026-02-12T21:39:35.541777+00:00",
+      "day": "2026-02-12"
+    },
     {
       "source": "El Deber",
       "title": "YPFB anuncia que entregará documentación a la Comisión de la Verdad II sobre compra y calidad de combustibles",
