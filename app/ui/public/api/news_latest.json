@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-12T02:45:12.662205+00:00",
+  "generated_at_utc": "2026-02-12T03:21:47.120784+00:00",
   "count": 95,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Así se tramitarán las indemnizaciones por daños a motorizados tras reclamos por la gasolina",
+      "url": "https://eldeber.com.bo/economia/asi-tramitaran-indemnizaciones-danos-motorizados-reclamos-gasolina_1770860151",
+      "summary": "YPFB, la ANH y representantes de mototaxistas acordaron un mecanismo de indemnización por daños a motorizados atribuidos a la calidad de la gasolina, gestionado a través del seguro mediante un Formulario de Registro de Afectación y una declaración jurada con documentación de respaldo. El proceso incluye tres categorías de daño (leves, graves y gravísimos), evaluación técnica (peritaje) y, en casos excepcionales, certificación federativa para propietarios sin documentación; se convocará una nueva mesa el 19 de febrero para revisar el control de calidad de la gasolina.",
+      "summary_es": "YPFB, la ANH y representantes de mototaxistas acordaron un mecanismo de indemnización por daños a motorizados atribuidos a la calidad de la gasolina, gestionado a través del seguro mediante un Formulario de Registro de Afectación y una declaración jurada con documentación de respaldo. El proceso incluye tres categorías de daño (leves, graves y gravísimos), evaluación técnica (peritaje) y, en casos excepcionales, certificación federativa para propietarios sin documentación; se convocará una nueva mesa el 19 de febrero para revisar el control de calidad de la gasolina.",
+      "summary_en": "YPFB, the ANH, and representatives of moto-taxi drivers agreed on a compensation mechanism for damages to motorized vehicles attributed to gasoline quality, to be managed through insurance using a Damage Registration Form and an affidavit with supporting documentation. The process includes three damage categories (mild, serious, and gravest), technical assessment (appraisal), and, in exceptional cases, federal certification for owners without documentation. A new roundtable will be convened on February 19 to review gasoline quality control.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T21:47:00-04:00",
+      "published_at_bo": "2026-02-11T21:47:00-04:00",
+      "fetched_at_utc": "2026-02-12T02:45:09.846336+00:00",
+      "day": "2026-02-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Caso Botrading: Anotan bienes de casi 30 implicados y tramita sello rojo contra expresidente de YPFB",
+      "url": "https://eldeber.com.bo/economia/caso-botrading-anotan-bienes-casi-30-implicados-tramita-sello-rojo-expresidente-ypfb_1770851955",
+      "summary": "El Procurador General Hugo León La Faye informó la anotación preventiva de bienes de casi 30 personas vinculadas al caso Botrading II para recuperar montos presuntamente malversados, y anunció que, tras las imputaciones, se solicitará el remate de esos bienes. También indicó que en Botrading I hay una imputación contra Armin Dorgathen Tapia y una búsqueda internacional activa para su extradición, mientras la Comisión de la Verdad de Hidrocarburos continúa las investigaciones para esclarecer responsabilidades administrativas y penales.",
+      "summary_es": "El Procurador General Hugo León La Faye informó la anotación preventiva de bienes de casi 30 personas vinculadas al caso Botrading II para recuperar montos presuntamente malversados, y anunció que, tras las imputaciones, se solicitará el remate de esos bienes. También indicó que en Botrading I hay una imputación contra Armin Dorgathen Tapia y una búsqueda internacional activa para su extradición, mientras la Comisión de la Verdad de Hidrocarburos continúa las investigaciones para esclarecer responsabilidades administrativas y penales.",
+      "summary_en": "Attorney General Hugo León La Faye announced the provisional seizure of assets belonging to nearly 30 people linked to the Botrading II case to recover allegedly embezzled funds, and said that once charges are filed, a sale of those assets will be pursued. He also noted that in Botrading I there is an indictment against Armin Dorgathen Tapia and an active international search for his extradition, while the Truth Commission on Hydrocarbons continues investigations to clarify administrative and criminal responsibilities.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-11T19:48:00-04:00",
+      "published_at_bo": "2026-02-11T19:48:00-04:00",
+      "fetched_at_utc": "2026-02-12T02:45:10.825225+00:00",
+      "day": "2026-02-11"
+    },
     {
       "source": "El Deber",
       "title": "Instalan mesas técnicas para definir cómo se aplicará el seguro de Unibienes",
