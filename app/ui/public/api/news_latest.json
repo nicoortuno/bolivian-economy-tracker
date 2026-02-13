@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-13T14:47:31.439571+00:00",
+  "generated_at_utc": "2026-02-13T15:01:13.473058+00:00",
   "count": 93,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia es el país más barato para vivir de la región",
+      "url": "https://eldeber.com.bo/economia/bolivia-pais-barato-vivir-region_1770991238",
+      "summary": "Según Numbeo, Bolivia es el país más barato de Sudamérica para vivir en 2026, con un índice costo de vida más alquiler cercano a 19,98; Forbes también la coloca a la cabeza del ranking regional con 18,98. A continuación se sitúan Paraguay, Brasil y Ecuador, mientras Uruguay es el más caro de la región, con 37,32.",
+      "summary_es": "Según Numbeo, Bolivia es el país más barato de Sudamérica para vivir en 2026, con un índice costo de vida más alquiler cercano a 19,98; Forbes también la coloca a la cabeza del ranking regional con 18,98. A continuación se sitúan Paraguay, Brasil y Ecuador, mientras Uruguay es el más caro de la región, con 37,32.",
+      "summary_en": "According to Numbeo, Bolivia is the cheapest country in South America to live in 2026, with a cost-of-living index including rent of about 19.98; Forbes also places it at the top of the regional rankings, at 18.98. Paraguay, Brazil, and Ecuador follow, while Uruguay is the most expensive in the region, at 37.32.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-13T10:31:00-04:00",
+      "published_at_bo": "2026-02-13T10:31:00-04:00",
+      "fetched_at_utc": "2026-02-13T14:47:29.227441+00:00",
+      "day": "2026-02-13"
+    },
     {
       "source": "El Deber",
       "title": "YPFB, ANH y surtidores ajustan distribución para evitar desabastecimiento en carnaval",
