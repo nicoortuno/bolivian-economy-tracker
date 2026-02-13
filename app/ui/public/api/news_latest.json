@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-13T02:45:51.408432+00:00",
+  "generated_at_utc": "2026-02-13T03:23:03.421132+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB, ANH y surtidores ajustan distribución para evitar desabastecimiento en carnaval",
+      "url": "https://eldeber.com.bo/economia/ypfb-anh-surtidores-ajustan-distribucion-evitar-desabastecimiento-carnaval_1770944866",
+      "summary": "YPFB, ANH y Asosur acordaron una nueva logística de distribución de combustibles para garantizar el suministro durante el feriado de carnaval, usando dos tanques exclusivos con Discar para alcanzar un despacho diario de 1,2 millones de litros y normalizar la entrega para sábado. La ANH continuará supervisando los controles y la calidad del combustible, manteniendo la coordinación con los surtidores y los actores de la cadena de suministro.",
+      "summary_es": "YPFB, ANH y Asosur acordaron una nueva logística de distribución de combustibles para garantizar el suministro durante el feriado de carnaval, usando dos tanques exclusivos con Discar para alcanzar un despacho diario de 1,2 millones de litros y normalizar la entrega para sábado. La ANH continuará supervisando los controles y la calidad del combustible, manteniendo la coordinación con los surtidores y los actores de la cadena de suministro.",
+      "summary_en": "YPFB, ANH, and Asosur have agreed on a new fuel distribution plan to ensure supply during the Carnival holiday, using two exclusive tanks with Discar to reach a daily dispatch of 1.2 million liters and normalize deliveries by Saturday. ANH will continue overseeing controls and fuel quality, maintaining coordination with the stations and other supply-chain stakeholders.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-12T21:19:00-04:00",
+      "published_at_bo": "2026-02-12T21:19:00-04:00",
+      "fetched_at_utc": "2026-02-13T02:45:45.367097+00:00",
+      "day": "2026-02-12"
+    },
+    {
+      "source": "El Deber",
+      "title": "CIAT cumple 51 años: hasta el 80% del arroz que se produce en Bolivia nace de su investigación",
+      "url": "https://eldeber.com.bo/economia/ciat-cumple-51-anos-80-arroz-produce-bolivia-nace-investigacion_1770945230",
+      "summary": "El CIAT celebra 51 años con un impacto decisivo en Bolivia, especialmente en arroz, donde hasta el 80% de la siembra utiliza semilla con su genética gestionada a través del FLAR. Además, ha contribuido al mejoramiento de otros granos como el trigo y apunta a incrementar rendimientos por hectárea con criterios de sostenibilidad sin ampliar la superficie cultivada.",
+      "summary_es": "El CIAT celebra 51 años con un impacto decisivo en Bolivia, especialmente en arroz, donde hasta el 80% de la siembra utiliza semilla con su genética gestionada a través del FLAR. Además, ha contribuido al mejoramiento de otros granos como el trigo y apunta a incrementar rendimientos por hectárea con criterios de sostenibilidad sin ampliar la superficie cultivada.",
+      "summary_en": "CIAT marks 51 years with a decisive impact in Bolivia, especially in rice, where up to 80% of sowing uses seed carrying its genetics managed through FLAR. It has also contributed to the improvement of other grains such as wheat, and aims to boost yields per hectare under sustainability criteria without expanding the cultivated area.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-12T21:16:00-04:00",
+      "published_at_bo": "2026-02-12T21:16:00-04:00",
+      "fetched_at_utc": "2026-02-13T02:45:46.330419+00:00",
+      "day": "2026-02-12"
+    },
+    {
+      "source": "El Deber",
+      "title": "Fiscalía ordena la aprehensión del exdirector jurídico de YPFB por el caso Botrading",
+      "url": "https://eldeber.com.bo/economia/fiscalia-ordena-aprehension-exdirector-juridico-ypfb-caso-botrading_1770940104",
+      "summary": "El Ministerio Público ordenó la aprehensión del exdirector jurídico de YPFB en la investigación del caso Botrading, ampliando la indagación a otros cinco exfuncionarios que suppuestamente aprobaron contratos cuestionados. La autoridad informó que el investigado tenía conocimiento de los informes legales y administrativos que validaron dichos contratos en 2023 y 2025, y fue imputado por incumplimiento de deberes y conducta antieconómica.",
+      "summary_es": "El Ministerio Público ordenó la aprehensión del exdirector jurídico de YPFB en la investigación del caso Botrading, ampliando la indagación a otros cinco exfuncionarios que suppuestamente aprobaron contratos cuestionados. La autoridad informó que el investigado tenía conocimiento de los informes legales y administrativos que validaron dichos contratos en 2023 y 2025, y fue imputado por incumplimiento de deberes y conducta antieconómica.",
+      "summary_en": "The Public Prosecutor’s Office ordered the arrest of the former legal director of YPFB as part of the Botrading case, expanding the investigation to five other former officials who allegedly approved the questioned contracts. Authorities said the person under investigation was aware of the legal and administrative reports that validated those contracts in 2023 and 2025, and he has been charged with breach of duties and anti-economic conduct.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-12T19:51:00-04:00",
+      "published_at_bo": "2026-02-12T19:51:00-04:00",
+      "fetched_at_utc": "2026-02-13T02:45:47.284577+00:00",
+      "day": "2026-02-12"
+    },
     {
       "source": "El Deber",
       "title": "Sector arrocero entra en emergencia por saturación del mercado y riesgo para la próxima campaña",
