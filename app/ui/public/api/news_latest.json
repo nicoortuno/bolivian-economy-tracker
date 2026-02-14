@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-14T14:46:13.041892+00:00",
-  "count": 98,
+  "generated_at_utc": "2026-02-14T15:31:08.109611+00:00",
+  "count": 99,
   "items": [
     {
       "source": "El Deber",
@@ -1331,20 +1331,6 @@
       "published_at_bo": "2026-02-01T04:00:00-04:00",
       "fetched_at_utc": "2026-02-01T08:39:18.050584+00:00",
       "day": "2026-02-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "El presidente elimina el IVA para importación de hidrocarburos, a través de decreto con firma digital",
-      "url": "https://eldeber.com.bo/economia/presidente-elimina-iva-importacion-hidrocarburos-traves-decreto-firma-digital_1769869895",
-      "summary": "El Decreto Supremo 5533, aprobado por el presidente Rodrigo Paz mediante firma digital prevista en el DS 5515 y ya publicado en la Gaceta Oficial, exime del IVA la importación de hidrocarburos como petróleo crudo, gasolinas y diésel. Este beneficio aplica a personas naturales o jurídicas que importen dichos productos, incluso cuando las autoridades estaban fuera del país.",
-      "summary_es": "El Decreto Supremo 5533, aprobado por el presidente Rodrigo Paz mediante firma digital prevista en el DS 5515 y ya publicado en la Gaceta Oficial, exime del IVA la importación de hidrocarburos como petróleo crudo, gasolinas y diésel. Este beneficio aplica a personas naturales o jurídicas que importen dichos productos, incluso cuando las autoridades estaban fuera del país.",
-      "summary_en": "Supreme Decree 5533, approved by President Rodrigo Paz with a digital signature provided for in Decree DS 5515 and already published in the Official Gazette, exempts the import of hydrocarbons—such as crude oil, gasoline, and diesel—from value-added tax (VAT). The benefit applies to natural or legal persons who import these products, even when the authorities were out of the country.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-01-31T10:45:00-04:00",
-      "published_at_bo": "2026-01-31T10:45:00-04:00",
-      "fetched_at_utc": "2026-01-31T19:25:17.101639+00:00",
-      "day": "2026-01-31"
     },
     {
       "source": "El Deber",
