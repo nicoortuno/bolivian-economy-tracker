@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-14T16:37:09.151121+00:00",
+  "generated_at_utc": "2026-02-14T16:49:13.071104+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ABC asegura que la red vial está expedita en Carnaval; se levantaron los bloqueos en Cochabamba",
+      "url": "https://eldeber.com.bo/economia/abc-asegura-red-vial-esta-expedita-carnaval-levantaron-bloqueos-cochabamba_1771084873",
+      "summary": "La Administradora Boliviana de Carreteras (ABC) informó que la Red Vial Fundamental está completamente habilitada para la circulación durante el Carnaval, con tramos despejados y refacciones reprogramadas para garantizar el tránsito. Aun así, recomendó consultar la información de la Unidad de Tránsito y tomar precauciones por posibles lluvias y visibilidad; además, se registraron bloqueos esporádicos que fueron levantados y un corte temporal en Tarumá, Santa Cruz, que ya fue resuelto.",
+      "summary_es": "La Administradora Boliviana de Carreteras (ABC) informó que la Red Vial Fundamental está completamente habilitada para la circulación durante el Carnaval, con tramos despejados y refacciones reprogramadas para garantizar el tránsito. Aun así, recomendó consultar la información de la Unidad de Tránsito y tomar precauciones por posibles lluvias y visibilidad; además, se registraron bloqueos esporádicos que fueron levantados y un corte temporal en Tarumá, Santa Cruz, que ya fue resuelto.",
+      "summary_en": "The Bolivian Road Administration (ABC) said that the Fundamental Road Network is fully open to traffic for Carnival, with clear stretches and repairs rescheduled to ensure smooth transit. Still, it advised motorists to check the Traffic Unit for information and to take precautions for possible rain and reduced visibility. Sporadic blockages were reported but have been cleared, and there was a temporary closure in Tarumá, Santa Cruz, which has since been resolved.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-14T12:05:00-04:00",
+      "published_at_bo": "2026-02-14T12:05:00-04:00",
+      "fetched_at_utc": "2026-02-14T16:37:05.323137+00:00",
+      "day": "2026-02-14"
+    },
     {
       "source": "El Deber",
       "title": "App “Mi Carnaval” ofrece guía turística y gastronómica de Oruro con acceso sin internet",
