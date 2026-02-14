@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-14T15:31:08.109611+00:00",
+  "generated_at_utc": "2026-02-14T15:41:07.607394+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "App “Mi Carnaval” ofrece guía turística y gastronómica de Oruro con acceso sin internet",
+      "url": "https://eldeber.com.bo/economia/app-carnaval-ofrece-guia-turistica-gastronomica-oruro-acceso-internet_1771082279",
+      "summary": "“Mi Carnaval” es una guía digital gratuita, desarrollada por Mi Teleférico y el Viceministerio de Culturas y Folklore, que funciona sin conexión y ofrece el programa de actividades, recorridos de las fraternidades, atractivos turísticos, ubicaciones de servicios y 28 recomendaciones gastronómicas certificadas. La iniciativa se complementa con un tren carnavalero para trasladar a los visitantes y controles interinstitucionales para reforzar la seguridad durante estas festividades en Oruro.",
+      "summary_es": "“Mi Carnaval” es una guía digital gratuita, desarrollada por Mi Teleférico y el Viceministerio de Culturas y Folklore, que funciona sin conexión y ofrece el programa de actividades, recorridos de las fraternidades, atractivos turísticos, ubicaciones de servicios y 28 recomendaciones gastronómicas certificadas. La iniciativa se complementa con un tren carnavalero para trasladar a los visitantes y controles interinstitucionales para reforzar la seguridad durante estas festividades en Oruro.",
+      "summary_en": "“Mi Carnaval” is a free digital guide developed by Mi Teleférico and the Vice Ministry of Cultures and Folklore. It operates offline and provides the activities schedule, tours of the fraternities, tourist attractions, service locations, and 28 certified dining recommendations. The initiative is complemented by a carnival train to transport visitors and interagency security checks to reinforce safety during these festivities in Oruro.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-14T11:21:00-04:00",
+      "published_at_bo": "2026-02-14T11:21:00-04:00",
+      "fetched_at_utc": "2026-02-14T15:31:05.116283+00:00",
+      "day": "2026-02-14"
+    },
+    {
+      "source": "El Deber",
+      "title": "Filas persisten en surtidores; este sábado vence el plazo de YPFB para normalizar la gasolina en Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/filas-persisten-surtidores-este-sabado-vence-plazo-ypfb-normalizar-gasolina-santa-cruz_1771080945",
+      "summary": "Se reportaron largas filas en los surtidores de Santa Cruz ante la incertidumbre por la provisión de gasolina y el inicio del feriado largo, mientras YPFB anunció que la normalización está prevista para este sábado tras una contingencia por un cuello de botella logístico en la planta de Palmasola. Paralelamente, la estatal mantiene investigaciones sobre presunto sabotaje y adulteración de combustible, y se activó un acuerdo con la empresa Discar para reforzar el despacho con 5 millones de litros en tanques.",
+      "summary_es": "Se reportaron largas filas en los surtidores de Santa Cruz ante la incertidumbre por la provisión de gasolina y el inicio del feriado largo, mientras YPFB anunció que la normalización está prevista para este sábado tras una contingencia por un cuello de botella logístico en la planta de Palmasola. Paralelamente, la estatal mantiene investigaciones sobre presunto sabotaje y adulteración de combustible, y se activó un acuerdo con la empresa Discar para reforzar el despacho con 5 millones de litros en tanques.",
+      "summary_en": "Long lines formed at Santa Cruz gas stations amid uncertainty over gasoline supplies and the start of the long holiday weekend, as YPFB announced that normalization is expected this Saturday after a contingency caused by a logistics bottleneck at the Palmasola plant. Separately, the state oil company continues investigations into alleged sabotage and fuel adulteration, and an agreement with Discar has been activated to reinforce dispatch with 5 million liters in tanks.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-14T11:00:00-04:00",
+      "published_at_bo": "2026-02-14T11:00:00-04:00",
+      "fetched_at_utc": "2026-02-14T15:31:06.099787+00:00",
+      "day": "2026-02-14"
+    },
     {
       "source": "El Deber",
       "title": "Arroceros advierten pérdidas por contrabando y altos costos: “El sector está en riesgo",
