@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-14T19:29:09.437748+00:00",
+  "generated_at_utc": "2026-02-14T19:36:41.232224+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB habilitará registro por canal de WhatsApp para vehículos con posibles fallas",
+      "url": "https://eldeber.com.bo/economia/ypfb-habilitara-registro-canal-whatsapp-vehiculos-posibles-fallas_1771095429",
+      "summary": "YPFB anunció la habilitación de un canal de WhatsApp y la creación del Sistema de Registro y Evaluación de Contingencias (SREC) para que los propietarios reporten posibles fallas, las cuales serán recolectadas y verificadas con bases oficiales. La revisión de cada caso la harán peritos y no implica responsabilidad automática, y podría haber cobertura a través del seguro solidario si se demuestra relación con la gasolina.",
+      "summary_es": "YPFB anunció la habilitación de un canal de WhatsApp y la creación del Sistema de Registro y Evaluación de Contingencias (SREC) para que los propietarios reporten posibles fallas, las cuales serán recolectadas y verificadas con bases oficiales. La revisión de cada caso la harán peritos y no implica responsabilidad automática, y podría haber cobertura a través del seguro solidario si se demuestra relación con la gasolina.",
+      "summary_en": "YPFB announced the launch of a WhatsApp channel and the creation of the Contingencies Registration and Evaluation System (SREC) so that owners can report possible faults. These reports will be collected and verified against official databases. Each case will be reviewed by specialists and does not automatically imply liability, and coverage may be provided through the Solidarity Insurance if a link to gasoline is demonstrated.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-14T15:01:00-04:00",
+      "published_at_bo": "2026-02-14T15:01:00-04:00",
+      "fetched_at_utc": "2026-02-14T19:29:03.560437+00:00",
+      "day": "2026-02-14"
+    },
     {
       "source": "El Deber",
       "title": "Freddy Zenteno es designado como el nuevo director de la Agencia Nacional de Hidrocarburos",
