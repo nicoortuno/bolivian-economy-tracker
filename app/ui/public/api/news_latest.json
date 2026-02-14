@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-14T17:30:18.560038+00:00",
+  "generated_at_utc": "2026-02-14T17:42:38.314701+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Freddy Zenteno es designado como el nuevo director de la Agencia Nacional de Hidrocarburos",
+      "url": "https://eldeber.com.bo/economia/freddy-zenteno-designado-nuevo-director-agencia-nacional-hidrocarburos_1771088775",
+      "summary": "Freddy Zenteno Lara fue designado director ejecutivo interino de la ANH por el presidente de Bolivia, Rodrigo Paz, tras la renuncia de Margot Ayala, en medio de problemas de suministro y denuncias por combustible de mala calidad. Zenteno asume temporalmente mientras se eleva la terna para la designación titular y se regula la normativa; Ayala afirmó buscar instituciones transparentes, y su salida se da en un contexto de investigaciones y escasez de combustible en varias regiones.",
+      "summary_es": "Freddy Zenteno Lara fue designado director ejecutivo interino de la ANH por el presidente de Bolivia, Rodrigo Paz, tras la renuncia de Margot Ayala, en medio de problemas de suministro y denuncias por combustible de mala calidad. Zenteno asume temporalmente mientras se eleva la terna para la designación titular y se regula la normativa; Ayala afirmó buscar instituciones transparentes, y su salida se da en un contexto de investigaciones y escasez de combustible en varias regiones.",
+      "summary_en": "Freddy Zenteno Lara has been named interim chief executive of the ANH by Bolivian President Rodrigo Paz following the resignation of Margot Ayala, amid supply problems and complaints about low-quality fuel. Zenteno will serve temporarily while the candidate shortlist is advanced for the permanent appointment and the regulatory framework is updated. Ayala said she aimed to promote transparent institutions, and her departure comes amid investigations and fuel shortages in several regions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-14T13:10:00-04:00",
+      "published_at_bo": "2026-02-14T13:10:00-04:00",
+      "fetched_at_utc": "2026-02-14T17:30:13.436036+00:00",
+      "day": "2026-02-14"
+    },
     {
       "source": "El Deber",
       "title": "ABC asegura que la red vial está expedita en Carnaval; se levantaron los bloqueos en Cochabamba",
