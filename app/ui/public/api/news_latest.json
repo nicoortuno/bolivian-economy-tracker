@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-15T14:33:15.463537+00:00",
+  "generated_at_utc": "2026-02-15T14:47:33.251940+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia se acerca al FMI sin negociar un crédito y celebra caída del riesgo país",
+      "url": "https://eldeber.com.bo/economia/bolivia-acerca-fmi-negociar-credito-celebra-caida-riesgo-pais_1771161165",
+      "summary": "Bolivia señala un reenganche con los organismos multilaterales, aclarando que no hay una negociación formal con el FMI y que la prioridad actual es obtener recursos del BID, el Banco Mundial y CAF para financiar inversiones. Sin embargo, medios como Bloomberg reportaron acercamientos técnicos para un crédito de la Facilidad Ampliada del FMI (entre 2,6 y 3,3 mil millones de dólares), sujeto a reformas y condiciones previas.",
+      "summary_es": "Bolivia señala un reenganche con los organismos multilaterales, aclarando que no hay una negociación formal con el FMI y que la prioridad actual es obtener recursos del BID, el Banco Mundial y CAF para financiar inversiones. Sin embargo, medios como Bloomberg reportaron acercamientos técnicos para un crédito de la Facilidad Ampliada del FMI (entre 2,6 y 3,3 mil millones de dólares), sujeto a reformas y condiciones previas.",
+      "summary_en": "Bolivia signals a re-engagement with multilateral institutions, clarifying that there is no formal negotiation with the IMF and that the current priority is to secure funding from the Inter-American Development Bank (IDB), the World Bank, and CAF to finance investments. However, outlets such as Bloomberg reported technical talks for a loan from the IMF’s Extended Fund Facility (between $2.6 billion and $3.3 billion), subject to reforms and prior conditions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-15T09:12:00-04:00",
+      "published_at_bo": "2026-02-15T09:12:00-04:00",
+      "fetched_at_utc": "2026-02-15T14:33:13.593865+00:00",
+      "day": "2026-02-15"
+    },
     {
       "source": "El Deber",
       "title": "Incrementan suministro por día de gasolina para Santa Cruz",
