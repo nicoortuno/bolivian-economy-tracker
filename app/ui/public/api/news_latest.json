@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-15T18:44:28.169316+00:00",
+  "generated_at_utc": "2026-02-15T18:56:13.068891+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El ministro Espinoza anuncia “buenas noticias” y prevé normalizar el combustible haste este lunes",
+      "url": "https://eldeber.com.bo/economia/ministro-espinoza-anuncia-buenas-noticias-preve-normalizar-combustible-haste-este-lunes_1771177471",
+      "summary": "El ministro de Economía, José Gabriel Espinoza, afirmó que el suministro de combustible se normalizará entre este domingo y lunes y adelantó que el miércoles anunciarán “buenas noticias” sobre medidas tributarias y otras decisiones económicas. El desabastecimiento se debió a una caída de carga, problemas en refinerías y transporte, bloqueos logísticos y un repunte rápido de la demanda, y aseguró que la gasolina distribuida ahora es de buena calidad.",
+      "summary_es": "El ministro de Economía, José Gabriel Espinoza, afirmó que el suministro de combustible se normalizará entre este domingo y lunes y adelantó que el miércoles anunciarán “buenas noticias” sobre medidas tributarias y otras decisiones económicas. El desabastecimiento se debió a una caída de carga, problemas en refinerías y transporte, bloqueos logísticos y un repunte rápido de la demanda, y aseguró que la gasolina distribuida ahora es de buena calidad.",
+      "summary_en": "Economy Minister José Gabriel Espinoza said fuel supplies should return to normal between Sunday and Monday, and he indicated that on Wednesday they will announce \"good news\" on tax measures and other economic decisions. The shortage was caused by a drop in shipments, refinery and transportation problems, logistics blockages, and a rapid rise in demand, and he stressed that the gasoline now being distributed is of good quality.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-15T13:52:00-04:00",
+      "published_at_bo": "2026-02-15T13:52:00-04:00",
+      "fetched_at_utc": "2026-02-15T18:44:25.475179+00:00",
+      "day": "2026-02-15"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia se acerca al FMI sin negociar un crédito y celebra caída del riesgo país",
