@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-15T22:30:33.695729+00:00",
+  "generated_at_utc": "2026-02-15T22:44:58.770993+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Mercados atienden con normalidad y alistan cierre y ch’alla para el martes",
+      "url": "https://eldeber.com.bo/economia/mercados-atienden-normalidad-alistan-cierre-ch-alla-martes_1771188936",
+      "summary": "En los mercados del kilómetro 9 y 6 de La Guardia y en el Nuevo Abasto hay atención normal, con la carne de res como la de mayor demanda, especialmente para churrasco, y el lunes será el último día de atención antes del martes de Ceniza. Los precios se mantienen relativamente estables: pollo entre Bs 17–18 el kilo, carne de cerdo entre Bs 30–46 según corte, y verduras con tendencia a la baja (tomate de Bs 10 a Bs 4, pimentón 5–10 por docena, zanahoria 30–40 la arroba).",
+      "summary_es": "En los mercados del kilómetro 9 y 6 de La Guardia y en el Nuevo Abasto hay atención normal, con la carne de res como la de mayor demanda, especialmente para churrasco, y el lunes será el último día de atención antes del martes de Ceniza. Los precios se mantienen relativamente estables: pollo entre Bs 17–18 el kilo, carne de cerdo entre Bs 30–46 según corte, y verduras con tendencia a la baja (tomate de Bs 10 a Bs 4, pimentón 5–10 por docena, zanahoria 30–40 la arroba).",
+      "summary_en": "In the markets at Kilometer 9 and 6 in La Guardia and at Nuevo Abasto, business is normal, with beef in highest demand, especially for churrasco, and Monday will be the last market day before Ash Wednesday. Prices are relatively stable: chicken Bs 17–18 per kilogram, pork Bs 30–46 depending on the cut, and vegetables showing a downward trend (tomatoes from Bs 10 to Bs 4, bell peppers Bs 5–10 per dozen, carrots Bs 30–40 per arroba).",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-15T17:36:00-04:00",
+      "published_at_bo": "2026-02-15T17:36:00-04:00",
+      "fetched_at_utc": "2026-02-15T22:30:30.232327+00:00",
+      "day": "2026-02-15"
+    },
     {
       "source": "El Deber",
       "title": "El ministro Espinoza anuncia “buenas noticias” y prevé normalizar el combustible haste este lunes",
