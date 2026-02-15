@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-15T02:46:32.608162+00:00",
+  "generated_at_utc": "2026-02-15T03:23:11.415290+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Incrementan suministro por día de gasolina para Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/incrementan-suministro-dia-gasolina-santa-cruz_1771114820",
+      "summary": "YPFB anunció un refuerzo excepcional del suministro de gasolina para Santa Cruz durante Carnaval, elevando las entregas de 1,8 millones a 2 millones de litros diarios y añadiendo 3 millones de litros diarios de forma extraordinaria para cubrir la demanda. Además, se habilitaron dos mangas adicionales y se fortaleció la logística de despacho para garantizar volumen y calidad, con saldos suficientes en plantas de almacenamiento, mientras persisten largas filas en los surtidores de la capital cruceña.",
+      "summary_es": "YPFB anunció un refuerzo excepcional del suministro de gasolina para Santa Cruz durante Carnaval, elevando las entregas de 1,8 millones a 2 millones de litros diarios y añadiendo 3 millones de litros diarios de forma extraordinaria para cubrir la demanda. Además, se habilitaron dos mangas adicionales y se fortaleció la logística de despacho para garantizar volumen y calidad, con saldos suficientes en plantas de almacenamiento, mientras persisten largas filas en los surtidores de la capital cruceña.",
+      "summary_en": "YPFB announced an exceptional boost in gasoline supplies for Santa Cruz during Carnival, increasing daily deliveries from 1.8 million to 2 million liters and adding 3 million liters per day as an extraordinary measure to meet demand. Two additional loading arms were installed and dispatch logistics strengthened to ensure volume and quality, with sufficient stock at storage facilities, even as long lines persisted at the capital’s gas stations.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-14T20:29:00-04:00",
+      "published_at_bo": "2026-02-14T20:29:00-04:00",
+      "fetched_at_utc": "2026-02-15T02:46:29.542129+00:00",
+      "day": "2026-02-14"
+    },
     {
       "source": "El Deber",
       "title": "Oro bajo la lupa fiscal: impulsan impuesto del 4,8% y cooperativas denuncian presión tributaria",
