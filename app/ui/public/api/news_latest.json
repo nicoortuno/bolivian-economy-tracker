@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-16T15:57:12.960784+00:00",
-  "count": 105,
+  "generated_at_utc": "2026-02-16T16:53:13.194887+00:00",
+  "count": 103,
   "items": [
     {
       "source": "El Deber",
@@ -1387,62 +1387,6 @@
       "published_at_bo": "2026-02-03T06:42:00-04:00",
       "fetched_at_utc": "2026-02-03T15:55:16.371912+00:00",
       "day": "2026-02-03"
-    },
-    {
-      "source": "El Deber",
-      "title": "\"Starlink inicia operaciones junto a Entel\", afirma el presidente Paz",
-      "url": "https://eldeber.com.bo/economia/starlink-inicia-operaciones-junto-entel-afirma-presidente-paz_1770082335",
-      "summary": "El presidente de Bolivia anunció que Starlink, en alianza con Entel, inicia operaciones en todo el país para reducir la brecha digital y llevar internet a escuelas, centros de salud y hogares remotos, conforme al Decreto Supremo 5509. Este decreto permite la llegada de servicios de Starlink, SpaceX, OneWeb y Amazon Leo, y autoriza la creación del primer polo digital en El Alto, que funcionará desde febrero de 2026 y se extenderá a otras regiones.",
-      "summary_es": "El presidente de Bolivia anunció que Starlink, en alianza con Entel, inicia operaciones en todo el país para reducir la brecha digital y llevar internet a escuelas, centros de salud y hogares remotos, conforme al Decreto Supremo 5509. Este decreto permite la llegada de servicios de Starlink, SpaceX, OneWeb y Amazon Leo, y autoriza la creación del primer polo digital en El Alto, que funcionará desde febrero de 2026 y se extenderá a otras regiones.",
-      "summary_en": "The president of Bolivia announced that Starlink, in partnership with Entel, will begin operations nationwide to close the digital gap and bring internet to schools, health centers, and remote homes, in line with Supreme Decree 5509. The decree allows the entry of Starlink, SpaceX, OneWeb, and Amazon Leo services, and authorizes the creation of the first digital hub in El Alto, which will be active from February 2026 and will expand to other regions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-02T22:03:00-04:00",
-      "published_at_bo": "2026-02-02T22:03:00-04:00",
-      "fetched_at_utc": "2026-02-03T06:59:45.792983+00:00",
-      "day": "2026-02-02"
-    },
-    {
-      "source": "El Deber",
-      "title": "Reservas internacionales suben a $us 4.041 millones y divisas alcanzan $us 493 millones",
-      "url": "https://eldeber.com.bo/economia/reservas-internacionales-suben-us-4-041-millones-divisas-alcanzan-us-493-millones_1770076939",
-      "summary": "Las Reservas Internacionales Netas de Bolivia alcanzaron 4.041 millones de dólares a cierre de enero, con 493 millones en divisas, incremento explicado en parte por la valorización de activos y su uso para cubrir deuda externa e importaciones de combustibles. Este repunte refleja la recuperación macroeconómica y fortalece la capacidad de pago del país frente al exterior.",
-      "summary_es": "Las Reservas Internacionales Netas de Bolivia alcanzaron 4.041 millones de dólares a cierre de enero, con 493 millones en divisas, incremento explicado en parte por la valorización de activos y su uso para cubrir deuda externa e importaciones de combustibles. Este repunte refleja la recuperación macroeconómica y fortalece la capacidad de pago del país frente al exterior.",
-      "summary_en": "Bolivia’s Net International Reserves reached $4.041 billion at the end of January, with $493 million in foreign-currency assets, an increase driven in part by asset revaluation and by its use to cover external debt and fuel imports. The rebound signals a macroeconomic recovery and strengthens the country’s ability to meet external obligations.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-02T20:09:00-04:00",
-      "published_at_bo": "2026-02-02T20:09:00-04:00",
-      "fetched_at_utc": "2026-02-03T05:55:02.489773+00:00",
-      "day": "2026-02-02"
-    },
-    {
-      "source": "El Deber",
-      "title": "La Unión Europea busca impulsar inversiones productivas en Bolivia más allá del litio",
-      "url": "https://eldeber.com.bo/economia/union-europea-busca-impulsar-inversiones-productivas-bolivia-alla-litio_1770068331",
-      "summary": "La UE inició conversaciones con el nuevo gobierno boliviano para identificar sectores estratégicos donde facilitar inversiones europeas orientadas a la producción, industrialización y desarrollo sostenible, y no solo a actividades extractivas. Se evalúan áreas como energía, transporte, agua, seguridad y materiales críticos, con embajadores acompañando el proceso y sin una priorización definitiva aún.",
-      "summary_es": "La UE inició conversaciones con el nuevo gobierno boliviano para identificar sectores estratégicos donde facilitar inversiones europeas orientadas a la producción, industrialización y desarrollo sostenible, y no solo a actividades extractivas. Se evalúan áreas como energía, transporte, agua, seguridad y materiales críticos, con embajadores acompañando el proceso y sin una priorización definitiva aún.",
-      "summary_en": "The EU has begun talks with Bolivia’s new government to identify strategic sectors where European investments can be encouraged toward production, industrialization, and sustainable development, not just extractive activities. Areas being considered include energy, transport, water, security, and critical materials, with ambassadors accompanying the process and no definitive prioritization yet.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-02T18:21:00-04:00",
-      "published_at_bo": "2026-02-02T18:21:00-04:00",
-      "fetched_at_utc": "2026-02-03T02:39:06.278314+00:00",
-      "day": "2026-02-02"
-    },
-    {
-      "source": "El Deber",
-      "title": "Misión del Equipo Europa llega a Bolivia para promover inversiones y reforzar el diálogo político",
-      "url": "https://eldeber.com.bo/economia/mision-equipo-europa-llega-bolivia-promover-inversiones-reforzar-dialogo-politico_1770040551",
-      "summary": "La Unión Europea y sus Estados miembros realizarán del 2 al 5 de febrero una misión de alto nivel en Bolivia para reforzar el diálogo estratégico, la cooperación y la inversión en el marco de la Agenda Global Gateway, con la participación de representantes de instituciones y más de 40 empresas europeas. La delegación buscará una cooperación sostenida en sectores como energía, materias primas críticas, financiamiento climático, interconexiones eléctricas y digitalización, avanzando hacia un mecanismo de asociación y preparando la X Reunión del Diálogo Político de Alto Nivel UE-Bolivia.",
-      "summary_es": "La Unión Europea y sus Estados miembros realizarán del 2 al 5 de febrero una misión de alto nivel en Bolivia para reforzar el diálogo estratégico, la cooperación y la inversión en el marco de la Agenda Global Gateway, con la participación de representantes de instituciones y más de 40 empresas europeas. La delegación buscará una cooperación sostenida en sectores como energía, materias primas críticas, financiamiento climático, interconexiones eléctricas y digitalización, avanzando hacia un mecanismo de asociación y preparando la X Reunión del Diálogo Político de Alto Nivel UE-Bolivia.",
-      "summary_en": "The European Union and its member states will carry out a high-level mission to Bolivia from February 2 to 5 to reinforce strategic dialogue, cooperation, and investment under the Global Gateway framework, with representatives from institutions and more than 40 European companies taking part. The delegation will seek sustained cooperation in areas such as energy, critical raw materials, climate finance, electrical interconnections, and digitalization, aiming to advance a partnership mechanism and to prepare for the 10th EU-Bolivia High-Level Political Dialogue meeting.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-02T10:30:00-04:00",
-      "published_at_bo": "2026-02-02T10:30:00-04:00",
-      "fetched_at_utc": "2026-02-02T17:43:00.410927+00:00",
-      "day": "2026-02-02"
     },
     {
       "source": "El Deber",
