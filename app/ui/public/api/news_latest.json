@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-16T21:35:04.266775+00:00",
+  "generated_at_utc": "2026-02-16T21:44:27.173321+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno asegura normalización en el abastecimiento de gasolina tras filas en surtidores",
+      "url": "https://eldeber.com.bo/economia/gobierno-asegura-normalizacion-abastecimiento-gasolina-filas-surtidores_1771276591",
+      "summary": "El Gobierno afirmó que el abastecimiento de gasolina se está normalizando tras problemas logísticos y un aumento repentino de la demanda en Santa Cruz. Las autoridades reportan medidas de YPFB y ANH para acelerar la normalización, con un incremento de la distribución y despachos regulares, a la espera de una plena estabilidad en las próximas horas.",
+      "summary_es": "El Gobierno afirmó que el abastecimiento de gasolina se está normalizando tras problemas logísticos y un aumento repentino de la demanda en Santa Cruz. Las autoridades reportan medidas de YPFB y ANH para acelerar la normalización, con un incremento de la distribución y despachos regulares, a la espera de una plena estabilidad en las próximas horas.",
+      "summary_en": "The government said gasoline supply is returning to normal after logistical problems and a sudden surge in demand in Santa Cruz. Authorities report measures by YPFB and ANH to accelerate normalization, including increased distribution and regular dispatches, as full stability is expected in the coming hours.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-16T17:22:00-04:00",
+      "published_at_bo": "2026-02-16T17:22:00-04:00",
+      "fetched_at_utc": "2026-02-16T21:34:58.984721+00:00",
+      "day": "2026-02-16"
+    },
     {
       "source": "El Deber",
       "title": "Aprehenden en Santa Cruz a exejecutiva de YPFB vinculada al caso Botrading",
