@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-17T17:03:05.388291+00:00",
+  "generated_at_utc": "2026-02-17T17:16:43.124423+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB programa despachar 2 millones de litros en Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/ypfb-programa-despachar-2-millones-litros-santa-cruz_1771344864",
+      "summary": "YPFB inició la descarga de gasolina importada de Argentina en la Planta Palmasola y proyecta continuar despachando volúmenes superiores a la demanda promedio, estimando 2 millones de litros para el uso en el departamento de Santa Cruz este martes. El refuerzo de los volúmenes de la planta DISCAR, respaldado por declaraciones de Nelson Mendoza Torres, busca normalizar y garantizar el suministro de gasolina en Santa Cruz y sus provincias en volumen y calidad.",
+      "summary_es": "YPFB inició la descarga de gasolina importada de Argentina en la Planta Palmasola y proyecta continuar despachando volúmenes superiores a la demanda promedio, estimando 2 millones de litros para el uso en el departamento de Santa Cruz este martes. El refuerzo de los volúmenes de la planta DISCAR, respaldado por declaraciones de Nelson Mendoza Torres, busca normalizar y garantizar el suministro de gasolina en Santa Cruz y sus provincias en volumen y calidad.",
+      "summary_en": "YPFB began unloading imported gasoline from Argentina at the Palmasola plant and plans to keep dispatching volumes above the average demand, estimating 2 million liters for use in the Santa Cruz department this Tuesday. The increase in volumes at the DISCAR plant, backed by statements from Nelson Mendoza Torres, is aimed at normalizing and guaranteeing gasoline supply in Santa Cruz and its provinces in both volume and quality.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-17T12:32:00-04:00",
+      "published_at_bo": "2026-02-17T12:32:00-04:00",
+      "fetched_at_utc": "2026-02-17T17:03:03.234482+00:00",
+      "day": "2026-02-17"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno asegura normalización en el abastecimiento de gasolina tras filas en surtidores",
