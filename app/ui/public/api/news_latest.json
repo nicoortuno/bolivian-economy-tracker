@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-18T17:11:12.340421+00:00",
+  "generated_at_utc": "2026-02-18T17:20:43.994934+00:00",
   "count": 94,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Fiscalía pide detención preventiva de exgerente de YPFB por presunta usurpación de funciones",
+      "url": "https://eldeber.com.bo/economia/fiscalia-pide-detencion-preventiva-exgerente-ypfb-presunta-usurpacion-funciones_1771430946",
+      "summary": "El Ministerio Público solicitó la detención preventiva de una imputada por usurpación de funciones e incumplimiento de deberes en una pesquisa de corrupción vinculada a YPFB, tras registrar las oficinas de la Vicepresidencia y secuestrar documentos y dispositivos. Se busca esclarecer si la exgerente Gabriela Delgadillo ejerció atribuciones sin una designación formal, y la audiencia de medidas cautelares está prevista para las 12:00.",
+      "summary_es": "El Ministerio Público solicitó la detención preventiva de una imputada por usurpación de funciones e incumplimiento de deberes en una pesquisa de corrupción vinculada a YPFB, tras registrar las oficinas de la Vicepresidencia y secuestrar documentos y dispositivos. Se busca esclarecer si la exgerente Gabriela Delgadillo ejerció atribuciones sin una designación formal, y la audiencia de medidas cautelares está prevista para las 12:00.",
+      "summary_en": "The Public Prosecutor’s Office has requested preventive detention for a suspect in a corruption probe linked to YPFB, following a raid on the Vice Presidency offices and the seizure of documents and devices. Authorities are seeking to determine whether former manager Gabriela Delgadillo acted beyond her designated powers without formal appointment, and the hearing on precautionary measures is scheduled for 12:00.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-18T12:12:00-04:00",
+      "published_at_bo": "2026-02-18T12:12:00-04:00",
+      "fetched_at_utc": "2026-02-18T17:11:07.333589+00:00",
+      "day": "2026-02-18"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno proyecta unir las redes ferroviarias Oriental y Andina a través de Tarija",
+      "url": "https://eldeber.com.bo/economia/gobierno-proyecta-unir-redes-ferroviarias-oriental-andina-traves-tarija_1771425561",
+      "summary": "El Ministerio de Obras Públicas proyecta unir las redes ferroviarias Oriental y Andina mediante una ruta que atraviese Tarija, para fortalecer el transporte de pasajeros y carga y mejorar la logística nacional. En el corto plazo se contempla la reanudación del ferrobús a la Chiquitanía y, a mediano plazo, un estudio de prefactibilidad para la vía Motacucito–Mutún con conexión a Puerto Busch, dentro de una estrategia de integración y modernización ferroviaria regional.",
+      "summary_es": "El Ministerio de Obras Públicas proyecta unir las redes ferroviarias Oriental y Andina mediante una ruta que atraviese Tarija, para fortalecer el transporte de pasajeros y carga y mejorar la logística nacional. En el corto plazo se contempla la reanudación del ferrobús a la Chiquitanía y, a mediano plazo, un estudio de prefactibilidad para la vía Motacucito–Mutún con conexión a Puerto Busch, dentro de una estrategia de integración y modernización ferroviaria regional.",
+      "summary_en": "The Ministry of Public Works plans to connect the Oriental and Andean railway networks with a route that passes through Tarija, aiming to strengthen passenger and freight transport and improve national logistics. In the short term, the resumption of the ferrobús to the Chiquitanía is planned, and in the medium term, a pre-feasibility study for the Motacucito–Mutún line with a connection to Puerto Busch, as part of a broader strategy to integrate and modernize the region’s rail system.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-18T12:08:00-04:00",
+      "published_at_bo": "2026-02-18T12:08:00-04:00",
+      "fetched_at_utc": "2026-02-18T17:11:08.308774+00:00",
+      "day": "2026-02-18"
+    },
     {
       "source": "El Deber",
       "title": "En una década, la soya generó más de $us 12.000 millones y se consolidó como pilar de la economía y la seguridad alimentaria",
