@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-19T13:19:11.961921+00:00",
+  "generated_at_utc": "2026-02-19T13:43:50.747167+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno oficializa arancel cero para la importación de soya hasta fin de año",
+      "url": "https://eldeber.com.bo/economia/gobierno-oficializa-arancel-cero-importacion-soya-fin-ano_1771505610",
+      "summary": "El Gobierno de Rodrigo Paz promulga el Decreto Supremo 5547, que elimina el arancel de importación del grano de soya hasta el 31 de diciembre de 2026 para fortalecer la producción de subproductos y atender la oferta interna. En este marco, persistentes reclamos por liberalización total contrastan con que, según Anapo, las exportaciones del complejo soya en la última década superaron los 12.16 mil millones de dólares.",
+      "summary_es": "El Gobierno de Rodrigo Paz promulga el Decreto Supremo 5547, que elimina el arancel de importación del grano de soya hasta el 31 de diciembre de 2026 para fortalecer la producción de subproductos y atender la oferta interna. En este marco, persistentes reclamos por liberalización total contrastan con que, según Anapo, las exportaciones del complejo soya en la última década superaron los 12.16 mil millones de dólares.",
+      "summary_en": "The government of Rodrigo Paz promulgates Supreme Decree 5547, which eliminates the import tariff on soybean grain through December 31, 2026, to bolster byproduct production and meet domestic supply. In this context, persistent calls for full liberalization contrast with ANAPO’s figures, which show that soybean complex exports over the past decade exceeded 12.16 billion dollars.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T08:56:00-04:00",
+      "published_at_bo": "2026-02-19T08:56:00-04:00",
+      "fetched_at_utc": "2026-02-19T13:19:08.515192+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "El balance económico resalta el fin de la subvención y leyes estructurales pendientes",
