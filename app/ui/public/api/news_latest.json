@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-19T20:38:20.235704+00:00",
+  "generated_at_utc": "2026-02-19T20:50:37.759088+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Conozca quiénes se beneficiarán con la Ley de Transparencia y Alivio Tributario propuesta a la Asamblea",
+      "url": "https://eldeber.com.bo/economia/conozca-quienes-beneficiaran-ley-transparencia-alivio-tributario-propuesta-asamblea_1771530048",
+      "summary": "El Gobierno boliviano envió a la Asamblea un ambicioso paquete tributario para reconfigurar el sistema fiscal, que incluye condonaciones de deudas hasta el 31 de diciembre de 2017, regularización de obligaciones recientes y un régimen simplificado (SIETE-RG). También propone una modificación de la base imponible del IVA y de la prescripción, con la intención de fomentar la formalidad y una administración tributaria más predecible, sin incrementar impuestos.",
+      "summary_es": "El Gobierno boliviano envió a la Asamblea un ambicioso paquete tributario para reconfigurar el sistema fiscal, que incluye condonaciones de deudas hasta el 31 de diciembre de 2017, regularización de obligaciones recientes y un régimen simplificado (SIETE-RG). También propone una modificación de la base imponible del IVA y de la prescripción, con la intención de fomentar la formalidad y una administración tributaria más predecible, sin incrementar impuestos.",
+      "summary_en": "The Bolivian government has sent to Congress an ambitious tax package to overhaul the tax system, including debt forgiveness through December 31, 2017, regularization of recent obligations, and a simplified regime (SIETE-RG). It also proposes changes to the VAT base and to the statute of limitations, aiming to promote formalization and a more predictable tax administration, without raising taxes.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T15:56:00-04:00",
+      "published_at_bo": "2026-02-19T15:56:00-04:00",
+      "fetched_at_utc": "2026-02-19T20:38:15.281325+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno envía a la Asamblea un ambicioso paquete tributario para “empezar de nuevo” el sistema fiscal",
