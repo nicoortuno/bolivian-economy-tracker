@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-19T10:51:55.737164+00:00",
+  "generated_at_utc": "2026-02-19T11:07:19.033141+00:00",
   "count": 95,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El balance económico resalta el fin de la subvención y leyes estructurales pendientes",
+      "url": "https://eldeber.com.bo/economia/balance-economico-resalta-fin-subvencion-leyes-estructurales-pendientes_1771497085",
+      "summary": "En 100 días, el gobierno priorizó estabilizar la economía y eliminar la subvención a los combustibles, lo que redujo la presión sobre el gasto y mejoró la percepción externa, pero dejó pendientes reformas estructurales clave para la reactivación productiva. Aun así, persisten signos de debilidad macroeconómica (PIB -1,4% en 3T2025, inflación 20,4%, déficit fiscal ~12% del PIB, deuda externa > US$13.5 mil millones) y un apunte de liquidez y reservas que, si bien han mostrado recuperación, muestran vulnerabilidades por el alto costo de la transición.",
+      "summary_es": "En 100 días, el gobierno priorizó estabilizar la economía y eliminar la subvención a los combustibles, lo que redujo la presión sobre el gasto y mejoró la percepción externa, pero dejó pendientes reformas estructurales clave para la reactivación productiva. Aun así, persisten signos de debilidad macroeconómica (PIB -1,4% en 3T2025, inflación 20,4%, déficit fiscal ~12% del PIB, deuda externa > US$13.5 mil millones) y un apunte de liquidez y reservas que, si bien han mostrado recuperación, muestran vulnerabilidades por el alto costo de la transición.",
+      "summary_en": "In 100 days, the government prioritized stabilizing the economy and phasing out fuel subsidies, moves that reduced pressure on spending and improved external sentiment, but left key structural reforms for productiveness and growth still pending. Still, signs of macroeconomic weakness persist: GDP down 1.4% in Q3 2025, inflation at 20.4%, a fiscal deficit around 12% of GDP, and external debt above US$13.5 billion. There are also liquidity and reserve concerns that, while showing some recovery, remain vulnerable due to the high cost of the transition.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T06:31:00-04:00",
+      "published_at_bo": "2026-02-19T06:31:00-04:00",
+      "fetched_at_utc": "2026-02-19T10:51:53.970351+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Gonzalo Chávez: “Para implementar políticas públicas se necesita construir un andamiaje de gobernabilidad en la Asamblea”",
