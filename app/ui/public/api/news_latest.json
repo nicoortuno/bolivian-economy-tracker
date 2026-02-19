@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-19T17:00:26.700015+00:00",
+  "generated_at_utc": "2026-02-19T17:13:28.236969+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Anuncian llegada de una comisión para hablar de la gasolina en Trinidad, en la antesala del paro cívico",
+      "url": "https://eldeber.com.bo/economia/anuncian-llegada-comision-hablar-gasolina-trinidad-antesala-paro-civico_1771513973",
+      "summary": "En Beni, las autoridades cívicas anunciaron un paro de 24 horas y bloqueos para exigir la entrega de gasolina Especial y el cumplimiento de un acuerdo con YPFB, ante la sospecha de incumplimiento y venta de gasolinas de menor calidad, y recibirá una comisión supuestamente de YPFB para buscar una solución. Además, la dirigencia pidió a la ANH reforzar el control de surtidores y advirtió que podrían radicalizar las medidas si no hay respuesta del Gobierno.",
+      "summary_es": "En Beni, las autoridades cívicas anunciaron un paro de 24 horas y bloqueos para exigir la entrega de gasolina Especial y el cumplimiento de un acuerdo con YPFB, ante la sospecha de incumplimiento y venta de gasolinas de menor calidad, y recibirá una comisión supuestamente de YPFB para buscar una solución. Además, la dirigencia pidió a la ANH reforzar el control de surtidores y advirtió que podrían radicalizar las medidas si no hay respuesta del Gobierno.",
+      "summary_en": "In Beni, civic authorities announced a 24-hour strike and blockades to demand the delivery of Special gasoline and the fulfillment of an agreement with YPFB, amid suspicions of non-compliance and the sale of lower-quality gasoline. They said they would receive an allegedly YPFB-funded commission to help find a solution. Additionally, the leadership urged ANH to tighten oversight of gas stations and warned that they could harden their measures if there is no response from the Government.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T12:17:00-04:00",
+      "published_at_bo": "2026-02-19T12:17:00-04:00",
+      "fetched_at_utc": "2026-02-19T17:00:21.415705+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Economista sostiene que últimos tres decretos son “coyunturales” y no reemplazan reformas estructurales",
