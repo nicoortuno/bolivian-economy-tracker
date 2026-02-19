@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-19T17:52:46.382916+00:00",
+  "generated_at_utc": "2026-02-19T18:08:09.904399+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno envía a la Asamblea un ambicioso paquete tributario para “empezar de nuevo” el sistema fiscal",
+      "url": "https://eldeber.com.bo/economia/gobierno-envia-asamblea-ambicioso-paquete-tributario-empezar-nuevo-sistema-fiscal_1771519864",
+      "summary": "El Gobierno presentó a la Asamblea un paquete de medidas tributarias para simplificar el sistema, aliviar cargas a contribuyentes y favorecer a pequeños empresarios, destacando la condonación total de deudas hasta 2017 para saldos menores a 10 millones de bolivianos y planes de pago para deudas posteriores, además de eliminar multas e intereses. También propone cambiar la forma de gravar el IVA (tasa efectiva del 13%) y crear un régimen especial llamado SIETE para formalizar proveedores.",
+      "summary_es": "El Gobierno presentó a la Asamblea un paquete de medidas tributarias para simplificar el sistema, aliviar cargas a contribuyentes y favorecer a pequeños empresarios, destacando la condonación total de deudas hasta 2017 para saldos menores a 10 millones de bolivianos y planes de pago para deudas posteriores, además de eliminar multas e intereses. También propone cambiar la forma de gravar el IVA (tasa efectiva del 13%) y crear un régimen especial llamado SIETE para formalizar proveedores.",
+      "summary_en": "The government presented to the Assembly a package of tax measures aimed at simplifying the system, easing the burden on taxpayers, and supporting small businesses. It highlights full debt forgiveness up to 2017 for balances under 10 million bolivianos, and payment plans for debts incurred after that, in addition to eliminating fines and interest. It also proposes changing the way VAT is levied (an effective rate of 13%) and creating a special regime called SIETE to formalize suppliers.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T13:39:00-04:00",
+      "published_at_bo": "2026-02-19T13:39:00-04:00",
+      "fetched_at_utc": "2026-02-19T17:52:40.358979+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Anuncian llegada de una comisión para hablar de la gasolina en Trinidad, en la antesala del paro cívico",
