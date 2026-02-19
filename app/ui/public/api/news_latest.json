@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-19T14:53:34.025557+00:00",
+  "generated_at_utc": "2026-02-19T15:08:42.527049+00:00",
   "count": 98,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Economista sostiene que últimos tres decretos son “coyunturales” y no reemplazan reformas estructurales",
+      "url": "https://eldeber.com.bo/economia/economista-sostiene-ultimos-tres-decretos-coyunturales-no-reemplazan-reformas-estructurales_1771508488",
+      "summary": "El Órgano Ejecutivo aprobó tres decretos: 5547 para estabilizar el precio y suministro de soya, 5548 para permitir temporalmente importación de crudo y eliminar IEHD en productos, y 5549 para ampliar la generación distribuida de energías renovables y modernizar el sistema eléctrico; todos buscan contener emergencias y estabilizar la economía a corto plazo. El economista Fernando Romero advierte que, aunque útiles en lo inmediato, solo ofrecen soluciones coyunturales y no abordan reformas estructurales, pidiendo acompañarlas de medidas paraExploración/producción nacional, inversión verde y una política fiscal eficiente.",
+      "summary_es": "El Órgano Ejecutivo aprobó tres decretos: 5547 para estabilizar el precio y suministro de soya, 5548 para permitir temporalmente importación de crudo y eliminar IEHD en productos, y 5549 para ampliar la generación distribuida de energías renovables y modernizar el sistema eléctrico; todos buscan contener emergencias y estabilizar la economía a corto plazo. El economista Fernando Romero advierte que, aunque útiles en lo inmediato, solo ofrecen soluciones coyunturales y no abordan reformas estructurales, pidiendo acompañarlas de medidas paraExploración/producción nacional, inversión verde y una política fiscal eficiente.",
+      "summary_en": "The Executive Branch approved three decrees: Decree 5547 to stabilize the price and supply of soybeans; Decree 5548 to temporarily allow crude imports and remove IEHD in products; and Decree 5549 to expand distributed renewable energy generation and modernize the electric grid. All are aimed at containing emergencies and stabilizing the economy in the short term.\n\nEconomist Fernando Romero cautions that, while useful in the near term, these measures offer only cyclical solutions and do not address structural reforms. He urges them to be accompanied by steps toward national exploration and production, green investment, and an efficient fiscal policy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T10:38:00-04:00",
+      "published_at_bo": "2026-02-19T10:38:00-04:00",
+      "fetched_at_utc": "2026-02-19T14:53:28.661341+00:00",
+      "day": "2026-02-19"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno autoriza a YPFB firmar contratos con refinerías para que importen petróleo",
+      "url": "https://eldeber.com.bo/economia/gobierno-autoriza-ypfb-firmar-contratos-refinerias-importen-petroleo_1771506661",
+      "summary": "Resumen: El Decreto Supremo 5548 autoriza excepcionalmente a YPFB a firmar contratos con refinerías para importar petróleo destinado a su procesamiento, cuyo crudo y productos regulados se comercializarán dentro del país (y podrán exportar excedentes), con asignación de volúmenes por PRODE y una reglamentación en 15 días; además, establece una alícuota IEHD de cero bolivianos por litro por un año y garantiza que la medida no implica costo fiscal adicional ni subvención.",
+      "summary_es": "Resumen: El Decreto Supremo 5548 autoriza excepcionalmente a YPFB a firmar contratos con refinerías para importar petróleo destinado a su procesamiento, cuyo crudo y productos regulados se comercializarán dentro del país (y podrán exportar excedentes), con asignación de volúmenes por PRODE y una reglamentación en 15 días; además, establece una alícuota IEHD de cero bolivianos por litro por un año y garantiza que la medida no implica costo fiscal adicional ni subvención.",
+      "summary_en": "Supreme Decree 5548 authorizes YPFB, on an exceptional basis, to sign contracts with refineries to import crude oil for processing, with the resulting crude and regulated products to be marketed domestically (and surpluses may be exported), with volumes allocated by PRODE and regulations to be issued within 15 days; it also establishes an IEHD levy of zero bolivianos per liter for one year and guarantees that the measure entails no additional fiscal cost nor subsidy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T09:11:00-04:00",
+      "published_at_bo": "2026-02-19T09:11:00-04:00",
+      "fetched_at_utc": "2026-02-19T14:53:29.647677+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno oficializa arancel cero para la importación de soya hasta fin de año",
