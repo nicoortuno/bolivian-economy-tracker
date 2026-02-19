@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-19T22:37:52.739109+00:00",
+  "generated_at_utc": "2026-02-19T22:51:04.841011+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisterneros exigen a YPFB explicar por qué no descarga 20 millones de litros de gasolina en Palmasola",
+      "url": "https://eldeber.com.bo/economia/cisterneros-exigen-ypfb-explicar-no-descarga-20-millones-litros-gasolina-palmasola_1771539087",
+      "summary": "En Palmasola, Santa Cruz, 26 días permanecen sin poder descargar 700 camiones cisterna con gasolina, afectando el abastecimiento y generando costos y riesgos para transportistas y la ciudad. Las cisternas procedentes de Paraguay y Argentina están bloqueadas, mientras solo las de Chile pueden descargar, sin que YPFB haya dado una explicación oficial.",
+      "summary_es": "En Palmasola, Santa Cruz, 26 días permanecen sin poder descargar 700 camiones cisterna con gasolina, afectando el abastecimiento y generando costos y riesgos para transportistas y la ciudad. Las cisternas procedentes de Paraguay y Argentina están bloqueadas, mientras solo las de Chile pueden descargar, sin que YPFB haya dado una explicación oficial.",
+      "summary_en": "In Palmasola, Santa Cruz, for 26 days authorities have been unable to unload about 700 tanker trucks carrying gasoline, impacting supply and increasing costs and risks for transporters and the city. Tankers from Paraguay and Argentina are blocked, while only those from Chile can unload, with no official explanation from YPFB.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T18:18:00-04:00",
+      "published_at_bo": "2026-02-19T18:18:00-04:00",
+      "fetched_at_utc": "2026-02-19T22:37:48.606242+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Conozca quiénes se beneficiarán con la Ley de Transparencia y Alivio Tributario propuesta a la Asamblea",
