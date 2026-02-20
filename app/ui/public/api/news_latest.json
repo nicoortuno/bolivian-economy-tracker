@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-20T04:51:14.552719+00:00",
+  "generated_at_utc": "2026-02-20T04:59:11.931641+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El DS 5547 abre paso a mayor importación de petróleo y uso de refinerías, según el ministro Espinoza",
+      "url": "https://eldeber.com.bo/economia/ds-5547-abre-paso-mayor-importacion-petroleo-uso-refinerias-ministro-espinoza_1771553887",
+      "summary": "El ministro Espinoza anunció el Decreto Supremo 5547 para liberalizar exportaciones y permitir importaciones estratégicas (como soya y petróleo) con el objetivo de normalizar el mercado, usar la capacidad instalada de refinación y abrir el sector privado bajo reglas más transparentes. También señaló que el camino hacia la apertura total de exportaciones está en manos del Ministerio de Desarrollo Productivo y que el impacto en el precio interno dependerá del petróleo internacional y de la eficiencia de la cadena de suministro.",
+      "summary_es": "El ministro Espinoza anunció el Decreto Supremo 5547 para liberalizar exportaciones y permitir importaciones estratégicas (como soya y petróleo) con el objetivo de normalizar el mercado, usar la capacidad instalada de refinación y abrir el sector privado bajo reglas más transparentes. También señaló que el camino hacia la apertura total de exportaciones está en manos del Ministerio de Desarrollo Productivo y que el impacto en el precio interno dependerá del petróleo internacional y de la eficiencia de la cadena de suministro.",
+      "summary_en": "Minister Espinoza announced Supreme Decree 5547 to liberalize exports and allow strategic imports (such as soybeans and crude oil) with the aim of normalizing the market, using the installed refining capacity, and opening the private sector under more transparent rules. He also noted that the path to full export openness lies with the Ministry of Productive Development, and that the impact on domestic prices will depend on international oil markets and the efficiency of the supply chain.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T22:39:00-04:00",
+      "published_at_bo": "2026-02-19T22:39:00-04:00",
+      "fetched_at_utc": "2026-02-20T04:51:10.087086+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Ministro Espinoza habla de un superávit fiscal en enero de Bs 3.100 millones",
