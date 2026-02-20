@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-20T20:39:05.956039+00:00",
+  "generated_at_utc": "2026-02-20T20:49:37.753678+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB atribuye presencia de goma en gasolina a operación mínima de tanques y aplica medidas correctivas",
+      "url": "https://eldeber.com.bo/economia/ypfb-atribuye-presencia-goma-gasolina-operacion-minima-tanques-aplica-medidas-correctivas_1771616361",
+      "summary": "La presencia de “gomas” en gasolina se atribuye a un contexto de baja capacidad de almacenamiento y autonomía de Bolivia en 2025, que obligó a operar tanques casi vacíos y desestabilizó la calidad del combustible; YPFB anunció medidas que incluyen controles de calidad más estrictos, limpieza progresiva de tanques, uso de aditivos y un plan para elevar la producción local de refinerías sustituyendo importaciones de gasolina por crudo para recuperar 90–95% de capacidad.",
+      "summary_es": "La presencia de “gomas” en gasolina se atribuye a un contexto de baja capacidad de almacenamiento y autonomía de Bolivia en 2025, que obligó a operar tanques casi vacíos y desestabilizó la calidad del combustible; YPFB anunció medidas que incluyen controles de calidad más estrictos, limpieza progresiva de tanques, uso de aditivos y un plan para elevar la producción local de refinerías sustituyendo importaciones de gasolina por crudo para recuperar 90–95% de capacidad.",
+      "summary_en": "The presence of gum deposits in gasoline is linked to Bolivia’s limited storage capacity and fuel supply autonomy in 2025, which forced tanks to operate nearly empty and undermined fuel quality. YPFB announced measures including stricter quality controls, phased tank cleaning, the use of additives, and a plan to boost local refinery output by substituting gasoline imports with crude oil to recover 90–95% of capacity.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-20T15:50:00-04:00",
+      "published_at_bo": "2026-02-20T15:50:00-04:00",
+      "fetched_at_utc": "2026-02-20T20:39:02.599883+00:00",
+      "day": "2026-02-20"
+    },
     {
       "source": "El Deber",
       "title": "YPFB prevé cubrir hasta el 80% de la demanda de combustibles con producción propia",
