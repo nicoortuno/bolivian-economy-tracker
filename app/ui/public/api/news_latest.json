@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-20T17:41:43.674692+00:00",
+  "generated_at_utc": "2026-02-20T17:56:44.551660+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB prevé cubrir hasta el 80% de la demanda de combustibles con producción propia",
+      "url": "https://eldeber.com.bo/economia/ypfb-preve-cubrir-80-demanda-combustibles-produccion-propia_1771605859",
+      "summary": "Tras la aprobación del Decreto Supremo 5548 que faculta la importación excepcional de crudo, YPFB anunció que busca aumentar la producción en sus refinerías para cubrir hasta el 80% de la demanda interna, operándolas al 95% de su capacidad. El plan prevé ingressos por oleoductos Arica–Sica Sica, Pocitos (Yacuiba) y Tigüipa, y establece condiciones contractuales que contemplan flete, calidad del crudo, costos financieros y riesgos.",
+      "summary_es": "Tras la aprobación del Decreto Supremo 5548 que faculta la importación excepcional de crudo, YPFB anunció que busca aumentar la producción en sus refinerías para cubrir hasta el 80% de la demanda interna, operándolas al 95% de su capacidad. El plan prevé ingressos por oleoductos Arica–Sica Sica, Pocitos (Yacuiba) y Tigüipa, y establece condiciones contractuales que contemplan flete, calidad del crudo, costos financieros y riesgos.",
+      "summary_en": "Following the approval of Supreme Decree 5548, which authorizes exceptional crude imports, YPFB said it aims to boost production at its refineries to cover up to 80% of domestic demand, operating them at 95% of capacity. The plan includes revenues from the Arica–Sica Sica, Pocitos (Yacuiba), and Tigüipa pipelines, and sets contractual terms that cover freight, crude quality, financial costs, and risks.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-20T12:52:00-04:00",
+      "published_at_bo": "2026-02-20T12:52:00-04:00",
+      "fetched_at_utc": "2026-02-20T17:41:39.797596+00:00",
+      "day": "2026-02-20"
+    },
     {
       "source": "El Deber",
       "title": "Congreso de la CAO pone en agenda transgénicos, exportaciones, FES e institucionalización",
