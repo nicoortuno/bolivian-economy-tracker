@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-20T02:35:29.205194+00:00",
+  "generated_at_utc": "2026-02-20T03:11:31.489915+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ministro Espinoza habla de un superávit fiscal en enero de Bs 3.100 millones",
+      "url": "https://eldeber.com.bo/economia/ministro-espinoza-habla-superavit-fiscal-enero-bs-3-100-millones_1771554887",
+      "summary": "El ministro José Gabriel Espinoza afirmó que en enero se registró un superávit fiscal consolidado de más de Bs 3.100 millones, cifra ya consolidada. Añadió que deben presentar un presupuesto reformulado para su aprobación, subrayó que la ejecución es lo principal y pidió responsabilidad a la Asamblea para avanzar hacia una nueva administración tributaria y aduanera.",
+      "summary_es": "El ministro José Gabriel Espinoza afirmó que en enero se registró un superávit fiscal consolidado de más de Bs 3.100 millones, cifra ya consolidada. Añadió que deben presentar un presupuesto reformulado para su aprobación, subrayó que la ejecución es lo principal y pidió responsabilidad a la Asamblea para avanzar hacia una nueva administración tributaria y aduanera.",
+      "summary_en": "Minister José Gabriel Espinoza said that in January there was a consolidated fiscal surplus of more than 3.1 billion bolivianos, a figure that is already consolidated. He added that a reformulated budget must be presented for approval, stressed that execution is the main priority, and urged the Assembly to act responsibly in order to move toward a new tax and customs administration.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-19T22:34:00-04:00",
+      "published_at_bo": "2026-02-19T22:34:00-04:00",
+      "fetched_at_utc": "2026-02-20T02:35:24.149594+00:00",
+      "day": "2026-02-19"
+    },
     {
       "source": "El Deber",
       "title": "Ante anuncio de paro en Beni, YPFB “refuerza” provisión de gasolina, de 1,2 millones de litros esta semana",
