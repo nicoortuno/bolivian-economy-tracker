@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-20T22:32:43.537871+00:00",
+  "generated_at_utc": "2026-02-20T22:48:06.633531+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Monotributo e &#39;IVA transparente&#39; concentran el debate del proyecto de Alivio Tributario",
+      "url": "https://eldeber.com.bo/economia/monotributo-iva-transparente-concentran-debate-proyecto-alivio-tributario_1771625433",
+      "summary": "El proyecto propone, entre otros puntos, un monotributo del 5% para microemprendedores (SIETE-RG) con transición de tres años hacia el régimen general y una nueva transparencia del IVA, mostrando un 13% separado en la factura para evitar confusiones y evitar que el impuesto se calcule sobre precios con IVA incluido. Además, incluye condonaciones de deudas anteriores, un plan de regularización y la restitución de la prescripción tributaria a cuatro años.",
+      "summary_es": "El proyecto propone, entre otros puntos, un monotributo del 5% para microemprendedores (SIETE-RG) con transición de tres años hacia el régimen general y una nueva transparencia del IVA, mostrando un 13% separado en la factura para evitar confusiones y evitar que el impuesto se calcule sobre precios con IVA incluido. Además, incluye condonaciones de deudas anteriores, un plan de regularización y la restitución de la prescripción tributaria a cuatro años.",
+      "summary_en": "The proposal includes, among other measures, a 5% monotributo for micro-entrepreneurs (SIETE-RG) with a three-year transition to the general regime and greater VAT transparency, featuring a separately indicated 13% on invoices to avoid confusion and prevent the tax from being calculated on prices that include VAT. It also envisions forgiveness of prior debts, a regularization plan, and the restoration of the tax prescription period to four years.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-20T18:20:00-04:00",
+      "published_at_bo": "2026-02-20T18:20:00-04:00",
+      "fetched_at_utc": "2026-02-20T22:32:39.720330+00:00",
+      "day": "2026-02-20"
+    },
     {
       "source": "El Deber",
       "title": "YPFB atribuye presencia de goma en gasolina a operación mínima de tanques y aplica medidas correctivas",
