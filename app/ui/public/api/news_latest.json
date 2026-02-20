@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-20T23:34:27.814763+00:00",
+  "generated_at_utc": "2026-02-20T23:44:47.923960+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisterneros y YPFB acuerdan descarga de 300 camiones con combustible en la planta Palmasola",
+      "url": "https://eldeber.com.bo/economia/cisterneros-ypfb-acuerdan-descarga-300-camiones-combustible-planta-palmasola_1771628633",
+      "summary": "Tras semanas de retrasos por camiones cisterna varados en Palmasola, YPFB y los Empresarios Cisterneros acordaron iniciar la descarga en cinco días, preparando la entrada de unas 300 cisternas (de un total de 700) para agilizar la logística. YPFB afirmó que, con una mayor autonomía (nueve días) y una reconfiguración del sistema logístico, podrá monitorear en tiempo real cuántas cisternas están en circulación mediante GPS.",
+      "summary_es": "Tras semanas de retrasos por camiones cisterna varados en Palmasola, YPFB y los Empresarios Cisterneros acordaron iniciar la descarga en cinco días, preparando la entrada de unas 300 cisternas (de un total de 700) para agilizar la logística. YPFB afirmó que, con una mayor autonomía (nueve días) y una reconfiguración del sistema logístico, podrá monitorear en tiempo real cuántas cisternas están en circulación mediante GPS.",
+      "summary_en": "After weeks of delays caused by tanker trucks stranded in Palmasola, YPFB and the Cisterneros Association agreed to begin unloading within five days, preparing the entry of about 300 tankers (out of a total of 700) to speed up logistics. YPFB said that with greater autonomy (nine days) and a redesigned logistics system, it will be able to monitor in real time how many tankers are in circulation using GPS.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-20T19:15:00-04:00",
+      "published_at_bo": "2026-02-20T19:15:00-04:00",
+      "fetched_at_utc": "2026-02-20T23:34:23.851553+00:00",
+      "day": "2026-02-20"
+    },
     {
       "source": "El Deber",
       "title": "Monotributo e &#39;IVA transparente&#39; concentran el debate del proyecto de Alivio Tributario",
