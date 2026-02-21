@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-21T22:30:30.044673+00:00",
+  "generated_at_utc": "2026-02-21T22:42:53.865362+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Tras el paro cívico, el Gobierno firma acuerdos por el combustible en Trinidad, pero persisten las dudas",
+      "url": "https://eldeber.com.bo/economia/paro-civico-gobierno-firma-acuerdos-combustible-trinidad-persisten-dudas_1771706581",
+      "summary": "Tras un paro cívico en Beni, el Gobierno llegó a Trinidad y firmó acuerdos para cambiar el esquema de abastecimiento de combustibles: crear una distribuidora propia en la región, instalar una dirección distrital de YPFB y avanzar en otros compromisos para aliviar la escasez y la desconfianza. YPFB defendió la calidad de la gasolina Especial Plus, mientras persiste la duda sobre si estas medidas son soluciones estructurales o respuestas coyunturales.",
+      "summary_es": "Tras un paro cívico en Beni, el Gobierno llegó a Trinidad y firmó acuerdos para cambiar el esquema de abastecimiento de combustibles: crear una distribuidora propia en la región, instalar una dirección distrital de YPFB y avanzar en otros compromisos para aliviar la escasez y la desconfianza. YPFB defendió la calidad de la gasolina Especial Plus, mientras persiste la duda sobre si estas medidas son soluciones estructurales o respuestas coyunturales.",
+      "summary_en": "After a civic strike in Beni, the government arrived in Trinidad and signed agreements to overhaul the fuel supply system: create an in-region distributor of its own, set up a district office of YPFB, and advance other commitments to ease shortages and mistrust. YPFB defended the quality of Especial Plus gasoline, while questions remain about whether these measures are structural solutions or temporary responses.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-21T17:37:00-04:00",
+      "published_at_bo": "2026-02-21T17:37:00-04:00",
+      "fetched_at_utc": "2026-02-21T22:30:24.702185+00:00",
+      "day": "2026-02-21"
+    },
     {
       "source": "El Deber",
       "title": "YPFB asume cinco medidas para resguardar calidad de los combustibles que comercializa",
