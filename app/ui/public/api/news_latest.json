@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-21T13:54:00.061653+00:00",
-  "count": 105,
+  "generated_at_utc": "2026-02-21T14:31:50.416102+00:00",
+  "count": 102,
   "items": [
     {
       "source": "El Deber",
@@ -1401,76 +1401,6 @@
       "published_at_bo": "2026-02-08T08:06:00-04:00",
       "fetched_at_utc": "2026-02-08T17:32:04.975570+00:00",
       "day": "2026-02-08"
-    },
-    {
-      "source": "El Deber",
-      "title": "Conozca el precio de los equipos de Starlink, según una representación oficial en Bolivia",
-      "url": "https://eldeber.com.bo/economia/conozca-precio-equipos-starlink-representacion-oficial-bolivia_1770490720",
-      "summary": "Starlink inició oficialmente operaciones en Bolivia con la alianza entre Entel y la marca para complementar la infraestructura existente, bajo la política gubernamental de apertura tecnológica y crecimiento de la conectividad rural. En Santa Cruz se anuncian dos kits homologados, Starlink Standard y Starlink Mini, con precios de Bs 2.800 y Bs 2.200, cuyas entregas comienzan el 27 de febrero.",
-      "summary_es": "Starlink inició oficialmente operaciones en Bolivia con la alianza entre Entel y la marca para complementar la infraestructura existente, bajo la política gubernamental de apertura tecnológica y crecimiento de la conectividad rural. En Santa Cruz se anuncian dos kits homologados, Starlink Standard y Starlink Mini, con precios de Bs 2.800 y Bs 2.200, cuyas entregas comienzan el 27 de febrero.",
-      "summary_en": "Starlink has officially launched operations in Bolivia through a partnership with Entel to complement the existing infrastructure, aligned with the government’s policy of technological openness and expanding rural connectivity. In Santa Cruz, two approved kits—Starlink Standard and Starlink Mini—will be offered at 2,800 and 2,200 bolivianos, with deliveries beginning February 27.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-07T15:08:00-04:00",
-      "published_at_bo": "2026-02-07T15:08:00-04:00",
-      "fetched_at_utc": "2026-02-07T23:35:54.691743+00:00",
-      "day": "2026-02-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno confirma que el retorno del tren de pasajeros a la Chiquitania será mediante ferrobús turístico",
-      "url": "https://eldeber.com.bo/economia/gobierno-confirma-retorno-tren-pasajeros-chiquitania-sera-mediante-ferrobus-turistico_1770477842",
-      "summary": "El gobierno anunció que, por seis meses, volverá un ferrobús turístico de 42 pasajeros para conectar Santa Cruz con la frontera brasileña por la ruta de la Chiquitania, operado por Ferroviaria Oriental S.A. con el objetivo de impulsar el turismo, la conectividad y la economía regional.\n\nDurante ese periodo se evaluará la demanda y ocupación, y los pasajes serán fijados por la ATT en coordinación con la ferroviaria, buscando precios por debajo de las tarifas de los buses de la ruta Bioceánica.",
-      "summary_es": "El gobierno anunció que, por seis meses, volverá un ferrobús turístico de 42 pasajeros para conectar Santa Cruz con la frontera brasileña por la ruta de la Chiquitania, operado por Ferroviaria Oriental S.A. con el objetivo de impulsar el turismo, la conectividad y la economía regional.\n\nDurante ese periodo se evaluará la demanda y ocupación, y los pasajes serán fijados por la ATT en coordinación con la ferroviaria, buscando precios por debajo de las tarifas de los buses de la ruta Bioceánica.",
-      "summary_en": "The government announced that for six months a 42-seat tourist rail-bus will return to connect Santa Cruz with the Brazilian border along the Chiquitania route, operated by Ferroviaria Oriental S.A., with the aim of boosting tourism, connectivity, and the regional economy.\n\nDuring that period, demand and occupancy will be evaluated, and tickets will be set by the ATT in coordination with the railway company, seeking prices below the fares of buses on the Bioceanic route.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-07T11:24:00-04:00",
-      "published_at_bo": "2026-02-07T11:24:00-04:00",
-      "fetched_at_utc": "2026-02-07T20:34:18.691785+00:00",
-      "day": "2026-02-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "Ante incremento de reclamos, Naabol realiza inspección nocturna en Viru Viru",
-      "url": "https://eldeber.com.bo/economia/incremento-reclamos-naabol-realiza-inspeccion-nocturna-viru-viru_1770471222",
-      "summary": "Naabol realizó una inspección técnica nocturna en el aeropuerto Viru Viru para optimizar los flujos de pasajeros y fortalecer el sistema de Facilitación (FAL), en coordinación con DGAC, Migración, Aduanas y aerolíneas, ante el incremento de reclamos de viajeros, especialmente de llegadas internacionales. Las autoridades buscan analizar equipamiento, infraestructura y distribución de flujos para agilizar la atención y esperan realizar operativos similares en otros aeropuertos.",
-      "summary_es": "Naabol realizó una inspección técnica nocturna en el aeropuerto Viru Viru para optimizar los flujos de pasajeros y fortalecer el sistema de Facilitación (FAL), en coordinación con DGAC, Migración, Aduanas y aerolíneas, ante el incremento de reclamos de viajeros, especialmente de llegadas internacionales. Las autoridades buscan analizar equipamiento, infraestructura y distribución de flujos para agilizar la atención y esperan realizar operativos similares en otros aeropuertos.",
-      "summary_en": "Naabol conducted a nighttime technical inspection at Viru Viru airport to optimize passenger flows and strengthen the Facilitation System (FAL), in coordination with DGAC, Migration, Customs, and airlines, amid rising traveler complaints, especially from international arrivals. Authorities aim to analyze equipment, infrastructure, and flow distribution to speed up service and plan similar operations at other airports.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-07T09:36:00-04:00",
-      "published_at_bo": "2026-02-07T09:36:00-04:00",
-      "fetched_at_utc": "2026-02-07T19:29:45.743838+00:00",
-      "day": "2026-02-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "Satélite Túpac Katari tiene vida útil hasta 2030 y aún restan entre $us 40 y 50 millones por pagar",
-      "url": "https://eldeber.com.bo/economia/satelite-tupac-katari-tiene-vida-util-2030-aun-restan-us-40-50-millones-pagar_1770467212",
-      "summary": "El satélite boliviano Túpac Katari, puesto en órbita en 2013 desde China, tiene una vida útil proyectada hasta 2030 y mantiene un saldo pendiente de financiamiento de unos 40–50 millones de dólares; ha mejorado la conectividad rural con radiobases, telefonía móvil y difusión de TV y radio en comunidades de más de 50 habitantes. Aun así, analistas señalan limitaciones frente a tecnologías como Internet satelital de órbita baja (LEO), y, mientras Evo Morales defiende su soberanía tecnológica, admite riesgos de empresas extranjeras, con el presidente Rodrigo Paz anunciando una auditoría para revisar sus resultados financieros y operativos.",
-      "summary_es": "El satélite boliviano Túpac Katari, puesto en órbita en 2013 desde China, tiene una vida útil proyectada hasta 2030 y mantiene un saldo pendiente de financiamiento de unos 40–50 millones de dólares; ha mejorado la conectividad rural con radiobases, telefonía móvil y difusión de TV y radio en comunidades de más de 50 habitantes. Aun así, analistas señalan limitaciones frente a tecnologías como Internet satelital de órbita baja (LEO), y, mientras Evo Morales defiende su soberanía tecnológica, admite riesgos de empresas extranjeras, con el presidente Rodrigo Paz anunciando una auditoría para revisar sus resultados financieros y operativos.",
-      "summary_en": "The Bolivian satellite Túpac Katari, launched into orbit in 2013 from China, has a projected operational life until 2030 and an outstanding financing balance of about 40–50 million dollars. It has improved rural connectivity through radio bases, mobile telephony, and the broadcasting of TV and radio in communities of more than 50 inhabitants. Still, analysts point to limitations compared with technologies like low-Earth-orbit satellite Internet (LEO). While Evo Morales defends Bolivia’s technological sovereignty, he acknowledges risks from foreign companies, and President Rodrigo Paz has announced an audit to review its financial and operational performance.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-07T08:29:00-04:00",
-      "published_at_bo": "2026-02-07T08:29:00-04:00",
-      "fetched_at_utc": "2026-02-07T17:31:24.911726+00:00",
-      "day": "2026-02-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno activará seguro para cubrir daños a vehículos por gasolina “desestabilizada”",
-      "url": "https://eldeber.com.bo/economia/gobierno-activara-seguro-cubrir-danos-vehiculos-gasolina-desestabilizada_1770464154",
-      "summary": "El Gobierno, a través de YPFB Logística, anunció la activación de un seguro solidario de daño contra terceros para cubrir daños en vehículos causados por gasolina “desestabilizada”, evaluando cada caso y reparando directamente en talleres autorizados sin entregar dinero en efectivo. El ministro Medinaceli explicó que las evaluaciones técnicas determinarán el origen de los daños y que la gasolina comercializada mantiene buena calidad, invitando a la población a acudir a las estaciones de servicio con tranquilidad.",
-      "summary_es": "El Gobierno, a través de YPFB Logística, anunció la activación de un seguro solidario de daño contra terceros para cubrir daños en vehículos causados por gasolina “desestabilizada”, evaluando cada caso y reparando directamente en talleres autorizados sin entregar dinero en efectivo. El ministro Medinaceli explicó que las evaluaciones técnicas determinarán el origen de los daños y que la gasolina comercializada mantiene buena calidad, invitando a la población a acudir a las estaciones de servicio con tranquilidad.",
-      "summary_en": "The government, through YPFB Logística, announced the activation of a solidarity third-party damage insurance to cover vehicle damages caused by destabilized gasoline, evaluating each case and carrying out repairs directly at authorized workshops without cash payouts. Minister Medinaceli explained that technical assessments will determine the origin of the damages and that the gasoline sold remains of good quality, inviting the public to visit service stations with confidence.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-07T07:47:00-04:00",
-      "published_at_bo": "2026-02-07T07:47:00-04:00",
-      "fetched_at_utc": "2026-02-07T17:31:25.892316+00:00",
-      "day": "2026-02-07"
     }
   ]
 }
