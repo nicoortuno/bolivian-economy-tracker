@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-22T15:31:29.645314+00:00",
+  "generated_at_utc": "2026-02-22T15:40:34.638127+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Arancel cero a la soya abre un choque entre industria y productores",
+      "url": "https://eldeber.com.bo/economia/arancel-cero-soya-abre-choque-industria-productores_1771772037",
+      "summary": "El Decreto Supremo 5547, que elimina aranceles a la importación de grano de soya hasta fines de año, generó un choque entre la industria oleaginosa, que lo ve como un apoyo a la producción y la seguridad alimentaria, y los agricultores, que advierten riesgos para los precios internos y la sostenibilidad del agro. Mientras Caniob destaca la necesidad de aprovechar la capacidad industrial para procesar más y garantizar suministros de subproductos, Codepro exige diálogo técnico, garantías de precios y medidas para evitar distorsiones del mercado.",
+      "summary_es": "El Decreto Supremo 5547, que elimina aranceles a la importación de grano de soya hasta fines de año, generó un choque entre la industria oleaginosa, que lo ve como un apoyo a la producción y la seguridad alimentaria, y los agricultores, que advierten riesgos para los precios internos y la sostenibilidad del agro. Mientras Caniob destaca la necesidad de aprovechar la capacidad industrial para procesar más y garantizar suministros de subproductos, Codepro exige diálogo técnico, garantías de precios y medidas para evitar distorsiones del mercado.",
+      "summary_en": "The Supreme Decree 5547, which eliminates tariffs on imports of soybean grain until the end of the year, sparked a clash between the oilseed industry, which views it as support for production and food security, and farmers, who warn of risks to domestic prices and agricultural sustainability. While Caniob emphasizes the need to leverage industrial capacity to process more and guarantee supplies of byproducts, Codepro calls for technical dialogue, price guarantees, and measures to prevent market distortions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-22T11:23:00-04:00",
+      "published_at_bo": "2026-02-22T11:23:00-04:00",
+      "fetched_at_utc": "2026-02-22T15:31:27.733940+00:00",
+      "day": "2026-02-22"
+    },
     {
       "source": "El Deber",
       "title": "Tras el paro cívico, el Gobierno firma acuerdos por el combustible en Trinidad, pero persisten las dudas",
