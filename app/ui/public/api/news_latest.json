@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-22T17:30:23.280539+00:00",
+  "generated_at_utc": "2026-02-22T17:42:23.351511+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisternas colman accesos a Palmasola en medio de la lenta descarga de combustible",
+      "url": "https://eldeber.com.bo/economia/cisternas-colman-accesos-palmasola-medio-lenta-descarga-combustible_1771779052",
+      "summary": "La crónica describe una crisis logística en Palmasola, donde decenas de cisternas estacionadas en ambos lados de la vía esperan descargar combustible, formando un corredor que mantiene en negro la descarga pese a un acuerdo para agilizarla. El cuello de botella no es la llegada sino la descarga lenta, que genera riesgo, congestión y tensión entre choferes y autoridades, mientras el combustible permanece “en fila” a pocos metros de los tanques.",
+      "summary_es": "La crónica describe una crisis logística en Palmasola, donde decenas de cisternas estacionadas en ambos lados de la vía esperan descargar combustible, formando un corredor que mantiene en negro la descarga pese a un acuerdo para agilizarla. El cuello de botella no es la llegada sino la descarga lenta, que genera riesgo, congestión y tensión entre choferes y autoridades, mientras el combustible permanece “en fila” a pocos metros de los tanques.",
+      "summary_en": "The article describes a logistics crisis in Palmasola, where dozens of tank trucks are parked on both sides of the road, waiting to unload fuel and forming a corridor that leaves unloading stalled despite an agreement to speed it up. The bottleneck is not the arrival of shipments but the slow unloading, which creates risk, congestion, and tension between drivers and authorities, while the fuel sits queued just meters from the tanks.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-22T12:55:00-04:00",
+      "published_at_bo": "2026-02-22T12:55:00-04:00",
+      "fetched_at_utc": "2026-02-22T17:30:19.510230+00:00",
+      "day": "2026-02-22"
+    },
     {
       "source": "El Deber",
       "title": "ABC refuerza mantenimiento en la ruta Quiquibey–Yucumo–Rurrenabaque",
