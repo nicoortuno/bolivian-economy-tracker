@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-22T22:30:55.226726+00:00",
+  "generated_at_utc": "2026-02-22T22:44:47.054272+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gasolina mejora en surtidores, pero la carbonilla sigue llegando a los talleres cruceños",
+      "url": "https://eldeber.com.bo/economia/gasolina-mejora-surtidores-carbonilla-sigue-llegando-talleres-crucenos_1771795445",
+      "summary": "En Santa Cruz, los talleres mecánicos siguen tratando fallas en motocicletas causadas por carbonilla acumulada en inyectores y precámaras, consecuencia de gasolina contaminada de semanas previas, aunque el combustible actual presentaría mejoras. El proceso de limpieza puede costar alrededor de 330 bolivianos y, en casos leves, algunos recurren a aditivos, pero la reparación completa persiste para episodios graves.",
+      "summary_es": "En Santa Cruz, los talleres mecánicos siguen tratando fallas en motocicletas causadas por carbonilla acumulada en inyectores y precámaras, consecuencia de gasolina contaminada de semanas previas, aunque el combustible actual presentaría mejoras. El proceso de limpieza puede costar alrededor de 330 bolivianos y, en casos leves, algunos recurren a aditivos, pero la reparación completa persiste para episodios graves.",
+      "summary_en": "In Santa Cruz, mechanical workshops are still dealing with motorcycle malfunctions caused by carbon buildup in injectors and pre-chambers, the result of gasoline contaminated in recent weeks, although the current fuel has shown improvements. The cleaning process can cost around 330 bolivianos, and in mild cases some people resort to additives, but full repair remains necessary for more severe cases.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-22T18:02:00-04:00",
+      "published_at_bo": "2026-02-22T18:02:00-04:00",
+      "fetched_at_utc": "2026-02-22T22:30:51.488371+00:00",
+      "day": "2026-02-22"
+    },
     {
       "source": "El Deber",
       "title": "Entel avanza en trámites legales para el ingreso de Starlink y apunta a zonas remotas",
