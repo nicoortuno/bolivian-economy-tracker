@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-22T21:30:05.006262+00:00",
+  "generated_at_utc": "2026-02-22T21:38:52.978818+00:00",
   "count": 109,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Entel avanza en trámites legales para el ingreso de Starlink y apunta a zonas remotas",
+      "url": "https://eldeber.com.bo/economia/entel-avanza-tramites-legales-ingreso-starlink-apunta-zonas-remotas_1771793051",
+      "summary": "Entel continúa con los trámites legales para la entrada de Starlink, esperando financiar una mayor cobertura en regiones remotas, aunque aún falta definir el marco normativo para operarla formalmente. En 2025 se promulgó el Decreto Supremo 5509 que autoriza a proveedores de internet satelital de órbita baja, como Starlink, a operar, como parte de la apertura de mercado del país.",
+      "summary_es": "Entel continúa con los trámites legales para la entrada de Starlink, esperando financiar una mayor cobertura en regiones remotas, aunque aún falta definir el marco normativo para operarla formalmente. En 2025 se promulgó el Decreto Supremo 5509 que autoriza a proveedores de internet satelital de órbita baja, como Starlink, a operar, como parte de la apertura de mercado del país.",
+      "summary_en": "Entel is moving ahead with the legal steps for Starlink’s entry, aiming to finance broader coverage in remote areas, even as a formal regulatory framework to operate it has yet to be defined. In 2025, Supreme Decree 5509 was promulgated, authorizing low-Earth-orbit satellite internet providers, such as Starlink, to operate as part of the country’s market opening.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-22T16:52:00-04:00",
+      "published_at_bo": "2026-02-22T16:52:00-04:00",
+      "fetched_at_utc": "2026-02-22T21:30:01.281780+00:00",
+      "day": "2026-02-22"
+    },
     {
       "source": "El Deber",
       "title": "Cisternas colman accesos a Palmasola en medio de la lenta descarga de combustible",
