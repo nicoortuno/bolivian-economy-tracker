@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-23T15:52:35.514682+00:00",
+  "generated_at_utc": "2026-02-23T16:02:54.535542+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Pérdidas millonarias en la fila: cisterneros cargan con el costo de 20 millones de litros parados en Palmasola",
+      "url": "https://eldeber.com.bo/economia/perdidas-millonarias-fila-cisterneros-cargan-costo-20-millones-litros-parados-palmasola_1771858521",
+      "summary": "La crisis de la Refinería de Palmasola dejó más de 700 cisternas paralizadas con unos 20 millones de litros de gasolina, trasladando costos a las empresas transportistas y generando pérdidas por inmovilización y evaporación. El sector exige un régimen de ‘stand by’ remunerado para cubrir estos días sin movimiento y evitar penalizaciones por evaporación.",
+      "summary_es": "La crisis de la Refinería de Palmasola dejó más de 700 cisternas paralizadas con unos 20 millones de litros de gasolina, trasladando costos a las empresas transportistas y generando pérdidas por inmovilización y evaporación. El sector exige un régimen de ‘stand by’ remunerado para cubrir estos días sin movimiento y evitar penalizaciones por evaporación.",
+      "summary_en": "The Palmasola refinery crisis left more than 700 tankers idled, containing about 20 million liters of gasoline, shifting costs to transport companies and causing losses from immobilization and evaporation. The sector is demanding a paid “standby” regime to cover days with no movement and to avoid penalties for evaporation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-23T11:29:00-04:00",
+      "published_at_bo": "2026-02-23T11:29:00-04:00",
+      "fetched_at_utc": "2026-02-23T15:52:33.475007+00:00",
+      "day": "2026-02-23"
+    },
     {
       "source": "El Deber",
       "title": "De integración a bioeconomía: las claves productivas del Plan Bolivia",
