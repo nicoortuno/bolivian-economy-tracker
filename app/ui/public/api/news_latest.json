@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-23T07:58:06.004339+00:00",
-  "count": 110,
+  "generated_at_utc": "2026-02-23T08:57:12.530096+00:00",
+  "count": 104,
   "items": [
     {
       "source": "El Deber",
@@ -1443,104 +1443,6 @@
       "published_at_bo": "2026-02-10T06:28:00-04:00",
       "fetched_at_utc": "2026-02-10T16:14:30.445321+00:00",
       "day": "2026-02-10"
-    },
-    {
-      "source": "El Deber",
-      "title": "Presidente de YPFB reconoce que \"se está construyendo la solución\" para reparación de motores",
-      "url": "https://eldeber.com.bo/economia/presidente-ypfb-reconoce-esta-construyendo-solucion-reparacion-motores_1770689411",
-      "summary": "YPFB y su aseguradora trabajan en una salida consensuada para atender los daños a motores por gasolina de mala calidad, con un mecanismo ágil y poco burocrático que use talleres autorizados y declaraciones juradas. El plan buscará abarcar a todos los afectados, mediante registros de los grupos transportistas y un canal de comunicación para presentar casos individuales y evidencias.",
-      "summary_es": "YPFB y su aseguradora trabajan en una salida consensuada para atender los daños a motores por gasolina de mala calidad, con un mecanismo ágil y poco burocrático que use talleres autorizados y declaraciones juradas. El plan buscará abarcar a todos los afectados, mediante registros de los grupos transportistas y un canal de comunicación para presentar casos individuales y evidencias.",
-      "summary_en": "YPFB and its insurer are working on a consensual solution to address engine damage caused by substandard gasoline, featuring a streamlined, low-bureaucracy mechanism that uses authorized workshops and sworn statements. The plan aims to cover all affected parties, through registries of transport groups and a channel to submit individual cases and evidence.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T22:10:00-04:00",
-      "published_at_bo": "2026-02-09T22:10:00-04:00",
-      "fetched_at_utc": "2026-02-10T07:12:54.562995+00:00",
-      "day": "2026-02-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "No conformes con el ferrobús, un sector de la Chiquitania amenaza con bloqueo de la vía si no vuelve el tren",
-      "url": "https://eldeber.com.bo/economia/no-conformes-ferrobus-sector-chiquitania-amenaza-bloqueo-via-si-no-vuelve-tren_1770674991",
-      "summary": "Representantes del Comité Impulsor advirtieron que, si no regresa el servicio de pasajeros para el 20 de febrero, retomarán el bloqueo de la vía férrea y obstruirán la circulación de los trenes de carga hacia la frontera con Brasil. Rechazan el ferrobús limitado y exigen el retorno del tren convencional de pasajeros con mayor capacidad y opción de carga, mientras FO y el Gobierno anuncian la operación del ferrobús a partir del 27 de febrero.",
-      "summary_es": "Representantes del Comité Impulsor advirtieron que, si no regresa el servicio de pasajeros para el 20 de febrero, retomarán el bloqueo de la vía férrea y obstruirán la circulación de los trenes de carga hacia la frontera con Brasil. Rechazan el ferrobús limitado y exigen el retorno del tren convencional de pasajeros con mayor capacidad y opción de carga, mientras FO y el Gobierno anuncian la operación del ferrobús a partir del 27 de febrero.",
-      "summary_en": "Representatives of the Steering Committee warned that if passenger service does not resume by February 20, they will restart the blockade of the rail line and disrupt the movement of freight trains toward the Brazil border. They reject the limited ferrobus and demand the return of the conventional passenger train with greater capacity and freight options, even as FO and the government announce the ferrobus will begin operating on February 27.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T18:42:00-04:00",
-      "published_at_bo": "2026-02-09T18:42:00-04:00",
-      "fetched_at_utc": "2026-02-10T02:52:08.399579+00:00",
-      "day": "2026-02-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Transportistas y gobierno acuerdan acta de seis puntos por gasolina \"desestabilizada\", pero sigue la emergencia",
-      "url": "https://eldeber.com.bo/economia/transportistas-gobierno-acuerdan-acta-seis-puntos-gasolina-desestabilizada-sigue-emergencia_1770666521",
-      "summary": "Representantes del transporte en mototaxis, YPFB, ANH y el Ministerio de Hidrocarburos y Energía, mediadas por el Comité Pro Santa Cruz, firmaron un acta de entendimiento con seis compromisos para enfrentar la problemática de la gasolina “desestabilizada” y el seguro solidario para daños en motores. Entre ellos, la creación de una comisión conjunta para inspeccionar instalaciones de YPFB, informes periódicos de calidad de combustibles, mesas de trabajo con la aseguradora UniBienes y gestiones ante la ANH para revisar valores y registros, manteniéndose el sector en estado de emergencia hasta el cumplimiento de los acuerdos.",
-      "summary_es": "Representantes del transporte en mototaxis, YPFB, ANH y el Ministerio de Hidrocarburos y Energía, mediadas por el Comité Pro Santa Cruz, firmaron un acta de entendimiento con seis compromisos para enfrentar la problemática de la gasolina “desestabilizada” y el seguro solidario para daños en motores. Entre ellos, la creación de una comisión conjunta para inspeccionar instalaciones de YPFB, informes periódicos de calidad de combustibles, mesas de trabajo con la aseguradora UniBienes y gestiones ante la ANH para revisar valores y registros, manteniéndose el sector en estado de emergencia hasta el cumplimiento de los acuerdos.",
-      "summary_en": "Transport representatives working with moto-taxi operators, YPFB, ANH, and the Ministry of Hydrocarbons and Energy, mediated by the Pro Santa Cruz Committee, signed a memorandum of understanding with six commitments to address the issues of destabilized gasoline and the solidarity insurance for engine damage. Among these: the creation of a joint commission to inspect YPFB facilities; regular fuel-quality reports; working groups with insurer UniBienes; and actions before ANH to review pricing and records, with the sector kept under a state of emergency until the agreements are fulfilled.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T16:25:00-04:00",
-      "published_at_bo": "2026-02-09T16:25:00-04:00",
-      "fetched_at_utc": "2026-02-09T23:42:57.293912+00:00",
-      "day": "2026-02-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Seguro Agrario indemniza a cerca de 5 mil familias de Chuquisaca, afectadas por eventos climáticos",
-      "url": "https://eldeber.com.bo/economia/seguro-agrario-indemniza-cerca-5-mil-familias-chuquisaca-afectadas-eventos-climaticos_1770654365",
-      "summary": "Más de 4.800 familias productoras de Chuquisaca recibieron indemnizaciones del Seguro Agrario Minka por daños en sus cultivos durante la campaña 2024–2025, ejecutadas por el INSA y que beneficiaron a 4.889 familias en 13 municipios y 222 comunidades. La inversión asciende a 3,81 millones de Bs para cubrir 3.817 hectáreas afectadas por fenómenos climáticos, con el objetivo de proteger la continuidad productiva y el sustento de las familias rurales.",
-      "summary_es": "Más de 4.800 familias productoras de Chuquisaca recibieron indemnizaciones del Seguro Agrario Minka por daños en sus cultivos durante la campaña 2024–2025, ejecutadas por el INSA y que beneficiaron a 4.889 familias en 13 municipios y 222 comunidades. La inversión asciende a 3,81 millones de Bs para cubrir 3.817 hectáreas afectadas por fenómenos climáticos, con el objetivo de proteger la continuidad productiva y el sustento de las familias rurales.",
-      "summary_en": "More than 4,800 farming families in Chuquisaca received payouts from the Minka Agricultural Insurance for crop losses during the 2024–2025 season, administered by INSA. The program benefited 4,889 families across 13 municipalities and 222 communities. The investment totaled 3.81 million bolivianos to cover 3,817 hectares affected by climate-related events, with the aim of safeguarding productive continuity and the livelihoods of rural families.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T12:30:00-04:00",
-      "published_at_bo": "2026-02-09T12:30:00-04:00",
-      "fetched_at_utc": "2026-02-09T21:44:53.544664+00:00",
-      "day": "2026-02-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Precio del dólar digital se mantiene por encima del referencial del BCB mientras el mercado se estabiliza",
-      "url": "https://eldeber.com.bo/economia/precio-dolar-digital-mantiene-encima-referencial-bcb-mientras-mercado-estabiliza_1770652908",
-      "summary": "El dólar paralelo sigue cotizando por encima del valor referencial oficial del BCB (6,86/6,96) pese a cierta estabilización; las cotizaciones digitales en plataformas P2P rondan 9,17–9,19 bolivianos y el dólar físico se negocia alrededor de 9,15–9,25, ante una escasez de divisas en el sistema formal que explica la persistente brecha.",
-      "summary_es": "El dólar paralelo sigue cotizando por encima del valor referencial oficial del BCB (6,86/6,96) pese a cierta estabilización; las cotizaciones digitales en plataformas P2P rondan 9,17–9,19 bolivianos y el dólar físico se negocia alrededor de 9,15–9,25, ante una escasez de divisas en el sistema formal que explica la persistente brecha.",
-      "summary_en": "The parallel dollar remains quoted above the Central Bank’s official reference range of 6.86/6.96 bolivianos, despite some stabilization; digital quotes on P2P platforms run around 9.17–9.19 bolivianos, and the physical dollar trades near 9.15–9.25 bolivianos, amid a shortage of foreign currency in the formal system that explains the persistent gap.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T12:17:00-04:00",
-      "published_at_bo": "2026-02-09T12:17:00-04:00",
-      "fetched_at_utc": "2026-02-09T21:44:54.551814+00:00",
-      "day": "2026-02-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Con tensión y retraso, arranca reunión entre transporte, YPFB y cívicos por el seguro por gasolina defectuosa",
-      "url": "https://eldeber.com.bo/economia/tension-retraso-arranca-reunion-transporte-ypfb-civicos-seguro-gasolina-defectuosa_1770646773",
-      "summary": "La reunión entre sectores del transporte, YPFB y el Comité Pro Santa Cruz para definir el seguro solidario sufrió retrasos y tensión, con un ingreso inicial limitado a seis representantes y protestas de dirigentes que exigían participar. Al final se permitió la presencia de todos y se espera una conferencia de prensa conjunta de autoridades tras el encuentro.",
-      "summary_es": "La reunión entre sectores del transporte, YPFB y el Comité Pro Santa Cruz para definir el seguro solidario sufrió retrasos y tensión, con un ingreso inicial limitado a seis representantes y protestas de dirigentes que exigían participar. Al final se permitió la presencia de todos y se espera una conferencia de prensa conjunta de autoridades tras el encuentro.",
-      "summary_en": "The meeting between transport sector groups, YPFB, and the Pro Santa Cruz Committee to define the solidarity insurance experienced delays and tension, with initial access limited to six representatives and protests by leaders demanding participation. In the end, everyone was allowed to attend, and a joint press conference by authorities is expected after the meeting.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T10:29:00-04:00",
-      "published_at_bo": "2026-02-09T10:29:00-04:00",
-      "fetched_at_utc": "2026-02-09T19:23:48.529203+00:00",
-      "day": "2026-02-09"
-    },
-    {
-      "source": "El Deber",
-      "title": "Comité por el tren a la Chiquitania mantiene la emergencia y cuestiona acuerdo por el ferrobús",
-      "url": "https://eldeber.com.bo/economia/comite-tren-chiquitania-mantiene-emergencia-cuestiona-acuerdo-ferrobus_1770643164",
-      "summary": "El Comité impulsor del retorno del tren de pasajeros hacia la Chiquitania mantiene el estado de emergencia porque considera que el acuerdo del 6 de febrero, que prevé iniciar con un ferrobús, no responde a las demandas de la región, que exigen un verdadero tren de pasajeros con mayor capacidad y beneficios para la carga y la economía local. El piloto de seis meses, con tarifas y rutas por definir por ATT y Ferroviaria Oriental, se evaluará al final del periodo.",
-      "summary_es": "El Comité impulsor del retorno del tren de pasajeros hacia la Chiquitania mantiene el estado de emergencia porque considera que el acuerdo del 6 de febrero, que prevé iniciar con un ferrobús, no responde a las demandas de la región, que exigen un verdadero tren de pasajeros con mayor capacidad y beneficios para la carga y la economía local. El piloto de seis meses, con tarifas y rutas por definir por ATT y Ferroviaria Oriental, se evaluará al final del periodo.",
-      "summary_en": "The Steering Committee for the return of passenger rail to Chiquitania is keeping the state of emergency in place, arguing that the February 6 agreement, which envisions starting with a rail-bus, does not meet the region’s demands for a true passenger train with greater capacity and benefits for freight and the local economy. The six-month pilot, with fares and routes to be defined by ATT and Ferroviaria Oriental, will be evaluated at the end of the period.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-09T09:30:00-04:00",
-      "published_at_bo": "2026-02-09T09:30:00-04:00",
-      "fetched_at_utc": "2026-02-09T17:56:13.177413+00:00",
-      "day": "2026-02-09"
     }
   ]
 }
