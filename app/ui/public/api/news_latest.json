@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-23T23:37:49.964331+00:00",
+  "generated_at_utc": "2026-02-23T23:48:02.130780+00:00",
   "count": 109,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Tras quejas de transportistas, YPFB inicia la descarga de 100 cisternas adicionales de combustible",
+      "url": "https://eldeber.com.bo/economia/quejas-transportistas-ypfb-inicia-descarga-100-cisternas-adicionales-combustible_1771888217",
+      "summary": "YPFB inició la descarga de 100 camiones cisterna en tres plantas de Santa Cruz para reforzar la provisión de diésel y gasolina ante problemas de abastecimiento, evaluando ampliar plantas y tanques adicionales para responder a la demanda del oriente del país. Entre el 20 y el 23 de febrero ya descargó más de 300 cisternas y la operación continuará para garantizar el suministro continuo en la región.",
+      "summary_es": "YPFB inició la descarga de 100 camiones cisterna en tres plantas de Santa Cruz para reforzar la provisión de diésel y gasolina ante problemas de abastecimiento, evaluando ampliar plantas y tanques adicionales para responder a la demanda del oriente del país. Entre el 20 y el 23 de febrero ya descargó más de 300 cisternas y la operación continuará para garantizar el suministro continuo en la región.",
+      "summary_en": "YPFB has begun unloading 100 tanker trucks at three plants in Santa Cruz to bolster diesel and gasoline supply amid shortages, while evaluating expanding plants and adding extra tanks to meet demand in the eastern region of the country. Between February 20 and 23, more than 300 tankers have already been unloaded, and the operation will continue to ensure continuous supply in the area.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-23T19:29:00-04:00",
+      "published_at_bo": "2026-02-23T19:29:00-04:00",
+      "fetched_at_utc": "2026-02-23T23:37:47.096466+00:00",
+      "day": "2026-02-23"
+    },
     {
       "source": "El Deber",
       "title": "Dificultades viales empuja a la ABC a buscar alivio financiero urgente con la CAF",
