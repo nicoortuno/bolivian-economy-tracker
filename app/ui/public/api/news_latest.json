@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-24T23:37:56.358736+00:00",
+  "generated_at_utc": "2026-02-24T23:47:40.397666+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Tren de pasajeros a la Chiquitania comenzará a operar en tres meses",
+      "url": "https://eldeber.com.bo/economia/tren-pasajeros-chiquitania-comenzara-operar-tres-meses_1771974633",
+      "summary": "La Ferroviaria Oriental iniciará de inmediato la puesta a punto de furgones y coches para reiniciar en tres meses el tren de pasajeros en la ruta Santa Cruz–Puerto Quijarro, con una fase inicial de reanudación del ferrobús este viernes 27 de febrero. El servicio, que incluirá paradas en todas las estaciones intermedias y tarifas económicas, busca garantizar seguridad, calidad y eficiencia para fortalecer la movilidad regional y la integración.",
+      "summary_es": "La Ferroviaria Oriental iniciará de inmediato la puesta a punto de furgones y coches para reiniciar en tres meses el tren de pasajeros en la ruta Santa Cruz–Puerto Quijarro, con una fase inicial de reanudación del ferrobús este viernes 27 de febrero. El servicio, que incluirá paradas en todas las estaciones intermedias y tarifas económicas, busca garantizar seguridad, calidad y eficiencia para fortalecer la movilidad regional y la integración.",
+      "summary_en": "La Ferroviaria Oriental will immediately begin readiness work on wagons and cars to restart passenger service in three months on the Santa Cruz–Puerto Quijarro route, with an initial phase that reintroduces the railbus this Friday, February 27. The service will stop at all intermediate stations and offer affordable fares, aiming to ensure safety, quality, and efficiency to boost regional mobility and integration.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T19:31:00-04:00",
+      "published_at_bo": "2026-02-24T19:31:00-04:00",
+      "fetched_at_utc": "2026-02-24T23:37:49.437399+00:00",
+      "day": "2026-02-24"
+    },
     {
       "source": "El Deber",
       "title": "ATT inicia revocatoria de licencia y ordena el cese de operaciones de Bolibox por cobros excesivos",
