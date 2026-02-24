@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-24T20:42:29.726462+00:00",
+  "generated_at_utc": "2026-02-24T20:55:57.199718+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Latinoamérica analiza el impacto de los nuevos aranceles de Trump, ¿afectan a Bolivia?",
+      "url": "https://eldeber.com.bo/economia/latinoamerica-analiza-impacto-nuevos-aranceles-trump-afectan-bolivia_1771962317",
+      "summary": "El fallo del Supreme de Estados Unidos que anuló parte de los aranceles de Trump y la entrada en vigor de un recargo global del 10% afectan las exportaciones de Latinoamérica, con Brasil y México celebrando alivios y otros países advirtiendo que persiste la incertidumbre y podría impactar acuerdos previos. Bolivia, con una menor exposición por su mayor dependencia de China, podría enfrentar un impacto relativamente limitado, pese a subidas arancelarias pasadas.",
+      "summary_es": "El fallo del Supreme de Estados Unidos que anuló parte de los aranceles de Trump y la entrada en vigor de un recargo global del 10% afectan las exportaciones de Latinoamérica, con Brasil y México celebrando alivios y otros países advirtiendo que persiste la incertidumbre y podría impactar acuerdos previos. Bolivia, con una menor exposición por su mayor dependencia de China, podría enfrentar un impacto relativamente limitado, pese a subidas arancelarias pasadas.",
+      "summary_en": "The U.S. Supreme Court ruling that struck down part of Trump’s tariffs and the rollout of a global 10% surcharge are affecting Latin America’s exports, with Brazil and Mexico welcoming relief while other countries warn that uncertainty persists and could impact existing agreements. Bolivia, with lower exposure due to its greater reliance on China, could face a relatively limited impact, despite past tariff increases.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T15:45:00-04:00",
+      "published_at_bo": "2026-02-24T15:45:00-04:00",
+      "fetched_at_utc": "2026-02-24T20:42:20.260266+00:00",
+      "day": "2026-02-24"
+    },
     {
       "source": "El Deber",
       "title": "Expectativa en Tarija por convenios a ser firmados entre Rodrigo Paz y el presidente de la CAF",
