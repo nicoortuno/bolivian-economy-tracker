@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-24T22:39:00.375664+00:00",
+  "generated_at_utc": "2026-02-24T22:53:29.744466+00:00",
   "count": 107,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ATT inicia revocatoria de licencia y ordena el cese de operaciones de Bolibox por cobros excesivos",
+      "url": "https://eldeber.com.bo/economia/att-inicia-revocatoria-licencia-ordena-cese-operaciones-bolibox-cobros-excesivos_1771969895",
+      "summary": "La ATT inició la revocatoria de la licencia y el cese inmediato de operaciones de Bolibox S.R.L. ante hallazgos de cobros no reglamentarios e irregularidades, incluida facturación bajo otra razón social y desviación de paquetería. También se solicitó una investigación penal, se notificó a la Aduana y se exige la entrega de la mercadería en tránsito para proteger a los usuarios.",
+      "summary_es": "La ATT inició la revocatoria de la licencia y el cese inmediato de operaciones de Bolibox S.R.L. ante hallazgos de cobros no reglamentarios e irregularidades, incluida facturación bajo otra razón social y desviación de paquetería. También se solicitó una investigación penal, se notificó a la Aduana y se exige la entrega de la mercadería en tránsito para proteger a los usuarios.",
+      "summary_en": "The ATT has started the process to revoke Bolibox S.R.L.'s license and halt its operations immediately after findings of unregulated charges and irregularities, including invoicing under a different corporate name and diversion of parcels. A criminal investigation has also been requested, Customs has been notified, and delivery of goods in transit is being required to protect consumers.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T18:02:00-04:00",
+      "published_at_bo": "2026-02-24T18:02:00-04:00",
+      "fetched_at_utc": "2026-02-24T22:38:51.868515+00:00",
+      "day": "2026-02-24"
+    },
     {
       "source": "El Deber",
       "title": "Mototaxistas deberán esperar hasta 30 días para recibir resarcimiento por daño de gasolina defectuosa",
