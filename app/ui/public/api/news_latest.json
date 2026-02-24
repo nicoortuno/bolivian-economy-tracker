@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-24T02:39:05.419193+00:00",
+  "generated_at_utc": "2026-02-24T03:15:41.999876+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Amantegui: “Sin importar soya, la industria no puede crecer ni generar más dólares para el país”",
+      "url": "https://eldeber.com.bo/economia/amantegui-importar-soya-industria-no-puede-crecer-generar-dolares-pais_1771893282",
+      "summary": "La liberación de la importación de grano de soya busca equilibrar una cadena productiva con demanda industrial insatisfecha, ante una brecha entre la producción nacional (≈3 millones de t/año) y la capacidad instalada (≈5,5 millones), que obliga a operar a la industria al 65%. Según Jorge Amantegui, este mecanismo es coherente con un mercado abierto y con la realidad productiva de Bolivia, y debe ir acompañado de mejoras en productividad, biotecnología y un marco legal que favorezca la producción, exportación y empleo.",
+      "summary_es": "La liberación de la importación de grano de soya busca equilibrar una cadena productiva con demanda industrial insatisfecha, ante una brecha entre la producción nacional (≈3 millones de t/año) y la capacidad instalada (≈5,5 millones), que obliga a operar a la industria al 65%. Según Jorge Amantegui, este mecanismo es coherente con un mercado abierto y con la realidad productiva de Bolivia, y debe ir acompañado de mejoras en productividad, biotecnología y un marco legal que favorezca la producción, exportación y empleo.",
+      "summary_en": "The liberalization of soybean grain imports aims to balance a production chain with unmet industrial demand, amid a gap between domestic production (about 3 million tons per year) and installed capacity (about 5.5 million tons), which leaves the industry operating at roughly 65%. According to Jorge Amantegui, this mechanism is consistent with an open market and Bolivia’s real productive conditions, and should be accompanied by improvements in productivity, biotechnology, and a legal framework that promotes production, exports, and employment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-23T20:57:00-04:00",
+      "published_at_bo": "2026-02-23T20:57:00-04:00",
+      "fetched_at_utc": "2026-02-24T02:39:01.595313+00:00",
+      "day": "2026-02-23"
+    },
     {
       "source": "El Deber",
       "title": "Tras quejas de transportistas, YPFB inicia la descarga de 100 cisternas adicionales de combustible",
