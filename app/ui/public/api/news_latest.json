@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-24T19:09:50.679714+00:00",
+  "generated_at_utc": "2026-02-24T19:19:44.388421+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Expectativa en Tarija por convenios a ser firmados entre Rodrigo Paz y el presidente de la CAF",
+      "url": "https://eldeber.com.bo/economia/expectativa-tarija-convenios-ser-firmados-rodrigo-paz-presidente-caf_1771958209",
+      "summary": "Se esperan convenios de financiamiento entre el presidente Paz Pereira y Sergio Díaz-Granados de la CAF en Tarija para proyectos como planta de aguas residuales, equipamiento hospitalario, Carrizal y la carretera Tarija-Villa Montes. Además, se destaca la necesidad de una distribución equitativa de los fondos y se baraja que la CAF aporte alrededor de 3.000 millones, mientras Bolivia estima requerir entre 10.000 y 12.000 millones en cinco años.",
+      "summary_es": "Se esperan convenios de financiamiento entre el presidente Paz Pereira y Sergio Díaz-Granados de la CAF en Tarija para proyectos como planta de aguas residuales, equipamiento hospitalario, Carrizal y la carretera Tarija-Villa Montes. Además, se destaca la necesidad de una distribución equitativa de los fondos y se baraja que la CAF aporte alrededor de 3.000 millones, mientras Bolivia estima requerir entre 10.000 y 12.000 millones en cinco años.",
+      "summary_en": "Funding agreements are expected between President Paz Pereira and Sergio Díaz-Granados of the CAF in Tarija for projects including a wastewater treatment plant, hospital equipment, Carrizal, and the Tarija-Villa Montes road. The report also stresses the need for an equitable distribution of funds, and it is floated that the CAF could contribute around 3 billion, while Bolivia estimates a five-year need of between 10 and 12 billion.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T14:36:00-04:00",
+      "published_at_bo": "2026-02-24T14:36:00-04:00",
+      "fetched_at_utc": "2026-02-24T19:09:42.803219+00:00",
+      "day": "2026-02-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Marcelo Blanco: “El precio de las tarifas eléctricas no sufrió ningún tipo de incremento”",
+      "url": "https://eldeber.com.bo/economia/marcelo-blanco-precio-tarifas-electricas-no-sufrio-ningun-tipo-incremento_1771951766",
+      "summary": "La nueva Ley de Electricidad busca aumentar la inversión privada y la participación del sector privado mediante subastas y alianzas público-privadas, con foco en energías renovables para reducir la dependencia de las termoeléctricas. También garantiza que ENDE compita en condiciones iguales, establece un Comité Nacional de Despacho de Carga independiente y mantiene subsidios eléctricos para evitar aumento de tarifas, al tiempo que impulsa la matriz energética y la electromovilidad.",
+      "summary_es": "La nueva Ley de Electricidad busca aumentar la inversión privada y la participación del sector privado mediante subastas y alianzas público-privadas, con foco en energías renovables para reducir la dependencia de las termoeléctricas. También garantiza que ENDE compita en condiciones iguales, establece un Comité Nacional de Despacho de Carga independiente y mantiene subsidios eléctricos para evitar aumento de tarifas, al tiempo que impulsa la matriz energética y la electromovilidad.",
+      "summary_en": "The new Electricity Law aims to boost private investment and private-sector participation through auctions and public-private partnerships, with a focus on renewable energy to reduce dependence on thermal power plants. It also guarantees that ENDE will compete on equal footing, establishes an independent National Load Dispatch Committee, and maintains electricity subsidies to prevent tariff hikes, while advancing the energy mix and electric mobility.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T14:24:00-04:00",
+      "published_at_bo": "2026-02-24T14:24:00-04:00",
+      "fetched_at_utc": "2026-02-24T19:09:43.764147+00:00",
+      "day": "2026-02-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "La producción de algodón cae un 70% y el sector entra en un estancamiento",
+      "url": "https://eldeber.com.bo/economia/produccion-algodon-cae-70-sector-entra-estancamiento_1771951362",
+      "summary": "La campaña 2026 del algodón en el oriente boliviano está estancada: la superficie sembrada cayó de 4.500 a poco más de 1.000 hectáreas, y los productores temen apenas alcanzar unas 3.000 debido a la falta de incentivos, mercados débiles y escaso financiamiento. Mientras tanto, hay avances en biotecnología para una nueva semilla, pero persisten denuncias de mala gestión y retrasos en proyectos estatales que pueden poner en riesgo el futuro del sector.",
+      "summary_es": "La campaña 2026 del algodón en el oriente boliviano está estancada: la superficie sembrada cayó de 4.500 a poco más de 1.000 hectáreas, y los productores temen apenas alcanzar unas 3.000 debido a la falta de incentivos, mercados débiles y escaso financiamiento. Mientras tanto, hay avances en biotecnología para una nueva semilla, pero persisten denuncias de mala gestión y retrasos en proyectos estatales que pueden poner en riesgo el futuro del sector.",
+      "summary_en": "The 2026 cotton campaign in eastern Bolivia is stalled: the planted area has fallen from 4,500 hectares to just over 1,000, with producers fearing they will barely reach about 3,000 due to a lack of incentives, weak markets, and limited financing. Meanwhile, there are advances in biotechnology for a new seed, but allegations of mismanagement and delays in state-backed projects persist, potentially jeopardizing the sector’s future.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T14:13:00-04:00",
+      "published_at_bo": "2026-02-24T14:13:00-04:00",
+      "fetched_at_utc": "2026-02-24T19:09:44.734894+00:00",
+      "day": "2026-02-24"
+    },
     {
       "source": "El Deber",
       "title": "Plan de recuperación: BoA prevé incorporar 15 aeronaves hasta junio",
