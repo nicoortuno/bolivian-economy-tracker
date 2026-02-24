@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-24T10:54:43.670813+00:00",
+  "generated_at_utc": "2026-02-24T11:08:13.863828+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisterneros corren con el costo de 20 millones de litros de combustible parado",
+      "url": "https://eldeber.com.bo/economia/cisterneros-corren-costo-20-millones-litros-combustible-parado_1771930445",
+      "summary": "La crisis en la Refinería Palmasola mantiene obstruidos más de 700 camiones cisterna con unos 20 millones de litros de gasolina, elevando costos para transportistas y generando pérdidas por evaporación y daños potenciales a los vehículos. Frente a ello, YPFB anunció medidas logísticas como la descarga de 100 cisternas adicionales y la reconfiguración del sistema, mientras el sector exige un régimen de ‘stand by’ remunerado para compensar los días de inmovilización.",
+      "summary_es": "La crisis en la Refinería Palmasola mantiene obstruidos más de 700 camiones cisterna con unos 20 millones de litros de gasolina, elevando costos para transportistas y generando pérdidas por evaporación y daños potenciales a los vehículos. Frente a ello, YPFB anunció medidas logísticas como la descarga de 100 cisternas adicionales y la reconfiguración del sistema, mientras el sector exige un régimen de ‘stand by’ remunerado para compensar los días de inmovilización.",
+      "summary_en": "The Palmasola refinery crisis has left more than 700 tanker trucks blocked with roughly 20 million liters of gasoline, pushing up costs for transport operators and causing losses from evaporation and potential vehicle damage. In response, YPFB announced logistical measures such as the unloading of 100 additional tankers and a reconfiguration of the system, while the sector is calling for a paid standby regime to compensate for immobilization days.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-24T06:54:00-04:00",
+      "published_at_bo": "2026-02-24T06:54:00-04:00",
+      "fetched_at_utc": "2026-02-24T10:54:41.634862+00:00",
+      "day": "2026-02-24"
+    },
     {
       "source": "El Deber",
       "title": "Amantegui: “Sin importar soya, la industria no puede crecer ni generar más dólares para el país”",
