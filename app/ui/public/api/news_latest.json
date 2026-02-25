@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-25T18:03:16.345997+00:00",
+  "generated_at_utc": "2026-02-25T18:15:42.514089+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Choferes se retiran de reunión por combustible, el diálogo se rompe por ausencia del ministro Medinaceli y presencia del vicepresidente",
+      "url": "https://eldeber.com.bo/economia/choferes-retiran-reunion-combustible-dialogo-rompe-ausencia-ministro-medinaceli-presencia-vicepresidente_1772039185",
+      "summary": "La Confederación Sindical de Choferes de Bolivia abandonó una reunión para analizar los daños por la mala calidad del combustible, tras cuestionar la intervención del vicepresidente y la ausencia del ministro de Hidrocarburos, y anunció la ruptura del diálogo con la convocatoria a un ampliado nacional para definir próximas acciones. Tras la retirada, realizaron una protesta y vigilia, advirtiendo que el conflicto podría escalar y exigir respuestas claras, mientras el vicepresidente propuso una interpelación al ministro para una explicación formal.",
+      "summary_es": "La Confederación Sindical de Choferes de Bolivia abandonó una reunión para analizar los daños por la mala calidad del combustible, tras cuestionar la intervención del vicepresidente y la ausencia del ministro de Hidrocarburos, y anunció la ruptura del diálogo con la convocatoria a un ampliado nacional para definir próximas acciones. Tras la retirada, realizaron una protesta y vigilia, advirtiendo que el conflicto podría escalar y exigir respuestas claras, mientras el vicepresidente propuso una interpelación al ministro para una explicación formal.",
+      "summary_en": "The Bolivian Confederation of Truck Drivers announced it would leave a meeting convened to assess damage from poor-quality fuel, after questioning the vice president’s involvement and the absence of the Hydrocarbons Minister. It then announced a breakdown in talks and called for a national plenary to define next steps. Following the walkout, supporters held a protest and vigil, warning that the dispute could escalate and require clear responses, while the vice president proposed a formal questioning of the minister to provide an explanation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T13:43:00-04:00",
+      "published_at_bo": "2026-02-25T13:43:00-04:00",
+      "fetched_at_utc": "2026-02-25T18:03:10.154052+00:00",
+      "day": "2026-02-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "YPFB expone contrataciones cuestionadas y entrega 800 folios a la Contraloría",
+      "url": "https://eldeber.com.bo/economia/ypfb-expone-contrataciones-cuestionadas-entrega-800-folios-contraloria_1772037134",
+      "summary": "YPFB explicó sus procesos de contratación, entregó cerca de 800 folios de respaldo a la Contraloría para evaluar posibles irregularidades y señaló que las adjudicaciones se rigen por el Decreto Supremo 181 y la normativa hidrocarburífera 29506. La Comisión de la Verdad no emite dictámenes, y corresponde a la Contraloría determinar posibles responsabilidades administrativas o acciones judiciales tras revisar la documentación.",
+      "summary_es": "YPFB explicó sus procesos de contratación, entregó cerca de 800 folios de respaldo a la Contraloría para evaluar posibles irregularidades y señaló que las adjudicaciones se rigen por el Decreto Supremo 181 y la normativa hidrocarburífera 29506. La Comisión de la Verdad no emite dictámenes, y corresponde a la Contraloría determinar posibles responsabilidades administrativas o acciones judiciales tras revisar la documentación.",
+      "summary_en": "YPFB explained its procurement processes, handed over about 800 pages of supporting documentation to the Comptroller’s Office to assess potential irregularities, and noted that the awards are governed by Supreme Decree 181 and Hydrocarbons Regulation 29506. The Truth Commission does not issue rulings, and it is up to the Comptroller to determine any administrative liabilities or pursue legal action after reviewing the documentation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T12:51:00-04:00",
+      "published_at_bo": "2026-02-25T12:51:00-04:00",
+      "fetched_at_utc": "2026-02-25T18:03:11.139015+00:00",
+      "day": "2026-02-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno proyecta nuevo superávit fiscal en febrero tras cerrar enero con Bs 3.100 millones",
+      "url": "https://eldeber.com.bo/economia/gobierno-proyecta-nuevo-superavit-fiscal-febrero-cerrar-enero-bs-3-100-millones_1772034418",
+      "summary": "El ministro Espinoza indicó que el Gobierno prevé cerrar febrero con superávit fiscal, manteniendo la tendencia de enero, que registró un superávit aproximado de 3.100 millones de Bs, y destacó que esto refleja las medidas de estabilización macroeconómica y recorte de gasto del gobierno en comparación con enero de 2025, cuando hubo déficit.",
+      "summary_es": "El ministro Espinoza indicó que el Gobierno prevé cerrar febrero con superávit fiscal, manteniendo la tendencia de enero, que registró un superávit aproximado de 3.100 millones de Bs, y destacó que esto refleja las medidas de estabilización macroeconómica y recorte de gasto del gobierno en comparación con enero de 2025, cuando hubo déficit.",
+      "summary_en": "Minister Espinoza said that the government expects to end February with a fiscal surplus, maintaining January’s trend, which registered an approximate surplus of 3.1 billion Bs. He noted that this reflects the macroeconomic stabilization measures and spending cuts implemented by the government, compared with January 2025, when there was a deficit.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T12:28:00-04:00",
+      "published_at_bo": "2026-02-25T12:28:00-04:00",
+      "fetched_at_utc": "2026-02-25T18:03:12.129078+00:00",
+      "day": "2026-02-25"
+    },
     {
       "source": "El Deber",
       "title": "Combustible de mala calidad: 12 funcionarios de YPFB están bajo investigación",
