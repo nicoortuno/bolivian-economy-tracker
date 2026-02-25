@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-25T14:56:03.355304+00:00",
+  "generated_at_utc": "2026-02-25T15:10:42.479776+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "PIL advierte que la regulación del precio de la leche pone en riesgo a la cadena láctea",
+      "url": "https://eldeber.com.bo/economia/pil-advierte-regulacion-precio-leche-pone-riesgo-cadena-lactea_1772028831",
+      "summary": "PIL Bolivia advierte que la regulación asimétrica del precio de la leche genera un fuerte desequilibrio en la cadena láctea, con incremento de costos para la industria y caída de la producción nacional, pese a un alza del precio al consumidor. Las partes señalan que cualquier cambio en el esquema de precios debe ser consensuado y transparente para sostener la cadena toda y evitar afectar el abastecimiento futuro.",
+      "summary_es": "PIL Bolivia advierte que la regulación asimétrica del precio de la leche genera un fuerte desequilibrio en la cadena láctea, con incremento de costos para la industria y caída de la producción nacional, pese a un alza del precio al consumidor. Las partes señalan que cualquier cambio en el esquema de precios debe ser consensuado y transparente para sostener la cadena toda y evitar afectar el abastecimiento futuro.",
+      "summary_en": "PIL Bolivia warns that asymmetric regulation of milk prices is causing a sharp imbalance in the dairy chain, raising costs for the industry and reducing domestic production, even as consumer prices rise. The parties say that any change to the pricing scheme must be consensual and transparent to sustain the entire supply chain and avoid jeopardizing future supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T10:31:00-04:00",
+      "published_at_bo": "2026-02-25T10:31:00-04:00",
+      "fetched_at_utc": "2026-02-25T14:55:59.660851+00:00",
+      "day": "2026-02-25"
+    },
     {
       "source": "El Deber",
       "title": "Lecheros advierten que la banda de precios hizo retroceder 14 años al sector",
