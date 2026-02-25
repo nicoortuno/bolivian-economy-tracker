@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-25T21:39:42.882449+00:00",
+  "generated_at_utc": "2026-02-25T21:49:21.760229+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB presenta sistema digital para evaluar y compensar daños por gasolina desestabilizada",
+      "url": "https://eldeber.com.bo/economia/ypfb-presenta-sistema-digital-evaluar-compensar-danos-gasolina-desestabilizada_1772054189",
+      "summary": "YPFB presentó el Sistema de Registro y Evaluación de Contingencias (SREC), una plataforma digital que registra, valida y evalúa reportes de posibles daños en vehículos por gasolina desestabilizada, clasificándolos en leves, medios o graves y gestionando pagos con base en información oficial. El proceso, accesible por WhatsApp y con soporte telefónico, contempla expedientes digitales, firma electrónica y auditoría en tiempo real para garantizar rigor técnico y evitar fraudes.",
+      "summary_es": "YPFB presentó el Sistema de Registro y Evaluación de Contingencias (SREC), una plataforma digital que registra, valida y evalúa reportes de posibles daños en vehículos por gasolina desestabilizada, clasificándolos en leves, medios o graves y gestionando pagos con base en información oficial. El proceso, accesible por WhatsApp y con soporte telefónico, contempla expedientes digitales, firma electrónica y auditoría en tiempo real para garantizar rigor técnico y evitar fraudes.",
+      "summary_en": "YPFB unveiled the Contingency Registration and Evaluation System (SREC), a digital platform that records, validates, and evaluates reports of potential damage to vehicles from destabilized gasoline, classifying them as minor, moderate, or severe and processing payments based on official information. The process, accessible via WhatsApp with telephone support, includes digital case files, electronic signatures, and real-time auditing to ensure technical rigor and prevent fraud.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T17:29:00-04:00",
+      "published_at_bo": "2026-02-25T17:29:00-04:00",
+      "fetched_at_utc": "2026-02-25T21:39:30.143206+00:00",
+      "day": "2026-02-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "Presidente de la CAF visita Bolivia y agenda participación en Exposoya",
+      "url": "https://eldeber.com.bo/economia/presidente-caf-visita-bolivia-agenda-participacion-exposoya_1772052261",
+      "summary": "El presidente ejecutivo de la CAF, Sergio Díaz-Granados, visitará Bolivia para analizar y avanzar una línea de crédito de más de 3.100 millones de dólares destinada a desarrollar infraestructura productiva, educación, salud y turismo en los próximos cinco años. Durante la visita realizará actividades en La Paz, El Alto, Uyuni y Tarija, participará en Expo Soya en Cuatro Cañadas y se reunirá con autoridades y el sector productivo, para luego regresar a Panamá.",
+      "summary_es": "El presidente ejecutivo de la CAF, Sergio Díaz-Granados, visitará Bolivia para analizar y avanzar una línea de crédito de más de 3.100 millones de dólares destinada a desarrollar infraestructura productiva, educación, salud y turismo en los próximos cinco años. Durante la visita realizará actividades en La Paz, El Alto, Uyuni y Tarija, participará en Expo Soya en Cuatro Cañadas y se reunirá con autoridades y el sector productivo, para luego regresar a Panamá.",
+      "summary_en": "The CEO of CAF, Sergio Díaz-Granados, will visit Bolivia to discuss and advance a credit line of more than US$3.1 billion aimed at developing productive infrastructure, education, health, and tourism over the next five years. During the visit, he will be in La Paz, El Alto, Uyuni, and Tarija, participate in Expo Soya in Cuatro Cañadas, and meet with authorities and the productive sector, before returning to Panama.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T17:17:00-04:00",
+      "published_at_bo": "2026-02-25T17:17:00-04:00",
+      "fetched_at_utc": "2026-02-25T21:39:31.102364+00:00",
+      "day": "2026-02-25"
+    },
     {
       "source": "El Deber",
       "title": "Choferes se retiran de reunión por combustible, el diálogo se rompe por ausencia del ministro Medinaceli y presencia del vicepresidente",
