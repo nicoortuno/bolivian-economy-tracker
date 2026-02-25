@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-25T10:55:31.091437+00:00",
+  "generated_at_utc": "2026-02-25T11:11:25.328745+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Lecheros advierten que la banda de precios hizo retroceder 14 años al sector",
+      "url": "https://eldeber.com.bo/economia/lecheros-advierten-banda-precios-hizo-retroceder-14-anos-sector_1772016515",
+      "summary": "El sector lechero boliviano sufre una caída drástica de la producción (aproximadamente 28–30% en cinco años) y el abandono de cerca de una cuarta parte de sus productores, lo que amenaza el suministro de leche y la economía rural. Los dirigentes piden levantar la banda de precios y facilitar créditos blandos para sostener la actividad.",
+      "summary_es": "El sector lechero boliviano sufre una caída drástica de la producción (aproximadamente 28–30% en cinco años) y el abandono de cerca de una cuarta parte de sus productores, lo que amenaza el suministro de leche y la economía rural. Los dirigentes piden levantar la banda de precios y facilitar créditos blandos para sostener la actividad.",
+      "summary_en": "Bolivia's dairy sector is facing a sharp drop in production—roughly 28–30% over five years—along with the loss of about a quarter of its producers, threatening milk supplies and the rural economy. Industry leaders are calling to loosen the price band and ease soft credit to sustain the activity.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T06:48:00-04:00",
+      "published_at_bo": "2026-02-25T06:48:00-04:00",
+      "fetched_at_utc": "2026-02-25T10:55:28.935398+00:00",
+      "day": "2026-02-25"
+    },
     {
       "source": "El Deber",
       "title": "Tren de pasajeros a la Chiquitania comenzará a operar en tres meses",
