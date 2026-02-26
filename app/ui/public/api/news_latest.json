@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-26T21:37:47.643146+00:00",
+  "generated_at_utc": "2026-02-26T21:48:14.380145+00:00",
   "count": 112,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Después de seis años, este viernes vuelve el servicio ferroviario para pasajeros hacia la Chiquitania",
+      "url": "https://eldeber.com.bo/economia/despues-seis-anos-este-viernes-vuelve-servicio-ferroviario-pasajeros-chiquitania_1772140782",
+      "summary": "Se reactivará el servicio ferroviario de pasajeros hacia la Chiquitania tras seis años con un ferrobús que operará los fines de semana (viernes por la tarde y domingo de regreso), administrado por Ferroviaria Oriental, y con la meta de restablecer el tren tradicional en un plazo de tres meses. La inauguración es este 27 de febrero y el viaje de retorno será el 1 de marzo desde Puerto Quijarro.",
+      "summary_es": "Se reactivará el servicio ferroviario de pasajeros hacia la Chiquitania tras seis años con un ferrobús que operará los fines de semana (viernes por la tarde y domingo de regreso), administrado por Ferroviaria Oriental, y con la meta de restablecer el tren tradicional en un plazo de tres meses. La inauguración es este 27 de febrero y el viaje de retorno será el 1 de marzo desde Puerto Quijarro.",
+      "summary_en": "Passenger rail service to the Chiquitania will be reactivated after six years, with a railbus operating on weekends (Friday afternoon and Sunday return), run by Ferroviaria Oriental, with the aim of restoring the traditional train within three months. The inaugural trip is February 27, with the return trip on March 1 from Puerto Quijarro.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-26T17:30:00-04:00",
+      "published_at_bo": "2026-02-26T17:30:00-04:00",
+      "fetched_at_utc": "2026-02-26T21:37:38.571003+00:00",
+      "day": "2026-02-26"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno y CAF firmarán financiamiento para proyecto de saneamiento básico en Tarija",
+      "url": "https://eldeber.com.bo/economia/gobierno-caf-firmaran-financiamiento-proyecto-saneamiento-basico-tarija_1772140821",
+      "summary": "El Gobierno central y la CAF suscribirán este viernes un convenio de financiamiento de 65 millones de dólares para la construcción de una planta de tratamiento de aguas residuales en Tarija, diseñada para atender barrios del casco viejo y la periferia y para sanear el río Guadalquivir, ubicada en la zona Cabeza de Toro. Participarán el presidente Rodrigo Paz y el presidente de la CAF, Sergio Díaz-Granados, con una rueda de prensa posterior a la firma.",
+      "summary_es": "El Gobierno central y la CAF suscribirán este viernes un convenio de financiamiento de 65 millones de dólares para la construcción de una planta de tratamiento de aguas residuales en Tarija, diseñada para atender barrios del casco viejo y la periferia y para sanear el río Guadalquivir, ubicada en la zona Cabeza de Toro. Participarán el presidente Rodrigo Paz y el presidente de la CAF, Sergio Díaz-Granados, con una rueda de prensa posterior a la firma.",
+      "summary_en": "The central government and CAF will sign this Friday a $65 million financing agreement for the construction of a wastewater treatment plant in Tarija, designed to serve neighborhoods in the old town and the outskirts and to clean up the Guadalquivir River, located in the Cabeza de Toro area. Participating will be Tarija’s President Rodrigo Paz and CAF President Sergio Díaz-Granados, with a news conference held after the signing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-26T17:20:00-04:00",
+      "published_at_bo": "2026-02-26T17:20:00-04:00",
+      "fetched_at_utc": "2026-02-26T21:37:39.582964+00:00",
+      "day": "2026-02-26"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno, autoridades egipcias y frigoríficos alistan exportación de carne",
