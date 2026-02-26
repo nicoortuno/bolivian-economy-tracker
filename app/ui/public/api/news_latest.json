@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-26T02:35:28.311947+00:00",
+  "generated_at_utc": "2026-02-26T03:11:22.558827+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cepal resalta que en 2025, Bolivia creció poco, resistió la crisis regional y sigue atrapada en la informalidad",
+      "url": "https://eldeber.com.bo/economia/cepal-resalta-2025-bolivia-crecio-poco-resistio-crisis-regional-sigue-atrapada-informalidad_1772066620",
+      "summary": "Bolivia cerró 2025 con un crecimiento cercano al 0,5%, con un modelo dependiente del consumo y del gasto público, poca inversión privada y alta concentración en exportaciones primarias, lo que limita la mejora sostenida del ingreso y el empleo. El informe de Cepal y el economista Fernando Romero señalan que, aunque la inflación es baja, el déficit fiscal y la deuda pública limitan la maniobra fiscal, y la elevada informalidad y la pobreza indican la necesidad de reformas para diversificar la economía, mejorar la productividad y formalizar el empleo.",
+      "summary_es": "Bolivia cerró 2025 con un crecimiento cercano al 0,5%, con un modelo dependiente del consumo y del gasto público, poca inversión privada y alta concentración en exportaciones primarias, lo que limita la mejora sostenida del ingreso y el empleo. El informe de Cepal y el economista Fernando Romero señalan que, aunque la inflación es baja, el déficit fiscal y la deuda pública limitan la maniobra fiscal, y la elevada informalidad y la pobreza indican la necesidad de reformas para diversificar la economía, mejorar la productividad y formalizar el empleo.",
+      "summary_en": "Bolivia closed 2025 with growth near 0.5%, a model driven by consumption and public spending, limited private investment, and a heavy concentration of primary exports, which hampers sustained improvements in incomes and employment. A report from Cepal and economist Fernando Romero notes that, although inflation is low, the fiscal deficit and public debt constrain fiscal maneuverability, and high informality and poverty signal the need for reforms to diversify the economy, raise productivity, and formalize employment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T20:56:00-04:00",
+      "published_at_bo": "2026-02-25T20:56:00-04:00",
+      "fetched_at_utc": "2026-02-26T02:35:20.954875+00:00",
+      "day": "2026-02-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "Ejecutivo prevé remitir a la Asamblea el proyecto de ley del PGE 2026 hasta fines de marzo",
+      "url": "https://eldeber.com.bo/economia/ejecutivo-preve-remitir-asamblea-proyecto-ley-pge-2026-fines-marzo_1772063906",
+      "summary": "El Órgano Ejecutivo prevé remitir a la Asamblea Legislativa el proyecto de Ley del Presupuesto General del Estado 2026 antes de terminar el primer trimestre, cumpliendo con los plazos establecidos. Espinoza afirmó que el PGE definirá las principales líneas presupuestarias y refleja un cambio de enfoque en la gestión de las finanzas públicas respecto a la “vieja política”.",
+      "summary_es": "El Órgano Ejecutivo prevé remitir a la Asamblea Legislativa el proyecto de Ley del Presupuesto General del Estado 2026 antes de terminar el primer trimestre, cumpliendo con los plazos establecidos. Espinoza afirmó que el PGE definirá las principales líneas presupuestarias y refleja un cambio de enfoque en la gestión de las finanzas públicas respecto a la “vieja política”.",
+      "summary_en": "The Executive Branch plans to send the General State Budget Law for 2026 to the Legislative Assembly before the end of the first quarter, in line with the established deadlines. Espinoza said the budget law will define the main budgetary priorities and reflect a shift in the management of public finances away from the “old policy.”",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T20:41:00-04:00",
+      "published_at_bo": "2026-02-25T20:41:00-04:00",
+      "fetched_at_utc": "2026-02-26T02:35:21.936734+00:00",
+      "day": "2026-02-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "Exposoya 2026 se reprograma por lluvias y se realizará del 5 al 7 de marzo",
+      "url": "https://eldeber.com.bo/economia/exposoya-2026-reprograma-lluvias-realizara-5-7-marzo_1772062542",
+      "summary": "Exposoya 2026 fue reprogramada para los días 5, 6 y 7 de marzo en Cuatro Cañadas (Santa Cruz) debido a lluvias e inestabilidad climática, priorizando la seguridad de expositores y visitantes. La organización asegura que la innovación y las actividades se desarrollarán con normalidad en las nuevas fechas, con la participación de más de 130 empresas expositoras y productores.",
+      "summary_es": "Exposoya 2026 fue reprogramada para los días 5, 6 y 7 de marzo en Cuatro Cañadas (Santa Cruz) debido a lluvias e inestabilidad climática, priorizando la seguridad de expositores y visitantes. La organización asegura que la innovación y las actividades se desarrollarán con normalidad en las nuevas fechas, con la participación de más de 130 empresas expositoras y productores.",
+      "summary_en": "Exposoya 2026 has been rescheduled to March 5-7 in Cuatro Cañadas, Santa Cruz, due to heavy rains and weather instability, with safety for exhibitors and visitors as the priority. Organizers say that innovation and activities will proceed normally on the new dates, with more than 130 exhibiting companies and producers taking part.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-25T20:26:00-04:00",
+      "published_at_bo": "2026-02-25T20:26:00-04:00",
+      "fetched_at_utc": "2026-02-26T02:35:22.907207+00:00",
+      "day": "2026-02-25"
+    },
     {
       "source": "El Deber",
       "title": "Ministerio de Desarrollo Productivo expone el plan estratégico 2026-2030 ante cooperación internacionales",
