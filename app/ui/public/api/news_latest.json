@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-27T19:37:07.142400+00:00",
+  "generated_at_utc": "2026-02-27T19:47:58.641436+00:00",
   "count": 113,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisterneros afirman que filas en Palmasola no disminuyen y alistan medidas desde el lunes",
+      "url": "https://eldeber.com.bo/economia/cisterneros-afirman-filas-palmasola-no-disminuyen-alistan-medidas-lunes_1772211408",
+      "summary": "Las filas de cisternas para descargar gasolina en Palmasola no disminuyeron pese a un acta que regulaba las descargas hasta el 25 de febrero, y transportistas reportan que prácticamente no se ha descargado, con más de 700 cisternas esperando. Desconcierto y preocupación por posibles desabastecimientos, mientras esperan una respuesta oficial de YPFB.",
+      "summary_es": "Las filas de cisternas para descargar gasolina en Palmasola no disminuyeron pese a un acta que regulaba las descargas hasta el 25 de febrero, y transportistas reportan que prácticamente no se ha descargado, con más de 700 cisternas esperando. Desconcierto y preocupación por posibles desabastecimientos, mientras esperan una respuesta oficial de YPFB.",
+      "summary_en": "Truck queues to unload gasoline in Palmasola did not shrink despite an agreement regulating the unloads through February 25, with transporters reporting that basically no unloading has taken place and more than 700 tankers waiting. There is confusion and concern about possible shortages as they await an official response from YPFB.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-27T14:58:00-04:00",
+      "published_at_bo": "2026-02-27T14:58:00-04:00",
+      "fetched_at_utc": "2026-02-27T19:37:02.837204+00:00",
+      "day": "2026-02-27"
+    },
     {
       "source": "El Deber",
       "title": "Productores instan al Gobierno a frenar el contrabando y alistan cita con la CAF en Santa Cruz",
