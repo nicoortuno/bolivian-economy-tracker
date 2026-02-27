@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-27T11:37:09.879367+00:00",
+  "generated_at_utc": "2026-02-27T11:47:59.451909+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Las pirámides se alistan para recibir la carne de res boliviana",
+      "url": "https://eldeber.com.bo/economia/piramides-alistan-recibir-carne-res-boliviana_1772190251",
+      "summary": "Después de tres años de gestiones, Bolivia y Egipto avanzan hacia la exportación de carne bovina halal, con tres frigoríficos autorizados y la firma de acuerdos para iniciar los primeros envíos en las próximas semanas, hacia un mercado egipcio de más de 100 millones de personas. Aun quedan pendientes temas logísticos y de volúmenes, pero ya se vislumbra la llegada de los contenedores en semanas.",
+      "summary_es": "Después de tres años de gestiones, Bolivia y Egipto avanzan hacia la exportación de carne bovina halal, con tres frigoríficos autorizados y la firma de acuerdos para iniciar los primeros envíos en las próximas semanas, hacia un mercado egipcio de más de 100 millones de personas. Aun quedan pendientes temas logísticos y de volúmenes, pero ya se vislumbra la llegada de los contenedores en semanas.",
+      "summary_en": "After three years of negotiations, Bolivia and Egypt are moving forward with halal beef exports, with three approved slaughterhouses and the signing of agreements to begin the first shipments in the coming weeks to an Egyptian market of more than 100 million people. Logistical and volume issues remain to be resolved, but container arrivals are anticipated within weeks.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-27T07:04:00-04:00",
+      "published_at_bo": "2026-02-27T07:04:00-04:00",
+      "fetched_at_utc": "2026-02-27T11:37:06.868585+00:00",
+      "day": "2026-02-27"
+    },
     {
       "source": "El Deber",
       "title": "CAF impulsa su Estrategia País en Bolivia y asegura $us 3.100 millones",
