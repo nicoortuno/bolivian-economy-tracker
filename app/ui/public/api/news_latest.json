@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-27T15:41:30.361267+00:00",
+  "generated_at_utc": "2026-02-27T15:52:51.691256+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bruselas activa el acuerdo UE-Mercosur con aplicación provisional",
+      "url": "https://eldeber.com.bo/economia/bruselas-activa-acuerdo-ue-mercosur-aplicacion-provisional_1772202539",
+      "summary": "Bruselas anunció la entrada provisional en vigor del acuerdo de libre comercio UE-Mercosur tras la ratificación de al menos dos miembros, aunque falta la aprobación definitiva del Parlamento Europeo y de los 27 Estados miembros. El pacto eliminaría aranceles para gran parte del comercio y busca impulsar la integración y el crecimiento, pero genera debates entre apoyos al crecimiento y preocupaciones por la competencia de productos del Mercosur.",
+      "summary_es": "Bruselas anunció la entrada provisional en vigor del acuerdo de libre comercio UE-Mercosur tras la ratificación de al menos dos miembros, aunque falta la aprobación definitiva del Parlamento Europeo y de los 27 Estados miembros. El pacto eliminaría aranceles para gran parte del comercio y busca impulsar la integración y el crecimiento, pero genera debates entre apoyos al crecimiento y preocupaciones por la competencia de productos del Mercosur.",
+      "summary_en": "Brussels announced the provisional entry into force of the EU-Mercosur free trade agreement after ratification by at least two member states, though final approval by the European Parliament and the 27 EU countries remains pending. The pact would eliminate tariffs on much of the trade and aims to boost integration and growth, but it has sparked a debate between those who see growth benefits and concerns about competition from Mercosur products.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-27T11:17:00-04:00",
+      "published_at_bo": "2026-02-27T11:17:00-04:00",
+      "fetched_at_utc": "2026-02-27T15:41:26.509465+00:00",
+      "day": "2026-02-27"
+    },
     {
       "source": "El Deber",
       "title": "Las pirámides se alistan para recibir la carne de res boliviana",
