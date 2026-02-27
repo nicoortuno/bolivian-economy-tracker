@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-27T10:00:06.624492+00:00",
-  "count": 114,
+  "generated_at_utc": "2026-02-27T10:44:46.362759+00:00",
+  "count": 109,
   "items": [
     {
       "source": "El Deber",
@@ -1513,90 +1513,6 @@
       "published_at_bo": "2026-02-14T11:00:00-04:00",
       "fetched_at_utc": "2026-02-14T20:33:30.228830+00:00",
       "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "Arroceros advierten pérdidas por contrabando y altos costos: “El sector está en riesgo",
-      "url": "https://eldeber.com.bo/economia/arroceros-advierten-perdidas-contrabando-altos-costos-sector-esta-riesgo_1771025891",
-      "summary": "Edward Condo, presidente de Codepro, afirma que la producción de arroz está en situación crítica por costos elevados y un ingreso masivo de contrabando que compite a la baja y podría dejar entre el 65% y 70% de los productores sin sembrar la próxima campaña. Piden medidas de control fronterizo y destacaron la necesidad de un comité nacional para negociar con el Gobierno y proteger la seguridad alimentaria.",
-      "summary_es": "Edward Condo, presidente de Codepro, afirma que la producción de arroz está en situación crítica por costos elevados y un ingreso masivo de contrabando que compite a la baja y podría dejar entre el 65% y 70% de los productores sin sembrar la próxima campaña. Piden medidas de control fronterizo y destacaron la necesidad de un comité nacional para negociar con el Gobierno y proteger la seguridad alimentaria.",
-      "summary_en": "Edward Condo, president of Codepro, says rice production is in a critical condition due to high costs and a flood of smuggled imports that undercut prices, potentially forcing 65% to 70% of producers not to plant in the next season. They are calling for stronger border controls and stressed the need for a national committee to negotiate with the government and safeguard food security.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-13T19:58:00-04:00",
-      "published_at_bo": "2026-02-13T19:58:00-04:00",
-      "fetched_at_utc": "2026-02-14T04:45:21.351260+00:00",
-      "day": "2026-02-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "Espinoza destaca caída del riesgo país de Bolivia por debajo de los 500 puntos básicos",
-      "url": "https://eldeber.com.bo/economia/espinoza-destaca-caida-riesgo-pais-bolivia-debajo-500-puntos-basicos_1771014919",
-      "summary": "Bolivia amaneció con el riesgo país por debajo de 500 puntos básicos, cifra que, según el Gobierno, refleja una mejora significativa en la percepción internacional sobre la economía nacional. El ministro José Gabriel Espinoza indicó que la caída, lograda en poco más de tres meses, fortalece la confianza externa y las perspectivas de estabilidad macroeconómica.",
-      "summary_es": "Bolivia amaneció con el riesgo país por debajo de 500 puntos básicos, cifra que, según el Gobierno, refleja una mejora significativa en la percepción internacional sobre la economía nacional. El ministro José Gabriel Espinoza indicó que la caída, lograda en poco más de tres meses, fortalece la confianza externa y las perspectivas de estabilidad macroeconómica.",
-      "summary_en": "Bolivia opened with the country risk below 500 basis points, a figure that, according to the government, reflects a significant improvement in international perception of the national economy. Minister José Gabriel Espinoza said the drop, achieved in just over three months, strengthens external confidence and prospects for macroeconomic stability.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-13T17:02:00-04:00",
-      "published_at_bo": "2026-02-13T17:02:00-04:00",
-      "fetched_at_utc": "2026-02-14T02:32:37.944373+00:00",
-      "day": "2026-02-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "“No queremos gasolina basura”: Mototaxistas del Trópico de Cochabamba advierten con bloqueo indefinido",
-      "url": "https://eldeber.com.bo/economia/no-queremos-gasolina-basura-mototaxistas-tropico-cochabamba-advierten-bloqueo-indefinido_1770999987",
-      "summary": "Mototaxistas del Trópico de Cochabamba bloquearon la carretera por la mala calidad de la gasolina recibida, que provoca fallas mecánicas y mayores costos de reparación, afectando a cientos de familias. Exigen respuestas de YPFB, ANH y el Viceministerio de Hidrocarburos y advierten que la medida podría hacerse indefinida si no hay solución.",
-      "summary_es": "Mototaxistas del Trópico de Cochabamba bloquearon la carretera por la mala calidad de la gasolina recibida, que provoca fallas mecánicas y mayores costos de reparación, afectando a cientos de familias. Exigen respuestas de YPFB, ANH y el Viceministerio de Hidrocarburos y advierten que la medida podría hacerse indefinida si no hay solución.",
-      "summary_en": "Tropico de Cochabamba’s mototaxi drivers blocked the road over the poor quality of the gasoline they received, which is causing mechanical failures and higher repair costs, affecting hundreds of families. They are demanding responses from YPFB, ANH, and the Vice Ministry of Hydrocarbons and warn that the measure could become indefinite if no solution is found.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-13T12:44:00-04:00",
-      "published_at_bo": "2026-02-13T12:44:00-04:00",
-      "fetched_at_utc": "2026-02-13T21:41:45.019114+00:00",
-      "day": "2026-02-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "Garantizan la provisión de gasolina y diésel por feriado de carnaval",
-      "url": "https://eldeber.com.bo/economia/garantizan-provision-gasolina-diesel-feriado-carnaval_1770995559",
-      "summary": "La ANH garantizó el suministro de combustibles durante el feriado de Carnaval e instruyó a YPFB a reforzar medidas operativas y administrativas para asegurar el abastecimiento continuo de gasolina, diésel y GLP en todo el país. Además, realizará seguimiento y supervisión para evitar interrupciones y apoyar el normal desarrollo económico y de transporte durante el feriado.",
-      "summary_es": "La ANH garantizó el suministro de combustibles durante el feriado de Carnaval e instruyó a YPFB a reforzar medidas operativas y administrativas para asegurar el abastecimiento continuo de gasolina, diésel y GLP en todo el país. Además, realizará seguimiento y supervisión para evitar interrupciones y apoyar el normal desarrollo económico y de transporte durante el feriado.",
-      "summary_en": "The ANH guaranteed fuel supplies during the Carnival holiday and instructed YPFB to reinforce operational and administrative measures to ensure a continuous supply of gasoline, diesel, and LPG nationwide. It will also monitor and supervise to prevent interruptions and support normal economic and transportation activity during the holiday.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-13T11:47:00-04:00",
-      "published_at_bo": "2026-02-13T11:47:00-04:00",
-      "fetched_at_utc": "2026-02-13T20:46:37.124026+00:00",
-      "day": "2026-02-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cuestionan contratos de YPFB por presuntos sobreprecios; Akly asegura que no hubo daño al Estado",
-      "url": "https://eldeber.com.bo/economia/cuestionan-contratos-ypfb-presuntos-sobreprecios-akly-asegura-no-hubo-dano-estado_1770993927",
-      "summary": "Una denuncia legislativa acusa presuntos sobreprecios y vínculos contractuales entre YPFB y Lithium One Bolivia, además de posibles conflictos de interés y contratos cruzados que podrían convertir a actores en “juez y parte”; la diputada Patiño solicita investigación y remisión al Ministerio Público. YPFB, representada por Yussef Akly, niega irregularidades, destaca transparencia, anuncia auditorías a contratos heredados y sostiene que los procesos se basan en criterios técnicos y de mercado, además de asegurar el abastecimiento de combustible.",
-      "summary_es": "Una denuncia legislativa acusa presuntos sobreprecios y vínculos contractuales entre YPFB y Lithium One Bolivia, además de posibles conflictos de interés y contratos cruzados que podrían convertir a actores en “juez y parte”; la diputada Patiño solicita investigación y remisión al Ministerio Público. YPFB, representada por Yussef Akly, niega irregularidades, destaca transparencia, anuncia auditorías a contratos heredados y sostiene que los procesos se basan en criterios técnicos y de mercado, además de asegurar el abastecimiento de combustible.",
-      "summary_en": "A legislative complaint accuses alleged overpricing and contractual ties between YPFB and Lithium One Bolivia, as well as possible conflicts of interest and cross-contracting that could render the parties as “judge and party.” Deputy Patiño calls for an investigation and referral to the Public Prosecutor’s Office. YPFB, represented by Yussef Akly, denies irregularities, emphasizes transparency, announces audits of inherited contracts, and maintains that the processes are based on technical and market criteria, while also ensuring fuel supply.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-13T11:01:00-04:00",
-      "published_at_bo": "2026-02-13T11:01:00-04:00",
-      "fetched_at_utc": "2026-02-13T19:44:44.808767+00:00",
-      "day": "2026-02-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia es el país más barato para vivir de la región",
-      "url": "https://eldeber.com.bo/economia/bolivia-pais-barato-vivir-region_1770991238",
-      "summary": "Según Numbeo, Bolivia es el país más barato de Sudamérica para vivir en 2026, con un índice costo de vida más alquiler cercano a 19,98; Forbes también la coloca a la cabeza del ranking regional con 18,98. A continuación se sitúan Paraguay, Brasil y Ecuador, mientras Uruguay es el más caro de la región, con 37,32.",
-      "summary_es": "Según Numbeo, Bolivia es el país más barato de Sudamérica para vivir en 2026, con un índice costo de vida más alquiler cercano a 19,98; Forbes también la coloca a la cabeza del ranking regional con 18,98. A continuación se sitúan Paraguay, Brasil y Ecuador, mientras Uruguay es el más caro de la región, con 37,32.",
-      "summary_en": "According to Numbeo, Bolivia is the cheapest country in South America to live in 2026, with a cost-of-living index including rent of about 19.98; Forbes also places it at the top of the regional rankings, at 18.98. Paraguay, Brazil, and Ecuador follow, while Uruguay is the most expensive in the region, at 37.32.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-13T10:31:00-04:00",
-      "published_at_bo": "2026-02-13T10:31:00-04:00",
-      "fetched_at_utc": "2026-02-13T19:44:45.809306+00:00",
-      "day": "2026-02-13"
     }
   ]
 }
