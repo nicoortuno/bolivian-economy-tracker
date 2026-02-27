@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-02-27T20:34:29.865728+00:00",
+  "generated_at_utc": "2026-02-27T20:45:51.579724+00:00",
   "count": 115,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Presidente Paz anuncia cambios al Impuesto al Consumo Específico",
+      "url": "https://eldeber.com.bo/economia/presidente-paz-anuncia-cambios-impuesto-consumo-especifico_1772223129",
+      "summary": "En Tarija, el presidente Rodrigo Paz anunció la modificación del Impuesto a los Consumos Específicos (ICE) para favorecer a bodegueros, productores de uva y vino que generan más de 130 millones de dólares en la región, como parte de una estrategia para impulsar la producción local y la generación de empleo. Aún no se detallan los alcances técnicos ni el impacto fiscal de la modificación.",
+      "summary_es": "En Tarija, el presidente Rodrigo Paz anunció la modificación del Impuesto a los Consumos Específicos (ICE) para favorecer a bodegueros, productores de uva y vino que generan más de 130 millones de dólares en la región, como parte de una estrategia para impulsar la producción local y la generación de empleo. Aún no se detallan los alcances técnicos ni el impacto fiscal de la modificación.",
+      "summary_en": "In Tarija, President Rodrigo Paz announced changes to the Specific Consumption Tax (ICE) intended to benefit winery owners and grape and wine producers that generate more than $130 million in the region, as part of a strategy to boost local production and job creation. The technical details and the fiscal impact of the modification have not yet been disclosed.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-27T16:27:00-04:00",
+      "published_at_bo": "2026-02-27T16:27:00-04:00",
+      "fetched_at_utc": "2026-02-27T20:34:24.793621+00:00",
+      "day": "2026-02-27"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno y CAO trazan “ruta crítica” para soluciones a la problemática de la producción de alimentos",
+      "url": "https://eldeber.com.bo/economia/gobierno-cao-trazan-ruta-critica-soluciones-problematica-produccion-alimentos_1772221714",
+      "summary": "La reunión entre el Ejecutivo, YPFB y CAO acordó activar una agenda de corto a largo plazo para resolver los problemas del sector productivo, con acciones inmediatas como la revisión de la banda de precios de la leche y un sistema impositivo dirigido al sector lechero. Además, se consolidaron compromisos para combatir el contrabando, avanzar en la liberación de exportaciones e importaciones y mejorar la logística e infraestructura necesarias.",
+      "summary_es": "La reunión entre el Ejecutivo, YPFB y CAO acordó activar una agenda de corto a largo plazo para resolver los problemas del sector productivo, con acciones inmediatas como la revisión de la banda de precios de la leche y un sistema impositivo dirigido al sector lechero. Además, se consolidaron compromisos para combatir el contrabando, avanzar en la liberación de exportaciones e importaciones y mejorar la logística e infraestructura necesarias.",
+      "summary_en": "The meeting involving the Government, YPFB, and CAO agreed to set in motion a short- to long-term agenda to address the problems facing the productive sector, with immediate steps such as reviewing the milk price band and implementing a tax system targeted at the dairy sector. In addition, commitments were solidified to combat smuggling, advance the liberalization of exports and imports, and improve the necessary logistics and infrastructure.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-27T16:09:00-04:00",
+      "published_at_bo": "2026-02-27T16:09:00-04:00",
+      "fetched_at_utc": "2026-02-27T20:34:25.827318+00:00",
+      "day": "2026-02-27"
+    },
     {
       "source": "El Deber",
       "title": "Cisterneros afirman que filas en Palmasola no disminuyen y alistan medidas desde el lunes",
