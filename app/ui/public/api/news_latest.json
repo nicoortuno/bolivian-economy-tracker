@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-28T12:56:52.392694+00:00",
+  "generated_at_utc": "2026-02-28T13:07:53.810815+00:00",
   "count": 114,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB declara inválidos los billetes hallados en el avión siniestrado y alerta sobre sanciones",
+      "url": "https://eldeber.com.bo/economia/bcb-declara-invalidos-billetes-hallados-avion-siniestrado-alerta-sanciones_1772278493",
+      "summary": "El Banco Central de Bolivia anunció que los billetes de Bs 10, 20 y 50 de la Serie B quedan inválidos para uso, aunque pueden canjearse por su valor en el sistema financiero, tras el siniestro del avión en El Alto; además, hay advertencias sobre que dinero recuperado del accidente no tendrá curso legal si se intenta circular, y parte de él fue incinerado para evitar usos indebidos.",
+      "summary_es": "El Banco Central de Bolivia anunció que los billetes de Bs 10, 20 y 50 de la Serie B quedan inválidos para uso, aunque pueden canjearse por su valor en el sistema financiero, tras el siniestro del avión en El Alto; además, hay advertencias sobre que dinero recuperado del accidente no tendrá curso legal si se intenta circular, y parte de él fue incinerado para evitar usos indebidos.",
+      "summary_en": "The Central Bank of Bolivia announced that Bs 10, 20 and 50 notes from Series B are no longer valid for circulation, though they can be exchanged for their value through the financial system, following the plane crash in El Alto. It also warned that money recovered from the accident would not be legal tender if put back into circulation, and that part of it had been incinerated to prevent misuse.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-28T07:40:00-04:00",
+      "published_at_bo": "2026-02-28T07:40:00-04:00",
+      "fetched_at_utc": "2026-02-28T12:56:50.359761+00:00",
+      "day": "2026-02-28"
+    },
     {
       "source": "El Deber",
       "title": "BCB indica que los billetes del avión siniestrado no tienen ningún valor legal",
