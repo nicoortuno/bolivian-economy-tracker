@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-02-28T13:39:54.937122+00:00",
+  "generated_at_utc": "2026-02-28T13:49:00.746239+00:00",
   "count": 115,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Tragedia aérea en El Alto obliga al gobierno a modificar agenda oficial con la CAF",
+      "url": "https://eldeber.com.bo/economia/tragedia-aerea-alto-obliga-gobierno-modificar-agenda-oficial-caf_1772284625",
+      "summary": "Un grave accidente aéreo en El Alto obligó al ministro de Obras Públicas a suspender parte de su agenda con la CAF para coordinar la emergencia, en medio de un profundo dolor nacional. La reunión prevista de la CAF con empresarios se mantiene, pero sin la presencia del presidente de la CAF ni del ministro, a quienes se les dio prioridad para atender la tragedia y acompañar a las víctimas.",
+      "summary_es": "Un grave accidente aéreo en El Alto obligó al ministro de Obras Públicas a suspender parte de su agenda con la CAF para coordinar la emergencia, en medio de un profundo dolor nacional. La reunión prevista de la CAF con empresarios se mantiene, pero sin la presencia del presidente de la CAF ni del ministro, a quienes se les dio prioridad para atender la tragedia y acompañar a las víctimas.",
+      "summary_en": "A major air crash in El Alto forced the Minister of Public Works to suspend part of his schedule with CAF to coordinate the emergency, amid deep national sorrow. The planned CAF meeting with business leaders remains on the books, but without the presence of the CAF president or the minister, who were prioritized to attend to the tragedy and support the victims.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-02-28T09:17:00-04:00",
+      "published_at_bo": "2026-02-28T09:17:00-04:00",
+      "fetched_at_utc": "2026-02-28T13:39:52.004653+00:00",
+      "day": "2026-02-28"
+    },
     {
       "source": "El Deber",
       "title": "BCB declara inválidos los billetes hallados en el avión siniestrado y alerta sobre sanciones",
