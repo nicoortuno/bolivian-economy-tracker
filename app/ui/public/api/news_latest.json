@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-02-28T11:31:38.981633+00:00",
-  "count": 120,
+  "generated_at_utc": "2026-02-28T12:56:52.392694+00:00",
+  "count": 114,
   "items": [
     {
       "source": "El Deber",
@@ -1583,104 +1583,6 @@
       "published_at_bo": "2026-02-15T09:12:00-04:00",
       "fetched_at_utc": "2026-02-15T18:44:26.433604+00:00",
       "day": "2026-02-15"
-    },
-    {
-      "source": "El Deber",
-      "title": "Incrementan suministro por día de gasolina para Santa Cruz",
-      "url": "https://eldeber.com.bo/economia/incrementan-suministro-dia-gasolina-santa-cruz_1771114820",
-      "summary": "YPFB anunció un refuerzo excepcional del suministro de gasolina para Santa Cruz durante Carnaval, elevando las entregas de 1,8 millones a 2 millones de litros diarios y añadiendo 3 millones de litros diarios de forma extraordinaria para cubrir la demanda. Además, se habilitaron dos mangas adicionales y se fortaleció la logística de despacho para garantizar volumen y calidad, con saldos suficientes en plantas de almacenamiento, mientras persisten largas filas en los surtidores de la capital cruceña.",
-      "summary_es": "YPFB anunció un refuerzo excepcional del suministro de gasolina para Santa Cruz durante Carnaval, elevando las entregas de 1,8 millones a 2 millones de litros diarios y añadiendo 3 millones de litros diarios de forma extraordinaria para cubrir la demanda. Además, se habilitaron dos mangas adicionales y se fortaleció la logística de despacho para garantizar volumen y calidad, con saldos suficientes en plantas de almacenamiento, mientras persisten largas filas en los surtidores de la capital cruceña.",
-      "summary_en": "YPFB announced an exceptional boost in gasoline supplies for Santa Cruz during Carnival, increasing daily deliveries from 1.8 million to 2 million liters and adding 3 million liters per day as an extraordinary measure to meet demand. Two additional loading arms were installed and dispatch logistics strengthened to ensure volume and quality, with sufficient stock at storage facilities, even as long lines persisted at the capital’s gas stations.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T20:29:00-04:00",
-      "published_at_bo": "2026-02-14T20:29:00-04:00",
-      "fetched_at_utc": "2026-02-15T05:59:03.048637+00:00",
-      "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "Oro bajo la lupa fiscal: impulsan impuesto del 4,8% y cooperativas denuncian presión tributaria",
-      "url": "https://eldeber.com.bo/economia/oro-lupa-fiscal-impulsan-impuesto-4-8-cooperativas-denuncian-presion-tributaria_1771104448",
-      "summary": "La Federación de Cooperativas Mineras de Bolivia (Fedecomin) rechaza el Proyecto de Ley 453/2024, que propone un Impuesto Consolidado al Oro del 4,8%, y advierte movilizaciones si no se archiva; señalan que no fue consensuado con las cooperativas auríferas. El tema continúa en el Congreso, con debates sobre equidad fiscal y la posibilidad de cargas mayores para el sector, mientras las cooperativas estudian un “impuesto único” propio y el Gobierno busca ampliar la base tributaria ante déficits.",
-      "summary_es": "La Federación de Cooperativas Mineras de Bolivia (Fedecomin) rechaza el Proyecto de Ley 453/2024, que propone un Impuesto Consolidado al Oro del 4,8%, y advierte movilizaciones si no se archiva; señalan que no fue consensuado con las cooperativas auríferas. El tema continúa en el Congreso, con debates sobre equidad fiscal y la posibilidad de cargas mayores para el sector, mientras las cooperativas estudian un “impuesto único” propio y el Gobierno busca ampliar la base tributaria ante déficits.",
-      "summary_en": "The Bolivian Federation of Mining Cooperatives (Fedecomin) rejects Bill 453/2024, which proposes a consolidated 4.8% tax on gold, and warns of mobilizations if it is not shelved; they say the measure was not consulted with the gold cooperatives. The issue remains in Congress, with debates over fiscal equity and the possibility of heavier burdens on the sector, while the cooperatives study a “single tax” of their own and the government seeks to broaden the tax base amid deficits.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T18:06:00-04:00",
-      "published_at_bo": "2026-02-14T18:06:00-04:00",
-      "fetched_at_utc": "2026-02-15T02:46:30.548644+00:00",
-      "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "YPFB habilitará registro por canal de WhatsApp para vehículos con posibles fallas",
-      "url": "https://eldeber.com.bo/economia/ypfb-habilitara-registro-canal-whatsapp-vehiculos-posibles-fallas_1771095429",
-      "summary": "YPFB anunció la habilitación de un canal de WhatsApp y la creación del Sistema de Registro y Evaluación de Contingencias (SREC) para que los propietarios reporten posibles fallas, las cuales serán recolectadas y verificadas con bases oficiales. La revisión de cada caso la harán peritos y no implica responsabilidad automática, y podría haber cobertura a través del seguro solidario si se demuestra relación con la gasolina.",
-      "summary_es": "YPFB anunció la habilitación de un canal de WhatsApp y la creación del Sistema de Registro y Evaluación de Contingencias (SREC) para que los propietarios reporten posibles fallas, las cuales serán recolectadas y verificadas con bases oficiales. La revisión de cada caso la harán peritos y no implica responsabilidad automática, y podría haber cobertura a través del seguro solidario si se demuestra relación con la gasolina.",
-      "summary_en": "YPFB announced the launch of a WhatsApp channel and the creation of the Contingencies Registration and Evaluation System (SREC) so that owners can report possible faults. These reports will be collected and verified against official databases. Each case will be reviewed by specialists and does not automatically imply liability, and coverage may be provided through the Solidarity Insurance if a link to gasoline is demonstrated.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T15:01:00-04:00",
-      "published_at_bo": "2026-02-14T15:01:00-04:00",
-      "fetched_at_utc": "2026-02-14T23:30:36.175684+00:00",
-      "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "Freddy Zenteno es designado como el nuevo director de la Agencia Nacional de Hidrocarburos",
-      "url": "https://eldeber.com.bo/economia/freddy-zenteno-designado-nuevo-director-agencia-nacional-hidrocarburos_1771088775",
-      "summary": "Freddy Zenteno Lara fue designado director ejecutivo interino de la ANH por el presidente de Bolivia, Rodrigo Paz, tras la renuncia de Margot Ayala, en medio de problemas de suministro y denuncias por combustible de mala calidad. Zenteno asume temporalmente mientras se eleva la terna para la designación titular y se regula la normativa; Ayala afirmó buscar instituciones transparentes, y su salida se da en un contexto de investigaciones y escasez de combustible en varias regiones.",
-      "summary_es": "Freddy Zenteno Lara fue designado director ejecutivo interino de la ANH por el presidente de Bolivia, Rodrigo Paz, tras la renuncia de Margot Ayala, en medio de problemas de suministro y denuncias por combustible de mala calidad. Zenteno asume temporalmente mientras se eleva la terna para la designación titular y se regula la normativa; Ayala afirmó buscar instituciones transparentes, y su salida se da en un contexto de investigaciones y escasez de combustible en varias regiones.",
-      "summary_en": "Freddy Zenteno Lara has been named interim chief executive of the ANH by Bolivian President Rodrigo Paz following the resignation of Margot Ayala, amid supply problems and complaints about low-quality fuel. Zenteno will serve temporarily while the candidate shortlist is advanced for the permanent appointment and the regulatory framework is updated. Ayala said she aimed to promote transparent institutions, and her departure comes amid investigations and fuel shortages in several regions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T13:10:00-04:00",
-      "published_at_bo": "2026-02-14T13:10:00-04:00",
-      "fetched_at_utc": "2026-02-14T22:30:10.739107+00:00",
-      "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "ABC asegura que la red vial está expedita en Carnaval; se levantaron los bloqueos en Cochabamba",
-      "url": "https://eldeber.com.bo/economia/abc-asegura-red-vial-esta-expedita-carnaval-levantaron-bloqueos-cochabamba_1771084873",
-      "summary": "La Administradora Boliviana de Carreteras (ABC) informó que la Red Vial Fundamental está completamente habilitada para la circulación durante el Carnaval, con tramos despejados y refacciones reprogramadas para garantizar el tránsito. Aun así, recomendó consultar la información de la Unidad de Tránsito y tomar precauciones por posibles lluvias y visibilidad; además, se registraron bloqueos esporádicos que fueron levantados y un corte temporal en Tarumá, Santa Cruz, que ya fue resuelto.",
-      "summary_es": "La Administradora Boliviana de Carreteras (ABC) informó que la Red Vial Fundamental está completamente habilitada para la circulación durante el Carnaval, con tramos despejados y refacciones reprogramadas para garantizar el tránsito. Aun así, recomendó consultar la información de la Unidad de Tránsito y tomar precauciones por posibles lluvias y visibilidad; además, se registraron bloqueos esporádicos que fueron levantados y un corte temporal en Tarumá, Santa Cruz, que ya fue resuelto.",
-      "summary_en": "The Bolivian Road Administration (ABC) said that the Fundamental Road Network is fully open to traffic for Carnival, with clear stretches and repairs rescheduled to ensure smooth transit. Still, it advised motorists to check the Traffic Unit for information and to take precautions for possible rain and reduced visibility. Sporadic blockages were reported but have been cleared, and there was a temporary closure in Tarumá, Santa Cruz, which has since been resolved.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T12:05:00-04:00",
-      "published_at_bo": "2026-02-14T12:05:00-04:00",
-      "fetched_at_utc": "2026-02-14T21:30:06.607845+00:00",
-      "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "App “Mi Carnaval” ofrece guía turística y gastronómica de Oruro con acceso sin internet",
-      "url": "https://eldeber.com.bo/economia/app-carnaval-ofrece-guia-turistica-gastronomica-oruro-acceso-internet_1771082279",
-      "summary": "“Mi Carnaval” es una guía digital gratuita, desarrollada por Mi Teleférico y el Viceministerio de Culturas y Folklore, que funciona sin conexión y ofrece el programa de actividades, recorridos de las fraternidades, atractivos turísticos, ubicaciones de servicios y 28 recomendaciones gastronómicas certificadas. La iniciativa se complementa con un tren carnavalero para trasladar a los visitantes y controles interinstitucionales para reforzar la seguridad durante estas festividades en Oruro.",
-      "summary_es": "“Mi Carnaval” es una guía digital gratuita, desarrollada por Mi Teleférico y el Viceministerio de Culturas y Folklore, que funciona sin conexión y ofrece el programa de actividades, recorridos de las fraternidades, atractivos turísticos, ubicaciones de servicios y 28 recomendaciones gastronómicas certificadas. La iniciativa se complementa con un tren carnavalero para trasladar a los visitantes y controles interinstitucionales para reforzar la seguridad durante estas festividades en Oruro.",
-      "summary_en": "“Mi Carnaval” is a free digital guide developed by Mi Teleférico and the Vice Ministry of Cultures and Folklore. It operates offline and provides the activities schedule, tours of the fraternities, tourist attractions, service locations, and 28 certified dining recommendations. The initiative is complemented by a carnival train to transport visitors and interagency security checks to reinforce safety during these festivities in Oruro.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T11:21:00-04:00",
-      "published_at_bo": "2026-02-14T11:21:00-04:00",
-      "fetched_at_utc": "2026-02-14T20:33:29.238564+00:00",
-      "day": "2026-02-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "Filas persisten en surtidores; este sábado vence el plazo de YPFB para normalizar la gasolina en Santa Cruz",
-      "url": "https://eldeber.com.bo/economia/filas-persisten-surtidores-este-sabado-vence-plazo-ypfb-normalizar-gasolina-santa-cruz_1771080945",
-      "summary": "Se reportaron largas filas en los surtidores de Santa Cruz ante la incertidumbre por la provisión de gasolina y el inicio del feriado largo, mientras YPFB anunció que la normalización está prevista para este sábado tras una contingencia por un cuello de botella logístico en la planta de Palmasola. Paralelamente, la estatal mantiene investigaciones sobre presunto sabotaje y adulteración de combustible, y se activó un acuerdo con la empresa Discar para reforzar el despacho con 5 millones de litros en tanques.",
-      "summary_es": "Se reportaron largas filas en los surtidores de Santa Cruz ante la incertidumbre por la provisión de gasolina y el inicio del feriado largo, mientras YPFB anunció que la normalización está prevista para este sábado tras una contingencia por un cuello de botella logístico en la planta de Palmasola. Paralelamente, la estatal mantiene investigaciones sobre presunto sabotaje y adulteración de combustible, y se activó un acuerdo con la empresa Discar para reforzar el despacho con 5 millones de litros en tanques.",
-      "summary_en": "Long lines formed at Santa Cruz gas stations amid uncertainty over gasoline supplies and the start of the long holiday weekend, as YPFB announced that normalization is expected this Saturday after a contingency caused by a logistics bottleneck at the Palmasola plant. Separately, the state oil company continues investigations into alleged sabotage and fuel adulteration, and an agreement with Discar has been activated to reinforce dispatch with 5 million liters in tanks.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-14T11:00:00-04:00",
-      "published_at_bo": "2026-02-14T11:00:00-04:00",
-      "fetched_at_utc": "2026-02-14T20:33:30.228830+00:00",
-      "day": "2026-02-14"
     }
   ]
 }
