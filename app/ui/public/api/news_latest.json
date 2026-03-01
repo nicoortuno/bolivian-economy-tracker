@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-01T13:41:39.560737+00:00",
+  "generated_at_utc": "2026-03-01T13:50:58.751586+00:00",
   "count": 114,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Tenés billetes de la serie B, ¿Qué debes hacer?",
+      "url": "https://eldeber.com.bo/economia/tenes-billetes-serie-b-debes-hacer_1772371726",
+      "summary": "El Banco Central de Bolivia inhabilitó los billetes de Bs 10, Bs 20 y Bs 50 de la Serie B del cargamento del accidente para evitar su uso indebido, dejando en suspenso su validez hasta nuevas medidas y ofreciendo canje para los billetes legítimamente obtenidos no vinculados al lote. Las entidades financieras mantienen operaciones normales y pueden canjear o cambiar estos billetes suspendidos, mientras que la población debe devolverlos si los identifican.",
+      "summary_es": "El Banco Central de Bolivia inhabilitó los billetes de Bs 10, Bs 20 y Bs 50 de la Serie B del cargamento del accidente para evitar su uso indebido, dejando en suspenso su validez hasta nuevas medidas y ofreciendo canje para los billetes legítimamente obtenidos no vinculados al lote. Las entidades financieras mantienen operaciones normales y pueden canjear o cambiar estos billetes suspendidos, mientras que la población debe devolverlos si los identifican.",
+      "summary_en": "The Central Bank of Bolivia has disabled the Bs 10, Bs 20, and Bs 50 notes from Series B of the shipment tied to the incident to prevent their improper use, suspending their validity until further notice and offering exchanges for notes that were legitimately obtained and are not tied to the batch. Financial institutions are continuing normal operations and can exchange or redeem these suspended banknotes, while the public is urged to return any they encounter.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-01T09:36:00-04:00",
+      "published_at_bo": "2026-03-01T09:36:00-04:00",
+      "fetched_at_utc": "2026-03-01T13:41:37.640341+00:00",
+      "day": "2026-03-01"
+    },
     {
       "source": "El Deber",
       "title": "Presidente de CAF cierra visita a Bolivia con llamado a una alianza histórica para “levantar el país”",
