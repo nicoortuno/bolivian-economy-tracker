@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-01T19:27:51.238070+00:00",
+  "generated_at_utc": "2026-03-01T19:33:58.688603+00:00",
   "count": 118,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Asoban recomienda priorizar pagos electrónicos tras la invalidación de billetes de la Serie B",
+      "url": "https://eldeber.com.bo/economia/asoban-recomienda-priorizar-pagos-electronicos-invalidacion-billetes-serie-b_1772389930",
+      "summary": "Asoban recomendó a la población priorizar pagos electrónicos (QR y otras modalidades) para evitar los billetes de la Serie B invalidados por el BCB, que serán retenidos, invalidado y destruidos por las entidades financieras. La entidad recordó que los billetes válidos siguen siendo de curso legal y disponibilizó el verificador de números de serie del BCB para verificar la legitimidad de los billetes.",
+      "summary_es": "Asoban recomendó a la población priorizar pagos electrónicos (QR y otras modalidades) para evitar los billetes de la Serie B invalidados por el BCB, que serán retenidos, invalidado y destruidos por las entidades financieras. La entidad recordó que los billetes válidos siguen siendo de curso legal y disponibilizó el verificador de números de serie del BCB para verificar la legitimidad de los billetes.",
+      "summary_en": "Asoban urged the public to prioritize electronic payments (QR and other methods) to avoid using the Series B banknotes that the BCB has invalidated, which will be held, invalidated, and destroyed by financial institutions. The group reminded people that valid banknotes remain legal tender and released the BCB’s serial-number verifier to check the legitimacy of banknotes.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-01T14:42:00-04:00",
+      "published_at_bo": "2026-03-01T14:42:00-04:00",
+      "fetched_at_utc": "2026-03-01T19:27:45.001299+00:00",
+      "day": "2026-03-01"
+    },
     {
       "source": "El Deber",
       "title": "Violento ataque a control aduanero en Boyuibe deja heridos leves y un vehículo incendiado",
