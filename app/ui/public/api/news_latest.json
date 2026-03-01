@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-01T15:29:17.159303+00:00",
+  "generated_at_utc": "2026-03-01T15:37:04.802645+00:00",
   "count": 116,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB anuncia la llegada de un lote de aditivos para \"reforzar\" la calidad gasolina",
+      "url": "https://eldeber.com.bo/economia/ypfb-anuncia-llegada-lote-aditivos-reforzar-calidad-gasolina_1772377462",
+      "summary": "YPFB inició un proceso de modernización del sistema de combustibles al incorporar por primera vez en Bolivia aditivos especializados (antioxidantes y detergentes) en la gasolina, con un primer lote de 17 toneladas destinado a mejorar la calidad en toda la cadena. La medida, anunciada tras quejas sobre la calidad de la gasolina, busca avanzar hacia una aditivación permanente y estándares internacionales para proteger el rendimiento de los vehículos.",
+      "summary_es": "YPFB inició un proceso de modernización del sistema de combustibles al incorporar por primera vez en Bolivia aditivos especializados (antioxidantes y detergentes) en la gasolina, con un primer lote de 17 toneladas destinado a mejorar la calidad en toda la cadena. La medida, anunciada tras quejas sobre la calidad de la gasolina, busca avanzar hacia una aditivación permanente y estándares internacionales para proteger el rendimiento de los vehículos.",
+      "summary_en": "YPFB has launched a modernization of the fuel system by introducing specialized additives (antioxidants and detergents) into gasoline for the first time in Bolivia, with an initial batch of 17 tons aimed at improving quality across the entire supply chain. The move, announced after complaints about gasoline quality, seeks to advance toward permanent additive use and international standards to protect vehicle performance.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-01T11:28:00-04:00",
+      "published_at_bo": "2026-03-01T11:28:00-04:00",
+      "fetched_at_utc": "2026-03-01T15:29:13.382174+00:00",
+      "day": "2026-03-01"
+    },
     {
       "source": "El Deber",
       "title": "¿Tu billete tiene valor legal? El BCB activa un verificador de números de serie",
