@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-01T16:35:58.957908+00:00",
+  "generated_at_utc": "2026-03-01T16:45:56.051922+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Violento ataque a control aduanero en Boyuibe deja heridos leves y un vehículo incendiado",
+      "url": "https://eldeber.com.bo/economia/violento-ataque-control-aduanero-boyuibe-deja-heridos-leves-vehiculo-incendiado_1772379436",
+      "summary": "Un grupo de presuntos contrabandistas atacó a funcionarios del GRIA en el peaje de Boyuibe (Santa Cruz), lanzando piedras y petardos y incendiando un vehículo oficial; hubo daños materiales y lesiones leves, y no se reportaron detenciones al cierre de esta edición.",
+      "summary_es": "Un grupo de presuntos contrabandistas atacó a funcionarios del GRIA en el peaje de Boyuibe (Santa Cruz), lanzando piedras y petardos y incendiando un vehículo oficial; hubo daños materiales y lesiones leves, y no se reportaron detenciones al cierre de esta edición.",
+      "summary_en": "A group of alleged smugglers attacked officials from GRIA at the Boyuibe toll booth in Santa Cruz, throwing stones and firecrackers and setting an official vehicle on fire. There was material damage and minor injuries, and no arrests were reported as of this edition.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-01T11:45:00-04:00",
+      "published_at_bo": "2026-03-01T11:45:00-04:00",
+      "fetched_at_utc": "2026-03-01T16:35:54.226777+00:00",
+      "day": "2026-03-01"
+    },
     {
       "source": "El Deber",
       "title": "YPFB anuncia la llegada de un lote de aditivos para \"reforzar\" la calidad de la gasolina",
