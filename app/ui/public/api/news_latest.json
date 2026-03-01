@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-01T14:29:15.595209+00:00",
+  "generated_at_utc": "2026-03-01T14:41:35.520333+00:00",
   "count": 115,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Tu billete tiene valor legal? El BCB activa un verificador de números de serie",
+      "url": "https://eldeber.com.bo/economia/billete-tiene-valor-legal-bcb-activa-verificador-numeros-serie_1772373516",
+      "summary": "El Banco Central de Bolivia lanzó en su sitio oficial el Verificador de Número de Serie para que la población confirme en segundos si billetes de Bs 10, 20 o 50 de la Serie B pertenecen a un lote inhabilitado tras el accidente aéreo, o conservan su validez. La entidad recomienda usar únicamente la página oficial y verificar los billetes antes de transacciones importantes desde el 2 de marzo.",
+      "summary_es": "El Banco Central de Bolivia lanzó en su sitio oficial el Verificador de Número de Serie para que la población confirme en segundos si billetes de Bs 10, 20 o 50 de la Serie B pertenecen a un lote inhabilitado tras el accidente aéreo, o conservan su validez. La entidad recomienda usar únicamente la página oficial y verificar los billetes antes de transacciones importantes desde el 2 de marzo.",
+      "summary_en": "The Central Bank of Bolivia has launched on its official site the Serial Number Verifier to let the public quickly check whether 10-, 20-, and 50-boliviano notes in Series B belong to a deactivated batch linked to the air crash, or whether they remain valid. The bank urges people to use only the official page and verify banknotes before any major transactions, effective March 2.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-01T10:03:00-04:00",
+      "published_at_bo": "2026-03-01T10:03:00-04:00",
+      "fetched_at_utc": "2026-03-01T14:29:12.563789+00:00",
+      "day": "2026-03-01"
+    },
     {
       "source": "El Deber",
       "title": "Tenés billetes de la serie B, ¿Qué debes hacer?",
