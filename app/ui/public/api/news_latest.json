@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-02T21:42:40.824234+00:00",
+  "generated_at_utc": "2026-03-02T21:51:07.457458+00:00",
   "count": 120,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bancos garantizan validez de billetes de la Serie B y piden usar QR ante dudas por dinero del siniestro aéreo",
+      "url": "https://eldeber.com.bo/economia/bancos-garantizan-validez-billetes-serie-b-piden-usar-qr-dudas-dinero-siniestro-aereo_1772485583",
+      "summary": "Asoban afirmó que los billetes de la Serie B siguen siendo de curso legal y que solo deben considerarse inválidos aquellos de las series y numeraciones específicas vinculadas al siniestro aéreo. Recomendaron priorizar pagos electrónicos y verificar en la página del Banco Central, para identificar billetes no válidos y evitar cambios innecesarios en los bancos.",
+      "summary_es": "Asoban afirmó que los billetes de la Serie B siguen siendo de curso legal y que solo deben considerarse inválidos aquellos de las series y numeraciones específicas vinculadas al siniestro aéreo. Recomendaron priorizar pagos electrónicos y verificar en la página del Banco Central, para identificar billetes no válidos y evitar cambios innecesarios en los bancos.",
+      "summary_en": "Asoban said that Series B banknotes remain legal tender and that only notes from specific series and serial numbers tied to the air disaster should be deemed invalid. They urged prioritizing electronic payments and checking the Central Bank’s website to identify invalid notes and avoid unnecessary exchanges at banks.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T17:30:00-04:00",
+      "published_at_bo": "2026-03-02T17:30:00-04:00",
+      "fetched_at_utc": "2026-03-02T21:42:35.846535+00:00",
+      "day": "2026-03-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "El país abre un nuevo capítulo en mercados de carbono con el primer Bolivia Carbon Forum",
+      "url": "https://eldeber.com.bo/economia/pais-abre-nuevo-capitulo-mercados-carbono-primer-bolivia-carbon-forum_1772483066",
+      "summary": "Bolivia organiza el Bolivia Carbon Forum, el 5 de marzo, para analizar los mercados de carbono regulados y voluntarios, y las oportunidades de financiamiento climático y competitividad empresarial que estos mecanismos pueden ofrecer. El evento busca convertirse en un espacio técnico de alto nivel que conecte al sector privado con tendencias regulatorias y metodológicas, impulsando capacidades nacionales para estructurar proyectos con estándares internacionales y fortalecer la descarbonización como prioridad estratégica.",
+      "summary_es": "Bolivia organiza el Bolivia Carbon Forum, el 5 de marzo, para analizar los mercados de carbono regulados y voluntarios, y las oportunidades de financiamiento climático y competitividad empresarial que estos mecanismos pueden ofrecer. El evento busca convertirse en un espacio técnico de alto nivel que conecte al sector privado con tendencias regulatorias y metodológicas, impulsando capacidades nacionales para estructurar proyectos con estándares internacionales y fortalecer la descarbonización como prioridad estratégica.",
+      "summary_en": "Bolivia will host the Bolivia Carbon Forum on March 5 to examine regulated and voluntary carbon markets and the climate finance and business competitiveness opportunities these mechanisms can offer. The event aims to become a high-level technical forum that connects the private sector with regulatory and methodological trends, boosting national capacities to structure projects to international standards and reinforcing decarbonization as a strategic priority.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T16:46:00-04:00",
+      "published_at_bo": "2026-03-02T16:46:00-04:00",
+      "fetched_at_utc": "2026-03-02T21:42:36.828824+00:00",
+      "day": "2026-03-02"
+    },
     {
       "source": "El Deber",
       "title": "El precio del gas natural sube cerca del 40 % y se aproxima a los 44 dólares por MWh",
