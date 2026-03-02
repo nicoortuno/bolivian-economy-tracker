@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-02T22:33:00.138107+00:00",
+  "generated_at_utc": "2026-03-02T22:47:47.862737+00:00",
   "count": 121,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Sepa cómo reportar daños en su vehículo por gasolina contaminada: YPFB habilita WhatsApp y registro digital",
+      "url": "https://eldeber.com.bo/economia/sepa-reportar-danos-vehiculo-gasolina-contaminada-ypfb-habilita-whatsapp-registro-digital_1772488318",
+      "summary": "YPFB habilitó el WhatsApp 72150600 y el teléfono 50850088 para reportar daños por gasolina desestabilizada, con registro en el sistema SREC y verificación de identidad mediante bases oficiales, en un proceso escalonado por la terminación de la placa. Los casos son evaluados por peritos para clasificarlos en leve, medio o grave, buscando facilitar la compensación y reducir costos y fraudes.",
+      "summary_es": "YPFB habilitó el WhatsApp 72150600 y el teléfono 50850088 para reportar daños por gasolina desestabilizada, con registro en el sistema SREC y verificación de identidad mediante bases oficiales, en un proceso escalonado por la terminación de la placa. Los casos son evaluados por peritos para clasificarlos en leve, medio o grave, buscando facilitar la compensación y reducir costos y fraudes.",
+      "summary_en": "YPFB has activated the WhatsApp number 72150600 and the phone line 50850088 to report damages from destabilized gasoline, with registration in the SREC system and identity verification through official databases, in a phased process based on the vehicle’s license plate ending. The cases are assessed by experts to classify them as minor, moderate, or severe, with the aim of facilitating compensation and reducing costs and fraud.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T18:10:00-04:00",
+      "published_at_bo": "2026-03-02T18:10:00-04:00",
+      "fetched_at_utc": "2026-03-02T22:32:54.985507+00:00",
+      "day": "2026-03-02"
+    },
     {
       "source": "El Deber",
       "title": "Bancos garantizan validez de billetes de la Serie B y piden usar QR ante dudas por dinero del siniestro aéreo",
