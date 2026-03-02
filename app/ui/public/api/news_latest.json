@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-02T16:56:20.570193+00:00",
+  "generated_at_utc": "2026-03-02T17:05:44.415117+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Intervención por presunto sabotaje: Hay 1.500 militares en 16 plantas estratégicas de YPFB",
+      "url": "https://eldeber.com.bo/economia/intervencion-presunto-sabotaje-hay-1-500-militares-16-plantas-estrategicas-ypfb_1772466626",
+      "summary": "El Gobierno desplegó 1.500 efectivos y intervino 16 plantas de YPFB en el Plan San Alberto para resguardar las instalaciones energéticas ante denuncias de sabotaje y contaminación de gasolina. El operativo, que mantiene a las tropas en los perímetros y contempla cooperación militar adicional a pedido del sector, busca neutralizar la confabulación y proteger la seguridad energética nacional.",
+      "summary_es": "El Gobierno desplegó 1.500 efectivos y intervino 16 plantas de YPFB en el Plan San Alberto para resguardar las instalaciones energéticas ante denuncias de sabotaje y contaminación de gasolina. El operativo, que mantiene a las tropas en los perímetros y contempla cooperación militar adicional a pedido del sector, busca neutralizar la confabulación y proteger la seguridad energética nacional.",
+      "summary_en": "The government deployed 1,500 personnel and took control of 16 YPFB plants under the Plan San Alberto to safeguard energy facilities amid reports of sabotage and gasoline contamination. The operation keeps troops at the perimeters and contemplates additional military cooperation as requested by the sector, with the aim of neutralizing the conspiracy and protecting national energy security.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T12:19:00-04:00",
+      "published_at_bo": "2026-03-02T12:19:00-04:00",
+      "fetched_at_utc": "2026-03-02T16:56:16.630232+00:00",
+      "day": "2026-03-02"
+    },
     {
       "source": "El Deber",
       "title": "Avión siniestrado transportaba Bs 50 millones en billetes nuevos destinados al Banco Central",
