@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-02T13:35:43.584705+00:00",
-  "count": 118,
+  "generated_at_utc": "2026-03-02T14:49:29.366258+00:00",
+  "count": 115,
   "items": [
     {
       "source": "El Deber",
@@ -1597,62 +1597,6 @@
       "published_at_bo": "2026-02-17T12:32:00-04:00",
       "fetched_at_utc": "2026-02-17T21:40:53.258882+00:00",
       "day": "2026-02-17"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno asegura normalización en el abastecimiento de gasolina tras filas en surtidores",
-      "url": "https://eldeber.com.bo/economia/gobierno-asegura-normalizacion-abastecimiento-gasolina-filas-surtidores_1771276591",
-      "summary": "El Gobierno afirmó que el abastecimiento de gasolina se está normalizando tras problemas logísticos y un aumento repentino de la demanda en Santa Cruz. Las autoridades reportan medidas de YPFB y ANH para acelerar la normalización, con un incremento de la distribución y despachos regulares, a la espera de una plena estabilidad en las próximas horas.",
-      "summary_es": "El Gobierno afirmó que el abastecimiento de gasolina se está normalizando tras problemas logísticos y un aumento repentino de la demanda en Santa Cruz. Las autoridades reportan medidas de YPFB y ANH para acelerar la normalización, con un incremento de la distribución y despachos regulares, a la espera de una plena estabilidad en las próximas horas.",
-      "summary_en": "The government said gasoline supply is returning to normal after logistical problems and a sudden surge in demand in Santa Cruz. Authorities report measures by YPFB and ANH to accelerate normalization, including increased distribution and regular dispatches, as full stability is expected in the coming hours.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-16T17:22:00-04:00",
-      "published_at_bo": "2026-02-16T17:22:00-04:00",
-      "fetched_at_utc": "2026-02-17T02:38:08.849509+00:00",
-      "day": "2026-02-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Aprehenden en Santa Cruz a exejecutiva de YPFB vinculada al caso Botrading",
-      "url": "https://eldeber.com.bo/economia/aprehenden-santa-cruz-exejecutiva-ypfb-vinculada-caso-botrading_1771271763",
-      "summary": "Una exdirectiva de YPFB, Gabriela Delgadillo Salazar, fue aprehendida en Santa Cruz en el marco de la investigación del caso Botrading, vinculado a la empresa creada por la estatal en Paraguay para optimizar importaciones. El caso, que apunta a presuntos incumplimientos y daños al Estado estimados en unos 355 millones de dólares, ha implicado a altos ejecutivos y se conecta a la era del expresidente Luis Arce, con el cierre de Botrading como una de las primeras decisiones del gobierno actual.",
-      "summary_es": "Una exdirectiva de YPFB, Gabriela Delgadillo Salazar, fue aprehendida en Santa Cruz en el marco de la investigación del caso Botrading, vinculado a la empresa creada por la estatal en Paraguay para optimizar importaciones. El caso, que apunta a presuntos incumplimientos y daños al Estado estimados en unos 355 millones de dólares, ha implicado a altos ejecutivos y se conecta a la era del expresidente Luis Arce, con el cierre de Botrading como una de las primeras decisiones del gobierno actual.",
-      "summary_en": "Former YPFB board member Gabriela Delgadillo Salazar was arrested in Santa Cruz as part of the Botrading case investigation, tied to the state-owned company’s venture in Paraguay to streamline imports. The case, which centers on alleged breaches and damages to the state estimated at around $355 million, has implicated top executives and is connected to the Luis Arce era, with Botrading’s shutdown among the first decisions of the current government.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-16T15:59:00-04:00",
-      "published_at_bo": "2026-02-16T15:59:00-04:00",
-      "fetched_at_utc": "2026-02-16T23:35:08.062528+00:00",
-      "day": "2026-02-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Paz destaca caída del riesgo país y anuncia acuerdos con la CAF",
-      "url": "https://eldeber.com.bo/economia/paz-destaca-caida-riesgo-pais-anuncia-acuerdos-caf_1771260229",
-      "summary": "El presidente Rodrigo Paz anunció que, tras Carnaval, el titular de la CAF, Sergio Díaz-Granados, llegará a Tarija para firmar acuerdos y presentar proyectos de desarrollo regional, y adelantó que se presentarán nuevas leyes para obras financiadas con recursos externos. Además, resaltó la caída del riesgo país de Bolivia a alrededor de 470 puntos y destacó avances en la integración regional, especialmente el Corredor Bioceánico.",
-      "summary_es": "El presidente Rodrigo Paz anunció que, tras Carnaval, el titular de la CAF, Sergio Díaz-Granados, llegará a Tarija para firmar acuerdos y presentar proyectos de desarrollo regional, y adelantó que se presentarán nuevas leyes para obras financiadas con recursos externos. Además, resaltó la caída del riesgo país de Bolivia a alrededor de 470 puntos y destacó avances en la integración regional, especialmente el Corredor Bioceánico.",
-      "summary_en": "President Rodrigo Paz announced that after Carnival, the head of CAF, Sergio Díaz-Granados, will travel to Tarija to sign agreements and present regional development projects, and he revealed that new laws will be introduced to fund works with external resources. He also highlighted that Bolivia’s country risk has fallen to around 470 basis points and underscored progress in regional integration, particularly the Bioceanic Corridor.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-16T12:52:00-04:00",
-      "published_at_bo": "2026-02-16T12:52:00-04:00",
-      "fetched_at_utc": "2026-02-16T22:34:56.325667+00:00",
-      "day": "2026-02-16"
-    },
-    {
-      "source": "El Deber",
-      "title": "Rodrigo Paz participa del Carnaval Chapaco y destaca a Tarija como vitrina turística internacional",
-      "url": "https://eldeber.com.bo/economia/rodrigo-paz-participa-carnaval-chapaco-destaca-tarija-vitrina-turistica-internacional_1771256593",
-      "summary": "El presidente Rodrigo Paz Pereira participó en las festividades del Carnaval Chapaco en Tarija, destacando su valor cultural, su vínculo personal con la celebración y su impacto internacional, al tiempo que encabezó la entrega de una placa conmemorativa y recorrió lugares emblemáticos de la ciudad; el programa continúa con el Martes de Albahaca.",
-      "summary_es": "El presidente Rodrigo Paz Pereira participó en las festividades del Carnaval Chapaco en Tarija, destacando su valor cultural, su vínculo personal con la celebración y su impacto internacional, al tiempo que encabezó la entrega de una placa conmemorativa y recorrió lugares emblemáticos de la ciudad; el programa continúa con el Martes de Albahaca.",
-      "summary_en": "President Rodrigo Paz Pereira attended the Chapaco Carnival festivities in Tarija, highlighting the celebration’s cultural value, his personal ties to it, and its international reach. He also led the presentation of a commemorative plaque and toured the city’s emblematic sites; the program continues with Basil Tuesday.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-16T11:52:00-04:00",
-      "published_at_bo": "2026-02-16T11:52:00-04:00",
-      "fetched_at_utc": "2026-02-16T21:35:02.465102+00:00",
-      "day": "2026-02-16"
     }
   ]
 }
