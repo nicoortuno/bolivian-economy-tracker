@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-02T15:48:27.134023+00:00",
+  "generated_at_utc": "2026-03-02T15:56:47.862864+00:00",
   "count": 116,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Avión siniestrado transportaba Bs 50 millones en billetes nuevos destinados al Banco Central",
+      "url": "https://eldeber.com.bo/economia/avion-siniestrado-transportaba-bs-50-millones-billetes-nuevos-destinados-banco-central_1772465211",
+      "summary": "Un avión militar transportaba más de 17 millones de billetes nuevos de 10, 20 y 50 bolivianos de la serie B para el Banco Central de Bolivia, por un valor aproximado de 50 millones de bolivianos, cuando se produjo el accidente en El Alto. Aproximadamente el 30% del cargamento fue sustraído, pero esos billetes no tienen validez y pueden identificarse por su serie; la mayoría de las notas conservó su validez y el BCB habilitó herramientas para verificar los números de serie afectados.",
+      "summary_es": "Un avión militar transportaba más de 17 millones de billetes nuevos de 10, 20 y 50 bolivianos de la serie B para el Banco Central de Bolivia, por un valor aproximado de 50 millones de bolivianos, cuando se produjo el accidente en El Alto. Aproximadamente el 30% del cargamento fue sustraído, pero esos billetes no tienen validez y pueden identificarse por su serie; la mayoría de las notas conservó su validez y el BCB habilitó herramientas para verificar los números de serie afectados.",
+      "summary_en": "A military plane was transporting more than 17 million new banknotes in denominations of 10, 20, and 50 bolivianos, all from series B, for the Central Bank of Bolivia, with an approximate value of 50 million bolivianos, when the crash occurred in El Alto. About 30% of the cargo was stolen, but those notes are not valid and can be identified by their serials; the majority of the notes remained valid, and the Central Bank of Bolivia has provided tools to verify the serial numbers affected.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T11:38:00-04:00",
+      "published_at_bo": "2026-03-02T11:38:00-04:00",
+      "fetched_at_utc": "2026-03-02T15:48:24.046385+00:00",
+      "day": "2026-03-02"
+    },
     {
       "source": "El Deber",
       "title": "Transporte pesado cuestiona militarización de plantas de YPFB y pide “comprar combustible de calidad”",
