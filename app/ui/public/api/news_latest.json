@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-02T18:57:12.285896+00:00",
+  "generated_at_utc": "2026-03-02T19:07:25.717390+00:00",
   "count": 118,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El precio del gas natural sube cerca del 40 % y se aproxima a los 44 dólares por MWh",
+      "url": "https://eldeber.com.bo/economia/precio-gas-natural-sube-cerca-40-aproxima-44-dolares-mwh_1772475586",
+      "summary": "El gas natural se disparó casi un 40% tras ataques entre EE. UU. e Israel a Irán, alcanzando alrededor de 44 USD/MWh en Europa y superando máximos de la sesión. El gas para entrega en un mes en el TTF holandés cerró cerca de 43,95 USD/MWh, con un pico intradía de 48,95 USD/MWh, impulsado por la tensión regional.",
+      "summary_es": "El gas natural se disparó casi un 40% tras ataques entre EE. UU. e Israel a Irán, alcanzando alrededor de 44 USD/MWh en Europa y superando máximos de la sesión. El gas para entrega en un mes en el TTF holandés cerró cerca de 43,95 USD/MWh, con un pico intradía de 48,95 USD/MWh, impulsado por la tensión regional.",
+      "summary_en": "Natural gas jumped nearly 40% after attacks by the United States and Israel on Iran, reaching about $44 per MWh in Europe and pushing above session highs. One-month delivery gas on the Dutch TTF closed around $43.95 per MWh, with an intraday peak of $48.95 per MWh, helped by regional tensions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T14:19:00-04:00",
+      "published_at_bo": "2026-03-02T14:19:00-04:00",
+      "fetched_at_utc": "2026-03-02T18:57:07.174096+00:00",
+      "day": "2026-03-02"
+    },
     {
       "source": "El Deber",
       "title": "Intervención por presunto sabotaje: Hay 1.500 militares en 16 plantas estratégicas de YPFB",
