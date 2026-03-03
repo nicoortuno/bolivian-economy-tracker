@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-03T02:39:37.124391+00:00",
+  "generated_at_utc": "2026-03-03T03:14:39.163997+00:00",
   "count": 122,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB publica la lista de series de los billetes de Bs 10, 20 y 50 afectados por el accidente de la FAB: Sepa cómo verificarlos",
+      "url": "https://eldeber.com.bo/economia/bcb-publica-lista-series-billetes-bs-10-20-50-afectados-accidente-fab-sepa-verificarlos_1772502399",
+      "summary": "El Banco Central de Bolivia alerta que ciertos billetes de Bs 10, 20 y 50 están en rangos de serie específicos y no deben ser aceptados; hay que verificarlos antes de cualquier transacción. Usa la verificación digital oficial ingresando el número de serie completo en el enlace del BCB para confirmar si está observado.",
+      "summary_es": "El Banco Central de Bolivia alerta que ciertos billetes de Bs 10, 20 y 50 están en rangos de serie específicos y no deben ser aceptados; hay que verificarlos antes de cualquier transacción. Usa la verificación digital oficial ingresando el número de serie completo en el enlace del BCB para confirmar si está observado.",
+      "summary_en": "The Central Bank of Bolivia warns that certain banknotes in denominations of Bs 10, 20, and 50 fall within specific serial ranges and should not be accepted; they must be checked before any transaction. Use the official digital verification by entering the full serial number in the BCB’s link to confirm whether it is on the watchlist.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-02T22:00:00-04:00",
+      "published_at_bo": "2026-03-02T22:00:00-04:00",
+      "fetched_at_utc": "2026-03-03T02:39:32.225421+00:00",
+      "day": "2026-03-02"
+    },
     {
       "source": "El Deber",
       "title": "Sepa cómo reportar daños en su vehículo por gasolina contaminada: YPFB habilita WhatsApp y registro digital",
