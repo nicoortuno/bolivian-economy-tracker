@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-03T17:49:29.708230+00:00",
+  "generated_at_utc": "2026-03-03T18:00:15.555380+00:00",
   "count": 126,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB presenta aplicación para identificar billetes sin internet e insta a “normalizar” las operaciones",
+      "url": "https://eldeber.com.bo/economia/bcb-presenta-aplicacion-identificar-billetes-internet-insta-normalizar-operaciones_1772559307",
+      "summary": "Tras el accidente en El Alto, el BCB lanzó la app “Billetes de Bolivia” (disponible en App Store y Google Play) para identificar billetes válidos de la Serie B (Bs 10, 20 y 50) con un escaneo sin conexión, con el objetivo de facilitar a la población la verificación. La medida se da en medio de la confusión postelectrónica tras la invalidez temporal de esos billetes y los saqueos ocurridos, y se invita a normalizar su uso.",
+      "summary_es": "Tras el accidente en El Alto, el BCB lanzó la app “Billetes de Bolivia” (disponible en App Store y Google Play) para identificar billetes válidos de la Serie B (Bs 10, 20 y 50) con un escaneo sin conexión, con el objetivo de facilitar a la población la verificación. La medida se da en medio de la confusión postelectrónica tras la invalidez temporal de esos billetes y los saqueos ocurridos, y se invita a normalizar su uso.",
+      "summary_en": "Following the incident in El Alto, Bolivia’s Central Bank launched the app “Billetes de Bolivia” (available on the App Store and Google Play) to identify valid Series B notes (Bs 10, 20, and 50) via offline scanning, aiming to help the public verify banknotes. The move comes amid post-electoral confusion after the temporary invalidation of those notes and instances of looting, with authorities urging people to normalize its use.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T13:35:00-04:00",
+      "published_at_bo": "2026-03-03T13:35:00-04:00",
+      "fetched_at_utc": "2026-03-03T17:49:25.701025+00:00",
+      "day": "2026-03-03"
+    },
     {
       "source": "El Deber",
       "title": "Paso a paso para verificar la validez de billetes de Bs 10, 20 y 50 de la serie B",
