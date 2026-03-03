@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-03T16:56:27.861311+00:00",
+  "generated_at_utc": "2026-03-03T17:06:55.161035+00:00",
   "count": 125,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Paso a paso para verificar la validez de billetes de Bs 10, 20 y 50 de la serie B",
+      "url": "https://eldeber.com.bo/economia/paso-paso-verificar-validez-billetes-bs-10-20-50-serie-b_1772555508",
+      "summary": "El Banco Central de Bolivia lanzó una herramienta en su página para verificar la validez de billetes de Bs 10, 20 y 50 de la serie B tras la dispersión y robo de billetes ocurridos luego del accidente del Hércules C-130. Esta verificación, que se puede usar desde Android o iPhone, guía a los usuarios a través de pasos para confirmar si un billete puede circular.",
+      "summary_es": "El Banco Central de Bolivia lanzó una herramienta en su página para verificar la validez de billetes de Bs 10, 20 y 50 de la serie B tras la dispersión y robo de billetes ocurridos luego del accidente del Hércules C-130. Esta verificación, que se puede usar desde Android o iPhone, guía a los usuarios a través de pasos para confirmar si un billete puede circular.",
+      "summary_en": "The Central Bank of Bolivia has launched a tool on its website to verify the validity of Bs 10, 20, and 50 notes from Series B, in the wake of the dispersion and theft of banknotes following the Hercules C-130 crash. This verification, available for Android and iPhone, guides users through steps to confirm whether a banknote can still be circulated.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T12:35:00-04:00",
+      "published_at_bo": "2026-03-03T12:35:00-04:00",
+      "fetched_at_utc": "2026-03-03T16:56:24.856416+00:00",
+      "day": "2026-03-03"
+    },
+    {
+      "source": "El Deber",
+      "title": "Conozca los pasos para reportar los daños producidos por el combustible en mal estado",
+      "url": "https://eldeber.com.bo/economia/conozca-pasos-reportar-danos-producidos-combustible-mal-estado_1772553947",
+      "summary": "A partir del martes 3 de marzo, el SREC de YPFB recibirá reportes por posibles daños en vehículos debido a gasolina en mal estado, mediante la línea de WhatsApp 72150600 y registro por terminación de placa según cronograma, con atención al usuario en el 50850088. Para la compensación se requieren RUAT, cédula de identidad, celular, SOAT, cuenta bancaria, detalle de daños, declaración jurada y finiquito, y la evaluación clasificará los daños como leve, medio o grave.",
+      "summary_es": "A partir del martes 3 de marzo, el SREC de YPFB recibirá reportes por posibles daños en vehículos debido a gasolina en mal estado, mediante la línea de WhatsApp 72150600 y registro por terminación de placa según cronograma, con atención al usuario en el 50850088. Para la compensación se requieren RUAT, cédula de identidad, celular, SOAT, cuenta bancaria, detalle de daños, declaración jurada y finiquito, y la evaluación clasificará los daños como leve, medio o grave.",
+      "summary_en": "Starting Tuesday, March 3, YPFB’s SREC will begin accepting reports of possible vehicle damage caused by substandard gasoline. Reports can be submitted via WhatsApp line 72150600 or under the plate-termination registration schedule, with customer support available at 50850088. \n\nFor compensation, the following are required: RUAT, national ID card, cellphone number, SOAT, bank account details, a description of damages, a sworn statement, and a settlement. The evaluation will classify damages as minor, moderate, or severe.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T12:12:00-04:00",
+      "published_at_bo": "2026-03-03T12:12:00-04:00",
+      "fetched_at_utc": "2026-03-03T16:56:25.834063+00:00",
+      "day": "2026-03-03"
+    },
     {
       "source": "El Deber",
       "title": "Unos 1.500 militares vigilan instalaciones de YPFB para evitar “sabotajes”",
