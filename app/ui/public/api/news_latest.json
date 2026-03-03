@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-03T10:49:04.186247+00:00",
+  "generated_at_utc": "2026-03-03T11:00:38.195914+00:00",
   "count": 123,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Unos 1.500 militares vigilan instalaciones de YPFB para evitar “sabotajes”",
+      "url": "https://eldeber.com.bo/economia/1-500-militares-vigilan-instalaciones-ypfb-evitar-sabotajes_1772534443",
+      "summary": "El Gobierno desplegó 1.500 efectivos e intervino 16 plantas de YPFB en el marco del Plan San Alberto para resguardar las instalaciones energéticas ante denuncias de sabotaje y contaminación de gasolina, manteniendo la presencia “hasta que se termine con la confabulación”. Críticos señalan que la militarización no soluciona los problemas de calidad y abastecimiento, y piden soluciones técnicas y transparencia en la información.",
+      "summary_es": "El Gobierno desplegó 1.500 efectivos e intervino 16 plantas de YPFB en el marco del Plan San Alberto para resguardar las instalaciones energéticas ante denuncias de sabotaje y contaminación de gasolina, manteniendo la presencia “hasta que se termine con la confabulación”. Críticos señalan que la militarización no soluciona los problemas de calidad y abastecimiento, y piden soluciones técnicas y transparencia en la información.",
+      "summary_en": "The government deployed 1,500 personnel and intervened in 16 YPFB plants under the San Alberto Plan to safeguard energy facilities amid allegations of sabotage and gasoline contamination, maintaining a presence “until the conspiracy is brought to an end.” Critics say militarization does not solve quality and supply problems, and are calling for technical solutions and greater transparency in information.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T06:40:00-04:00",
+      "published_at_bo": "2026-03-03T06:40:00-04:00",
+      "fetched_at_utc": "2026-03-03T10:49:01.149976+00:00",
+      "day": "2026-03-03"
+    },
+    {
+      "source": "El Deber",
+      "title": "Persiste la duda por billetes de la serie B y la población asume el costo del control",
+      "url": "https://eldeber.com.bo/economia/persiste-duda-billetes-serie-b-poblacion-asume-costo-control_1772533995",
+      "summary": "Tras el accidente, persiste la confusión sobre la Serie B: autoridades aseguran que la mayoría de esos billetes siguen en circulación salvo numeraciones identificadas como sustraídas, y recomiendan usar el verificador del BCB, pero comerciantes y transportistas han dejado de aceptarlos, generando rechazo y cuestionamientos sobre la claridad de la información.",
+      "summary_es": "Tras el accidente, persiste la confusión sobre la Serie B: autoridades aseguran que la mayoría de esos billetes siguen en circulación salvo numeraciones identificadas como sustraídas, y recomiendan usar el verificador del BCB, pero comerciantes y transportistas han dejado de aceptarlos, generando rechazo y cuestionamientos sobre la claridad de la información.",
+      "summary_en": "After the accident, confusion persists over Series B banknotes: authorities say most of these notes remain in circulation, except those with serial numbers identified as stolen, and they urge using the BCB’s verifier. But merchants and transport operators have stopped accepting them, fueling rejection and questions about the clarity of the information.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T06:33:00-04:00",
+      "published_at_bo": "2026-03-03T06:33:00-04:00",
+      "fetched_at_utc": "2026-03-03T10:49:02.113602+00:00",
+      "day": "2026-03-03"
+    },
     {
       "source": "El Deber",
       "title": "BCB publica la lista de series de los billetes de Bs 10, 20 y 50 afectados por el accidente de la FAB: Sepa cómo verificarlos",
