@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-03T19:41:09.568672+00:00",
+  "generated_at_utc": "2026-03-03T19:52:31.945181+00:00",
   "count": 128,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Constructoras del país exigen al gobierno la aprobación del Decreto de ajuste de precios de materiales",
+      "url": "https://eldeber.com.bo/economia/constructoras-pais-exigen-gobierno-aprobacion-decreto-ajuste-precios-materiales_1772566289",
+      "summary": "El vicepresidente de CABOCO señala que el Gobierno no garantiza seguridad jurídica al retrasar la promulgación del decreto supremo de nivelación de precios de materiales, lo que podría provocar la paralización de obras y el incumplimiento de contratos. Exigen su promulgación para evitar cierres de proyectos, pérdida de empleo y deterioro de la infraestructura.",
+      "summary_es": "El vicepresidente de CABOCO señala que el Gobierno no garantiza seguridad jurídica al retrasar la promulgación del decreto supremo de nivelación de precios de materiales, lo que podría provocar la paralización de obras y el incumplimiento de contratos. Exigen su promulgación para evitar cierres de proyectos, pérdida de empleo y deterioro de la infraestructura.",
+      "summary_en": "CABOCO’s vice president says the government is not guaranteeing legal certainty by delaying the promulgation of the Supreme Decree on material price leveling, a move that could trigger project shutdowns and contract breaches. They are demanding its promulgation to prevent project closures, job losses, and infrastructure deterioration.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T15:31:00-04:00",
+      "published_at_bo": "2026-03-03T15:31:00-04:00",
+      "fetched_at_utc": "2026-03-03T19:41:02.869188+00:00",
+      "day": "2026-03-03"
+    },
+    {
+      "source": "El Deber",
+      "title": "Desde la asunción de Paz, YPFB despide a 410 funcionarios con el objetivo de mejorar la transparencia institucional",
+      "url": "https://eldeber.com.bo/economia/asuncion-paz-ypfb-despide-410-funcionarios-objetivo-mejorar-transparencia-institucional_1772565110",
+      "summary": "Tras asumir Rodrigo Paz, YPFB anunció la desvinculación de 410 funcionarios para optimizar recursos y fortalecer la transparencia, mientras señala irregularidades heredadas y procesa a responsables para garantizar una gestión basada en criterios técnicos y éticos. La empresa impulse medidas anticorrupción desde noviembre de 2025, investiga sabotajes internos que afectaron la gasolina y coordina acciones legales y de control para restablecer la confianza y asegurar el suministro.",
+      "summary_es": "Tras asumir Rodrigo Paz, YPFB anunció la desvinculación de 410 funcionarios para optimizar recursos y fortalecer la transparencia, mientras señala irregularidades heredadas y procesa a responsables para garantizar una gestión basada en criterios técnicos y éticos. La empresa impulse medidas anticorrupción desde noviembre de 2025, investiga sabotajes internos que afectaron la gasolina y coordina acciones legales y de control para restablecer la confianza y asegurar el suministro.",
+      "summary_en": "After Rodrigo Paz took office, YPFB announced the dismissal of 410 employees to cut costs and strengthen transparency, while pointing to inherited irregularities and moving to hold those responsible to account to ensure management based on technical and ethical criteria. The company has been pursuing anti-corruption measures since November 2025, is investigating internal sabotage that affected gasoline, and is coordinating legal and oversight actions to restore public trust and guarantee supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T15:25:00-04:00",
+      "published_at_bo": "2026-03-03T15:25:00-04:00",
+      "fetched_at_utc": "2026-03-03T19:41:04.723317+00:00",
+      "day": "2026-03-03"
+    },
     {
       "source": "El Deber",
       "title": "BCB presenta aplicación para identificar billetes sin internet e insta a “normalizar” las operaciones",
