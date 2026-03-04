@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-04T10:42:41.800875+00:00",
+  "generated_at_utc": "2026-03-04T10:57:43.802121+00:00",
   "count": 121,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Zamora plantea nuevo rumbo para aeropuertos, hub y rescate de BOA",
+      "url": "https://eldeber.com.bo/economia/zamora-plantea-nuevo-rumbo-aeropuertos-hub-rescate-boa_1772620717",
+      "summary": "El siniestro del Hércules C-130 en El Alto reavivó la discusión sobre la seguridad y la ubicación de las operaciones, impulsando un plan de modernización de Viru Viru, mejoras en Santa Cruz y un enfoque gradual de cielos abiertos, todo dentro de un marco fiscal restrictivo. Paralelamente, se priorizó la reestructuración y mayor eficiencia de Boliviana de Aviación para convertir al país en un hub regional competitivo.",
+      "summary_es": "El siniestro del Hércules C-130 en El Alto reavivó la discusión sobre la seguridad y la ubicación de las operaciones, impulsando un plan de modernización de Viru Viru, mejoras en Santa Cruz y un enfoque gradual de cielos abiertos, todo dentro de un marco fiscal restrictivo. Paralelamente, se priorizó la reestructuración y mayor eficiencia de Boliviana de Aviación para convertir al país en un hub regional competitivo.",
+      "summary_en": "The Hercules C-130 crash in El Alto rekindled the debate over safety and where operations should be located, spurring a modernization plan for Viru Viru, improvements in Santa Cruz, and a gradual open-skies approach, all within a tight fiscal framework. At the same time, authorities prioritized restructuring and increasing the efficiency of Boliviana de Aviación to position the country as a competitive regional hub.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T06:38:00-04:00",
+      "published_at_bo": "2026-03-04T06:38:00-04:00",
+      "fetched_at_utc": "2026-03-04T10:42:38.984360+00:00",
+      "day": "2026-03-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "BCB descarta anular toda la serie B de los billetes, más del 98% tiene plena validez",
+      "url": "https://eldeber.com.bo/economia/bcb-descarta-anular-toda-serie-b-billetes-98-tiene-plena-validez_1772620175",
+      "summary": "El Banco Central de Bolivia descartó anular toda la Serie B por costos y retrasos, asegurando que más del 98% de los billetes siguen vigentes; solo 17,1 millones de piezas (1,4%) del lote involucrado en el accidente del Hércules quedaron invalidadas y fueron incineradas o resguardadas. Además, informó que no implica costo para la institución y lanzó la app Billetes de Bolivia para que la población verifique la validez de los billetes, mientras la banca continúa operando con normalidad.",
+      "summary_es": "El Banco Central de Bolivia descartó anular toda la Serie B por costos y retrasos, asegurando que más del 98% de los billetes siguen vigentes; solo 17,1 millones de piezas (1,4%) del lote involucrado en el accidente del Hércules quedaron invalidadas y fueron incineradas o resguardadas. Además, informó que no implica costo para la institución y lanzó la app Billetes de Bolivia para que la población verifique la validez de los billetes, mientras la banca continúa operando con normalidad.",
+      "summary_en": "The Central Bank of Bolivia ruled out canceling the entire Series B due to cost and delays, assuring that more than 98% of the banknotes remain valid. Only 17.1 million notes (1.4%) from the batch involved in the Hercules crash were invalidated and either incinerated or safeguarded. The bank said the measure does not incur a cost to the institution and launched the Billetes de Bolivia app to let the public verify banknote validity, as banking operations continue normally.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T06:29:00-04:00",
+      "published_at_bo": "2026-03-04T06:29:00-04:00",
+      "fetched_at_utc": "2026-03-04T10:42:39.936443+00:00",
+      "day": "2026-03-04"
+    },
     {
       "source": "El Deber",
       "title": "YPFB reconoce \"una leve demora\" en el despacho de gasolina por \" preparación e incorporación de nuevos aditivos\"",
