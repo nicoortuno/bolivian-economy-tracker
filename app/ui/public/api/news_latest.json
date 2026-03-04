@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-04T11:35:59.876351+00:00",
+  "generated_at_utc": "2026-03-04T11:46:18.398834+00:00",
   "count": 122,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Cisternas siguen paradas en Palmasola y YPFB despide a 410 empleados",
+      "url": "https://eldeber.com.bo/economia/cisternas-siguen-paradas-palmasola-ypfb-despide-410-empleados_1772621329",
+      "summary": "Un recorrido por la refinería Palmasola mostró congestión de camiones con gasolina que no permiten su descarga, mientras YPFB atribuye los problemas a una posible sabotaje interno y lamenta un daño estructural heredado; la empresa despidió a 410 funcionarios para mejorar eficiencia y transparencia, y anunció investigaciones y acciones legales contra responsables. El Gobierno y exministros enfatizan la necesidad de una reestructuración y personal técnico de confianza en las empresas estratégicas como YPFB.",
+      "summary_es": "Un recorrido por la refinería Palmasola mostró congestión de camiones con gasolina que no permiten su descarga, mientras YPFB atribuye los problemas a una posible sabotaje interno y lamenta un daño estructural heredado; la empresa despidió a 410 funcionarios para mejorar eficiencia y transparencia, y anunció investigaciones y acciones legales contra responsables. El Gobierno y exministros enfatizan la necesidad de una reestructuración y personal técnico de confianza en las empresas estratégicas como YPFB.",
+      "summary_en": "A tour of the Palmasola refinery showed gasoline trucks idling in congestion that prevented unloading, while YPFB attributed the problems to possible internal sabotage and lamented inherited structural damage. The company fired 410 employees to improve efficiency and transparency and announced investigations and legal action against those responsible. The Government and former ministers stressed the need for restructuring and trusted technical personnel in strategic companies like YPFB.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T06:48:00-04:00",
+      "published_at_bo": "2026-03-04T06:48:00-04:00",
+      "fetched_at_utc": "2026-03-04T11:35:55.861674+00:00",
+      "day": "2026-03-04"
+    },
     {
       "source": "El Deber",
       "title": "Zamora plantea nuevo rumbo para aeropuertos, hub y rescate de BOA",
