@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-04T22:37:29.241775+00:00",
+  "generated_at_utc": "2026-03-04T22:51:32.460344+00:00",
   "count": 125,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Jubilados recibirán entre Bs 290 y Bs 730 de incremento en su renta",
+      "url": "https://eldeber.com.bo/economia/jubilados-recibiran-bs-290-bs-730-incremento-renta_1772660613",
+      "summary": "El Decreto Supremo 5561 determina un incremento de las rentas de jubilados, rentistas y derechohabientes del Sistema de Reparto para 2026, con un ajuste promedio del 18,12% aportado principalmente a quienes ganan menos y pago en abril de 2026. Las subidas van desde 730 Bs mensuales para rentas de 2.526–4.076 Bs hasta 290 Bs para rentas de 4.721–6.723 Bs, y la pensión máxima (7.974 Bs) no recibe aumento; el cálculo se vincula a la variación de la UFV basada en el IPC.",
+      "summary_es": "El Decreto Supremo 5561 determina un incremento de las rentas de jubilados, rentistas y derechohabientes del Sistema de Reparto para 2026, con un ajuste promedio del 18,12% aportado principalmente a quienes ganan menos y pago en abril de 2026. Las subidas van desde 730 Bs mensuales para rentas de 2.526–4.076 Bs hasta 290 Bs para rentas de 4.721–6.723 Bs, y la pensión máxima (7.974 Bs) no recibe aumento; el cálculo se vincula a la variación de la UFV basada en el IPC.",
+      "summary_en": "Supreme Decree 5561 sets a 2026 increase for retirees, annuitants, and beneficiaries of the Pay-As-You-Go (PAYG) system, with an average adjustment of 18.12%, mainly benefiting those with lower incomes and to be paid in April 2026. Increases range from 730 bolivianos per month for pensions between 2,526 and 4,076 bolivianos, to 290 bolivianos for pensions between 4,721 and 6,723 bolivianos, while the maximum pension (7,974 bolivianos) receives no rise. The calculation is linked to the variation of the UFV, based on the CPI.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T17:55:00-04:00",
+      "published_at_bo": "2026-03-04T17:55:00-04:00",
+      "fetched_at_utc": "2026-03-04T22:37:26.270898+00:00",
+      "day": "2026-03-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "Compras en el exterior: las aplicaciones ganan terreno ante las tarjetas bancarias",
+      "url": "https://eldeber.com.bo/economia/compras-exterior-aplicaciones-ganan-terreno-tarjetas-bancarias_1772660846",
+      "summary": "Un informe de EL DEBER describe restricciones continuas para tarjetas de débito y prepago en el extranjero en Bolivia, con límites semanales o mensuales y comisiones variables, que empujaron a viajeros a usar billeteras digitales como Takenos. Economistas señalan que estas medidas buscan contener la fuga de divisas y anticipan para 2026 una expansión gradual y selectiva de límites, acompañada de mayor digitalización financiera.",
+      "summary_es": "Un informe de EL DEBER describe restricciones continuas para tarjetas de débito y prepago en el extranjero en Bolivia, con límites semanales o mensuales y comisiones variables, que empujaron a viajeros a usar billeteras digitales como Takenos. Economistas señalan que estas medidas buscan contener la fuga de divisas y anticipan para 2026 una expansión gradual y selectiva de límites, acompañada de mayor digitalización financiera.",
+      "summary_en": "A report from EL DEBER describes ongoing restrictions on debit and prepaid cards abroad in Bolivia, with weekly or monthly limits and variable fees, which pushed travelers to use digital wallets such as Takenos. Economists say these measures aim to curb the outflow of foreign currency and anticipate that by 2026 there will be a gradual, selective expansion of the limits, coupled with greater financial digitization.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T17:47:00-04:00",
+      "published_at_bo": "2026-03-04T17:47:00-04:00",
+      "fetched_at_utc": "2026-03-04T22:37:27.265100+00:00",
+      "day": "2026-03-04"
+    },
     {
       "source": "El Deber",
       "title": "Conozca las nuevas tarifas de BoA para las rutas nacionales",
