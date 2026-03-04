@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-04T02:32:04.289299+00:00",
+  "generated_at_utc": "2026-03-04T02:51:23.780282+00:00",
   "count": 131,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB reconoce \"una leve demora\" en el despacho de gasolina por \" preparación e incorporación de nuevos aditivos\"",
+      "url": "https://eldeber.com.bo/economia/ypfb-reconoce-leve-demora-despacho-gasolina-preparacion-incorporacion-nuevos-aditivos_1772590856",
+      "summary": "YPFB informa una leve demora en los despachos de gasolina en Santa Cruz de la Sierra, estimando que el servicio se normalizará en pocas horas, debido al proceso de preparación e incorporación de nuevos aditivos. Además, señala que impulsa una modernización del sistema nacional de combustibles al, por primera vez en Bolivia, incorporar aditivos especializados, prácticos internacionalmente para mejorar la calidad del combustible y beneficiar a los motores y consumidores.",
+      "summary_es": "YPFB informa una leve demora en los despachos de gasolina en Santa Cruz de la Sierra, estimando que el servicio se normalizará en pocas horas, debido al proceso de preparación e incorporación de nuevos aditivos. Además, señala que impulsa una modernización del sistema nacional de combustibles al, por primera vez en Bolivia, incorporar aditivos especializados, prácticos internacionalmente para mejorar la calidad del combustible y beneficiar a los motores y consumidores.",
+      "summary_en": "YPFB reports a slight delay in gasoline deliveries in Santa Cruz de la Sierra, with service expected to return to normal within a few hours as the preparation process and the incorporation of new additives take place. It also notes that it is pushing modernization of the national fuels system by, for the first time in Bolivia, introducing specialized additives that are widely used internationally to improve fuel quality and benefit engines and consumers.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-03T22:20:00-04:00",
+      "published_at_bo": "2026-03-03T22:20:00-04:00",
+      "fetched_at_utc": "2026-03-04T02:32:00.583552+00:00",
+      "day": "2026-03-03"
+    },
     {
       "source": "El Deber",
       "title": "Persiste la demora en el ingreso de cisternas con gasolina a Palmasola",
