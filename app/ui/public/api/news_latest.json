@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-04T23:35:53.701876+00:00",
+  "generated_at_utc": "2026-03-04T23:45:24.513259+00:00",
   "count": 127,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Importadores asumen costos por fallas atribuidas al combustible y piden acción a la ANH",
+      "url": "https://eldeber.com.bo/economia/importadores-asumen-costos-fallas-atribuidas-combustible-piden-accion-anh_1772666782",
+      "summary": "La Cámara Automotor Boliviana (CAB) denuncia que la calidad de la gasolina en Bolivia está por debajo de estándares internacionales y exige a la ANH medidas urgentes para garantizar una combustión adecuada y evitar daños en motores. Pide controles más estrictos en refinerías y estaciones, y la conformación de una mesa de diálogo para soluciones estructurales y sostenibles.",
+      "summary_es": "La Cámara Automotor Boliviana (CAB) denuncia que la calidad de la gasolina en Bolivia está por debajo de estándares internacionales y exige a la ANH medidas urgentes para garantizar una combustión adecuada y evitar daños en motores. Pide controles más estrictos en refinerías y estaciones, y la conformación de una mesa de diálogo para soluciones estructurales y sostenibles.",
+      "summary_en": "The Bolivian Automotive Chamber (CAB) says that the quality of gasoline in Bolivia falls below international standards and urges the National Hydrocarbons Agency (ANH) to take urgent measures to ensure proper combustion and prevent engine damage. It calls for stricter controls at refineries and stations, and the creation of a multi-stakeholder dialogue table to pursue structural and sustainable solutions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T19:31:00-04:00",
+      "published_at_bo": "2026-03-04T19:31:00-04:00",
+      "fetched_at_utc": "2026-03-04T23:35:48.840491+00:00",
+      "day": "2026-03-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "Filas por gasolina: YPFB descarta que existan problemas en el suministro del combustible",
+      "url": "https://eldeber.com.bo/economia/filas-gasolina-ypfb-descarta-existan-problemas-suministro-combustible_1772664989",
+      "summary": "YPFB aseguró que no hay problemas de suministro de gasolina y que las filas se deben a un tema logístico relacionado con el aditivaje de la gasolina, que ya se está implementando. La distribución se realizará en dos fases: una introducción de dosis altas durante tres semanas para limpiar los sistemas de combustión, seguida de dosis más bajas de mantenimiento, con una fase permanente de aditivos conforme a normativas internacionales.",
+      "summary_es": "YPFB aseguró que no hay problemas de suministro de gasolina y que las filas se deben a un tema logístico relacionado con el aditivaje de la gasolina, que ya se está implementando. La distribución se realizará en dos fases: una introducción de dosis altas durante tres semanas para limpiar los sistemas de combustión, seguida de dosis más bajas de mantenimiento, con una fase permanente de aditivos conforme a normativas internacionales.",
+      "summary_en": "YPFB said there are no gasoline supply problems, and that the queues are due to a logistical issue related to adding gasoline additives, which is already being implemented. Distribution will occur in two phases: an initial high-dose period lasting three weeks to clean the combustion systems, followed by lower maintenance doses, with a permanent additives phase in line with international standards.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-04T19:04:00-04:00",
+      "published_at_bo": "2026-03-04T19:04:00-04:00",
+      "fetched_at_utc": "2026-03-04T23:35:49.834900+00:00",
+      "day": "2026-03-04"
+    },
     {
       "source": "El Deber",
       "title": "Jubilados recibirán entre Bs 290 y Bs 730 de incremento en su renta",
