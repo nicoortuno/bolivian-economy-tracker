@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-05T13:12:48.053346+00:00",
+  "generated_at_utc": "2026-03-05T13:37:39.115159+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Filas más largas en algunos surtidores de La Paz y Santa Cruz; YPFB dice que es normal el abastecimiento",
+      "url": "https://eldeber.com.bo/economia/persisten-filas-algunos-surtidores-ypfb-dice-normal-abastecimiento_1772712427",
+      "summary": "Hubo reaparición de filas de vehículos para combustible en Santa Cruz y La Paz, con esperas que durante la noche de miércoles superaron las de las primeras horas de jueves y, en algunos casos, alcanzaron 1–2 horas, aunque esta mañana la demora fue de unos 30 minutos. YPFB afirmó que las operaciones de despacho se realizan con normalidad, mientras que un comunicado anterior indicó que, por la incorporación de nuevos aditivos a la gasolina en Santa Cruz, podría haber una leve demora que se normalizaría en las próximas horas.",
+      "summary_es": "Hubo reaparición de filas de vehículos para combustible en Santa Cruz y La Paz, con esperas que durante la noche de miércoles superaron las de las primeras horas de jueves y, en algunos casos, alcanzaron 1–2 horas, aunque esta mañana la demora fue de unos 30 minutos. YPFB afirmó que las operaciones de despacho se realizan con normalidad, mientras que un comunicado anterior indicó que, por la incorporación de nuevos aditivos a la gasolina en Santa Cruz, podría haber una leve demora que se normalizaría en las próximas horas.",
+      "summary_en": "There were fresh fuel-lineups in Santa Cruz and La Paz, with waits overnight Wednesday longer than in the early hours of Thursday, and in some cases reaching 1–2 hours; this morning, the delay was about 30 minutes. YPFB said dispatch operations are proceeding normally, while a prior statement noted that, due to the introduction of new additives to gasoline in Santa Cruz, there could be a slight delay that would normalize in the coming hours.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-05T08:07:00-04:00",
+      "published_at_bo": "2026-03-05T08:07:00-04:00",
+      "fetched_at_utc": "2026-03-05T13:12:45.050553+00:00",
+      "day": "2026-03-05"
+    },
     {
       "source": "El Deber",
       "title": "Seguro por gasolina cubre también a particulares y YPFB activa plan de aditivos",
