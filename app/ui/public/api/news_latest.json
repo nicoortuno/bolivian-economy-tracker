@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-05T10:49:10.667227+00:00",
+  "generated_at_utc": "2026-03-05T11:01:15.335427+00:00",
   "count": 116,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Seguro por gasolina cubre también a particulares y YPFB activa plan de aditivos",
+      "url": "https://eldeber.com.bo/economia/seguro-gasolina-cubre-particulares-ypfb-activa-plan-aditivos_1772707102",
+      "summary": "El registro para reclamar daños por gasolina desestabilizada ya está abierto para propietarios, a través del Sistema de Registro y Evaluación de Contingencias (SREC), que clasifica los daños en leve, medio o grave y contempla plazos para la evaluación y el pago; además, YPFB lanzó un plan de incorporación de aditivos a la gasolina para mejorar su estabilidad y limpieza, con una implementación en dos etapas y un primer lote de 17 toneladas.",
+      "summary_es": "El registro para reclamar daños por gasolina desestabilizada ya está abierto para propietarios, a través del Sistema de Registro y Evaluación de Contingencias (SREC), que clasifica los daños en leve, medio o grave y contempla plazos para la evaluación y el pago; además, YPFB lanzó un plan de incorporación de aditivos a la gasolina para mejorar su estabilidad y limpieza, con una implementación en dos etapas y un primer lote de 17 toneladas.",
+      "summary_en": "Registration to claim damages from destabilized gasoline is now open for owners, through the Contingencies Registration and Evaluation System (SREC), which classifies damages as minor, moderate, or severe and sets timelines for assessment and payment. In addition, YPFB has launched a plan to add additives to gasoline to improve its stability and cleanliness, to be implemented in two stages, with an initial batch of 17 tons.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-05T06:38:00-04:00",
+      "published_at_bo": "2026-03-05T06:38:00-04:00",
+      "fetched_at_utc": "2026-03-05T10:49:08.679868+00:00",
+      "day": "2026-03-05"
+    },
     {
       "source": "El Deber",
       "title": "Importadores asumen costos por fallas atribuidas al combustible y piden acción a la ANH",
