@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-06T15:43:30.032467+00:00",
+  "generated_at_utc": "2026-03-06T15:53:42.547489+00:00",
   "count": 113,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Asosur: El 60% de los surtidores espera ser abastecido de combustible",
+      "url": "https://eldeber.com.bo/economia/asosur-60-surtidores-espera-ser-abastecido-combustible_1772809390",
+      "summary": "En Santa Cruz persisten largas filas por gasolina, con solo el 40% de los surtidores abastecidos y el 60% pendiente; se reportan retrasos en los despachos y solicitudes a YPFB para que no paren el suministro ante la alta demanda. También se pidió conocer las fichas técnicas y el color de la gasolina para brindar tranquilidad a la población.",
+      "summary_es": "En Santa Cruz persisten largas filas por gasolina, con solo el 40% de los surtidores abastecidos y el 60% pendiente; se reportan retrasos en los despachos y solicitudes a YPFB para que no paren el suministro ante la alta demanda. También se pidió conocer las fichas técnicas y el color de la gasolina para brindar tranquilidad a la población.",
+      "summary_en": "In Santa Cruz, long lines for gasoline persist, with only 40% of pumps dispensing fuel and 60% pending. There are delays in deliveries and appeals to YPFB to prevent supply interruptions amid high demand. Authorities also asked for the technical specifications and color of the gasoline to reassure the public.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-06T11:42:00-04:00",
+      "published_at_bo": "2026-03-06T11:42:00-04:00",
+      "fetched_at_utc": "2026-03-06T15:43:25.892506+00:00",
+      "day": "2026-03-06"
+    },
     {
       "source": "El Deber",
       "title": "Expoauto 2026: La era híbrida acelera y el público cruceño disfruta",
