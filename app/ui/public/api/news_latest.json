@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-06T18:55:01.209928+00:00",
+  "generated_at_utc": "2026-03-06T19:04:18.476066+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Petróleo supera los $us 90 por barril y Bolivia evaluará el precio de combustibles en junio",
+      "url": "https://eldeber.com.bo/economia/petroleo-supera-us-90-barril-bolivia-evaluara-precio-combustibles-junio_1772817128",
+      "summary": "El precio internacional del petróleo superó los 90 dólares por barril por la escalada en Medio Oriente y preocupaciones por el suministro, mientras Bolivia evalúa en seis meses, según el Decreto Supremo 5516, el precio interno de los combustibles para decidir subidas o bajadas. El Gobierno ratificó la eliminación de la subvención y fijó una banda de precios para varios combustibles, manteniendo solo el GLP.",
+      "summary_es": "El precio internacional del petróleo superó los 90 dólares por barril por la escalada en Medio Oriente y preocupaciones por el suministro, mientras Bolivia evalúa en seis meses, según el Decreto Supremo 5516, el precio interno de los combustibles para decidir subidas o bajadas. El Gobierno ratificó la eliminación de la subvención y fijó una banda de precios para varios combustibles, manteniendo solo el GLP.",
+      "summary_en": "The international price of oil rose above $90 a barrel amid tensions in the Middle East and concerns over supply, while Bolivia will assess, in six months and under Supreme Decree 5516, the internal fuel price to decide on increases or cuts. The government reaffirmed the elimination of subsidies and set a price band for several fuels, keeping only LPG.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-06T14:02:00-04:00",
+      "published_at_bo": "2026-03-06T14:02:00-04:00",
+      "fetched_at_utc": "2026-03-06T18:54:55.327620+00:00",
+      "day": "2026-03-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "YPFB despachará 5 millones de litros de gasolina con aditivos desde Senkata y Palmasola",
+      "url": "https://eldeber.com.bo/economia/ypfb-despachara-5-millones-litros-gasolina-aditivos-senkata-palmasola_1772819365",
+      "summary": "YPFB programó el despacho de 5 millones de litros de gasolina con aditivos desde Senkata y Palmasola hacia Santa Cruz y La Paz, con el objetivo de mejorar la calidad del combustible y bajo resguardo de las Fuerzas Armadas. Mientras tanto, transportistas de más de 300 cisternas en Senkata llevan 14 días esperando descargar y sin información sobre el proceso.",
+      "summary_es": "YPFB programó el despacho de 5 millones de litros de gasolina con aditivos desde Senkata y Palmasola hacia Santa Cruz y La Paz, con el objetivo de mejorar la calidad del combustible y bajo resguardo de las Fuerzas Armadas. Mientras tanto, transportistas de más de 300 cisternas en Senkata llevan 14 días esperando descargar y sin información sobre el proceso.",
+      "summary_en": "YPFB scheduled the shipment of 5 million liters of additive-enhanced gasoline from Senkata and Palmasola to Santa Cruz and La Paz, aimed at improving fuel quality and under protection by the Armed Forces. Meanwhile, transport operators with more than 300 tankers in Senkata have been waiting 14 days to unload, with no information about the process.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-06T13:56:00-04:00",
+      "published_at_bo": "2026-03-06T13:56:00-04:00",
+      "fetched_at_utc": "2026-03-06T18:54:56.338800+00:00",
+      "day": "2026-03-06"
+    },
     {
       "source": "El Deber",
       "title": "Reclamos por gasolina dañada llegan a 1.752 en un parque automotor de 3 millones",
