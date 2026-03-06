@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-06T11:34:38.335736+00:00",
+  "generated_at_utc": "2026-03-06T11:45:23.838144+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno alista demanda contra Dorgathen y Callaú por gasolina de mala calidad",
+      "url": "https://eldeber.com.bo/economia/gobierno-alista-demanda-dorgathen-callau-gasolina-mala-calidad_1772795839",
+      "summary": "El ministro Medinaceli anunció una demanda por incumplimiento de deberes contra Armin Dorgathen y Germán Callaú por la gasolina de mala calidad que dañó miles de vehículos, afirmando que ya existían pruebas de los problemas antes de la transición. También se identificaron fallas en el almacenamiento, se depuró personal y se gestionarían las compensaciones a través de un seguro internacional vinculado a YPFB.",
+      "summary_es": "El ministro Medinaceli anunció una demanda por incumplimiento de deberes contra Armin Dorgathen y Germán Callaú por la gasolina de mala calidad que dañó miles de vehículos, afirmando que ya existían pruebas de los problemas antes de la transición. También se identificaron fallas en el almacenamiento, se depuró personal y se gestionarían las compensaciones a través de un seguro internacional vinculado a YPFB.",
+      "summary_en": "Minister Medinaceli announced a lawsuit for breach of duties against Armin Dorgathen and Germán Callaú over the substandard gasoline that damaged thousands of vehicles, saying there was already evidence of the problems before the transition. Failures in storage were identified, staff were purged, and compensation would be handled through an international insurance linked to YPFB.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-06T07:17:00-04:00",
+      "published_at_bo": "2026-03-06T07:17:00-04:00",
+      "fetched_at_utc": "2026-03-06T11:34:36.548506+00:00",
+      "day": "2026-03-06"
+    },
     {
       "source": "El Deber",
       "title": "BoA registra más de 10 mil reservas de pasajes aéreos en solo 24 horas de la campaña \"El Tarifazo\"",
