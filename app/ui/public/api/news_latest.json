@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-06T02:32:56.760517+00:00",
+  "generated_at_utc": "2026-03-06T02:52:55.785604+00:00",
   "count": 121,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA registra más de 10 mil reservas de pasajes aéreos en solo 24 horas de la campaña \"El Tarifazo\"",
+      "url": "https://eldeber.com.bo/economia/boa-registra-10-mil-reservas-pasajes-aereos-solo-24-horas-campana-tarifazo_1772751661",
+      "summary": "En 24 horas se vendieron 10.333 pasajes en la campaña “El Tarifazo” de BoA, impulsada por tarifas de Economía Básica para fomentar el turismo interno, disponible solo en su portal www.boa.bo y sujeta a disponibilidad con una evaluación prevista en dos semanas. El análisis preliminar señala una demanda relativamente constante con mayor dinamismo en marzo y abril, con rutas emblemáticas como Sucre–Cochabamba desde 249 bolivianos, La Paz–Santa Cruz desde 484 bolivianos y otros tramos destacados.",
+      "summary_es": "En 24 horas se vendieron 10.333 pasajes en la campaña “El Tarifazo” de BoA, impulsada por tarifas de Economía Básica para fomentar el turismo interno, disponible solo en su portal www.boa.bo y sujeta a disponibilidad con una evaluación prevista en dos semanas. El análisis preliminar señala una demanda relativamente constante con mayor dinamismo en marzo y abril, con rutas emblemáticas como Sucre–Cochabamba desde 249 bolivianos, La Paz–Santa Cruz desde 484 bolivianos y otros tramos destacados.",
+      "summary_en": "In 24 hours, BoA’s “Fare Increase” campaign—promoted by Economy Basic fares to boost domestic tourism—sold 10,333 tickets. The tickets are available only on the airline’s portal www.boa.bo and subject to availability, with an evaluation planned in two weeks. Preliminary analysis indicates relatively steady demand, with stronger activity in March and April, highlighted by routes such as Sucre–Cochabamba from 249 bolivianos, La Paz–Santa Cruz from 484 bolivianos, and other notable segments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-05T19:47:00-04:00",
+      "published_at_bo": "2026-03-05T19:47:00-04:00",
+      "fetched_at_utc": "2026-03-06T02:32:54.638268+00:00",
+      "day": "2026-03-05"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia y la FAO se unen para proyectar al país como referente de producción resiliente",
