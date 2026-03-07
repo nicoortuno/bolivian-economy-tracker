@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-07T19:26:38.020347+00:00",
+  "generated_at_utc": "2026-03-07T19:33:15.252493+00:00",
   "count": 113,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB despacha 4 millones de litros de gasolina para reabastecer Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/ypfb-despacha-4-millones-litros-gasolina-reabastecer-santa-cruz_1772909088",
+      "summary": "YPFB programó despachar alrededor de 4 millones de litros de gasolina a Santa Cruz este sábado, con volúmenes similares al día anterior, para normalizar el abastecimiento y cubrir la demanda interna. La operación incluye convoyes de cisternas y un nuevo paquete de aditivos para mejorar la calidad y asegurar la continuidad del suministro, pese a que aún se reportan largas filas en algunos surtidores.",
+      "summary_es": "YPFB programó despachar alrededor de 4 millones de litros de gasolina a Santa Cruz este sábado, con volúmenes similares al día anterior, para normalizar el abastecimiento y cubrir la demanda interna. La operación incluye convoyes de cisternas y un nuevo paquete de aditivos para mejorar la calidad y asegurar la continuidad del suministro, pese a que aún se reportan largas filas en algunos surtidores.",
+      "summary_en": "YPFB scheduled to dispatch around 4 million liters of gasoline to Santa Cruz this Saturday, with volumes similar to the previous day, to normalize supply and meet domestic demand. The operation includes tanker convoys and a new set of additives to improve quality and ensure continuity of supply, even though long lines at some stations are still being reported.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-07T14:58:00-04:00",
+      "published_at_bo": "2026-03-07T14:58:00-04:00",
+      "fetched_at_utc": "2026-03-07T19:26:35.123081+00:00",
+      "day": "2026-03-07"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno autoriza el uso de la tecnología transgénica HB4 para la soya en Bolivia",
+      "url": "https://eldeber.com.bo/economia/gobierno-autoriza-uso-tecnologia-transgenica-hb4-soya-bolivia_1772908982",
+      "summary": "El Gobierno de Bolivia autorizó el uso del evento transgénico HB4 en la soya para aumentar la tolerancia a la sequía y la variabilidad climática, tras su anuncio en Exposoya. La medida permitirá a los productores desarrollar variedades HB4 a través de Anapo, buscando elevar la productividad y las exportaciones, acompañada de prácticas agrícolas sostenibles.",
+      "summary_es": "El Gobierno de Bolivia autorizó el uso del evento transgénico HB4 en la soya para aumentar la tolerancia a la sequía y la variabilidad climática, tras su anuncio en Exposoya. La medida permitirá a los productores desarrollar variedades HB4 a través de Anapo, buscando elevar la productividad y las exportaciones, acompañada de prácticas agrícolas sostenibles.",
+      "summary_en": "The Bolivian government has authorized the use of the HB4 transgenic event in soybeans to boost drought tolerance and resilience to climate variability, following its announcement at Exposoya. The move will allow producers to develop HB4 varieties through ANAPO, with the aim of increasing productivity and exports, paired with sustainable farming practices.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-07T14:43:00-04:00",
+      "published_at_bo": "2026-03-07T14:43:00-04:00",
+      "fetched_at_utc": "2026-03-07T19:26:36.081383+00:00",
+      "day": "2026-03-07"
+    },
     {
       "source": "El Deber",
       "title": "Polémica por billetes de la serie B se instala en el Legislativo y surge proyecto para validar los inhabilitados",
