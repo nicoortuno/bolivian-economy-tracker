@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-07T23:28:40.130254+00:00",
+  "generated_at_utc": "2026-03-07T23:35:55.462559+00:00",
   "count": 114,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Por qué Bolivia aprobó la nueva biotecnología para la soya después de tanto tiempo?",
+      "url": "https://eldeber.com.bo/economia/bolivia-aprobo-nueva-biotecnologia-soya-despues-tanto-tiempo_1772924805",
+      "summary": "Bolivia autorizó el uso del evento transgénico HB4 para el cultivo de soya, con el objetivo de mejorar la tolerancia a la sequía y al estrés hídrico y fortalecer la productividad ante el cambio climático. Esta aprobación forma parte de un plan más amplio para evaluar y liberar progresivamente nuevas tecnologías agrícolas y reducir el rezago tecnológico en el sector, en un contexto de presión climática y volatilidad del agua.",
+      "summary_es": "Bolivia autorizó el uso del evento transgénico HB4 para el cultivo de soya, con el objetivo de mejorar la tolerancia a la sequía y al estrés hídrico y fortalecer la productividad ante el cambio climático. Esta aprobación forma parte de un plan más amplio para evaluar y liberar progresivamente nuevas tecnologías agrícolas y reducir el rezago tecnológico en el sector, en un contexto de presión climática y volatilidad del agua.",
+      "summary_en": "Bolivia has authorized the use of the transgenic event HB4 for soybean cultivation, aimed at improving drought tolerance and resilience to water stress, and boosting productivity in the face of climate change. The approval is part of a broader plan to evaluate and progressively release new agricultural technologies and to reduce the sector’s technology gap, in a context of growing climate pressure and water volatility.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-07T19:15:00-04:00",
+      "published_at_bo": "2026-03-07T19:15:00-04:00",
+      "fetched_at_utc": "2026-03-07T23:28:34.202808+00:00",
+      "day": "2026-03-07"
+    },
     {
       "source": "El Deber",
       "title": "YPFB despacha 4 millones de litros de gasolina para reabastecer Santa Cruz",
