@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-08T11:33:47.481925+00:00",
-  "count": 114,
+  "generated_at_utc": "2026-03-08T13:00:28.781007+00:00",
+  "count": 110,
   "items": [
     {
       "source": "El Deber",
@@ -1527,76 +1527,6 @@
       "published_at_bo": "2026-02-23T04:00:00-04:00",
       "fetched_at_utc": "2026-02-23T08:57:10.495312+00:00",
       "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gasolina mejora en surtidores, pero la carbonilla sigue llegando a los talleres cruceños",
-      "url": "https://eldeber.com.bo/economia/gasolina-mejora-surtidores-carbonilla-sigue-llegando-talleres-crucenos_1771795445",
-      "summary": "En Santa Cruz, los talleres mecánicos siguen tratando fallas en motocicletas causadas por carbonilla acumulada en inyectores y precámaras, consecuencia de gasolina contaminada de semanas previas, aunque el combustible actual presentaría mejoras. El proceso de limpieza puede costar alrededor de 330 bolivianos y, en casos leves, algunos recurren a aditivos, pero la reparación completa persiste para episodios graves.",
-      "summary_es": "En Santa Cruz, los talleres mecánicos siguen tratando fallas en motocicletas causadas por carbonilla acumulada en inyectores y precámaras, consecuencia de gasolina contaminada de semanas previas, aunque el combustible actual presentaría mejoras. El proceso de limpieza puede costar alrededor de 330 bolivianos y, en casos leves, algunos recurren a aditivos, pero la reparación completa persiste para episodios graves.",
-      "summary_en": "In Santa Cruz, mechanical workshops are still dealing with motorcycle malfunctions caused by carbon buildup in injectors and pre-chambers, the result of gasoline contaminated in recent weeks, although the current fuel has shown improvements. The cleaning process can cost around 330 bolivianos, and in mild cases some people resort to additives, but full repair remains necessary for more severe cases.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-22T18:02:00-04:00",
-      "published_at_bo": "2026-02-22T18:02:00-04:00",
-      "fetched_at_utc": "2026-02-23T02:42:15.936682+00:00",
-      "day": "2026-02-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Entel avanza en trámites legales para el ingreso de Starlink y apunta a zonas remotas",
-      "url": "https://eldeber.com.bo/economia/entel-avanza-tramites-legales-ingreso-starlink-apunta-zonas-remotas_1771793051",
-      "summary": "Entel continúa con los trámites legales para la entrada de Starlink, esperando financiar una mayor cobertura en regiones remotas, aunque aún falta definir el marco normativo para operarla formalmente. En 2025 se promulgó el Decreto Supremo 5509 que autoriza a proveedores de internet satelital de órbita baja, como Starlink, a operar, como parte de la apertura de mercado del país.",
-      "summary_es": "Entel continúa con los trámites legales para la entrada de Starlink, esperando financiar una mayor cobertura en regiones remotas, aunque aún falta definir el marco normativo para operarla formalmente. En 2025 se promulgó el Decreto Supremo 5509 que autoriza a proveedores de internet satelital de órbita baja, como Starlink, a operar, como parte de la apertura de mercado del país.",
-      "summary_en": "Entel is moving ahead with the legal steps for Starlink’s entry, aiming to finance broader coverage in remote areas, even as a formal regulatory framework to operate it has yet to be defined. In 2025, Supreme Decree 5509 was promulgated, authorizing low-Earth-orbit satellite internet providers, such as Starlink, to operate as part of the country’s market opening.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-22T16:52:00-04:00",
-      "published_at_bo": "2026-02-22T16:52:00-04:00",
-      "fetched_at_utc": "2026-02-23T02:42:16.910173+00:00",
-      "day": "2026-02-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cisternas colman accesos a Palmasola en medio de la lenta descarga de combustible",
-      "url": "https://eldeber.com.bo/economia/cisternas-colman-accesos-palmasola-medio-lenta-descarga-combustible_1771779052",
-      "summary": "La crónica describe una crisis logística en Palmasola, donde decenas de cisternas estacionadas en ambos lados de la vía esperan descargar combustible, formando un corredor que mantiene en negro la descarga pese a un acuerdo para agilizarla. El cuello de botella no es la llegada sino la descarga lenta, que genera riesgo, congestión y tensión entre choferes y autoridades, mientras el combustible permanece “en fila” a pocos metros de los tanques.",
-      "summary_es": "La crónica describe una crisis logística en Palmasola, donde decenas de cisternas estacionadas en ambos lados de la vía esperan descargar combustible, formando un corredor que mantiene en negro la descarga pese a un acuerdo para agilizarla. El cuello de botella no es la llegada sino la descarga lenta, que genera riesgo, congestión y tensión entre choferes y autoridades, mientras el combustible permanece “en fila” a pocos metros de los tanques.",
-      "summary_en": "The article describes a logistics crisis in Palmasola, where dozens of tank trucks are parked on both sides of the road, waiting to unload fuel and forming a corridor that leaves unloading stalled despite an agreement to speed it up. The bottleneck is not the arrival of shipments but the slow unloading, which creates risk, congestion, and tension between drivers and authorities, while the fuel sits queued just meters from the tanks.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-22T12:55:00-04:00",
-      "published_at_bo": "2026-02-22T12:55:00-04:00",
-      "fetched_at_utc": "2026-02-22T22:30:53.454660+00:00",
-      "day": "2026-02-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "ABC refuerza mantenimiento en la ruta Quiquibey–Yucumo–Rurrenabaque",
-      "url": "https://eldeber.com.bo/economia/abc-refuerza-mantenimiento-ruta-quiquibey-yucumo-rurrenabaque_1771775008",
-      "summary": "La ABC continúa el mantenimiento de la ruta Quiquibey–Yucumo–Rurrenabaque (desbroce, retiro de árboles y limpieza de cunetas) para garantizar la transitabilidad y seguridad en la Red Vial Fundamental, además de coordinar con microempresas para limpiar y lavar el puente Río Hondo. También se realizaron talleres de capacitación para las microempresas locales y se mantiene la coordinación con el Ministerio de Obras Públicas, Servicios y Vivienda, destacando la importancia de esta ruta para la integración productiva y turística de la Amazonía boliviana.",
-      "summary_es": "La ABC continúa el mantenimiento de la ruta Quiquibey–Yucumo–Rurrenabaque (desbroce, retiro de árboles y limpieza de cunetas) para garantizar la transitabilidad y seguridad en la Red Vial Fundamental, además de coordinar con microempresas para limpiar y lavar el puente Río Hondo. También se realizaron talleres de capacitación para las microempresas locales y se mantiene la coordinación con el Ministerio de Obras Públicas, Servicios y Vivienda, destacando la importancia de esta ruta para la integración productiva y turística de la Amazonía boliviana.",
-      "summary_en": "ABC continues maintenance on the Quiquibey–Yucumo–Rurrenabaque route (clearing vegetation, removing trees, and cleaning ditches) to ensure passability and safety on the Fundamental Road Network. The agency is also coordinating with microenterprises to clean and wash the Río Hondo bridge. Training workshops for local microenterprises were held, and coordination with the Ministry of Public Works, Services and Housing remains in place, underscoring the route’s importance for the productive and tourism integration of Bolivia’s Amazon region.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-22T12:10:00-04:00",
-      "published_at_bo": "2026-02-22T12:10:00-04:00",
-      "fetched_at_utc": "2026-02-22T21:30:03.230805+00:00",
-      "day": "2026-02-22"
-    },
-    {
-      "source": "El Deber",
-      "title": "Arancel cero a la soya abre un choque entre industria y productores",
-      "url": "https://eldeber.com.bo/economia/arancel-cero-soya-abre-choque-industria-productores_1771772037",
-      "summary": "El Decreto Supremo 5547, que elimina aranceles a la importación de grano de soya hasta fines de año, generó un choque entre la industria oleaginosa, que lo ve como un apoyo a la producción y la seguridad alimentaria, y los agricultores, que advierten riesgos para los precios internos y la sostenibilidad del agro. Mientras Caniob destaca la necesidad de aprovechar la capacidad industrial para procesar más y garantizar suministros de subproductos, Codepro exige diálogo técnico, garantías de precios y medidas para evitar distorsiones del mercado.",
-      "summary_es": "El Decreto Supremo 5547, que elimina aranceles a la importación de grano de soya hasta fines de año, generó un choque entre la industria oleaginosa, que lo ve como un apoyo a la producción y la seguridad alimentaria, y los agricultores, que advierten riesgos para los precios internos y la sostenibilidad del agro. Mientras Caniob destaca la necesidad de aprovechar la capacidad industrial para procesar más y garantizar suministros de subproductos, Codepro exige diálogo técnico, garantías de precios y medidas para evitar distorsiones del mercado.",
-      "summary_en": "The Supreme Decree 5547, which eliminates tariffs on imports of soybean grain until the end of the year, sparked a clash between the oilseed industry, which views it as support for production and food security, and farmers, who warn of risks to domestic prices and agricultural sustainability. While Caniob emphasizes the need to leverage industrial capacity to process more and guarantee supplies of byproducts, Codepro calls for technical dialogue, price guarantees, and measures to prevent market distortions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-22T11:23:00-04:00",
-      "published_at_bo": "2026-02-22T11:23:00-04:00",
-      "fetched_at_utc": "2026-02-22T20:33:33.727454+00:00",
-      "day": "2026-02-22"
     }
   ]
 }
