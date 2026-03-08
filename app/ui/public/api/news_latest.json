@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-08T13:00:28.781007+00:00",
+  "generated_at_utc": "2026-03-08T13:11:56.085089+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia autoriza uso de soya HB4 para enfrentar sequías y mejorar la productividad",
+      "url": "https://eldeber.com.bo/economia/bolivia-autoriza-uso-soya-hb4-enfrentar-sequias-mejorar-productividad_1772973019",
+      "summary": "Bolivia autorizó el cultivo de la soya transgénica HB4, diseñada para tolerar la sequía, tras anunciarse en la feria Exposoya 2026 para reducir el rezago tecnológico y mejorar la productividad ante condiciones climáticas adversas. La tecnología, desarrollada por Bioceres con un gen de girasol, ya tiene aprobación en Argentina, Brasil y Paraguay y se enmarca en un proceso de evaluación para fortalecer la competitividad agroindustrial del país.",
+      "summary_es": "Bolivia autorizó el cultivo de la soya transgénica HB4, diseñada para tolerar la sequía, tras anunciarse en la feria Exposoya 2026 para reducir el rezago tecnológico y mejorar la productividad ante condiciones climáticas adversas. La tecnología, desarrollada por Bioceres con un gen de girasol, ya tiene aprobación en Argentina, Brasil y Paraguay y se enmarca en un proceso de evaluación para fortalecer la competitividad agroindustrial del país.",
+      "summary_en": "Bolivia has authorized the cultivation of the drought-tolerant transgenic soybean HB4, designed to withstand dry conditions, following its announcement at Exposoya 2026. The move aims to reduce technological lag and boost productivity amid adverse weather. Developed by Bioceres with a sunflower gene, HB4 already has approval in Argentina, Brazil, and Paraguay and is part of an ongoing assessment process to strengthen the country’s agro-industrial competitiveness.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-08T08:30:00-04:00",
+      "published_at_bo": "2026-03-08T08:30:00-04:00",
+      "fetched_at_utc": "2026-03-08T13:00:26.858700+00:00",
+      "day": "2026-03-08"
+    },
     {
       "source": "El Deber",
       "title": "¿Por qué Bolivia aprobó la nueva biotecnología para la soya después de tanto tiempo?",
