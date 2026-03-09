@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-09T15:10:30.158768+00:00",
-  "count": 113,
+  "generated_at_utc": "2026-03-09T16:03:28.876429+00:00",
+  "count": 108,
   "items": [
     {
       "source": "El Deber",
@@ -1485,104 +1485,6 @@
       "published_at_bo": "2026-02-24T06:54:00-04:00",
       "fetched_at_utc": "2026-02-24T16:04:28.266196+00:00",
       "day": "2026-02-24"
-    },
-    {
-      "source": "El Deber",
-      "title": "Amantegui: “Sin importar soya, la industria no puede crecer ni generar más dólares para el país”",
-      "url": "https://eldeber.com.bo/economia/amantegui-importar-soya-industria-no-puede-crecer-generar-dolares-pais_1771893282",
-      "summary": "La liberación de la importación de grano de soya busca equilibrar una cadena productiva con demanda industrial insatisfecha, ante una brecha entre la producción nacional (≈3 millones de t/año) y la capacidad instalada (≈5,5 millones), que obliga a operar a la industria al 65%. Según Jorge Amantegui, este mecanismo es coherente con un mercado abierto y con la realidad productiva de Bolivia, y debe ir acompañado de mejoras en productividad, biotecnología y un marco legal que favorezca la producción, exportación y empleo.",
-      "summary_es": "La liberación de la importación de grano de soya busca equilibrar una cadena productiva con demanda industrial insatisfecha, ante una brecha entre la producción nacional (≈3 millones de t/año) y la capacidad instalada (≈5,5 millones), que obliga a operar a la industria al 65%. Según Jorge Amantegui, este mecanismo es coherente con un mercado abierto y con la realidad productiva de Bolivia, y debe ir acompañado de mejoras en productividad, biotecnología y un marco legal que favorezca la producción, exportación y empleo.",
-      "summary_en": "The liberalization of soybean grain imports aims to balance a production chain with unmet industrial demand, amid a gap between domestic production (about 3 million tons per year) and installed capacity (about 5.5 million tons), which leaves the industry operating at roughly 65%. According to Jorge Amantegui, this mechanism is consistent with an open market and Bolivia’s real productive conditions, and should be accompanied by improvements in productivity, biotechnology, and a legal framework that promotes production, exports, and employment.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T20:57:00-04:00",
-      "published_at_bo": "2026-02-23T20:57:00-04:00",
-      "fetched_at_utc": "2026-02-24T06:02:18.606663+00:00",
-      "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Tras quejas de transportistas, YPFB inicia la descarga de 100 cisternas adicionales de combustible",
-      "url": "https://eldeber.com.bo/economia/quejas-transportistas-ypfb-inicia-descarga-100-cisternas-adicionales-combustible_1771888217",
-      "summary": "YPFB inició la descarga de 100 camiones cisterna en tres plantas de Santa Cruz para reforzar la provisión de diésel y gasolina ante problemas de abastecimiento, evaluando ampliar plantas y tanques adicionales para responder a la demanda del oriente del país. Entre el 20 y el 23 de febrero ya descargó más de 300 cisternas y la operación continuará para garantizar el suministro continuo en la región.",
-      "summary_es": "YPFB inició la descarga de 100 camiones cisterna en tres plantas de Santa Cruz para reforzar la provisión de diésel y gasolina ante problemas de abastecimiento, evaluando ampliar plantas y tanques adicionales para responder a la demanda del oriente del país. Entre el 20 y el 23 de febrero ya descargó más de 300 cisternas y la operación continuará para garantizar el suministro continuo en la región.",
-      "summary_en": "YPFB has begun unloading 100 tanker trucks at three plants in Santa Cruz to bolster diesel and gasoline supply amid shortages, while evaluating expanding plants and adding extra tanks to meet demand in the eastern region of the country. Between February 20 and 23, more than 300 tankers have already been unloaded, and the operation will continue to ensure continuous supply in the area.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T19:29:00-04:00",
-      "published_at_bo": "2026-02-23T19:29:00-04:00",
-      "fetched_at_utc": "2026-02-24T04:56:37.536761+00:00",
-      "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Dificultades viales empuja a la ABC a buscar alivio financiero urgente con la CAF",
-      "url": "https://eldeber.com.bo/economia/dificultades-viales-empuja-abc-buscar-alivio-financiero-urgente-caf_1771880377",
-      "summary": "La ABC, junto con la CAF y el VIPFE, inició mesas técnicas para buscar alivio financiero y ajustes urgentes que permitan sostener y acelerar la conservación y rehabilitación de la Red Vial Fundamental ante el deterioro, lluvias y recortes presupuestarios. Se acordó instalar una mesa técnica permanente para priorizar inversiones en infraestructura vial y atención de emergencias, traduciendo los acuerdos en recursos efectivos.",
-      "summary_es": "La ABC, junto con la CAF y el VIPFE, inició mesas técnicas para buscar alivio financiero y ajustes urgentes que permitan sostener y acelerar la conservación y rehabilitación de la Red Vial Fundamental ante el deterioro, lluvias y recortes presupuestarios. Se acordó instalar una mesa técnica permanente para priorizar inversiones en infraestructura vial y atención de emergencias, traduciendo los acuerdos en recursos efectivos.",
-      "summary_en": "The ABC, together with CAF and VIPFE, launched technical working groups to seek financial relief and urgent adjustments that will sustain and accelerate the maintenance and rehabilitation of the Core Road Network amid deterioration, heavy rains, and budget cuts. It was agreed to establish a permanent technical working group to prioritize investments in road infrastructure and emergency response, turning the agreements into tangible resources.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T17:09:00-04:00",
-      "published_at_bo": "2026-02-23T17:09:00-04:00",
-      "fetched_at_utc": "2026-02-24T02:39:03.622066+00:00",
-      "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Transportistas logran reembolsos y diferimiento de créditos por daños atribuidos al combustible",
-      "url": "https://eldeber.com.bo/economia/transportistas-logran-reembolsos-diferimiento-creditos-danos-atribuidos-combustible_1771865562",
-      "summary": "El sector del transporte en Bolivia logró acuerdos con el Gobierno para facilitar reclamos por daños por combustible de mala calidad, con un teléfono para denuncias y reembolsos en 48 horas, y el diferimiento de créditos bancarios para los afectados. También se flexibilizaron los requisitos documentales para ampliar el alcance de las reclamaciones.",
-      "summary_es": "El sector del transporte en Bolivia logró acuerdos con el Gobierno para facilitar reclamos por daños por combustible de mala calidad, con un teléfono para denuncias y reembolsos en 48 horas, y el diferimiento de créditos bancarios para los afectados. También se flexibilizaron los requisitos documentales para ampliar el alcance de las reclamaciones.",
-      "summary_en": "Bolivia’s transport sector reached agreements with the government to streamline claims for damages caused by substandard fuel, including a hotline for complaints and refunds within 48 hours, and the deferral of bank loan payments for those affected. Documentation requirements were also relaxed to broaden the reach of the claims.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T14:12:00-04:00",
-      "published_at_bo": "2026-02-23T14:12:00-04:00",
-      "fetched_at_utc": "2026-02-23T22:48:57.475404+00:00",
-      "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Transportistas protestan por gasolina “contaminada” y denuncian pérdidas de hasta Bs 15.000 por vehículo",
-      "url": "https://eldeber.com.bo/economia/transportistas-protestan-gasolina-contaminada-denuncian-perdidas-bs-15-000-vehiculo_1771862449",
-      "summary": "Los transportistas de La Paz protestan por combustible de mala calidad que provoca fallas y elevados costos de reparación en coches, motos y unidades de transporte público, generando pérdidas millonarias y tensión por impagos y parálisis. Exigen resarcimiento y una solución estructural, y fueron convocados a una reunión con autoridades para que YPFB explique el origen y garantice suministro adecuado.",
-      "summary_es": "Los transportistas de La Paz protestan por combustible de mala calidad que provoca fallas y elevados costos de reparación en coches, motos y unidades de transporte público, generando pérdidas millonarias y tensión por impagos y parálisis. Exigen resarcimiento y una solución estructural, y fueron convocados a una reunión con autoridades para que YPFB explique el origen y garantice suministro adecuado.",
-      "summary_en": "Transporters in La Paz protest over substandard fuel that is causing breakdowns and high repair costs for cars, motorcycles, and public transport vehicles, triggering multimillion-dollar losses and tensions over unpaid bills and paralysis. They demand compensation and a structural solution, and have been summoned to a meeting with authorities so that YPFB can explain the cause and guarantee an adequate supply.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T12:48:00-04:00",
-      "published_at_bo": "2026-02-23T12:48:00-04:00",
-      "fetched_at_utc": "2026-02-23T21:52:26.871304+00:00",
-      "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "Pérdidas millonarias en la fila: cisterneros cargan con el costo de 20 millones de litros parados en Palmasola",
-      "url": "https://eldeber.com.bo/economia/perdidas-millonarias-fila-cisterneros-cargan-costo-20-millones-litros-parados-palmasola_1771858521",
-      "summary": "La crisis de la Refinería de Palmasola dejó más de 700 cisternas paralizadas con unos 20 millones de litros de gasolina, trasladando costos a las empresas transportistas y generando pérdidas por inmovilización y evaporación. El sector exige un régimen de ‘stand by’ remunerado para cubrir estos días sin movimiento y evitar penalizaciones por evaporación.",
-      "summary_es": "La crisis de la Refinería de Palmasola dejó más de 700 cisternas paralizadas con unos 20 millones de litros de gasolina, trasladando costos a las empresas transportistas y generando pérdidas por inmovilización y evaporación. El sector exige un régimen de ‘stand by’ remunerado para cubrir estos días sin movimiento y evitar penalizaciones por evaporación.",
-      "summary_en": "The Palmasola refinery crisis left more than 700 tankers idled, containing about 20 million liters of gasoline, shifting costs to transport companies and causing losses from immobilization and evaporation. The sector is demanding a paid “standby” regime to cover days with no movement and to avoid penalties for evaporation.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T11:29:00-04:00",
-      "published_at_bo": "2026-02-23T11:29:00-04:00",
-      "fetched_at_utc": "2026-02-23T20:51:59.406396+00:00",
-      "day": "2026-02-23"
-    },
-    {
-      "source": "El Deber",
-      "title": "De integración a bioeconomía: las claves productivas del Plan Bolivia",
-      "url": "https://eldeber.com.bo/economia/integracion-bioeconomia-claves-productivas-plan-bolivia_1771815822",
-      "summary": "El Plan Bolivia propone un nuevo modelo económico y productivo centrado en la integración logística, la innovación y la bioeconomía, apoyado por el PDES 2026–2030 y el PGDES 2026–2035, con inversión y reglas claras para atraer capital y ampliar exportaciones. Las propuestas recogidas en las nueve regiones buscan impulsar empleo, seguridad jurídica y desarrollo tecnológico, entre otros ejes, y el plan deberá ser aprobado por la Asamblea Legislativa Plurinacional.",
-      "summary_es": "El Plan Bolivia propone un nuevo modelo económico y productivo centrado en la integración logística, la innovación y la bioeconomía, apoyado por el PDES 2026–2030 y el PGDES 2026–2035, con inversión y reglas claras para atraer capital y ampliar exportaciones. Las propuestas recogidas en las nueve regiones buscan impulsar empleo, seguridad jurídica y desarrollo tecnológico, entre otros ejes, y el plan deberá ser aprobado por la Asamblea Legislativa Plurinacional.",
-      "summary_en": "Plan Bolivia envisions a new economic and productive model centered on logistics integration, innovation, and the bioeconomy, supported by the PDES 2026–2030 and the PGDES 2026–2035. It calls for investment and transparent rules to attract capital and expand exports. The proposals across nine regions aim to boost employment, legal certainty, and technological development, among other priorities, and the plan must be approved by the Plurinational Legislative Assembly.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-23T04:00:00-04:00",
-      "published_at_bo": "2026-02-23T04:00:00-04:00",
-      "fetched_at_utc": "2026-02-23T08:57:10.495312+00:00",
-      "day": "2026-02-23"
     }
   ]
 }
