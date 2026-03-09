@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-09T02:40:24.947569+00:00",
+  "generated_at_utc": "2026-03-09T03:15:57.757526+00:00",
   "count": 113,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Camacho y representantes del sector productivo alistan viaje a Brasil",
+      "url": "https://eldeber.com.bo/economia/camacho-representantes-sector-productivo-alistan-viaje-brasil_1773021134",
+      "summary": "El gobernador de Santa Cruz, Luis Fernando Camacho, anunció la preparación de un viaje a Brasil con apoyo técnico y financiero para potenciar la producción agropecuaria, acompañado por CAO, Anapo y Fepsc. Las prioridades son impulsar biotecnología, mejorar sistemas de riego, consolidar la propiedad privada y atraer inversiones para aumentar la producción de alimentos para el mercado interno y luego ampliar a mercados internacionales.",
+      "summary_es": "El gobernador de Santa Cruz, Luis Fernando Camacho, anunció la preparación de un viaje a Brasil con apoyo técnico y financiero para potenciar la producción agropecuaria, acompañado por CAO, Anapo y Fepsc. Las prioridades son impulsar biotecnología, mejorar sistemas de riego, consolidar la propiedad privada y atraer inversiones para aumentar la producción de alimentos para el mercado interno y luego ampliar a mercados internacionales.",
+      "summary_en": "The governor of Santa Cruz, Luis Fernando Camacho, announced plans for a trip to Brazil with technical and financial support to boost agricultural production, accompanied by CAO, Anapo, and Fepsc. The priorities are to advance biotechnology, improve irrigation systems, consolidate private property, and attract investments to increase food production for the domestic market, with the aim of expanding to international markets.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-08T21:55:00-04:00",
+      "published_at_bo": "2026-03-08T21:55:00-04:00",
+      "fetched_at_utc": "2026-03-09T02:40:20.956463+00:00",
+      "day": "2026-03-08"
+    },
+    {
+      "source": "El Deber",
+      "title": "ABC habilita el tramo La Angostura-Bermejo-Samaipata",
+      "url": "https://eldeber.com.bo/economia/abc-habilita-tramo-angostura-bermejo-samaipata_1773017297",
+      "summary": "Las lluvias persistentes provocaron derrumbes y deslizamientos en el tramo La Angostura–Bermejo–Samaipata (Quebrado Negro), lo que llevó a un corte desde las 11:30 de ayer para labores de limpieza con dos retroexcavadoras; tras los trabajos, se habilitó la transitabilidad en el sector Bermejo‑La Angostura a la altura del Km 62, con recomendaciones de precaución y posibles cierres ante nuevas lluvias. Además, representantes del transporte pesado cuestionaron que las soluciones sean solo limpiezas y pidieron una solución estructural y mayor presupuesto para las vías.",
+      "summary_es": "Las lluvias persistentes provocaron derrumbes y deslizamientos en el tramo La Angostura–Bermejo–Samaipata (Quebrado Negro), lo que llevó a un corte desde las 11:30 de ayer para labores de limpieza con dos retroexcavadoras; tras los trabajos, se habilitó la transitabilidad en el sector Bermejo‑La Angostura a la altura del Km 62, con recomendaciones de precaución y posibles cierres ante nuevas lluvias. Además, representantes del transporte pesado cuestionaron que las soluciones sean solo limpiezas y pidieron una solución estructural y mayor presupuesto para las vías.",
+      "summary_en": "Persistent rains caused landslides and rockslides on the La Angostura–Bermejo–Samaipata (Quebrado Negro) stretch, leading to a closure from 11:30 a.m. yesterday for cleanup work with two backhoes. After the operation, traffic was restored on the Bermejo–La Angostura section at Km 62, with precautionary advice and the possibility of future closures if rains continue. Additionally, representatives from the heavy-transport sector questioned the reliance on cleaning efforts alone and urged a structural solution and a larger budget for the roads.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-08T20:54:00-04:00",
+      "published_at_bo": "2026-03-08T20:54:00-04:00",
+      "fetched_at_utc": "2026-03-09T02:40:21.956252+00:00",
+      "day": "2026-03-08"
+    },
+    {
+      "source": "El Deber",
+      "title": "Petróleo WTI supera $us 100 y sectores consideran volver al subsidio parcializado",
+      "url": "https://eldeber.com.bo/economia/petroleo-wti-supera-us-90-sectores-consideran-si-llega-us-100-gobierno-deberia-volver-subsidio-parcializado_1773007523",
+      "summary": "El petróleo WTI superó los 100 dólares por barril por primera vez desde 2022, y el Brent alcanzó más de 105 dólares, ante el conflicto en el Golfo y la tensión en el Estrecho de Ormuz. En Bolivia, el sector del transporte pesado y Conamype advierten que el alza del petróleo encarecerá la importación y la logística, pidiendo al Gobierno un análisis de la subvención para mitigar el impacto.",
+      "summary_es": "El petróleo WTI superó los 100 dólares por barril por primera vez desde 2022, y el Brent alcanzó más de 105 dólares, ante el conflicto en el Golfo y la tensión en el Estrecho de Ormuz. En Bolivia, el sector del transporte pesado y Conamype advierten que el alza del petróleo encarecerá la importación y la logística, pidiendo al Gobierno un análisis de la subvención para mitigar el impacto.",
+      "summary_en": "WTI crude rose above $100 a barrel for the first time since 2022, while Brent surpassed $105, as tensions in the Gulf and the Strait of Hormuz persist. In Bolivia, the heavy transport sector and Conamype warn that higher oil prices will raise import and logistics costs, urging the government to analyze subsidies to mitigate the impact.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-08T20:13:00-04:00",
+      "published_at_bo": "2026-03-08T20:13:00-04:00",
+      "fetched_at_utc": "2026-03-09T02:40:22.982515+00:00",
+      "day": "2026-03-08"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia autoriza uso de soya HB4 para enfrentar sequías y mejorar la productividad",
