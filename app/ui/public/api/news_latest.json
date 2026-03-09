@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-09T23:33:44.804600+00:00",
+  "generated_at_utc": "2026-03-09T23:43:04.859434+00:00",
   "count": 116,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Persiste el bloqueo en Yapacaní: productores exigen abrogar decreto que permite importar soya con arancel cero",
+      "url": "https://eldeber.com.bo/economia/persiste-bloqueo-yapacani-productores-exigen-abrogar-decreto-permite-importar-soya-arancel-cero_1773093364",
+      "summary": "Productores de Yapacaní (norte de Santa Cruz) mantienen un bloqueo indefinido en la ruta Santa Cruz-C Cochabamba para exigir la abrogación del Decreto Supremo 5547, que habilita arancel cero a la importación de soya, alegando que perjudica a pequeños y medianos agricultores. Piden la presencia de ministros y del presidente para dialogar y advierten que la protesta podría extenderse si no se atienden sus demandas.",
+      "summary_es": "Productores de Yapacaní (norte de Santa Cruz) mantienen un bloqueo indefinido en la ruta Santa Cruz-C Cochabamba para exigir la abrogación del Decreto Supremo 5547, que habilita arancel cero a la importación de soya, alegando que perjudica a pequeños y medianos agricultores. Piden la presencia de ministros y del presidente para dialogar y advierten que la protesta podría extenderse si no se atienden sus demandas.",
+      "summary_en": "Yapacaní producers in northern Santa Cruz are maintaining an indefinite blockade on the Santa Cruz–Cochabamba highway to demand the repeal of Supreme Decree 5547, which allows zero tariffs on soybean imports, arguing that it harms small and medium-sized farmers. They are calling for the presence of ministers and the president to engage in dialogue and warn that the protest could broaden if their demands are not met.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T19:05:00-04:00",
+      "published_at_bo": "2026-03-09T19:05:00-04:00",
+      "fetched_at_utc": "2026-03-09T23:33:38.024808+00:00",
+      "day": "2026-03-09"
+    },
     {
       "source": "El Deber",
       "title": "Posesionan a José Horacio Valencia como viceministro de Pensiones y Servicios Financieros",
