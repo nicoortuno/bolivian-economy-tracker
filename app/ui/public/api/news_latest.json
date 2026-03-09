@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-09T20:40:55.454834+00:00",
+  "generated_at_utc": "2026-03-09T20:52:35.396173+00:00",
   "count": 114,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Yacimientos descarta que aditivos en la gasolina dañen la pintura de vehículos",
+      "url": "https://eldeber.com.bo/economia/yacimientos-descarta-aditivos-gasolina-danen-pintura-vehiculos_1773086913",
+      "summary": "YPFB negó que los aditivos de la gasolina dañen la pintura de los vehículos y afirmó haber verificado en Santa Cruz que no hay decoloración, atribuyendo las versiones a una posible guerra sucia contra la empresa. Aclaró que los aditivos, como antioxidantes y detergentes, buscan mejorar el rendimiento y que los combustibles cumplen estándares de calidad para el parque automotor nacional.",
+      "summary_es": "YPFB negó que los aditivos de la gasolina dañen la pintura de los vehículos y afirmó haber verificado en Santa Cruz que no hay decoloración, atribuyendo las versiones a una posible guerra sucia contra la empresa. Aclaró que los aditivos, como antioxidantes y detergentes, buscan mejorar el rendimiento y que los combustibles cumplen estándares de calidad para el parque automotor nacional.",
+      "summary_en": "YPFB denied that gasoline additives damage vehicle paint and said it has verified in Santa Cruz that there is no discoloration, attributing the reports to a possible smear campaign against the company. It noted that additives such as antioxidants and detergents are intended to improve performance and that the fuels meet quality standards for the national vehicle fleet.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T16:15:00-04:00",
+      "published_at_bo": "2026-03-09T16:15:00-04:00",
+      "fetched_at_utc": "2026-03-09T20:40:46.136789+00:00",
+      "day": "2026-03-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "El 90% de los arbitrajes comerciales se perdieron, según el procurador",
+      "url": "https://eldeber.com.bo/economia/90-arbitrajes-comerciales-perdieron-procurador_1773084272",
+      "summary": "Bolivia habría perdido el 90% de los arbitrajes comerciales contra el Estado, según el procurador Hugo León La Faye, debido a una mala gestión del gobierno anterior. Afirmó que los costos de estos procesos podrían duplicar lo adeudado y que se tramitan en varias jurisdicciones (NY, Madrid y Amsterdam) con altos gastos en abogados, peritos y consorcios.",
+      "summary_es": "Bolivia habría perdido el 90% de los arbitrajes comerciales contra el Estado, según el procurador Hugo León La Faye, debido a una mala gestión del gobierno anterior. Afirmó que los costos de estos procesos podrían duplicar lo adeudado y que se tramitan en varias jurisdicciones (NY, Madrid y Amsterdam) con altos gastos en abogados, peritos y consorcios.",
+      "summary_en": "Bolivia would have lost 90% of commercial arbitrations against the State, according to Attorney General Hugo León La Faye, due to mismanagement by the previous government. He said that the costs of these proceedings could double the amounts owed and that they are being pursued in several jurisdictions—New York, Madrid, and Amsterdam—with high expenses for lawyers, experts, and consortia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T15:24:00-04:00",
+      "published_at_bo": "2026-03-09T15:24:00-04:00",
+      "fetched_at_utc": "2026-03-09T20:40:47.125956+00:00",
+      "day": "2026-03-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bolivia participa en reunión internacional sobre sanidad vegetal en Roma",
+      "url": "https://eldeber.com.bo/economia/bolivia-participa-reunion-internacional-sanidad-vegetal-roma_1773083812",
+      "summary": "El ministro Oscar Mario Justiniano participa en la vigésima reunión de la CMF en Roma, con delegaciones de más de 180 países, para coordinar acciones fitosanitarias y garantizar el comercio seguro de alimentos a nivel global. Bolivia busca fortalecer su sanidad agropecuaria, mejorar las condiciones de exportación y avanzar la cooperación técnica con SENASAG y organismos internacionales.",
+      "summary_es": "El ministro Oscar Mario Justiniano participa en la vigésima reunión de la CMF en Roma, con delegaciones de más de 180 países, para coordinar acciones fitosanitarias y garantizar el comercio seguro de alimentos a nivel global. Bolivia busca fortalecer su sanidad agropecuaria, mejorar las condiciones de exportación y avanzar la cooperación técnica con SENASAG y organismos internacionales.",
+      "summary_en": "Minister Oscar Mario Justiniano is attending the 20th meeting of the CMF in Rome, joining delegations from more than 180 countries to coordinate phytosanitary actions and ensure safe global food trade. Bolivia aims to strengthen its agricultural health system, improve export conditions, and advance technical cooperation with SENASAG and international organizations.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T15:21:00-04:00",
+      "published_at_bo": "2026-03-09T15:21:00-04:00",
+      "fetched_at_utc": "2026-03-09T20:40:48.131855+00:00",
+      "day": "2026-03-09"
+    },
     {
       "source": "El Deber",
       "title": "Anapo destaca aprobación de soya HB4 y pide ampliar uso de biotecnología en el agro",
