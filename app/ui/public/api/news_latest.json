@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-09T17:53:49.423338+00:00",
+  "generated_at_utc": "2026-03-09T18:00:47.912571+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Anapo destaca aprobación de soya HB4 y pide ampliar uso de biotecnología en el agro",
+      "url": "https://eldeber.com.bo/economia/anapo-destaca-aprobacion-soya-hb4-pide-ampliar-uso-biotecnologia-agro_1773074222",
+      "summary": "Anapo celebra la aprobación oficial del uso comercial de la tecnología HB4 en soya en Bolivia, lo que abre la puerta a liberar más eventos de biotecnología en cultivos estratégicos. La medida, anunciada por el ministro Fernando Romero, busca incrementar rendimientos y productividad ante la sequía, fortaleciendo las exportaciones y la seguridad alimentaria del país.",
+      "summary_es": "Anapo celebra la aprobación oficial del uso comercial de la tecnología HB4 en soya en Bolivia, lo que abre la puerta a liberar más eventos de biotecnología en cultivos estratégicos. La medida, anunciada por el ministro Fernando Romero, busca incrementar rendimientos y productividad ante la sequía, fortaleciendo las exportaciones y la seguridad alimentaria del país.",
+      "summary_en": "ANAPO celebrates the official approval of the commercial use of HB4 technology in soybeans in Bolivia, a move that opens the door to introducing more biotech events in strategic crops. The measure, announced by Minister Fernando Romero, aims to boost yields and productivity in the face of drought, strengthening the country’s exports and food security.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T12:39:00-04:00",
+      "published_at_bo": "2026-03-09T12:39:00-04:00",
+      "fetched_at_utc": "2026-03-09T17:53:43.365289+00:00",
+      "day": "2026-03-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno convoca al diálogo a productores del Norte Integrado tras intensificación de bloqueos",
+      "url": "https://eldeber.com.bo/economia/gobierno-convoca-dialogo-productores-norte-integrado-intensificacion-bloqueos_1773071541",
+      "summary": "El Gobierno expresó estar abierto al diálogo con los productores del Norte Integrado de Santa Cruz y solicitó levantar los bloqueos, mientras el sector mantiene medidas de presión por temas como la importación de soya, el contrabando de arroz y el uso de semillas transgénicas. Se anunció que se instalarán mesas de trabajo y visitas a las industrias para avanzar en acuerdos y reducir intermediación, con la posibilidad de que las medidas de protesta se vuelvan indefinidas si no hay avances.",
+      "summary_es": "El Gobierno expresó estar abierto al diálogo con los productores del Norte Integrado de Santa Cruz y solicitó levantar los bloqueos, mientras el sector mantiene medidas de presión por temas como la importación de soya, el contrabando de arroz y el uso de semillas transgénicas. Se anunció que se instalarán mesas de trabajo y visitas a las industrias para avanzar en acuerdos y reducir intermediación, con la posibilidad de que las medidas de protesta se vuelvan indefinidas si no hay avances.",
+      "summary_en": "The government said it was open to dialogue with producers in the Northern Integrated region of Santa Cruz and urged the blockage to be lifted, even as the sector continues to press for issues such as soybean imports, rice smuggling, and the use of transgenic seeds. It was announced that working panels will be established and industry visits will be carried out to advance agreements and reduce intermediaries, with the possibility that protest measures could become indefinite if there is little progress.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T12:19:00-04:00",
+      "published_at_bo": "2026-03-09T12:19:00-04:00",
+      "fetched_at_utc": "2026-03-09T17:53:44.393310+00:00",
+      "day": "2026-03-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Aumento del precio del petróleo por conflicto en Medio Oriente presiona la economía boliviana",
+      "url": "https://eldeber.com.bo/economia/aumento-precio-petroleo-conflicto-medio-oriente-presiona-economia-boliviana_1773070128",
+      "summary": "Un aumento del precio internacional del petróleo podría incrementar costos y presiones fiscales, cambiarias y energéticas en Bolivia, debido a su alta dependencia de importaciones de diésel y gasolina. El analista advierte que, de mantenerse la tendencia, el déficit fiscal podría acercarse o superar el 10% del PIB, y subraya la necesidad de reformas estructurales y una diversificación energética para mitigar estas vulnerabilidades.",
+      "summary_es": "Un aumento del precio internacional del petróleo podría incrementar costos y presiones fiscales, cambiarias y energéticas en Bolivia, debido a su alta dependencia de importaciones de diésel y gasolina. El analista advierte que, de mantenerse la tendencia, el déficit fiscal podría acercarse o superar el 10% del PIB, y subraya la necesidad de reformas estructurales y una diversificación energética para mitigar estas vulnerabilidades.",
+      "summary_en": "An uptick in international oil prices could raise costs and put fiscal, exchange-rate, and energy pressures on Bolivia, given its high reliance on imports of diesel and gasoline. The analyst warns that if the trend continues, the fiscal deficit could approach or exceed 10% of GDP, underscoring the need for structural reforms and energy diversification to mitigate these vulnerabilities.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T11:34:00-04:00",
+      "published_at_bo": "2026-03-09T11:34:00-04:00",
+      "fetched_at_utc": "2026-03-09T17:53:45.409659+00:00",
+      "day": "2026-03-09"
+    },
     {
       "source": "El Deber",
       "title": "Mototaxistas denuncian demora en compensaciones por gasolina",
