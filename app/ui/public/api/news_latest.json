@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-10T21:42:55.018027+00:00",
-  "count": 111,
+  "generated_at_utc": "2026-03-10T22:34:24.994988+00:00",
+  "count": 112,
   "items": [
     {
       "source": "El Deber",
@@ -13,12 +13,12 @@
       "sentiment": null,
       "published_at_utc": "2026-03-10T16:29:00-04:00",
       "published_at_bo": "2026-03-10T16:29:00-04:00",
-      "fetched_at_utc": "2026-03-10T21:34:27.113050+00:00",
+      "fetched_at_utc": "2026-03-10T22:34:20.092988+00:00",
       "day": "2026-03-10"
     },
     {
       "source": "El Deber",
-      "title": "Gobierno revela que la gasolina con aditivos podría dañar los motores",
+      "title": "Gobierno utilizará temporalmente gasolina con aditivos",
       "url": "https://eldeber.com.bo/economia/gobierno-revela-gasolina-aditivos-podria-danar-motores_1773171131",
       "summary": "El ministro Mauricio Medinaceli anunció que la gasolina con aditivos es una medida temporal para solucionar la mala calidad del combustible y no debería usarse por mucho tiempo por posible daño a los motores, en un proceso de “purga” para limpiar los motores afectados, con la intervención de YPFB y la empresa Intertech. YPFB aclaró además que los aditivos no dañan la pintura de los vehículos y verificó las estaciones de servicio en Santa Cruz para verificar las afirmaciones en redes sociales.",
       "summary_es": "El ministro Mauricio Medinaceli anunció que la gasolina con aditivos es una medida temporal para solucionar la mala calidad del combustible y no debería usarse por mucho tiempo por posible daño a los motores, en un proceso de “purga” para limpiar los motores afectados, con la intervención de YPFB y la empresa Intertech. YPFB aclaró además que los aditivos no dañan la pintura de los vehículos y verificó las estaciones de servicio en Santa Cruz para verificar las afirmaciones en redes sociales.",
@@ -27,7 +27,7 @@
       "sentiment": null,
       "published_at_utc": "2026-03-10T15:38:00-04:00",
       "published_at_bo": "2026-03-10T15:38:00-04:00",
-      "fetched_at_utc": "2026-03-10T21:34:28.114627+00:00",
+      "fetched_at_utc": "2026-03-10T22:34:21.062148+00:00",
       "day": "2026-03-10"
     },
     {
@@ -41,7 +41,7 @@
       "sentiment": null,
       "published_at_utc": "2026-03-10T12:57:00-04:00",
       "published_at_bo": "2026-03-10T12:57:00-04:00",
-      "fetched_at_utc": "2026-03-10T21:34:30.590129+00:00",
+      "fetched_at_utc": "2026-03-10T22:34:22.033639+00:00",
       "day": "2026-03-10"
     },
     {
@@ -55,7 +55,7 @@
       "sentiment": null,
       "published_at_utc": "2026-03-10T12:46:00-04:00",
       "published_at_bo": "2026-03-10T12:46:00-04:00",
-      "fetched_at_utc": "2026-03-10T21:34:31.571868+00:00",
+      "fetched_at_utc": "2026-03-10T22:34:23.007459+00:00",
       "day": "2026-03-10"
     },
     {
