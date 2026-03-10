@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-10T02:31:25.107671+00:00",
+  "generated_at_utc": "2026-03-10T02:50:40.795284+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno alista paquete de leyes económicas y descarta decisiones inmediatas por la subida del petróleo",
+      "url": "https://eldeber.com.bo/economia/gobierno-alista-paquete-leyes-economicas-descarta-decisiones-inmediatas-subida-petroleo_1773100661",
+      "summary": "El Gobierno anunciará en las próximas semanas un paquete de leyes económicas para estabilizar y reconstruir la economía, y para promover una mayor apertura comercial, cuyas propuestas serán presentadas tras el 22 de marzo por el presidente. El ministro Espinoza señaló que no se actúa ante cambios coyunturales del petróleo, destacó la importación de petróleo para su procesamiento por YPFB para reducir costos y afirmó que los billetes de la serie B sustraídos no deben legalizarse, en tanto el tema se analiza en la Asamblea.",
+      "summary_es": "El Gobierno anunciará en las próximas semanas un paquete de leyes económicas para estabilizar y reconstruir la economía, y para promover una mayor apertura comercial, cuyas propuestas serán presentadas tras el 22 de marzo por el presidente. El ministro Espinoza señaló que no se actúa ante cambios coyunturales del petróleo, destacó la importación de petróleo para su procesamiento por YPFB para reducir costos y afirmó que los billetes de la serie B sustraídos no deben legalizarse, en tanto el tema se analiza en la Asamblea.",
+      "summary_en": "The Government will unveil in the coming weeks a package of economic laws to stabilize and rebuild the economy, and to promote greater trade openness. The proposals will be presented after March 22 by the president. Minister Espinoza noted that action will not be taken in response to short-term fluctuations in oil prices, highlighted the import of oil for processing by YPFB to reduce costs, and stated that the stolen B-series banknotes should not be legalized, as the matter is being reviewed in the Assembly.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-09T20:04:00-04:00",
+      "published_at_bo": "2026-03-09T20:04:00-04:00",
+      "fetched_at_utc": "2026-03-10T02:31:21.299877+00:00",
+      "day": "2026-03-09"
+    },
     {
       "source": "El Deber",
       "title": "Persiste el bloqueo en Yapacaní: productores exigen abrogar decreto que permite importar soya con arancel cero",
