@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-10T20:40:30.940350+00:00",
+  "generated_at_utc": "2026-03-10T20:50:31.306318+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Contrabando de ganado bovino vivo pone en alerta a ganaderos de Beni",
+      "url": "https://eldeber.com.bo/economia/contrabando-ganado-bovino-vivo-pone-alerta-ganaderos-beni_1773174177",
+      "summary": "Las asociaciones ganaderas de Beni denuncian el ingreso irregular de ganado brasileño y exigen mayor control fronterizo y el cumplimiento del convenio con Senasag para fortalecer la trazabilidad y la vigilancia sanitaria, a fin de preservar el estatus sanitario libre de aftosa.",
+      "summary_es": "Las asociaciones ganaderas de Beni denuncian el ingreso irregular de ganado brasileño y exigen mayor control fronterizo y el cumplimiento del convenio con Senasag para fortalecer la trazabilidad y la vigilancia sanitaria, a fin de preservar el estatus sanitario libre de aftosa.",
+      "summary_en": "Cattle associations in Beni denounce irregular entry of Brazilian cattle and are calling for stricter border control and full compliance with the agreement with Senasag to strengthen traceability and sanitary surveillance, in order to preserve the region’s foot-and-mouth disease–free status.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T16:29:00-04:00",
+      "published_at_bo": "2026-03-10T16:29:00-04:00",
+      "fetched_at_utc": "2026-03-10T20:40:22.188467+00:00",
+      "day": "2026-03-10"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno revela que la gasolina con aditivos podría dañar los motores",
