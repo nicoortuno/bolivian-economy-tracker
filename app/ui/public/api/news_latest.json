@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-10T19:40:51.884325+00:00",
+  "generated_at_utc": "2026-03-10T19:52:27.874713+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno revela que la gasolina con aditivos podría dañar los motores",
+      "url": "https://eldeber.com.bo/economia/gobierno-revela-gasolina-aditivos-podria-danar-motores_1773171131",
+      "summary": "El ministro Mauricio Medinaceli anunció que la gasolina con aditivos es una medida temporal para solucionar la mala calidad del combustible y no debería usarse por mucho tiempo por posible daño a los motores, en un proceso de “purga” para limpiar los motores afectados, con la intervención de YPFB y la empresa Intertech. YPFB aclaró además que los aditivos no dañan la pintura de los vehículos y verificó las estaciones de servicio en Santa Cruz para verificar las afirmaciones en redes sociales.",
+      "summary_es": "El ministro Mauricio Medinaceli anunció que la gasolina con aditivos es una medida temporal para solucionar la mala calidad del combustible y no debería usarse por mucho tiempo por posible daño a los motores, en un proceso de “purga” para limpiar los motores afectados, con la intervención de YPFB y la empresa Intertech. YPFB aclaró además que los aditivos no dañan la pintura de los vehículos y verificó las estaciones de servicio en Santa Cruz para verificar las afirmaciones en redes sociales.",
+      "summary_en": "Minister Mauricio Medinaceli said that gasoline treated with additives is a temporary measure to address the poor fuel quality and should not be used for an extended period due to potential engine damage, describing it as a “purge” to clean affected engines, with the involvement of YPFB and the company Intertech. YPFB also clarified that the additives do not damage vehicle paint and conducted inspections of service stations in Santa Cruz to verify social media claims.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T15:38:00-04:00",
+      "published_at_bo": "2026-03-10T15:38:00-04:00",
+      "fetched_at_utc": "2026-03-10T19:40:44.631146+00:00",
+      "day": "2026-03-10"
+    },
     {
       "source": "El Deber",
       "title": "Paraguay aprueba la compra de carne boliviana en tres frigoríficos nacionales",
