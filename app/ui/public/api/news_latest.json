@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-10T17:55:08.048112+00:00",
+  "generated_at_utc": "2026-03-10T18:02:34.900750+00:00",
   "count": 109,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Paraguay aprueba la compra de carne boliviana en tres frigoríficos nacionales",
+      "url": "https://eldeber.com.bo/economia/paraguay-aprueba-compra-carne-boliviana-tres-frigorificos-nacionales_1773160918",
+      "summary": "Senacsa aprobó la habilitación de tres frigoríficos de exportación en Bolivia para la compra de carne bovina por un periodo de dos años, con vigencia hasta marzo de 2028. El acuerdo, firmado el 6 de marzo durante la 51 Reunión del CAS y gestado por Óscar Mario Justiniano, busca ampliar mercados para Paraguay y fortalecer la apertura comercial de Bolivia.",
+      "summary_es": "Senacsa aprobó la habilitación de tres frigoríficos de exportación en Bolivia para la compra de carne bovina por un periodo de dos años, con vigencia hasta marzo de 2028. El acuerdo, firmado el 6 de marzo durante la 51 Reunión del CAS y gestado por Óscar Mario Justiniano, busca ampliar mercados para Paraguay y fortalecer la apertura comercial de Bolivia.",
+      "summary_en": "Senacsa approved the authorization of three export-oriented abattoirs in Bolivia to supply beef for a two-year period, effective until March 2028. The agreement, signed on March 6 during the 51st CAS meeting and driven by Óscar Mario Justiniano, aims to broaden Paraguay’s markets and strengthen Bolivia’s openness to trade.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T12:57:00-04:00",
+      "published_at_bo": "2026-03-10T12:57:00-04:00",
+      "fetched_at_utc": "2026-03-10T17:55:02.100270+00:00",
+      "day": "2026-03-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Aprehenden al &#39;cabecilla&#39; del avasallamiento de la propiedad Santa Rita",
+      "url": "https://eldeber.com.bo/economia/aprehenden-cabecilla-avasallamiento-propiedad-santa-rita_1773160949",
+      "summary": "Un cabecilla de los avasallamientos en Santa Cruz, Vicente Ollisco Jamira, fue aprehendido al presentarse con un mandamiento de captura; enfrenta cargos por los hechos en Santa Rita, Santa Agro, Santa María y Los Ciervos. Aún hay 12 prófugos con órdenes de aprehensión, y se espera que mañana se determine su situación legal en audiencia.",
+      "summary_es": "Un cabecilla de los avasallamientos en Santa Cruz, Vicente Ollisco Jamira, fue aprehendido al presentarse con un mandamiento de captura; enfrenta cargos por los hechos en Santa Rita, Santa Agro, Santa María y Los Ciervos. Aún hay 12 prófugos con órdenes de aprehensión, y se espera que mañana se determine su situación legal en audiencia.",
+      "summary_en": "A ringleader of the land invasions in Santa Cruz, Vicente Ollisco Jamira, was apprehended after presenting himself with an arrest warrant; he faces charges linked to incidents in Santa Rita, Santa Agro, Santa María, and Los Ciervos. There are still 12 fugitives with arrest warrants, and authorities expect his legal status to be decided at a hearing tomorrow.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T12:46:00-04:00",
+      "published_at_bo": "2026-03-10T12:46:00-04:00",
+      "fetched_at_utc": "2026-03-10T17:55:03.084683+00:00",
+      "day": "2026-03-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gerente de Ferroviaria Andina, Javier Valdivia: “El comportamiento alcista del combustible empuja los precios”",
+      "url": "https://eldeber.com.bo/economia/gerente-ferroviaria-andina-javier-valdivia-comportamiento-alcista-combustible-empuja-precios_1773158241",
+      "summary": "Ferroviaria Andina es una empresa de transporte principalmente ferroviario y de logística, con una red de 2.200 km desde La Paz hasta Potosí, que transporta principalmente zinc junto con algo de plomo y plata, y ofrece servicios de pasajeros (ferrobús semanal Oruro–Villazón) a baja velocidad; sus tarifas se ajustan al precio del combustible. Sus metas para este año incluyen consolidar contratos de largo plazo con mineras y crecer alrededor del 10%, enfrentando el desafío de tarifas afectadas por el incremento de combustibles, y apoyándose en una posible interconexión con Santa Cruz–La Paz dependiente de la voluntad gubernamental.",
+      "summary_es": "Ferroviaria Andina es una empresa de transporte principalmente ferroviario y de logística, con una red de 2.200 km desde La Paz hasta Potosí, que transporta principalmente zinc junto con algo de plomo y plata, y ofrece servicios de pasajeros (ferrobús semanal Oruro–Villazón) a baja velocidad; sus tarifas se ajustan al precio del combustible. Sus metas para este año incluyen consolidar contratos de largo plazo con mineras y crecer alrededor del 10%, enfrentando el desafío de tarifas afectadas por el incremento de combustibles, y apoyándose en una posible interconexión con Santa Cruz–La Paz dependiente de la voluntad gubernamental.",
+      "summary_en": "Ferroviaria Andina is a rail-focused transport and logistics company, with a 2,200-kilometer network from La Paz to Potosí. It mainly transports zinc, along with some lead and silver, and offers passenger services (the weekly Oruro–Villazón rail-bus) at low speeds; its tariffs are tied to fuel prices. Its goals for this year include securing long-term contracts with mining companies and achieving roughly 10% growth, facing the challenge of tariffs affected by rising fuel costs, and leaning on a potential Santa Cruz–La Paz interconnection that would depend on government will.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T12:07:00-04:00",
+      "published_at_bo": "2026-03-10T12:07:00-04:00",
+      "fetched_at_utc": "2026-03-10T17:55:04.087427+00:00",
+      "day": "2026-03-10"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno prioriza accesos para el puente Bolivia–Brasil sobre el río Mamoré",
