@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-10T16:07:18.893116+00:00",
+  "generated_at_utc": "2026-03-10T16:15:29.468792+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno prioriza accesos para el puente Bolivia–Brasil sobre el río Mamoré",
+      "url": "https://eldeber.com.bo/economia/gobierno-prioriza-accesos-puente-bolivia-brasil-rio-mamore_1773156837",
+      "summary": "Una inspección técnica enfatizó la necesidad de avanzar en los accesos viales del puente binacional sobre el río Mamoré, entre Guayaramerín (Bolivia) y Guajará-Mirim (Brasil), para asegurar la funcionalidad del proyecto con inversión estimada en al menos 80 millones de dólares y una longitud superior a 1.200 metros. El diseño de estas vías, coordinado por la ABC, forma parte de la estrategia de integración regional del Corredor Amazónico y de los compromisos del Tratado de Petrópolis, buscando fortalecer la conectividad y el desarrollo económico en la frontera.",
+      "summary_es": "Una inspección técnica enfatizó la necesidad de avanzar en los accesos viales del puente binacional sobre el río Mamoré, entre Guayaramerín (Bolivia) y Guajará-Mirim (Brasil), para asegurar la funcionalidad del proyecto con inversión estimada en al menos 80 millones de dólares y una longitud superior a 1.200 metros. El diseño de estas vías, coordinado por la ABC, forma parte de la estrategia de integración regional del Corredor Amazónico y de los compromisos del Tratado de Petrópolis, buscando fortalecer la conectividad y el desarrollo económico en la frontera.",
+      "summary_en": "A technical inspection underscored the need to advance the access roads to the binational bridge over the Mamoré River, linking Guayaramerín (Bolivia) and Guajará-Mirim (Brazil), to ensure the project’s viability. The investment is estimated at at least $80 million, and the bridge length will exceed 1,200 meters. The design of these access roads, coordinated by the ABC, is part of the regional integration strategy of the Amazon Corridor and the commitments of the Petrópolis Treaty, aimed at strengthening border connectivity and economic development.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T11:53:00-04:00",
+      "published_at_bo": "2026-03-10T11:53:00-04:00",
+      "fetched_at_utc": "2026-03-10T16:07:16.087199+00:00",
+      "day": "2026-03-10"
+    },
+    {
+      "source": "El Deber",
+      "title": "Alza del precio del petróleo puede incidir en reservas y déficit en la economía del país",
+      "url": "https://eldeber.com.bo/economia/alza-precio-petroleo-puede-incidir-reservas-deficit-economia-pais_1773155108",
+      "summary": "El aumento mundial del precio del petróleo, que superó los 100 dólares por barril, podría encarecer las importaciones de combustibles y presionar la deuda externa y las cuentas fiscales de Bolivia, dada su alta dependencia de combustibles importados y la caída de la producción local. Expertos llaman a prepararse con medidas como fondos de estabilización para mitigar shocks y evitar que el incremento provoque inflación y mayores costos para los hogares.",
+      "summary_es": "El aumento mundial del precio del petróleo, que superó los 100 dólares por barril, podría encarecer las importaciones de combustibles y presionar la deuda externa y las cuentas fiscales de Bolivia, dada su alta dependencia de combustibles importados y la caída de la producción local. Expertos llaman a prepararse con medidas como fondos de estabilización para mitigar shocks y evitar que el incremento provoque inflación y mayores costos para los hogares.",
+      "summary_en": "The global rise in oil prices, which surpassed $100 per barrel, could raise the cost of fuel imports and put pressure on Bolivia’s external debt and fiscal accounts, given its heavy reliance on imported fuels and the decline in domestic production. Experts urge preparedness with measures such as stabilization funds to mitigate shocks and prevent the increase from triggering inflation and higher costs for households.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T11:08:00-04:00",
+      "published_at_bo": "2026-03-10T11:08:00-04:00",
+      "fetched_at_utc": "2026-03-10T16:07:17.075248+00:00",
+      "day": "2026-03-10"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno alista paquete de leyes económicas y descarta decisiones inmediatas por la subida del petróleo",
