@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-11T11:37:48.830495+00:00",
+  "generated_at_utc": "2026-03-11T11:48:37.038375+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia tiene luz verde, por dos años, para exportar carne de res a Paraguay",
+      "url": "https://eldeber.com.bo/economia/bolivia-tiene-luz-verde-dos-anos-exportar-carne-res-paraguay_1773227586",
+      "summary": "Bolivia obtuvo luz verde por dos años para exportar carne de res a Paraguay, tras la habilitación formal de tres frigoríficos nacionales (Frigor, Fridosa y BFC) para realizar envíos deshuesados, congelados y refrigerados, con vigencia hasta marzo de 2028. Este acuerdo, gestionado por Óscar Justiniano, se enmarca en la apertura de Bolivia al mundo y busca ampliar mercados para la cadena cárnica.",
+      "summary_es": "Bolivia obtuvo luz verde por dos años para exportar carne de res a Paraguay, tras la habilitación formal de tres frigoríficos nacionales (Frigor, Fridosa y BFC) para realizar envíos deshuesados, congelados y refrigerados, con vigencia hasta marzo de 2028. Este acuerdo, gestionado por Óscar Justiniano, se enmarca en la apertura de Bolivia al mundo y busca ampliar mercados para la cadena cárnica.",
+      "summary_en": "Bolivia won approval for two years to export beef to Paraguay, following the formal clearance of three national meat plants—Frigor, Fridosa, and BFC—to ship boneless, frozen, and refrigerated products, valid through March 2028. The deal, brokered by Óscar Justiniano, is part of Bolivia’s push to open up to the world and aims to broaden markets for the country’s meat sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-11T07:13:00-04:00",
+      "published_at_bo": "2026-03-11T07:13:00-04:00",
+      "fetched_at_utc": "2026-03-11T11:37:45.920244+00:00",
+      "day": "2026-03-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bolivia proyecta duplicar los aeropuertos internacionales",
+      "url": "https://eldeber.com.bo/economia/bolivia-proyecta-duplicar-aeropuertos-internacionales_1773226540",
+      "summary": "Bolivia avanza hacia una política de cielos abiertos y proyecta duplicar su red de aeropuertos internacionales de cuatro a ocho, mientras revisa normas y acuerdos para ampliar la apertura del mercado aéreo. El marco legal vigente restringe la participación de aerolíneas extranjeras y el cabotaje, por lo que la implementación requerirá cambios normativos y acuerdos bilaterales, pese a inversiones recientes en infraestructura aeroportuaria y servicios de navegación aérea.",
+      "summary_es": "Bolivia avanza hacia una política de cielos abiertos y proyecta duplicar su red de aeropuertos internacionales de cuatro a ocho, mientras revisa normas y acuerdos para ampliar la apertura del mercado aéreo. El marco legal vigente restringe la participación de aerolíneas extranjeras y el cabotaje, por lo que la implementación requerirá cambios normativos y acuerdos bilaterales, pese a inversiones recientes en infraestructura aeroportuaria y servicios de navegación aérea.",
+      "summary_en": "Bolivia is moving toward an open-skies policy and plans to double its international airport network from four to eight, as it reviews rules and agreements to broaden the open market in air travel. The current legal framework restricts foreign airlines’ participation and cabotage, so implementation will require regulatory changes and bilateral agreements, even as there have been recent investments in airport infrastructure and air navigation services.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-11T06:55:00-04:00",
+      "published_at_bo": "2026-03-11T06:55:00-04:00",
+      "fetched_at_utc": "2026-03-11T11:37:46.940807+00:00",
+      "day": "2026-03-11"
+    },
     {
       "source": "El Deber",
       "title": "Campaña ‘El Tarifazo’ de BoA reporta 28.703 reservas en menos de una semana",
