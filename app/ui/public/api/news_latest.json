@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-11T16:59:34.305955+00:00",
+  "generated_at_utc": "2026-03-11T17:10:45.337688+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Comisan madera de tajibo y chichurica transportada con permisos falsificados",
+      "url": "https://eldeber.com.bo/economia/comisan-madera-tajibo-chichurica-transportada-permisos-falsificados_1773246726",
+      "summary": "Un operativo de control forestal en la tranca de Pailas, Santa Cruz, decomisó un cargamento de madera de tajibo y chichurica transportado con documentación presuntamente falsificada, tras detectar inconsistencias en sellos y nombres que indicaban adulteración. Se levantó un acta de comiso del cargamento, compuesto principalmente por productos elaborados como mesitas para heladeras.",
+      "summary_es": "Un operativo de control forestal en la tranca de Pailas, Santa Cruz, decomisó un cargamento de madera de tajibo y chichurica transportado con documentación presuntamente falsificada, tras detectar inconsistencias en sellos y nombres que indicaban adulteración. Se levantó un acta de comiso del cargamento, compuesto principalmente por productos elaborados como mesitas para heladeras.",
+      "summary_en": "A forest control operation at the Pailas checkpoint in Santa Cruz seized a shipment of tajibo and chichurica timber that was being transported with allegedly falsified documents, after detecting inconsistencies in seals and names suggesting tampering. A seizure record was issued for the cargo, which consisted mainly of finished products such as small tables for refrigerators.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-11T12:35:00-04:00",
+      "published_at_bo": "2026-03-11T12:35:00-04:00",
+      "fetched_at_utc": "2026-03-11T16:59:30.233451+00:00",
+      "day": "2026-03-11"
+    },
+    {
+      "source": "El Deber",
+      "title": "¿Qué es el HB4 y por qué puede cambiar la producción de soya en Bolivia?",
+      "url": "https://eldeber.com.bo/economia/hb4-puede-cambiar-produccion-soya-bolivia_1773244433",
+      "summary": "Bolivia autorizó el evento HB4 para la producción de soya, una tecnología que mejora la tolerancia a la sequía y la resistencia a un herbicida, marcando el segundo evento biotecnológico aprobado en más de dos décadas. Los expertos señalan que, para ser competitivos ante vecinos como Paraguay y Brasil, es clave invertir en ciencia, educación y desarrollo tecnológico junto con una gestión agronómica sostenible.",
+      "summary_es": "Bolivia autorizó el evento HB4 para la producción de soya, una tecnología que mejora la tolerancia a la sequía y la resistencia a un herbicida, marcando el segundo evento biotecnológico aprobado en más de dos décadas. Los expertos señalan que, para ser competitivos ante vecinos como Paraguay y Brasil, es clave invertir en ciencia, educación y desarrollo tecnológico junto con una gestión agronómica sostenible.",
+      "summary_en": "Bolivia has approved the HB4 event for soybean production, a technology that enhances drought tolerance and resistance to a herbicide, marking the second biotech event approved in more than two decades. Experts say that to stay competitive with neighbors such as Paraguay and Brazil, it is crucial to invest in science, education and technological development, along with sustainable agronomic management.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-11T11:54:00-04:00",
+      "published_at_bo": "2026-03-11T11:54:00-04:00",
+      "fetched_at_utc": "2026-03-11T16:59:31.265021+00:00",
+      "day": "2026-03-11"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia tiene luz verde, por dos años, para exportar carne de res a Paraguay",
