@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-11T02:30:45.816676+00:00",
+  "generated_at_utc": "2026-03-11T02:50:23.862305+00:00",
   "count": 113,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Campaña ‘El Tarifazo’ de BoA reporta 28.703 reservas en menos de una semana",
+      "url": "https://eldeber.com.bo/economia/campana-tarifazo-boa-reporta-28-703-reservas-menos-semana_1773186846",
+      "summary": "BoA registró 28.703 reservas en la primera semana de la campaña de tarifas “El Tarifazo”, con 19.302 reservas para marzo y 6.204 para abril, representando el 10% del total de reservas y manteniendo un flujo sostenido de ventas. La tarifa incluye un artículo personal, equipaje de mano de hasta 7 kg, selección de asiento y web check-in, con vuelos como Sucre-Cochabamba desde 249 bs.",
+      "summary_es": "BoA registró 28.703 reservas en la primera semana de la campaña de tarifas “El Tarifazo”, con 19.302 reservas para marzo y 6.204 para abril, representando el 10% del total de reservas y manteniendo un flujo sostenido de ventas. La tarifa incluye un artículo personal, equipaje de mano de hasta 7 kg, selección de asiento y web check-in, con vuelos como Sucre-Cochabamba desde 249 bs.",
+      "summary_en": "BoA registered 28,703 bookings in the first week of the “El Tarifazo” fare campaign, including 19,302 bookings for March and 6,204 for April, representing 10% of total bookings and maintaining a steady sales flow. The fare includes a personal item, carry-on luggage up to 7 kg, seat selection, and web check-in, with flights such as Sucre–Cochabamba starting from 249 Bs.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-10T20:04:00-04:00",
+      "published_at_bo": "2026-03-10T20:04:00-04:00",
+      "fetched_at_utc": "2026-03-11T02:30:42.676488+00:00",
+      "day": "2026-03-10"
+    },
     {
       "source": "El Deber",
       "title": "Ministerio de Hidrocarburos descarta ajustes en los precios de combustibles",
