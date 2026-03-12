@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-12T17:06:34.859592+00:00",
+  "generated_at_utc": "2026-03-12T18:02:40.416471+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB anuncia primeros pagos por gasolina defectuosa, pero transportistas denuncian fallas en el registro",
+      "url": "https://eldeber.com.bo/economia/ypfb-anuncia-primeros-pagos-gasolina-defectuosa-transportistas-denuncian-fallas-registro_1773332595",
+      "summary": "YPFB prevé iniciar la próxima semana los pagos de compensación a los propietarios de vehículos afectados por la gasolina desestabilizada, mientras transportistas anuncian retrasos y solicitan soluciones rápidas ante exigencias como el RUAT, con posibles movilizaciones si no obtienen respuestas.",
+      "summary_es": "YPFB prevé iniciar la próxima semana los pagos de compensación a los propietarios de vehículos afectados por la gasolina desestabilizada, mientras transportistas anuncian retrasos y solicitan soluciones rápidas ante exigencias como el RUAT, con posibles movilizaciones si no obtienen respuestas.",
+      "summary_en": "YPFB expects to begin compensating vehicle owners affected by the destabilized gasoline next week, even as transport operators warn of delays and urge swift solutions to RUAT-related requirements, with possible protests if they do not receive a response.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-12T12:32:00-04:00",
+      "published_at_bo": "2026-03-12T12:32:00-04:00",
+      "fetched_at_utc": "2026-03-12T17:06:30.959094+00:00",
+      "day": "2026-03-12"
+    },
     {
       "source": "El Deber",
       "title": "Carne y leche boliviana ganan terreno en la región y apuntan a Chile como nuevo mercado",
