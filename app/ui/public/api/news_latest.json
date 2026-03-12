@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-12T16:04:00.023510+00:00",
+  "generated_at_utc": "2026-03-12T16:14:51.955392+00:00",
   "count": 98,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Carne y leche boliviana ganan terreno en la región y apuntan a Chile como nuevo mercado",
+      "url": "https://eldeber.com.bo/economia/carne-leche-boliviana-ganan-terreno-region-apuntan-chile-nuevo-mercado_1773327211",
+      "summary": "El mercado chileno podría abrirse a la carne bovina y los lácteos bolivianos tras certificados sanitarios y auditorías en Chile, marcando un paso clave para diversificar destinos y fortalecer la presencia regional. Esta apertura complementaría la actual expansión hacia Paraguay y otros mercados, aumentando las opciones comerciales para los productores bolivianos.",
+      "summary_es": "El mercado chileno podría abrirse a la carne bovina y los lácteos bolivianos tras certificados sanitarios y auditorías en Chile, marcando un paso clave para diversificar destinos y fortalecer la presencia regional. Esta apertura complementaría la actual expansión hacia Paraguay y otros mercados, aumentando las opciones comerciales para los productores bolivianos.",
+      "summary_en": "The Chilean market could open to Bolivian beef and dairy products after sanitary certificates and audits in Chile, marking a key step in diversifying destinations and strengthening regional presence. The opening would complement the current expansion into Paraguay and other markets, broadening trade options for Bolivian producers.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-12T11:09:00-04:00",
+      "published_at_bo": "2026-03-12T11:09:00-04:00",
+      "fetched_at_utc": "2026-03-12T16:03:56.406550+00:00",
+      "day": "2026-03-12"
+    },
     {
       "source": "El Deber",
       "title": "Seguro por gasolina: vence el primer plazo del registro sin datos oficiales",
