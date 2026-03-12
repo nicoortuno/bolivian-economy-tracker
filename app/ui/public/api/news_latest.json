@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-12T11:35:26.082859+00:00",
+  "generated_at_utc": "2026-03-12T11:44:32.604078+00:00",
   "count": 97,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Seguro por gasolina: vence el primer plazo del registro sin datos oficiales",
+      "url": "https://eldeber.com.bo/economia/seguro-gasolina-vence-primer-plazo-registro-datos-oficiales_1773314219",
+      "summary": "El primer plazo de registro para reclamar daños por la gasolina desestabilizada venció el 8 de marzo, sin datos oficiales actualizados sobre cuántos reclamos ingresaron al SREC, pese a estimaciones de miles de afectados y a denuncias de trabadores del transporte de fallas en la plataforma y en la respuesta gubernamental. Las federaciones y representantes del autotransporte advierten con posibles movilizaciones si no hay resarcimientos ni reuniones para esclarecer el proceso y los plazos, mientras no hay denuncias penales por sabotaje y la autoridad habla de posibles puntos físicos de inscripción.",
+      "summary_es": "El primer plazo de registro para reclamar daños por la gasolina desestabilizada venció el 8 de marzo, sin datos oficiales actualizados sobre cuántos reclamos ingresaron al SREC, pese a estimaciones de miles de afectados y a denuncias de trabadores del transporte de fallas en la plataforma y en la respuesta gubernamental. Las federaciones y representantes del autotransporte advierten con posibles movilizaciones si no hay resarcimientos ni reuniones para esclarecer el proceso y los plazos, mientras no hay denuncias penales por sabotaje y la autoridad habla de posibles puntos físicos de inscripción.",
+      "summary_en": "The first registration deadline to claim damages from destabilized gasoline expired on March 8, with no official, updated data on how many claims were submitted to the SREC, despite estimates of thousands affected and complaints from transportation workers about failures in the platform and in the government response. Federations and representatives of road transport warn of possible mobilizations if there are no compensations or meetings to clarify the process and timelines, while there have been no criminal complaints of sabotage, and authorities say there may be physical registration points.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-12T07:16:00-04:00",
+      "published_at_bo": "2026-03-12T07:16:00-04:00",
+      "fetched_at_utc": "2026-03-12T11:35:24.076365+00:00",
+      "day": "2026-03-12"
+    },
     {
       "source": "El Deber",
       "title": "Cielos abiertos despiertan interés de siete aerolíneas y Gobierno promete fortalecer BoA",
