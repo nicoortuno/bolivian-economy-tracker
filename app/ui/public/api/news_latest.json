@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-13T20:41:32.255228+00:00",
+  "generated_at_utc": "2026-03-13T20:53:23.839742+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BCB reingresa billetes de la serie A y abre el canje de billetes de la serie B",
+      "url": "https://eldeber.com.bo/economia/bcb-reingresa-billetes-serie-abre-canje-billetes-serie-b_1773433545",
+      "summary": "El presidente interino del Banco Central de Bolivia, David Espinoza, anunció el reingreso de los billetes de la serie A y habilitó el canje voluntario de los de la serie B a partir del 16 de marzo, para resolver el conflicto comercial y social originado por la rechazo a la serie B tras el siniestro en El Alto el 27 de febrero.",
+      "summary_es": "El presidente interino del Banco Central de Bolivia, David Espinoza, anunció el reingreso de los billetes de la serie A y habilitó el canje voluntario de los de la serie B a partir del 16 de marzo, para resolver el conflicto comercial y social originado por la rechazo a la serie B tras el siniestro en El Alto el 27 de febrero.",
+      "summary_en": "Bolivia’s interim president of the Central Bank, David Espinoza, announced the reintroduction of Series A banknotes and opened a voluntary exchange for Series B notes starting March 16, to resolve the commercial and social unrest sparked by the rejection of Series B after the incident in El Alto on February 27.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-13T16:34:00-04:00",
+      "published_at_bo": "2026-03-13T16:34:00-04:00",
+      "fetched_at_utc": "2026-03-13T20:41:29.924564+00:00",
+      "day": "2026-03-13"
+    },
     {
       "source": "El Deber",
       "title": "YPFB alista pagos, pero transportistas denuncian fallas en el registro",
