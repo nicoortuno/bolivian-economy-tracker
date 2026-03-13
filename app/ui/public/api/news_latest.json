@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-13T11:36:08.649594+00:00",
+  "generated_at_utc": "2026-03-13T11:46:48.611059+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB alista pagos, pero transportistas denuncian fallas en el registro",
+      "url": "https://eldeber.com.bo/economia/ypfb-alista-pagos-transportistas-denuncian-fallas-registro_1773400618",
+      "summary": "La disputa por los daños atribuidos a la gasolina desestabilizada en Bolivia sigue generando tensiones entre transportistas y el Gobierno, mientras YPFB prevé iniciar la próxima semana los primeros pagos de resarcimiento a los afectados. Sin embargo, sectores como el transporte urbano y los mototaxistas denuncian retrasos y fallos en el registro de reclamos (incluido el uso del RUAT) que dificultan la verificación de propiedad, y advierten con nuevas movilizaciones si no obtienen respuestas rápidas.",
+      "summary_es": "La disputa por los daños atribuidos a la gasolina desestabilizada en Bolivia sigue generando tensiones entre transportistas y el Gobierno, mientras YPFB prevé iniciar la próxima semana los primeros pagos de resarcimiento a los afectados. Sin embargo, sectores como el transporte urbano y los mototaxistas denuncian retrasos y fallos en el registro de reclamos (incluido el uso del RUAT) que dificultan la verificación de propiedad, y advierten con nuevas movilizaciones si no obtienen respuestas rápidas.",
+      "summary_en": "The dispute over damages attributed to the destabilized gasoline in Bolivia continues to fuel tensions between transport workers and the government, as YPFB plans to begin next week with the first compensation payments to those affected. However, sectors such as urban transport and motorcycle taxi drivers report delays and flaws in the claims registration process (including the use of RUAT), which hinder property verification, and they warn of further protests if they do not receive swift responses.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-13T07:16:00-04:00",
+      "published_at_bo": "2026-03-13T07:16:00-04:00",
+      "fetched_at_utc": "2026-03-13T11:36:05.546537+00:00",
+      "day": "2026-03-13"
+    },
+    {
+      "source": "El Deber",
+      "title": "Lluvias amenazan la mayor cosecha de soya, maíz y sorgo en  Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/lluvias-amenazan-mayor-cosecha-soya-maiz-sorgo-santa-cruz_1773399413",
+      "summary": "Las lluvias persistentes en Santa Cruz amenazan la campaña de verano al coincidir con la cosecha y podrían afectar hasta 2,2 millones de hectáreas de cultivos, principalmente soya, maíz y sorgo. Además generan dificultades logísticas para el transporte de alimentos y elevan el riesgo de inundaciones en ríos como el Piraí, con autoridades desplegando medidas de mitigación.",
+      "summary_es": "Las lluvias persistentes en Santa Cruz amenazan la campaña de verano al coincidir con la cosecha y podrían afectar hasta 2,2 millones de hectáreas de cultivos, principalmente soya, maíz y sorgo. Además generan dificultades logísticas para el transporte de alimentos y elevan el riesgo de inundaciones en ríos como el Piraí, con autoridades desplegando medidas de mitigación.",
+      "summary_en": "Persistent rains in Santa Cruz threaten the summer farming season as they coincide with the harvest, potentially affecting up to 2.2 million hectares of crops, primarily soybeans, corn, and sorghum. They also create logistical challenges for transporting food and raise flood risk in rivers such as the Pirai, with authorities deploying mitigation measures.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-13T06:56:00-04:00",
+      "published_at_bo": "2026-03-13T06:56:00-04:00",
+      "fetched_at_utc": "2026-03-13T11:36:06.512395+00:00",
+      "day": "2026-03-13"
+    },
     {
       "source": "El Deber",
       "title": "Lluvias amenazan la mayor cosecha del año en Santa Cruz",
