@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-14T20:35:10.053713+00:00",
+  "generated_at_utc": "2026-03-14T20:46:02.159573+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB programa despacho de 1,6 millones de litros de gasolina para Cochabamba",
+      "url": "https://eldeber.com.bo/economia/ypfb-programa-despacho-1-6-millones-litros-gasolina-cochabamba_1773519664",
+      "summary": "YPFB anunció que este domingo se despacharán 1,6 millones de litros de gasolina en Cochabamba, tras ya haber entregado 2 millones de litros el sábado, con el objetivo de garantizar el abastecimiento en la región. La planta de Valle Hermoso operará 24 horas ese día para regularizar los despachos, mientras la estatal llamó a la población a mantener la calma y evitar rumores.",
+      "summary_es": "YPFB anunció que este domingo se despacharán 1,6 millones de litros de gasolina en Cochabamba, tras ya haber entregado 2 millones de litros el sábado, con el objetivo de garantizar el abastecimiento en la región. La planta de Valle Hermoso operará 24 horas ese día para regularizar los despachos, mientras la estatal llamó a la población a mantener la calma y evitar rumores.",
+      "summary_en": "YPFB announced that this Sunday 1.6 million liters of gasoline will be dispatched in Cochabamba, after delivering 2 million liters on Saturday, with the aim of guaranteeing supply in the region. The Valle Hermoso plant will operate around the clock that day to regularize shipments, while the state-owned company urged people to stay calm and avoid rumors.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-14T16:30:00-04:00",
+      "published_at_bo": "2026-03-14T16:30:00-04:00",
+      "fetched_at_utc": "2026-03-14T20:35:07.076646+00:00",
+      "day": "2026-03-14"
+    },
     {
       "source": "El Deber",
       "title": "En aeropuerto Jorge Wilstermann realizan primer simulacro nocturno de emergencia y BoA avanza en recertificación IOSA",
