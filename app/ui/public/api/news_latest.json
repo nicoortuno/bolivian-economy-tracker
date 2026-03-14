@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-14T14:48:29.044822+00:00",
-  "count": 92,
+  "generated_at_utc": "2026-03-14T15:34:13.647156+00:00",
+  "count": 90,
   "items": [
     {
       "source": "El Deber",
@@ -1247,48 +1247,6 @@
       "published_at_bo": "2026-03-01T09:36:00-04:00",
       "fetched_at_utc": "2026-03-01T19:27:49.184701+00:00",
       "day": "2026-03-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "Presidente de CAF cierra visita a Bolivia con llamado a una alianza histórica para “levantar el país”",
-      "url": "https://eldeber.com.bo/economia/presidente-caf-cierra-visita-bolivia-llamado-alianza-historica-levantar-pais_1772303317",
-      "summary": "La CAF ratificó créditos por 3.100 millones de dólares para proyectos en Bolivia y enfatizó una alianza entre el Estado, el sector privado y la propia CAF durante la visita de Sergio Díaz-Granados. Se presentó la Estrategia País 2025–2030 y se subrayó la orientación hacia infraestructura, desarrollo social y reformas institucionales para impulsar el crecimiento y la estabilidad macroeconómica.",
-      "summary_es": "La CAF ratificó créditos por 3.100 millones de dólares para proyectos en Bolivia y enfatizó una alianza entre el Estado, el sector privado y la propia CAF durante la visita de Sergio Díaz-Granados. Se presentó la Estrategia País 2025–2030 y se subrayó la orientación hacia infraestructura, desarrollo social y reformas institucionales para impulsar el crecimiento y la estabilidad macroeconómica.",
-      "summary_en": "CAF reaffirmed $3.1 billion in loans for projects in Bolivia and stressed a partnership among the state, the private sector, and the bank itself during Sergio Díaz-Granados’ visit. The Country Strategy 2025–2030 was unveiled, underscoring a focus on infrastructure, social development, and institutional reforms to boost growth and macroeconomic stability.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-28T14:28:00-04:00",
-      "published_at_bo": "2026-02-28T14:28:00-04:00",
-      "fetched_at_utc": "2026-02-28T23:28:11.804052+00:00",
-      "day": "2026-02-28"
-    },
-    {
-      "source": "El Deber",
-      "title": "Tragedia aérea en El Alto obliga al gobierno a modificar agenda oficial con la CAF",
-      "url": "https://eldeber.com.bo/economia/tragedia-aerea-alto-obliga-gobierno-modificar-agenda-oficial-caf_1772284625",
-      "summary": "Un grave accidente aéreo en El Alto obligó al ministro de Obras Públicas a suspender parte de su agenda con la CAF para coordinar la emergencia, en medio de un profundo dolor nacional. La reunión prevista de la CAF con empresarios se mantiene, pero sin la presencia del presidente de la CAF ni del ministro, a quienes se les dio prioridad para atender la tragedia y acompañar a las víctimas.",
-      "summary_es": "Un grave accidente aéreo en El Alto obligó al ministro de Obras Públicas a suspender parte de su agenda con la CAF para coordinar la emergencia, en medio de un profundo dolor nacional. La reunión prevista de la CAF con empresarios se mantiene, pero sin la presencia del presidente de la CAF ni del ministro, a quienes se les dio prioridad para atender la tragedia y acompañar a las víctimas.",
-      "summary_en": "A major air crash in El Alto forced the Minister of Public Works to suspend part of his schedule with CAF to coordinate the emergency, amid deep national sorrow. The planned CAF meeting with business leaders remains on the books, but without the presence of the CAF president or the minister, who were prioritized to attend to the tragedy and support the victims.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-28T09:17:00-04:00",
-      "published_at_bo": "2026-02-28T09:17:00-04:00",
-      "fetched_at_utc": "2026-02-28T18:40:19.591117+00:00",
-      "day": "2026-02-28"
-    },
-    {
-      "source": "El Deber",
-      "title": "BCB declara inválidos los billetes de la serie B y alerta sobre sanciones",
-      "url": "https://eldeber.com.bo/economia/bcb-declara-invalidos-billetes-hallados-avion-siniestrado-alerta-sanciones_1772278493",
-      "summary": "El Banco Central de Bolivia anunció que los billetes de Bs 10, 20 y 50 de la Serie B quedan inválidos para uso, aunque pueden canjearse por su valor en el sistema financiero, tras el siniestro del avión en El Alto; además, hay advertencias sobre que dinero recuperado del accidente no tendrá curso legal si se intenta circular, y parte de él fue incinerado para evitar usos indebidos.",
-      "summary_es": "El Banco Central de Bolivia anunció que los billetes de Bs 10, 20 y 50 de la Serie B quedan inválidos para uso, aunque pueden canjearse por su valor en el sistema financiero, tras el siniestro del avión en El Alto; además, hay advertencias sobre que dinero recuperado del accidente no tendrá curso legal si se intenta circular, y parte de él fue incinerado para evitar usos indebidos.",
-      "summary_en": "The Central Bank of Bolivia announced that Bs 10, 20 and 50 notes from Series B are no longer valid for circulation, though they can be exchanged for their value through the financial system, following the plane crash in El Alto. It also warned that money recovered from the accident would not be legal tender if put back into circulation, and that part of it had been incinerated to prevent misuse.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-02-28T07:40:00-04:00",
-      "published_at_bo": "2026-02-28T07:40:00-04:00",
-      "fetched_at_utc": "2026-02-28T17:25:06.563149+00:00",
-      "day": "2026-02-28"
     }
   ]
 }
