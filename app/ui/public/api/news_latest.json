@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-14T15:34:13.647156+00:00",
+  "generated_at_utc": "2026-03-14T15:42:18.674567+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "En aeropuerto Jorge Wilstermann realizan primer simulacro nocturno de emergencia y BoA avanza en recertificación IOSA",
+      "url": "https://eldeber.com.bo/economia/aeropuerto-jorge-wilstermann-realizan-primer-simulacro-nocturno-emergencia-boa-avanza-recertificacion-iosa_1773501541",
+      "summary": "Un simulacro nocturno de emergencia en el Aeropuerto Internacional de Cochabamba, liderado por Naabol, DGAC y BoA bajo directrices del ministro Mauricio Zamora, permitió probar la coordinación interinstitucional, los tiempos de respuesta y los protocolos de seguridad para avanzar en la recertificación IOSA. La prueba, planificada con 120 días de anticipación y que involucró a unas 1.000 personas, simuló una aproximación inestable por viento cruzado y la ingesta de aves, activando el PEA, el COE y los servicios de emergencia para evaluar la gestión de crisis.",
+      "summary_es": "Un simulacro nocturno de emergencia en el Aeropuerto Internacional de Cochabamba, liderado por Naabol, DGAC y BoA bajo directrices del ministro Mauricio Zamora, permitió probar la coordinación interinstitucional, los tiempos de respuesta y los protocolos de seguridad para avanzar en la recertificación IOSA. La prueba, planificada con 120 días de anticipación y que involucró a unas 1.000 personas, simuló una aproximación inestable por viento cruzado y la ingesta de aves, activando el PEA, el COE y los servicios de emergencia para evaluar la gestión de crisis.",
+      "summary_en": "A nocturnal emergency drill at Cochabamba International Airport, led by Naabol, DGAC, and Boliviana de Aviación under the guidance of Minister Mauricio Zamora, tested interagency coordination, response times, and safety protocols as part of advancing IOSA recertification. Planned 120 days in advance and involving about 1,000 people, the exercise simulated an unstable approach due to crosswinds and a bird ingestion, triggering the Emergency Action Plan (PEA), the Emergency Operations Center (COE), and the emergency services to evaluate crisis management.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-14T11:33:00-04:00",
+      "published_at_bo": "2026-03-14T11:33:00-04:00",
+      "fetched_at_utc": "2026-03-14T15:34:11.688822+00:00",
+      "day": "2026-03-14"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia concreta acuerdos estratégicos con la FAO para modernizar el sector agropecuario nacional",
