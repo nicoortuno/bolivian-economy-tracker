@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-15T15:44:46.228441+00:00",
-  "count": 92,
+  "generated_at_utc": "2026-03-15T16:38:42.328219+00:00",
+  "count": 90,
   "items": [
     {
       "source": "El Deber",
@@ -1219,76 +1219,6 @@
       "published_at_bo": "2026-03-02T10:43:00-04:00",
       "fetched_at_utc": "2026-03-02T19:40:18.217015+00:00",
       "day": "2026-03-02"
-    },
-    {
-      "source": "El Deber",
-      "title": "Asoban recomienda priorizar pagos electrónicos tras la invalidación de billetes de la Serie B",
-      "url": "https://eldeber.com.bo/economia/asoban-recomienda-priorizar-pagos-electronicos-invalidacion-billetes-serie-b_1772389930",
-      "summary": "Asoban recomendó a la población priorizar pagos electrónicos (QR y otras modalidades) para evitar los billetes de la Serie B invalidados por el BCB, que serán retenidos, invalidado y destruidos por las entidades financieras. La entidad recordó que los billetes válidos siguen siendo de curso legal y disponibilizó el verificador de números de serie del BCB para verificar la legitimidad de los billetes.",
-      "summary_es": "Asoban recomendó a la población priorizar pagos electrónicos (QR y otras modalidades) para evitar los billetes de la Serie B invalidados por el BCB, que serán retenidos, invalidado y destruidos por las entidades financieras. La entidad recordó que los billetes válidos siguen siendo de curso legal y disponibilizó el verificador de números de serie del BCB para verificar la legitimidad de los billetes.",
-      "summary_en": "Asoban urged the public to prioritize electronic payments (QR and other methods) to avoid using the Series B banknotes that the BCB has invalidated, which will be held, invalidated, and destroyed by financial institutions. The group reminded people that valid banknotes remain legal tender and released the BCB’s serial-number verifier to check the legitimacy of banknotes.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-01T14:42:00-04:00",
-      "published_at_bo": "2026-03-01T14:42:00-04:00",
-      "fetched_at_utc": "2026-03-01T23:29:36.863439+00:00",
-      "day": "2026-03-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "Violento ataque a control aduanero en Boyuibe deja heridos leves y un vehículo incendiado",
-      "url": "https://eldeber.com.bo/economia/violento-ataque-control-aduanero-boyuibe-deja-heridos-leves-vehiculo-incendiado_1772379436",
-      "summary": "Un grupo de presuntos contrabandistas atacó a funcionarios del GRIA en el peaje de Boyuibe (Santa Cruz), lanzando piedras y petardos y incendiando un vehículo oficial; hubo daños materiales y lesiones leves, y no se reportaron detenciones al cierre de esta edición.",
-      "summary_es": "Un grupo de presuntos contrabandistas atacó a funcionarios del GRIA en el peaje de Boyuibe (Santa Cruz), lanzando piedras y petardos y incendiando un vehículo oficial; hubo daños materiales y lesiones leves, y no se reportaron detenciones al cierre de esta edición.",
-      "summary_en": "A group of alleged smugglers attacked officials from GRIA at the Boyuibe toll booth in Santa Cruz, throwing stones and firecrackers and setting an official vehicle on fire. There was material damage and minor injuries, and no arrests were reported as of this edition.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-01T11:45:00-04:00",
-      "published_at_bo": "2026-03-01T11:45:00-04:00",
-      "fetched_at_utc": "2026-03-01T21:28:54.774118+00:00",
-      "day": "2026-03-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "YPFB anuncia la llegada de un lote de aditivos para \"reforzar\" la calidad de la gasolina",
-      "url": "https://eldeber.com.bo/economia/ypfb-anuncia-llegada-lote-aditivos-reforzar-calidad-gasolina_1772377462",
-      "summary": "YPFB inició un proceso de modernización del sistema de combustibles al incorporar por primera vez en Bolivia aditivos especializados (antioxidantes y detergentes) en la gasolina, con un primer lote de 17 toneladas destinado a mejorar la calidad en toda la cadena. La medida, anunciada tras quejas sobre la calidad de la gasolina, busca avanzar hacia una aditivación permanente y estándares internacionales para proteger el rendimiento de los vehículos.",
-      "summary_es": "YPFB inició un proceso de modernización del sistema de combustibles al incorporar por primera vez en Bolivia aditivos especializados (antioxidantes y detergentes) en la gasolina, con un primer lote de 17 toneladas destinado a mejorar la calidad en toda la cadena. La medida, anunciada tras quejas sobre la calidad de la gasolina, busca avanzar hacia una aditivación permanente y estándares internacionales para proteger el rendimiento de los vehículos.",
-      "summary_en": "YPFB has launched a modernization of the fuel system by introducing specialized additives (antioxidants and detergents) into gasoline for the first time in Bolivia, with an initial batch of 17 tons aimed at improving quality across the entire supply chain. The move, announced after complaints about gasoline quality, seeks to advance toward permanent additive use and international standards to protect vehicle performance.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-01T11:28:00-04:00",
-      "published_at_bo": "2026-03-01T11:28:00-04:00",
-      "fetched_at_utc": "2026-03-01T20:33:42.799452+00:00",
-      "day": "2026-03-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "¿Tu billete tiene valor legal? El BCB activa un verificador de números de serie",
-      "url": "https://eldeber.com.bo/economia/billete-tiene-valor-legal-bcb-activa-verificador-numeros-serie_1772373516",
-      "summary": "El Banco Central de Bolivia lanzó en su sitio oficial el Verificador de Número de Serie para que la población confirme en segundos si billetes de Bs 10, 20 o 50 de la Serie B pertenecen a un lote inhabilitado tras el accidente aéreo, o conservan su validez. La entidad recomienda usar únicamente la página oficial y verificar los billetes antes de transacciones importantes desde el 2 de marzo.",
-      "summary_es": "El Banco Central de Bolivia lanzó en su sitio oficial el Verificador de Número de Serie para que la población confirme en segundos si billetes de Bs 10, 20 o 50 de la Serie B pertenecen a un lote inhabilitado tras el accidente aéreo, o conservan su validez. La entidad recomienda usar únicamente la página oficial y verificar los billetes antes de transacciones importantes desde el 2 de marzo.",
-      "summary_en": "The Central Bank of Bolivia has launched on its official site the Serial Number Verifier to let the public quickly check whether 10-, 20-, and 50-boliviano notes in Series B belong to a deactivated batch linked to the air crash, or whether they remain valid. The bank urges people to use only the official page and verify banknotes before any major transactions, effective March 2.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-01T10:03:00-04:00",
-      "published_at_bo": "2026-03-01T10:03:00-04:00",
-      "fetched_at_utc": "2026-03-01T19:27:48.221611+00:00",
-      "day": "2026-03-01"
-    },
-    {
-      "source": "El Deber",
-      "title": "Tenés billetes de la serie B, ¿Qué debes hacer?",
-      "url": "https://eldeber.com.bo/economia/tenes-billetes-serie-b-debes-hacer_1772371726",
-      "summary": "El Banco Central de Bolivia inhabilitó los billetes de Bs 10, Bs 20 y Bs 50 de la Serie B del cargamento del accidente para evitar su uso indebido, dejando en suspenso su validez hasta nuevas medidas y ofreciendo canje para los billetes legítimamente obtenidos no vinculados al lote. Las entidades financieras mantienen operaciones normales y pueden canjear o cambiar estos billetes suspendidos, mientras que la población debe devolverlos si los identifican.",
-      "summary_es": "El Banco Central de Bolivia inhabilitó los billetes de Bs 10, Bs 20 y Bs 50 de la Serie B del cargamento del accidente para evitar su uso indebido, dejando en suspenso su validez hasta nuevas medidas y ofreciendo canje para los billetes legítimamente obtenidos no vinculados al lote. Las entidades financieras mantienen operaciones normales y pueden canjear o cambiar estos billetes suspendidos, mientras que la población debe devolverlos si los identifican.",
-      "summary_en": "The Central Bank of Bolivia has disabled the Bs 10, Bs 20, and Bs 50 notes from Series B of the shipment tied to the incident to prevent their improper use, suspending their validity until further notice and offering exchanges for notes that were legitimately obtained and are not tied to the batch. Financial institutions are continuing normal operations and can exchange or redeem these suspended banknotes, while the public is urged to return any they encounter.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-01T09:36:00-04:00",
-      "published_at_bo": "2026-03-01T09:36:00-04:00",
-      "fetched_at_utc": "2026-03-01T19:27:49.184701+00:00",
-      "day": "2026-03-01"
     }
   ]
 }
