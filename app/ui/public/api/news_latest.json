@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-15T16:38:42.328219+00:00",
+  "generated_at_utc": "2026-03-15T16:49:48.381149+00:00",
   "count": 90,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB despacha gasolina para reforzar el abastecimiento en Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/ypfb-despacha-gasolina-reforzar-abastecimiento-santa-cruz_1773592136",
+      "summary": "YPFB programó este domingo el despacho de 2.000 m³ de gasolina para Santa Cruz, complementando los 3.000 m³ ya despachados y enmarcado en la planificación regular de PRODE. La estatal busca garantizar la provisión continua y la calidad de los combustibles, y pidió a la población mantener la calma y evitar información no verificada en redes sociales.",
+      "summary_es": "YPFB programó este domingo el despacho de 2.000 m³ de gasolina para Santa Cruz, complementando los 3.000 m³ ya despachados y enmarcado en la planificación regular de PRODE. La estatal busca garantizar la provisión continua y la calidad de los combustibles, y pidió a la población mantener la calma y evitar información no verificada en redes sociales.",
+      "summary_en": "YPFB scheduled this Sunday the dispatch of 2,000 cubic meters of gasoline to Santa Cruz, adding to the 3,000 cubic meters already delivered and in line with PRODE’s regular planning. The state-owned company says its goal is to ensure a continuous and reliable fuel supply and quality, and it asked the public to stay calm and avoid unverified information on social media.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-15T12:34:00-04:00",
+      "published_at_bo": "2026-03-15T12:34:00-04:00",
+      "fetched_at_utc": "2026-03-15T16:38:38.625708+00:00",
+      "day": "2026-03-15"
+    },
+    {
+      "source": "El Deber",
+      "title": "Lula y Paz apostarán por una relación bilateral más pragmática con la firma de 5 acuerdos",
+      "url": "https://eldeber.com.bo/economia/lula-paz-apostaran-relacion-bilateral-pragmatica-firma-5-acuerdos_1773590942",
+      "summary": "Lula da Silva recibe en Brasilia a su homólogo boliviano, Rodrigo Paz, en la primera visita oficial de este a Brasil para consolidar una relación bilateral más pragmática mediante la firma de cinco acuerdos estratégicos que cubren áreas como energía, comercio, desarrollo y seguridad. La reunión busca restablecer la cooperación práctico-efectiva entre ambos países, priorizando temas migratorios, ambientales y de infraestructura, como la propuesta de un puente sobre el Mamoré.",
+      "summary_es": "Lula da Silva recibe en Brasilia a su homólogo boliviano, Rodrigo Paz, en la primera visita oficial de este a Brasil para consolidar una relación bilateral más pragmática mediante la firma de cinco acuerdos estratégicos que cubren áreas como energía, comercio, desarrollo y seguridad. La reunión busca restablecer la cooperación práctico-efectiva entre ambos países, priorizando temas migratorios, ambientales y de infraestructura, como la propuesta de un puente sobre el Mamoré.",
+      "summary_en": "Lula da Silva welcomes his Bolivian counterpart, Rodrigo Paz, in Brasilia, marking the latter’s first official visit to Brazil to deepen a more pragmatic bilateral relationship through the signing of five strategic accords covering energy, trade, development, and security. The meeting seeks to restore practical, effective cooperation between the two countries, prioritizing migration, environmental, and infrastructure issues, including the proposal for a bridge over the Mamoré River.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-15T12:09:00-04:00",
+      "published_at_bo": "2026-03-15T12:09:00-04:00",
+      "fetched_at_utc": "2026-03-15T16:38:39.633275+00:00",
+      "day": "2026-03-15"
+    },
+    {
+      "source": "El Deber",
+      "title": "ABC reporta bloqueos, derrumbes y restricciones en varias rutas del país",
+      "url": "https://eldeber.com.bo/economia/abc-reporta-bloqueos-derrumbes-restricciones-varias-rutas-pais_1773587981",
+      "summary": "La ABC actualizó su reporte nacional de transitabilidad, reportando bloqueos, inundaciones, derrumbes y restricciones de circulación en varias regiones, con tramos transitable solo con desvíos y otros completamente no transitables. También se anunciaron horarios de paso regulados y se recomendó verificar el estado de las rutas antes de viajar, utilizando la línea de WhatsApp 71219232 o el portal web de transitabilidad para información actualizada.",
+      "summary_es": "La ABC actualizó su reporte nacional de transitabilidad, reportando bloqueos, inundaciones, derrumbes y restricciones de circulación en varias regiones, con tramos transitable solo con desvíos y otros completamente no transitables. También se anunciaron horarios de paso regulados y se recomendó verificar el estado de las rutas antes de viajar, utilizando la línea de WhatsApp 71219232 o el portal web de transitabilidad para información actualizada.",
+      "summary_en": "ABC updated its national transitability report, noting roadblocks, floods, landslides, and travel restrictions across several regions, with some road sections navigable only via detours and others completely blocked. Regulated passage times were announced, and travelers were urged to check road conditions before traveling, using the WhatsApp line 71219232 or the transitability website for up-to-date information.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-15T11:46:00-04:00",
+      "published_at_bo": "2026-03-15T11:46:00-04:00",
+      "fetched_at_utc": "2026-03-15T16:38:40.625613+00:00",
+      "day": "2026-03-15"
+    },
     {
       "source": "El Deber",
       "title": "Sector constructor convoca a “tractorazo nacional” para exigir reajuste de precios",
