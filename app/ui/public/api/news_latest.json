@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-15T20:36:21.370976+00:00",
+  "generated_at_utc": "2026-03-15T20:47:03.608040+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Validan tres variedades de algodón con biotecnología en Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/validan-tres-variedades-algodon-biotecnologia-santa-cruz_1773603776",
+      "summary": "Un proceso de validación agronómica de tres variedades de algodón genéticamente modificado (Guaraní, Pora 3 y Guazuncho 4) con los eventos RR y BT, supervisado por el Comité Nacional de Bioseguridad y con la participación de CAO, CIAT y FEDEPA, tuvo ensayos en Saavedra, Pailón y Cañada Larga y concluyó con la cosecha en Cañada Larga para generar un informe técnico al CNB que podría habilitar una resolución gubernamental de uso.",
+      "summary_es": "Un proceso de validación agronómica de tres variedades de algodón genéticamente modificado (Guaraní, Pora 3 y Guazuncho 4) con los eventos RR y BT, supervisado por el Comité Nacional de Bioseguridad y con la participación de CAO, CIAT y FEDEPA, tuvo ensayos en Saavedra, Pailón y Cañada Larga y concluyó con la cosecha en Cañada Larga para generar un informe técnico al CNB que podría habilitar una resolución gubernamental de uso.",
+      "summary_en": "An agronomic validation process for three genetically modified cotton varieties (Guaraní, Pora 3, and Guazuncho 4) carrying the RR and BT events, overseen by the National Biosafety Committee with participation from CAO, CIAT, and FEDEPA, conducted field trials in Saavedra, Pailón, and Cañada Larga. The program concluded with a harvest in Cañada Larga to prepare a technical report for the CNB that could pave the way for a government resolution authorizing their use.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-15T15:50:00-04:00",
+      "published_at_bo": "2026-03-15T15:50:00-04:00",
+      "fetched_at_utc": "2026-03-15T20:36:16.443974+00:00",
+      "day": "2026-03-15"
+    },
     {
       "source": "El Deber",
       "title": "YPFB despacha gasolina para reforzar el abastecimiento en Santa Cruz",
