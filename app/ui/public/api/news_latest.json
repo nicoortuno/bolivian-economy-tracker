@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-17T15:02:40.250248+00:00",
+  "generated_at_utc": "2026-03-17T15:19:46.155481+00:00",
   "count": 89,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno paraliza importación de arroz hasta que concluya la cosecha y refuerza controles contra el contrabando",
+      "url": "https://eldeber.com.bo/economia/gobierno-paraliza-importacion-arroz-concluya-cosecha-refuerza-controles-contrabando_1773757827",
+      "summary": "El Gobierno suspendió temporalmente las importaciones de arroz durante la cosecha para proteger a los productores ante el aumento del contrabando, tras un operativo en Montero que dejó decomisadas 9.2 toneladas de arroz argentino sin documentación y unas 175 toneladas retenidas por irregularidades de etiquetado y trazabilidad. Además, se anunciaron refuerzos de controles y se advirtió sobre riesgos sanitarios si el producto carece de registro sanitario y datos de origen.",
+      "summary_es": "El Gobierno suspendió temporalmente las importaciones de arroz durante la cosecha para proteger a los productores ante el aumento del contrabando, tras un operativo en Montero que dejó decomisadas 9.2 toneladas de arroz argentino sin documentación y unas 175 toneladas retenidas por irregularidades de etiquetado y trazabilidad. Además, se anunciaron refuerzos de controles y se advirtió sobre riesgos sanitarios si el producto carece de registro sanitario y datos de origen.",
+      "summary_en": "The government temporarily suspended rice imports during the harvest to protect producers amid rising smuggling after a crackdown in Montero that resulted in the seizure of 9.2 tons of Argentine rice without documentation and about 175 tons held for labeling and traceability irregularities. The authorities also announced stepped-up inspections and warned of health risks if the product lacks sanitary registration and origin data.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-17T10:35:00-04:00",
+      "published_at_bo": "2026-03-17T10:35:00-04:00",
+      "fetched_at_utc": "2026-03-17T15:02:35.051319+00:00",
+      "day": "2026-03-17"
+    },
+    {
+      "source": "El Deber",
+      "title": "Empresarios bolivianos buscan atraer inversiones y fortalecer la integración energética y agroindustrial con Brasil",
+      "url": "https://eldeber.com.bo/economia/empresarios-bolivianos-buscan-atraer-inversiones-fortalecer-integracion-energetica-agroindustrial-brasil_1773756013",
+      "summary": "Bolivia intensifica su apertura al libre comercio y busca fortalecer la integración con Brasil mediante un encuentro empresarial en São Paulo con más de 120 empresarios, para impulsar inversiones y cooperación en energía, agroindustria y tecnología. El objetivo es aprovechar a Brasil, especialmente Petrobras y otros actores, como plataforma para ampliar mercados y modernizar el aparato productivo boliviano, manteniendo vínculos comerciales que trascienden los ciclos políticos.",
+      "summary_es": "Bolivia intensifica su apertura al libre comercio y busca fortalecer la integración con Brasil mediante un encuentro empresarial en São Paulo con más de 120 empresarios, para impulsar inversiones y cooperación en energía, agroindustria y tecnología. El objetivo es aprovechar a Brasil, especialmente Petrobras y otros actores, como plataforma para ampliar mercados y modernizar el aparato productivo boliviano, manteniendo vínculos comerciales que trascienden los ciclos políticos.",
+      "summary_en": "Bolivia intensifies its openness to free trade and aims to strengthen integration with Brazil through a business meeting in São Paulo with more than 120 entrepreneurs, to boost investment and cooperation in energy, agro-industry, and technology. The goal is to leverage Brazil, especially Petrobras and other players, as a platform to expand markets and modernize Bolivia’s productive apparatus, while maintaining trade ties that transcend political cycles.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-17T10:09:00-04:00",
+      "published_at_bo": "2026-03-17T10:09:00-04:00",
+      "fetched_at_utc": "2026-03-17T15:02:36.042773+00:00",
+      "day": "2026-03-17"
+    },
     {
       "source": "El Deber",
       "title": "Serie B: cambio de billetes arranca con dudas en el comercio y canje limitado",
