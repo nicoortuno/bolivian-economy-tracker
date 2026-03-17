@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-17T20:47:22.301552+00:00",
+  "generated_at_utc": "2026-03-17T20:58:06.002538+00:00",
   "count": 95,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "BoA vende más de 41.000 pasajes en 10 días con la campaña “El Tarifazo”",
+      "url": "https://eldeber.com.bo/economia/boa-vende-41-000-pasajes-10-dias-campana-tarifazo_1773776523",
+      "summary": "La aerolínea Boliviana de Aviación (BoA) informó que su campaña promocional “El Tarifazo” cerró tras vender más de 41.000 pasajes en 10 días en diversas rutas nacionales con tarifas reducidas para equipaje de mano, con el objetivo de fortalecer la conectividad y dinamizar la economía regional.",
+      "summary_es": "La aerolínea Boliviana de Aviación (BoA) informó que su campaña promocional “El Tarifazo” cerró tras vender más de 41.000 pasajes en 10 días en diversas rutas nacionales con tarifas reducidas para equipaje de mano, con el objetivo de fortalecer la conectividad y dinamizar la economía regional.",
+      "summary_en": "Bolivian airline Boliviana de Aviación (BoA) said its promotional campaign \"El Tarifazo\" has ended after selling more than 41,000 tickets in 10 days across various domestic routes, with reduced fares for carry-on luggage, aimed at strengthening connectivity and boosting the regional economy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-17T16:05:00-04:00",
+      "published_at_bo": "2026-03-17T16:05:00-04:00",
+      "fetched_at_utc": "2026-03-17T20:47:15.176949+00:00",
+      "day": "2026-03-17"
+    },
+    {
+      "source": "El Deber",
+      "title": "Presidente de Bolivia quiere \"relanzar\" la relación con la petrolera brasileña Petrobras",
+      "url": "https://eldeber.com.bo/economia/presidente-bolivia-quiere-relanzar-relacion-petrolera-brasilena-petrobras_1773775632",
+      "summary": "El presidente boliviano, Rodrigo Paz, afirmó en São Paulo que quiere relanzar la relación con Petrobras y reformar la normativa para acelerar la inversión en el sector energético, especialmente en hidrocarburos. También destacó la intención de ampliar la cooperación con Brasil en minería, con reglas claras y seguridad jurídica para atraer inversiones.",
+      "summary_es": "El presidente boliviano, Rodrigo Paz, afirmó en São Paulo que quiere relanzar la relación con Petrobras y reformar la normativa para acelerar la inversión en el sector energético, especialmente en hidrocarburos. También destacó la intención de ampliar la cooperación con Brasil en minería, con reglas claras y seguridad jurídica para atraer inversiones.",
+      "summary_en": "Bolivian President Rodrigo Paz said in São Paulo that he wants to relaunch the relationship with Petrobras and reform the regulatory framework to speed up investment in the energy sector, particularly in hydrocarbons. He also underscored the aim of expanding cooperation with Brazil in mining, with clear rules and legal certainty to attract investments.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-17T15:27:00-04:00",
+      "published_at_bo": "2026-03-17T15:27:00-04:00",
+      "fetched_at_utc": "2026-03-17T20:47:16.151733+00:00",
+      "day": "2026-03-17"
+    },
     {
       "source": "El Deber",
       "title": "Del ladrillo al edificio verde: la transición de la construcción en Bolivia",
