@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-17T10:55:43.845453+00:00",
+  "generated_at_utc": "2026-03-17T11:09:45.180921+00:00",
   "count": 87,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Serie B: cambio de billetes arranca con dudas en el comercio y canje limitado",
+      "url": "https://eldeber.com.bo/economia/serie-b-cambio-billetes-arranca-dudas-comercio-canje-limitado_1773744748",
+      "summary": "El Banco Central de Bolivia abrió el canje voluntario de billetes B por A, pero aún hay desconfianza y rechazo de muchos comercios y algunos bancos limitan el cambio, lo que dificulta la circulación de los billetes invalidados. Aun así, ventas mediante QR se expanden y se espera que el canje, disponible en cualquier entidad, recupere gradualmente la confianza en el efectivo.",
+      "summary_es": "El Banco Central de Bolivia abrió el canje voluntario de billetes B por A, pero aún hay desconfianza y rechazo de muchos comercios y algunos bancos limitan el cambio, lo que dificulta la circulación de los billetes invalidados. Aun así, ventas mediante QR se expanden y se espera que el canje, disponible en cualquier entidad, recupere gradualmente la confianza en el efectivo.",
+      "summary_en": "The Central Bank of Bolivia opened a voluntary exchange of B-series banknotes for A-series, but distrust remains and many merchants refuse to accept them, with some banks limiting the exchange, complicating the circulation of the invalidated notes. Nevertheless, QR-based payments are expanding, and it’s expected that the exchange, available at any financial institution, will gradually restore confidence in cash.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-17T06:52:00-04:00",
+      "published_at_bo": "2026-03-17T06:52:00-04:00",
+      "fetched_at_utc": "2026-03-17T10:55:41.100911+00:00",
+      "day": "2026-03-17"
+    },
+    {
+      "source": "El Deber",
+      "title": "Constructores piden reajuste de hasta 50% para evitar paralización de obras",
+      "url": "https://eldeber.com.bo/economia/constructores-piden-reajuste-50-evitar-paralizacion-obras_1773744427",
+      "summary": "El sector de la construcción en Bolivia, representado por Cadeco y Cadeco La Paz, exige un decreto que permita reajustar entre un 30% y 50% los costos de los contratos de obras públicas, debido al desfasaje provocado por la subida de insumos, combustible y salarios. Advierten que sin este ajuste y con las actuales condiciones, gran parte de las obras están paralizadas o en riesgo de paralización, afectando a millones de familias.",
+      "summary_es": "El sector de la construcción en Bolivia, representado por Cadeco y Cadeco La Paz, exige un decreto que permita reajustar entre un 30% y 50% los costos de los contratos de obras públicas, debido al desfasaje provocado por la subida de insumos, combustible y salarios. Advierten que sin este ajuste y con las actuales condiciones, gran parte de las obras están paralizadas o en riesgo de paralización, afectando a millones de familias.",
+      "summary_en": "Bolivia’s construction sector, represented by Cadeco and Cadeco La Paz, is pressing for a decree that would allow a 30% to 50% readjustment of the costs of public works contracts, due to a gap created by the rise in inputs, fuel, and wages. They warn that without this adjustment, and under current conditions, a large portion of projects are halted or at risk of being halted, affecting millions of families.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-17T06:47:00-04:00",
+      "published_at_bo": "2026-03-17T06:47:00-04:00",
+      "fetched_at_utc": "2026-03-17T10:55:42.076193+00:00",
+      "day": "2026-03-17"
+    },
     {
       "source": "El Deber",
       "title": "Transportistas paceños firman acta con YPFB para avanzar en compensación por gasolina desestabilizada",
