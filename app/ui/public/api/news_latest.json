@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-18T10:13:14.310283+00:00",
-  "count": 99,
+  "generated_at_utc": "2026-03-18T10:56:37.638672+00:00",
+  "count": 92,
   "items": [
     {
       "source": "El Deber",
@@ -1275,118 +1275,6 @@
       "published_at_bo": "2026-03-05T06:38:00-04:00",
       "fetched_at_utc": "2026-03-05T15:55:03.605418+00:00",
       "day": "2026-03-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "Importadores asumen costos por fallas atribuidas al combustible y piden acción a la ANH",
-      "url": "https://eldeber.com.bo/economia/importadores-asumen-costos-fallas-atribuidas-combustible-piden-accion-anh_1772666782",
-      "summary": "La Cámara Automotor Boliviana (CAB) denuncia que la calidad de la gasolina en Bolivia está por debajo de estándares internacionales y exige a la ANH medidas urgentes para garantizar una combustión adecuada y evitar daños en motores. Pide controles más estrictos en refinerías y estaciones, y la conformación de una mesa de diálogo para soluciones estructurales y sostenibles.",
-      "summary_es": "La Cámara Automotor Boliviana (CAB) denuncia que la calidad de la gasolina en Bolivia está por debajo de estándares internacionales y exige a la ANH medidas urgentes para garantizar una combustión adecuada y evitar daños en motores. Pide controles más estrictos en refinerías y estaciones, y la conformación de una mesa de diálogo para soluciones estructurales y sostenibles.",
-      "summary_en": "The Bolivian Automotive Chamber (CAB) says that the quality of gasoline in Bolivia falls below international standards and urges the National Hydrocarbons Agency (ANH) to take urgent measures to ensure proper combustion and prevent engine damage. It calls for stricter controls at refineries and stations, and the creation of a multi-stakeholder dialogue table to pursue structural and sustainable solutions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T19:31:00-04:00",
-      "published_at_bo": "2026-03-04T19:31:00-04:00",
-      "fetched_at_utc": "2026-03-05T04:48:58.092189+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "Filas por gasolina: YPFB descarta que existan problemas en el suministro del combustible",
-      "url": "https://eldeber.com.bo/economia/filas-gasolina-ypfb-descarta-existan-problemas-suministro-combustible_1772664989",
-      "summary": "YPFB aseguró que no hay problemas de suministro de gasolina y que las filas se deben a un tema logístico relacionado con el aditivaje de la gasolina, que ya se está implementando. La distribución se realizará en dos fases: una introducción de dosis altas durante tres semanas para limpiar los sistemas de combustión, seguida de dosis más bajas de mantenimiento, con una fase permanente de aditivos conforme a normativas internacionales.",
-      "summary_es": "YPFB aseguró que no hay problemas de suministro de gasolina y que las filas se deben a un tema logístico relacionado con el aditivaje de la gasolina, que ya se está implementando. La distribución se realizará en dos fases: una introducción de dosis altas durante tres semanas para limpiar los sistemas de combustión, seguida de dosis más bajas de mantenimiento, con una fase permanente de aditivos conforme a normativas internacionales.",
-      "summary_en": "YPFB said there are no gasoline supply problems, and that the queues are due to a logistical issue related to adding gasoline additives, which is already being implemented. Distribution will occur in two phases: an initial high-dose period lasting three weeks to clean the combustion systems, followed by lower maintenance doses, with a permanent additives phase in line with international standards.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T19:04:00-04:00",
-      "published_at_bo": "2026-03-04T19:04:00-04:00",
-      "fetched_at_utc": "2026-03-05T04:48:59.099551+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "Jubilados recibirán entre Bs 290 y Bs 730 de incremento en su renta",
-      "url": "https://eldeber.com.bo/economia/jubilados-recibiran-bs-290-bs-730-incremento-renta_1772660613",
-      "summary": "El Decreto Supremo 5561 determina un incremento de las rentas de jubilados, rentistas y derechohabientes del Sistema de Reparto para 2026, con un ajuste promedio del 18,12% aportado principalmente a quienes ganan menos y pago en abril de 2026. Las subidas van desde 730 Bs mensuales para rentas de 2.526–4.076 Bs hasta 290 Bs para rentas de 4.721–6.723 Bs, y la pensión máxima (7.974 Bs) no recibe aumento; el cálculo se vincula a la variación de la UFV basada en el IPC.",
-      "summary_es": "El Decreto Supremo 5561 determina un incremento de las rentas de jubilados, rentistas y derechohabientes del Sistema de Reparto para 2026, con un ajuste promedio del 18,12% aportado principalmente a quienes ganan menos y pago en abril de 2026. Las subidas van desde 730 Bs mensuales para rentas de 2.526–4.076 Bs hasta 290 Bs para rentas de 4.721–6.723 Bs, y la pensión máxima (7.974 Bs) no recibe aumento; el cálculo se vincula a la variación de la UFV basada en el IPC.",
-      "summary_en": "Supreme Decree 5561 sets a 2026 increase for retirees, annuitants, and beneficiaries of the Pay-As-You-Go (PAYG) system, with an average adjustment of 18.12%, mainly benefiting those with lower incomes and to be paid in April 2026. Increases range from 730 bolivianos per month for pensions between 2,526 and 4,076 bolivianos, to 290 bolivianos for pensions between 4,721 and 6,723 bolivianos, while the maximum pension (7,974 bolivianos) receives no rise. The calculation is linked to the variation of the UFV, based on the CPI.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T17:55:00-04:00",
-      "published_at_bo": "2026-03-04T17:55:00-04:00",
-      "fetched_at_utc": "2026-03-05T02:35:07.128509+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "Compras en el exterior: las aplicaciones ganan terreno ante las tarjetas bancarias",
-      "url": "https://eldeber.com.bo/economia/compras-exterior-aplicaciones-ganan-terreno-tarjetas-bancarias_1772660846",
-      "summary": "Un informe de EL DEBER describe restricciones continuas para tarjetas de débito y prepago en el extranjero en Bolivia, con límites semanales o mensuales y comisiones variables, que empujaron a viajeros a usar billeteras digitales como Takenos. Economistas señalan que estas medidas buscan contener la fuga de divisas y anticipan para 2026 una expansión gradual y selectiva de límites, acompañada de mayor digitalización financiera.",
-      "summary_es": "Un informe de EL DEBER describe restricciones continuas para tarjetas de débito y prepago en el extranjero en Bolivia, con límites semanales o mensuales y comisiones variables, que empujaron a viajeros a usar billeteras digitales como Takenos. Economistas señalan que estas medidas buscan contener la fuga de divisas y anticipan para 2026 una expansión gradual y selectiva de límites, acompañada de mayor digitalización financiera.",
-      "summary_en": "A report from EL DEBER describes ongoing restrictions on debit and prepaid cards abroad in Bolivia, with weekly or monthly limits and variable fees, which pushed travelers to use digital wallets such as Takenos. Economists say these measures aim to curb the outflow of foreign currency and anticipate that by 2026 there will be a gradual, selective expansion of the limits, coupled with greater financial digitization.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T17:47:00-04:00",
-      "published_at_bo": "2026-03-04T17:47:00-04:00",
-      "fetched_at_utc": "2026-03-05T02:35:08.520115+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "Conozca las nuevas tarifas de BoA para las rutas nacionales",
-      "url": "https://eldeber.com.bo/economia/conozca-nuevas-tarifas-boa-rutas-nacionales_1772640295",
-      "summary": "BoA lanzó la campaña “Tarifazo BoA” con tarifas web más económicas en rutas nacionales, disponibles en www.boa.bo en la modalidad Básica Económica e incluyen equipaje de mano, artículo personal, selección de asiento y web check-in sin costo. Las tarifas varían por ruta (Ej.: Sucre–Cochabamba desde 249 Bs, La Paz–Santa Cruz desde 484 Bs, entre otras).",
-      "summary_es": "BoA lanzó la campaña “Tarifazo BoA” con tarifas web más económicas en rutas nacionales, disponibles en www.boa.bo en la modalidad Básica Económica e incluyen equipaje de mano, artículo personal, selección de asiento y web check-in sin costo. Las tarifas varían por ruta (Ej.: Sucre–Cochabamba desde 249 Bs, La Paz–Santa Cruz desde 484 Bs, entre otras).",
-      "summary_en": "BoA has launched the “Tarifazo BoA” campaign with cheaper online fares for domestic routes, available at www.boa.bo in the Basic Economy fare and including carry-on luggage, a personal item, seat selection, and free web check-in. Fares vary by route (e.g., Sucre–Cochabamba from 249 Bs, La Paz–Santa Cruz from 484 Bs, among others).",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T12:13:00-04:00",
-      "published_at_bo": "2026-03-04T12:13:00-04:00",
-      "fetched_at_utc": "2026-03-04T21:39:37.886687+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "Cisternas siguen paradas en Palmasola y YPFB despide a 410 empleados",
-      "url": "https://eldeber.com.bo/economia/cisternas-siguen-paradas-palmasola-ypfb-despide-410-empleados_1772621329",
-      "summary": "Un recorrido por la refinería Palmasola mostró congestión de camiones con gasolina que no permiten su descarga, mientras YPFB atribuye los problemas a una posible sabotaje interno y lamenta un daño estructural heredado; la empresa despidió a 410 funcionarios para mejorar eficiencia y transparencia, y anunció investigaciones y acciones legales contra responsables. El Gobierno y exministros enfatizan la necesidad de una reestructuración y personal técnico de confianza en las empresas estratégicas como YPFB.",
-      "summary_es": "Un recorrido por la refinería Palmasola mostró congestión de camiones con gasolina que no permiten su descarga, mientras YPFB atribuye los problemas a una posible sabotaje interno y lamenta un daño estructural heredado; la empresa despidió a 410 funcionarios para mejorar eficiencia y transparencia, y anunció investigaciones y acciones legales contra responsables. El Gobierno y exministros enfatizan la necesidad de una reestructuración y personal técnico de confianza en las empresas estratégicas como YPFB.",
-      "summary_en": "A tour of the Palmasola refinery showed gasoline trucks idling in congestion that prevented unloading, while YPFB attributed the problems to possible internal sabotage and lamented inherited structural damage. The company fired 410 employees to improve efficiency and transparency and announced investigations and legal action against those responsible. The Government and former ministers stressed the need for restructuring and trusted technical personnel in strategic companies like YPFB.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T06:48:00-04:00",
-      "published_at_bo": "2026-03-04T06:48:00-04:00",
-      "fetched_at_utc": "2026-03-04T15:50:28.047892+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "Zamora plantea nuevo rumbo para aeropuertos, hub y rescate de BOA",
-      "url": "https://eldeber.com.bo/economia/zamora-plantea-nuevo-rumbo-aeropuertos-hub-rescate-boa_1772620717",
-      "summary": "El siniestro del Hércules C-130 en El Alto reavivó la discusión sobre la seguridad y la ubicación de las operaciones, impulsando un plan de modernización de Viru Viru, mejoras en Santa Cruz y un enfoque gradual de cielos abiertos, todo dentro de un marco fiscal restrictivo. Paralelamente, se priorizó la reestructuración y mayor eficiencia de Boliviana de Aviación para convertir al país en un hub regional competitivo.",
-      "summary_es": "El siniestro del Hércules C-130 en El Alto reavivó la discusión sobre la seguridad y la ubicación de las operaciones, impulsando un plan de modernización de Viru Viru, mejoras en Santa Cruz y un enfoque gradual de cielos abiertos, todo dentro de un marco fiscal restrictivo. Paralelamente, se priorizó la reestructuración y mayor eficiencia de Boliviana de Aviación para convertir al país en un hub regional competitivo.",
-      "summary_en": "The Hercules C-130 crash in El Alto rekindled the debate over safety and where operations should be located, spurring a modernization plan for Viru Viru, improvements in Santa Cruz, and a gradual open-skies approach, all within a tight fiscal framework. At the same time, authorities prioritized restructuring and increasing the efficiency of Boliviana de Aviación to position the country as a competitive regional hub.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T06:38:00-04:00",
-      "published_at_bo": "2026-03-04T06:38:00-04:00",
-      "fetched_at_utc": "2026-03-04T15:50:29.087739+00:00",
-      "day": "2026-03-04"
-    },
-    {
-      "source": "El Deber",
-      "title": "BCB descarta anular toda la serie B de los billetes, más del 98% tiene plena validez",
-      "url": "https://eldeber.com.bo/economia/bcb-descarta-anular-toda-serie-b-billetes-98-tiene-plena-validez_1772620175",
-      "summary": "El Banco Central de Bolivia descartó anular toda la Serie B por costos y retrasos, asegurando que más del 98% de los billetes siguen vigentes; solo 17,1 millones de piezas (1,4%) del lote involucrado en el accidente del Hércules quedaron invalidadas y fueron incineradas o resguardadas. Además, informó que no implica costo para la institución y lanzó la app Billetes de Bolivia para que la población verifique la validez de los billetes, mientras la banca continúa operando con normalidad.",
-      "summary_es": "El Banco Central de Bolivia descartó anular toda la Serie B por costos y retrasos, asegurando que más del 98% de los billetes siguen vigentes; solo 17,1 millones de piezas (1,4%) del lote involucrado en el accidente del Hércules quedaron invalidadas y fueron incineradas o resguardadas. Además, informó que no implica costo para la institución y lanzó la app Billetes de Bolivia para que la población verifique la validez de los billetes, mientras la banca continúa operando con normalidad.",
-      "summary_en": "The Central Bank of Bolivia ruled out canceling the entire Series B due to cost and delays, assuring that more than 98% of the banknotes remain valid. Only 17.1 million notes (1.4%) from the batch involved in the Hercules crash were invalidated and either incinerated or safeguarded. The bank said the measure does not incur a cost to the institution and launched the Billetes de Bolivia app to let the public verify banknote validity, as banking operations continue normally.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-04T06:29:00-04:00",
-      "published_at_bo": "2026-03-04T06:29:00-04:00",
-      "fetched_at_utc": "2026-03-04T15:50:30.654664+00:00",
-      "day": "2026-03-04"
     }
   ]
 }
