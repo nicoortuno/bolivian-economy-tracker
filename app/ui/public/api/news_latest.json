@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-18T17:08:21.751442+00:00",
+  "generated_at_utc": "2026-03-18T17:18:23.022449+00:00",
   "count": 96,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno y panificadores pactan devolución mixta de Bs 16 millones y garantizan el pan a Bs 0,80",
+      "url": "https://eldeber.com.bo/economia/gobierno-panificadores-pactan-devolucion-mixta-bs-16-millones-garantizan-pan-bs-0-80_1773852190",
+      "summary": "Emapa y la Confederación Nacional de Panificadores Artesanos de Bolivia acordaron devolver el 50% de los insumos y recursos en harina (aproximadamente 74,000 quintales) y el 50% restante en efectivo (unos Bs 8 millones), con un plazo de 30 días, para cerrar la anterior subvención y restituir también otros insumos como azúcar, manteca y levadura. El objetivo es garantizar la provisión de pan y mantener estable su precio en 0,80 Bs.",
+      "summary_es": "Emapa y la Confederación Nacional de Panificadores Artesanos de Bolivia acordaron devolver el 50% de los insumos y recursos en harina (aproximadamente 74,000 quintales) y el 50% restante en efectivo (unos Bs 8 millones), con un plazo de 30 días, para cerrar la anterior subvención y restituir también otros insumos como azúcar, manteca y levadura. El objetivo es garantizar la provisión de pan y mantener estable su precio en 0,80 Bs.",
+      "summary_en": "Emapa and Bolivia’s National Confederation of Artisanal Bakers agreed to return 50% of the inputs—with flour valued at about 74,000 quintals—and the remaining 50% in cash (around 8 million bolivianos) within 30 days. The move aims to wind down the previous subsidy and restitution of other inputs such as sugar, butter, and yeast. The goal is to ensure bread supply while keeping the price steady at 0.80 bolivianos.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T13:07:00-04:00",
+      "published_at_bo": "2026-03-18T13:07:00-04:00",
+      "fetched_at_utc": "2026-03-18T17:08:16.674315+00:00",
+      "day": "2026-03-18"
+    },
+    {
+      "source": "El Deber",
+      "title": "Del ladrillo al edificio verde: la transición de la construcción en Bolivia",
+      "url": "https://eldeber.com.bo/economia/ladrillo-edificio-verde-transicion-construccion-bolivia_1773850900",
+      "summary": "La construcción boliviana enfrenta el crecimiento urbano y la necesidad de edificios más eficientes y con menor impacto ambiental, avanzando gradualmente hacia la sostenibilidad con proyectos como Green Tower en La Paz y Manzana 40 en Santa Cruz, y la adopción de certificaciones como LEED y EDGE. Aunque aún incipiente y con costos iniciales superiores, se espera que la reducción de consumos y la promoción de normativas e incentivos impulse una expansión gradual hacia una industria más eficiente y resiliente.",
+      "summary_es": "La construcción boliviana enfrenta el crecimiento urbano y la necesidad de edificios más eficientes y con menor impacto ambiental, avanzando gradualmente hacia la sostenibilidad con proyectos como Green Tower en La Paz y Manzana 40 en Santa Cruz, y la adopción de certificaciones como LEED y EDGE. Aunque aún incipiente y con costos iniciales superiores, se espera que la reducción de consumos y la promoción de normativas e incentivos impulse una expansión gradual hacia una industria más eficiente y resiliente.",
+      "summary_en": "Bolivian construction faces rapid urban growth and the need for more energy-efficient, lower-impact buildings, gradually moving toward sustainability with projects like Green Tower in La Paz and Manzana 40 in Santa Cruz, and the adoption of certifications such as LEED and EDGE. Although still in its early stages and with higher initial costs, projected reductions in consumption and the promotion of regulations and incentives are expected to drive a gradual expansion toward a more efficient and resilient industry.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T12:43:00-04:00",
+      "published_at_bo": "2026-03-18T12:43:00-04:00",
+      "fetched_at_utc": "2026-03-18T17:08:17.701435+00:00",
+      "day": "2026-03-18"
+    },
+    {
+      "source": "El Deber",
+      "title": "Bolivia concreta los dos primeros envíos de carne bovina a Egipto",
+      "url": "https://eldeber.com.bo/economia/bolivia-concreta-dos-primeros-envios-carne-bovina-egipto_1773848377",
+      "summary": "Bolivia concretó sus dos primeros envíos de carne bovina a Egipto, marcando el inicio de las exportaciones bajo un acuerdo bilateral que busca diversificar destinos y generar divisas para el sector ganadero. El embajador destacò que Egipto, con 118 millones de habitantes, es un mercado de alto consumo y que Bolivia cuenta con la certificación Al-Halal para facilitar el acceso a mercados musulmanes.",
+      "summary_es": "Bolivia concretó sus dos primeros envíos de carne bovina a Egipto, marcando el inicio de las exportaciones bajo un acuerdo bilateral que busca diversificar destinos y generar divisas para el sector ganadero. El embajador destacò que Egipto, con 118 millones de habitantes, es un mercado de alto consumo y que Bolivia cuenta con la certificación Al-Halal para facilitar el acceso a mercados musulmanes.",
+      "summary_en": "Bolivia has completed its first two shipments of beef to Egypt, marking the start of exports under a bilateral agreement aimed at diversifying destinations and generating foreign exchange for the cattle sector. The ambassador noted that Egypt, with 118 million people, is a high-consumption market and that Bolivia holds Halal certification to facilitate access to Muslim markets.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T12:23:00-04:00",
+      "published_at_bo": "2026-03-18T12:23:00-04:00",
+      "fetched_at_utc": "2026-03-18T17:08:18.685326+00:00",
+      "day": "2026-03-18"
+    },
     {
       "source": "El Deber",
       "title": "Reservas en divisas llegan a $us 340 millones y el canje de billetes Serie B avanza con normalidad",
