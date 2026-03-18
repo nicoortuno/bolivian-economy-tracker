@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-18T15:09:19.015838+00:00",
+  "generated_at_utc": "2026-03-18T15:38:10.707552+00:00",
   "count": 93,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Reservas en divisas llegan a $us 340 millones y el canje de billetes Serie B avanza con normalidad",
+      "url": "https://eldeber.com.bo/economia/reservas-divisas-llegan-us-340-millones-canje-billetes-serie-b-avanza-normalidad_1773845598",
+      "summary": "El Banco Central de Bolivia informó que el canje voluntario de billetes de la Serie B por la Serie A transcurre con normalidad, con afluencia menor a la esperada y reservas internacionales en divisas alrededor de 340 millones de dólares, una cifra baja pero mayor que al inicio de la gestión. Además, señaló que evaluará dentro de dos semanas si mantiene abierto el canje y que el estado de las series continúa, salvo los billetes siniestrados, y que busca convertir parte del oro en divisas para fortalecer la posición externa y flexibilizar el tipo de cambio.",
+      "summary_es": "El Banco Central de Bolivia informó que el canje voluntario de billetes de la Serie B por la Serie A transcurre con normalidad, con afluencia menor a la esperada y reservas internacionales en divisas alrededor de 340 millones de dólares, una cifra baja pero mayor que al inicio de la gestión. Además, señaló que evaluará dentro de dos semanas si mantiene abierto el canje y que el estado de las series continúa, salvo los billetes siniestrados, y que busca convertir parte del oro en divisas para fortalecer la posición externa y flexibilizar el tipo de cambio.",
+      "summary_en": "The Central Bank of Bolivia said the voluntary exchange of Series B banknotes for Series A is proceeding normally, with turnout lower than expected and foreign-currency reserves around $340 million — a low figure, but higher than at the start of the administration. It added that in two weeks it will assess whether to keep the exchange open, and that the status of the notes remains the same, except for mutilated bills. It also said it aims to convert part of its gold into foreign currency to strengthen the external position and broaden flexibility of the exchange rate.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T10:58:00-04:00",
+      "published_at_bo": "2026-03-18T10:58:00-04:00",
+      "fetched_at_utc": "2026-03-18T15:09:16.118924+00:00",
+      "day": "2026-03-18"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia y Brasil: del gas a los nuevos negocios conjuntos",
