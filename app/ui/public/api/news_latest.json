@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-18T19:09:20.422764+00:00",
+  "generated_at_utc": "2026-03-18T19:18:36.906283+00:00",
   "count": 97,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El resarcimiento por gasolina desestabilizada será en efectivo, hay más de 10.800 afectados registrados",
+      "url": "https://eldeber.com.bo/economia/resarcimiento-gasolina-desestabilizada-sera-efectivo-hay-10-800-afectados-registrados_1773853698",
+      "summary": "YPFB informó que ya son 10.874 las personas que iniciaron reclamos por daños de la gasolina desestabilizada, y que esta semana comenzarán los pagos en efectivo mediante transferencias bancarias, priorizando a quienes entregaron toda la documentación, con cobertura asegurada por Univida. Además, aclaró que la desestabilización fue puntual y que se han reforzado los controles de calidad en plantas y puntos de ingreso, manteniendo el proceso de compensación abierto durante marzo.",
+      "summary_es": "YPFB informó que ya son 10.874 las personas que iniciaron reclamos por daños de la gasolina desestabilizada, y que esta semana comenzarán los pagos en efectivo mediante transferencias bancarias, priorizando a quienes entregaron toda la documentación, con cobertura asegurada por Univida. Además, aclaró que la desestabilización fue puntual y que se han reforzado los controles de calidad en plantas y puntos de ingreso, manteniendo el proceso de compensación abierto durante marzo.",
+      "summary_en": "YPFB announced that 10,874 people have filed claims for damages from the destabilized gasoline, and this week payments will begin in cash via bank transfers, prioritizing those who submitted all required documentation, with coverage underwritten by Univida. It also clarified that the destabilization was isolated, and that quality controls at plants and entry points have been strengthened, keeping the compensation process open through March.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T13:44:00-04:00",
+      "published_at_bo": "2026-03-18T13:44:00-04:00",
+      "fetched_at_utc": "2026-03-18T19:09:14.462999+00:00",
+      "day": "2026-03-18"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno y panificadores pactan devolución mixta de Bs 16 millones y garantizan el pan a Bs 0,80",
