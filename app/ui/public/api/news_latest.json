@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-19T02:44:44.030867+00:00",
+  "generated_at_utc": "2026-03-19T03:20:33.934969+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Cómo BoA le ahorrará $us 5 millones al Estado?",
+      "url": "https://eldeber.com.bo/economia/boa-le-ahorrara-us-5-millones-estado_1773886333",
+      "summary": "El plan de reactivación permitirá un ahorro de más de 5 millones de dólares al iniciar en Bolivia el mantenimiento de las aeronaves de BoA con técnicos y talleres nacionales. Se proyecta llegar a 18 aeronaves en BoA para 2026 y promover competencia mediante la apertura de cielos y un servicio aéreo regulado, conocido como “taxi aéreo”.",
+      "summary_es": "El plan de reactivación permitirá un ahorro de más de 5 millones de dólares al iniciar en Bolivia el mantenimiento de las aeronaves de BoA con técnicos y talleres nacionales. Se proyecta llegar a 18 aeronaves en BoA para 2026 y promover competencia mediante la apertura de cielos y un servicio aéreo regulado, conocido como “taxi aéreo”.",
+      "summary_en": "The reactivation plan will save more than $5 million by starting to carry out maintenance of Boliviana de Aviación’s aircraft with domestic technicians and workshops. It is projected that BoA will operate 18 aircraft by 2026, and that competition will be fostered through open skies and a regulated air service, known as an “air taxi.”",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T22:28:00-04:00",
+      "published_at_bo": "2026-03-18T22:28:00-04:00",
+      "fetched_at_utc": "2026-03-19T02:44:39.060128+00:00",
+      "day": "2026-03-18"
+    },
+    {
+      "source": "El Deber",
+      "title": "Exportación de carne a Egipto abre nuevo mercado y podría duplicar ingresos del sector",
+      "url": "https://eldeber.com.bo/economia/exportacion-carne-egipto-abre-nuevo-mercado-podria-duplicar-ingresos-sector_1773878252",
+      "summary": "La apertura del mercado egipcio para la carne bovina boliviana impulsa la diversificación de exportaciones, ya con dos envíos realizados y un potencial de expansión en mercados internacionales. Cadex estima que, con las condiciones adecuadas (mayor inversión, más mercados y trazabilidad), las exportaciones podrían duplicar su valor, aunque persisten restricciones y desafíos logísticos.",
+      "summary_es": "La apertura del mercado egipcio para la carne bovina boliviana impulsa la diversificación de exportaciones, ya con dos envíos realizados y un potencial de expansión en mercados internacionales. Cadex estima que, con las condiciones adecuadas (mayor inversión, más mercados y trazabilidad), las exportaciones podrían duplicar su valor, aunque persisten restricciones y desafíos logísticos.",
+      "summary_en": "The opening of the Egyptian market to Bolivian beef is driving export diversification, with two shipments already made and potential for expansion into international markets. Cadex estimates that, with the right conditions (greater investment, more markets, and traceability), exports could double in value, though restrictions and logistical challenges persist.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-18T20:05:00-04:00",
+      "published_at_bo": "2026-03-18T20:05:00-04:00",
+      "fetched_at_utc": "2026-03-19T02:44:40.055272+00:00",
+      "day": "2026-03-18"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia y Brasil avanzan en integración energética con acuerdo de interconexión eléctrica",
