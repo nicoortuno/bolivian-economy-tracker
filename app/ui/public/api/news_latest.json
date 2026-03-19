@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-19T22:34:50.983256+00:00",
+  "generated_at_utc": "2026-03-19T22:48:54.251744+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Inundaciones en Yapacaní: cultivos de arroz y sectores ganaderos son los principales afectados",
+      "url": "https://eldeber.com.bo/economia/inundaciones-yapacani-cultivos-arroz-sectores-ganaderos-principales-afectados_1773957610",
+      "summary": "La lluvia torrencial dejó inundaciones en Yapacaní, adviertiendo el posible colapso del puente sobre el río Víbora, lo que podría bloquear la salida de leche y el suministro de alimento para el ganado y la piscicultura. En la Faja Norte, los cultivos de arroz están bajo agua y la maquinaria agrícola no puede ingresar, lo que anticipa grandes pérdidas si continúa la contingencia.",
+      "summary_es": "La lluvia torrencial dejó inundaciones en Yapacaní, adviertiendo el posible colapso del puente sobre el río Víbora, lo que podría bloquear la salida de leche y el suministro de alimento para el ganado y la piscicultura. En la Faja Norte, los cultivos de arroz están bajo agua y la maquinaria agrícola no puede ingresar, lo que anticipa grandes pérdidas si continúa la contingencia.",
+      "summary_en": "The torrential rain left floods in Yapacaní, warning of the possible collapse of the bridge over the Víbora River, which could block milk shipments and the supply of fodder for livestock and fish farming. In the Northern Strip, rice crops are submerged and agricultural machinery cannot reach the fields, foreseeing large losses if the contingency persists.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-19T18:12:00-04:00",
+      "published_at_bo": "2026-03-19T18:12:00-04:00",
+      "fetched_at_utc": "2026-03-19T22:34:43.992561+00:00",
+      "day": "2026-03-19"
+    },
     {
       "source": "El Deber",
       "title": "Paraguay y Bolivia acuerdan abrir sus mercados a exportación e importación de carne bovina",
