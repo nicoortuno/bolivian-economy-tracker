@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-19T19:06:12.667700+00:00",
+  "generated_at_utc": "2026-03-19T19:14:58.849725+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Planta de urea produce 1.900 toneladas día de fertilizante, según YPFB",
+      "url": "https://eldeber.com.bo/economia/planta-urea-produce-1-900-toneladas-dia-fertilizante-ypfb_1773940622",
+      "summary": "La PAU de YPFB alcanzó una producción de ~1.900 TMD de urea tras el mantenimiento, con el 15% destinada al mercado interno y el 85% a exportación a Brasil, Argentina, Paraguay, Perú y Chile; la demanda interna proviene principalmente de unas 17 empresas con volúmenes superiores a 1.000 t. YPFB busca mantener la operación alrededor del 90% de su capacidad, sujeto a disponibilidad de gas, clima social favorable y confiabilidad de equipos, para sostener el abastecimiento nacional y la posición exportadora en la región.",
+      "summary_es": "La PAU de YPFB alcanzó una producción de ~1.900 TMD de urea tras el mantenimiento, con el 15% destinada al mercado interno y el 85% a exportación a Brasil, Argentina, Paraguay, Perú y Chile; la demanda interna proviene principalmente de unas 17 empresas con volúmenes superiores a 1.000 t. YPFB busca mantener la operación alrededor del 90% de su capacidad, sujeto a disponibilidad de gas, clima social favorable y confiabilidad de equipos, para sostener el abastecimiento nacional y la posición exportadora en la región.",
+      "summary_en": "YPFB’s APU plant reached about 1,900 metric tons per day (t/d) of urea after maintenance, with 15% directed to the domestic market and 85% earmarked for export to Brazil, Argentina, Paraguay, Peru, and Chile. Domestic demand mainly comes from around 17 companies with volumes exceeding 1,000 t. YPFB aims to run the plant at roughly 90% of its capacity, subject to gas availability, favorable social conditions, and equipment reliability, to sustain national supply and its regional export position.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-19T14:08:00-04:00",
+      "published_at_bo": "2026-03-19T14:08:00-04:00",
+      "fetched_at_utc": "2026-03-19T19:06:09.697656+00:00",
+      "day": "2026-03-19"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno indica que mejora de Bolivia en la calificación de riesgo país de Moody`s es por medidas económicas",
