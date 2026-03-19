@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-19T13:18:31.918610+00:00",
+  "generated_at_utc": "2026-03-19T13:43:53.981626+00:00",
   "count": 97,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Reservas al límite: el BCB apuesta al oro para generar dólares",
+      "url": "https://eldeber.com.bo/economia/reservas-limite-bcb-apuesta-oro-generar-dolares_1773921405",
+      "summary": "El Banco Central de Bolivia tiene reservas en oro por miles de millones pero muy poca liquidez en divisas, lo que limita su margen de acción y expone al sistema ante shocks como el insólito fallo logístico tras un accidente aéreo. Para recuperar confianza y estabilidad, se plantea monetizar parte de esas reservas de oro para generar dólares y poder devolver depósitos y estabilizar el tipo de cambio, mientras se corrigen decisiones de financiamiento público que han estrechado su balance.",
+      "summary_es": "El Banco Central de Bolivia tiene reservas en oro por miles de millones pero muy poca liquidez en divisas, lo que limita su margen de acción y expone al sistema ante shocks como el insólito fallo logístico tras un accidente aéreo. Para recuperar confianza y estabilidad, se plantea monetizar parte de esas reservas de oro para generar dólares y poder devolver depósitos y estabilizar el tipo de cambio, mientras se corrigen decisiones de financiamiento público que han estrechado su balance.",
+      "summary_en": "The Central Bank of Bolivia holds gold reserves worth billions, but has very little liquidity in foreign currencies, limiting its room for maneuver and exposing the financial system to shocks such as the unusual logistics breakdown following an air accident. To restore confidence and stability, there is talk of monetizing part of those gold reserves to generate dollars, enabling it to repay deposits and stabilize the exchange rate, while public financing decisions that have narrowed its balance sheet are being corrected.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-19T07:56:00-04:00",
+      "published_at_bo": "2026-03-19T07:56:00-04:00",
+      "fetched_at_utc": "2026-03-19T13:18:28.200269+00:00",
+      "day": "2026-03-19"
+    },
+    {
+      "source": "El Deber",
+      "title": "Se completan 2.634 registros por gasolina desestabilizada y pagos inician esta semana",
+      "url": "https://eldeber.com.bo/economia/completan-2-634-registros-gasolina-desestabilizada-pagos-inician-esta-semana_1773921007",
+      "summary": "En 15 días de operación del SREC, 2.634 afectados completaron el registro y 10.874 reclamos están en fase inicial; los pagos por compensaciones comenzarán esta semana, con montos y plazos definidos por tipo de vehículo y grado de daño. La estatal reforzó controles en la cadena de suministro y abrió investigaciones internas ante posibles irregularidades, además de invitar a auditorías participativas y contactos para registro vía líneas de WhatsApp y telefónicas.",
+      "summary_es": "En 15 días de operación del SREC, 2.634 afectados completaron el registro y 10.874 reclamos están en fase inicial; los pagos por compensaciones comenzarán esta semana, con montos y plazos definidos por tipo de vehículo y grado de daño. La estatal reforzó controles en la cadena de suministro y abrió investigaciones internas ante posibles irregularidades, además de invitar a auditorías participativas y contactos para registro vía líneas de WhatsApp y telefónicas.",
+      "summary_en": "In 15 days of SREC operations, 2,634 affected individuals completed registration and 10,874 claims are in the initial phase; compensation payments will begin this week, with amounts and timelines defined by vehicle type and level of damage. The state-run company has strengthened controls in the supply chain and opened internal investigations into possible irregularities, in addition to inviting participatory audits and offering contact options for registration via WhatsApp and phone lines.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-19T07:50:00-04:00",
+      "published_at_bo": "2026-03-19T07:50:00-04:00",
+      "fetched_at_utc": "2026-03-19T13:18:30.002572+00:00",
+      "day": "2026-03-19"
+    },
     {
       "source": "El Deber",
       "title": "¿Cómo BoA le ahorrará $us 5 millones al Estado?",
