@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-19T15:59:28.795916+00:00",
+  "generated_at_utc": "2026-03-19T16:07:49.396872+00:00",
   "count": 98,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno indica que mejora de Bolivia en la calificación de riesgo país de Moody`s es por medidas económicas",
+      "url": "https://eldeber.com.bo/economia/gobierno-indica-mejora-bolivia-calificacion-riesgo-pais-moody-s-medidas-economicas_1773934042",
+      "summary": "Moody’s subió la calificación de Bolivia de Ca a Caa3, señalando una menor probabilidad de impago a corto plazo tras la transición política de 2025 y reservas en divisas suficientes para cubrir pagos de bonos externos, respaldada por la estrategia de derisking del gobierno. Sin embargo, la agencia advierte que la nota sigue siendo baja debido a grandes desequilibrios macroeconómicos, escasos colchones externos y reservas fuertemente sesgadas hacia el oro, con el servicio de la deuda en su punto máximo en 2028.",
+      "summary_es": "Moody’s subió la calificación de Bolivia de Ca a Caa3, señalando una menor probabilidad de impago a corto plazo tras la transición política de 2025 y reservas en divisas suficientes para cubrir pagos de bonos externos, respaldada por la estrategia de derisking del gobierno. Sin embargo, la agencia advierte que la nota sigue siendo baja debido a grandes desequilibrios macroeconómicos, escasos colchones externos y reservas fuertemente sesgadas hacia el oro, con el servicio de la deuda en su punto máximo en 2028.",
+      "summary_en": "Moody’s raised Bolivia’s rating from Ca to Caa3, citing a lower likelihood of short-term default after the 2025 political transition and foreign exchange reserves sufficient to cover external bond payments, supported by the government’s derisking strategy. However, the agency warns the rating remains low due to major macroeconomic imbalances, thin external buffers, and reserves heavily skewed toward gold, with debt service at its peak in 2028.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-19T11:50:00-04:00",
+      "published_at_bo": "2026-03-19T11:50:00-04:00",
+      "fetched_at_utc": "2026-03-19T15:59:24.613014+00:00",
+      "day": "2026-03-19"
+    },
     {
       "source": "El Deber",
       "title": "Reservas al límite: el BCB apuesta al oro para generar dólares",
