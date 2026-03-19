@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-19T11:50:31.518480+00:00",
-  "count": 101,
+  "generated_at_utc": "2026-03-19T13:18:31.918610+00:00",
+  "count": 97,
   "items": [
     {
       "source": "El Deber",
@@ -1331,90 +1331,6 @@
       "published_at_bo": "2026-03-06T07:17:00-04:00",
       "fetched_at_utc": "2026-03-06T16:50:44.799459+00:00",
       "day": "2026-03-06"
-    },
-    {
-      "source": "El Deber",
-      "title": "BoA registra más de 10 mil reservas de pasajes aéreos en solo 24 horas de la campaña \"El Tarifazo\"",
-      "url": "https://eldeber.com.bo/economia/boa-registra-10-mil-reservas-pasajes-aereos-solo-24-horas-campana-tarifazo_1772751661",
-      "summary": "En 24 horas se vendieron 10.333 pasajes en la campaña “El Tarifazo” de BoA, impulsada por tarifas de Economía Básica para fomentar el turismo interno, disponible solo en su portal www.boa.bo y sujeta a disponibilidad con una evaluación prevista en dos semanas. El análisis preliminar señala una demanda relativamente constante con mayor dinamismo en marzo y abril, con rutas emblemáticas como Sucre–Cochabamba desde 249 bolivianos, La Paz–Santa Cruz desde 484 bolivianos y otros tramos destacados.",
-      "summary_es": "En 24 horas se vendieron 10.333 pasajes en la campaña “El Tarifazo” de BoA, impulsada por tarifas de Economía Básica para fomentar el turismo interno, disponible solo en su portal www.boa.bo y sujeta a disponibilidad con una evaluación prevista en dos semanas. El análisis preliminar señala una demanda relativamente constante con mayor dinamismo en marzo y abril, con rutas emblemáticas como Sucre–Cochabamba desde 249 bolivianos, La Paz–Santa Cruz desde 484 bolivianos y otros tramos destacados.",
-      "summary_en": "In 24 hours, BoA’s “Fare Increase” campaign—promoted by Economy Basic fares to boost domestic tourism—sold 10,333 tickets. The tickets are available only on the airline’s portal www.boa.bo and subject to availability, with an evaluation planned in two weeks. Preliminary analysis indicates relatively steady demand, with stronger activity in March and April, highlighted by routes such as Sucre–Cochabamba from 249 bolivianos, La Paz–Santa Cruz from 484 bolivianos, and other notable segments.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-05T19:47:00-04:00",
-      "published_at_bo": "2026-03-05T19:47:00-04:00",
-      "fetched_at_utc": "2026-03-06T04:46:12.266065+00:00",
-      "day": "2026-03-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia y la FAO se unen para proyectar al país como referente de producción resiliente",
-      "url": "https://eldeber.com.bo/economia/bolivia-fao-unen-proyectar-pais-referente-produccion-resiliente_1772721763",
-      "summary": "Bolivia retomó su participación en espacios de planificación global tras 15 años, con una reunión entre el ministro Óscar Justiniano y el Director General de la FAO para definir una ruta hacia la seguridad alimentaria y el desarrollo sostenible mediante el Plan Bolivia Productiva y Resiliente 2026-2030. La FAO propuso desarrollar un Plan Estratégico a 10–15 años, impulsar inversiones en cacao, asaí y camélidos, y activar nuevas cadenas de valor y herramientas de resiliencia, con apoyo de fondos como GEF y GCF.",
-      "summary_es": "Bolivia retomó su participación en espacios de planificación global tras 15 años, con una reunión entre el ministro Óscar Justiniano y el Director General de la FAO para definir una ruta hacia la seguridad alimentaria y el desarrollo sostenible mediante el Plan Bolivia Productiva y Resiliente 2026-2030. La FAO propuso desarrollar un Plan Estratégico a 10–15 años, impulsar inversiones en cacao, asaí y camélidos, y activar nuevas cadenas de valor y herramientas de resiliencia, con apoyo de fondos como GEF y GCF.",
-      "summary_en": "Bolivia resumed its participation in global planning forums after 15 years, in a meeting between Minister Óscar Justiniano and the FAO Director-General to chart a path toward food security and sustainable development through the Bolivia Productive and Resilient Plan 2026-2030. The FAO proposed developing a 10–15-year Strategic Plan, boosting investments in cocoa, açai, and camelids, and activating new value chains and resilience tools, with support from funds such as GEF and GCF.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-05T11:21:00-04:00",
-      "published_at_bo": "2026-03-05T11:21:00-04:00",
-      "fetched_at_utc": "2026-03-05T19:54:57.945538+00:00",
-      "day": "2026-03-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "El Gobierno habla de un rezago de 20 años en el tema de los bonos de carbono",
-      "url": "https://eldeber.com.bo/economia/gobierno-habla-rezago-20-anos-tema-bonos-carbono_1772721465",
-      "summary": "Jorge Ávila afirmó que Bolivia quedó rezagada unos 20 años en el mercado de bonos de carbono y que es necesario fortalecer la normativa e las instituciones, además de trabajar con las comunidades para que se beneficien de proyectos de producción sostenible. El Bolivia Carbon Forum en Cainco Santa Cruz reúne aproximadamente 450 participantes e invitados internacionales para buscar inversiones en sectores clave como agro, minería y energías renovables.",
-      "summary_es": "Jorge Ávila afirmó que Bolivia quedó rezagada unos 20 años en el mercado de bonos de carbono y que es necesario fortalecer la normativa e las instituciones, además de trabajar con las comunidades para que se beneficien de proyectos de producción sostenible. El Bolivia Carbon Forum en Cainco Santa Cruz reúne aproximadamente 450 participantes e invitados internacionales para buscar inversiones en sectores clave como agro, minería y energías renovables.",
-      "summary_en": "Jorge Ávila said that Bolivia has fallen about 20 years behind in the carbon market and that it is necessary to strengthen regulations and institutions, as well as work with communities so they can benefit from sustainable production projects. The Bolivia Carbon Forum at Cainco Santa Cruz brings together roughly 450 participants and international guests to seek investments in key sectors such as agriculture, mining, and renewable energy.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-05T10:45:00-04:00",
-      "published_at_bo": "2026-03-05T10:45:00-04:00",
-      "fetched_at_utc": "2026-03-05T19:54:59.436733+00:00",
-      "day": "2026-03-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia Carbon Forum: el agro, minería y energía como sectores potenciales para la producción sostenible",
-      "url": "https://eldeber.com.bo/economia/bolivia-carbon-forum-agro-mineria-energia-sectores-potenciales-produccion-sostenible_1772719732",
-      "summary": "El Bolivia Carbon Forum, primera versión en Santa Cruz, reunió a unos 450 participantes para identificar a los actores del mercado de bonos de carbono e impulsar inversiones en agro, minería y energías renovables, destacando el potencial de la biodiversidad boliviana y las 50 millones de hectáreas que requieren cuidado ambiental. Autoridades del Gobierno y representantes de Fundares, México, la Unión Europea y Cainco participaron en el encuentro.",
-      "summary_es": "El Bolivia Carbon Forum, primera versión en Santa Cruz, reunió a unos 450 participantes para identificar a los actores del mercado de bonos de carbono e impulsar inversiones en agro, minería y energías renovables, destacando el potencial de la biodiversidad boliviana y las 50 millones de hectáreas que requieren cuidado ambiental. Autoridades del Gobierno y representantes de Fundares, México, la Unión Europea y Cainco participaron en el encuentro.",
-      "summary_en": "The Bolivia Carbon Forum, in its first edition held in Santa Cruz, brought together about 450 participants to identify players in the carbon bond market and spur investments in agriculture, mining, and renewable energy, highlighting Bolivia’s biodiversity potential and the 50 million hectares in need of environmental care. Government authorities and representatives from Fundares, Mexico, the European Union, and Cainco attended the event.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-05T10:12:00-04:00",
-      "published_at_bo": "2026-03-05T10:12:00-04:00",
-      "fetched_at_utc": "2026-03-05T19:55:00.424918+00:00",
-      "day": "2026-03-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "Filas más largas en algunos surtidores de La Paz y Santa Cruz; YPFB dice que es normal el abastecimiento",
-      "url": "https://eldeber.com.bo/economia/persisten-filas-algunos-surtidores-ypfb-dice-normal-abastecimiento_1772712427",
-      "summary": "Hubo reaparición de filas de vehículos para combustible en Santa Cruz y La Paz, con esperas que durante la noche de miércoles superaron las de las primeras horas de jueves y, en algunos casos, alcanzaron 1–2 horas, aunque esta mañana la demora fue de unos 30 minutos. YPFB afirmó que las operaciones de despacho se realizan con normalidad, mientras que un comunicado anterior indicó que, por la incorporación de nuevos aditivos a la gasolina en Santa Cruz, podría haber una leve demora que se normalizaría en las próximas horas.",
-      "summary_es": "Hubo reaparición de filas de vehículos para combustible en Santa Cruz y La Paz, con esperas que durante la noche de miércoles superaron las de las primeras horas de jueves y, en algunos casos, alcanzaron 1–2 horas, aunque esta mañana la demora fue de unos 30 minutos. YPFB afirmó que las operaciones de despacho se realizan con normalidad, mientras que un comunicado anterior indicó que, por la incorporación de nuevos aditivos a la gasolina en Santa Cruz, podría haber una leve demora que se normalizaría en las próximas horas.",
-      "summary_en": "There were fresh fuel-lineups in Santa Cruz and La Paz, with waits overnight Wednesday longer than in the early hours of Thursday, and in some cases reaching 1–2 hours; this morning, the delay was about 30 minutes. YPFB said dispatch operations are proceeding normally, while a prior statement noted that, due to the introduction of new additives to gasoline in Santa Cruz, there could be a slight delay that would normalize in the coming hours.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-05T08:07:00-04:00",
-      "published_at_bo": "2026-03-05T08:07:00-04:00",
-      "fetched_at_utc": "2026-03-05T15:55:02.588241+00:00",
-      "day": "2026-03-05"
-    },
-    {
-      "source": "El Deber",
-      "title": "Seguro por gasolina cubre también a particulares y YPFB activa plan de aditivos",
-      "url": "https://eldeber.com.bo/economia/seguro-gasolina-cubre-particulares-ypfb-activa-plan-aditivos_1772707102",
-      "summary": "El registro para reclamar daños por gasolina desestabilizada ya está abierto para propietarios, a través del Sistema de Registro y Evaluación de Contingencias (SREC), que clasifica los daños en leve, medio o grave y contempla plazos para la evaluación y el pago; además, YPFB lanzó un plan de incorporación de aditivos a la gasolina para mejorar su estabilidad y limpieza, con una implementación en dos etapas y un primer lote de 17 toneladas.",
-      "summary_es": "El registro para reclamar daños por gasolina desestabilizada ya está abierto para propietarios, a través del Sistema de Registro y Evaluación de Contingencias (SREC), que clasifica los daños en leve, medio o grave y contempla plazos para la evaluación y el pago; además, YPFB lanzó un plan de incorporación de aditivos a la gasolina para mejorar su estabilidad y limpieza, con una implementación en dos etapas y un primer lote de 17 toneladas.",
-      "summary_en": "Registration to claim damages from destabilized gasoline is now open for owners, through the Contingencies Registration and Evaluation System (SREC), which classifies damages as minor, moderate, or severe and sets timelines for assessment and payment. In addition, YPFB has launched a plan to add additives to gasoline to improve its stability and cleanliness, to be implemented in two stages, with an initial batch of 17 tons.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-05T06:38:00-04:00",
-      "published_at_bo": "2026-03-05T06:38:00-04:00",
-      "fetched_at_utc": "2026-03-05T15:55:03.605418+00:00",
-      "day": "2026-03-05"
     }
   ]
 }
