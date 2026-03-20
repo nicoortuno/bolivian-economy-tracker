@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-20T17:38:52.618896+00:00",
+  "generated_at_utc": "2026-03-20T17:53:27.311499+00:00",
   "count": 99,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Llega a Potosí el primer vuelo para probar la nueva pista del aeropuerto Nicolás Rojas",
+      "url": "https://eldeber.com.bo/economia/llega-potosi-primer-vuelo-probar-nueva-pista-aeropuerto-nicolas-rojas_1774023421",
+      "summary": "El aterrizaje inaugural en la nueva pista del aeropuerto Capitán Nicolás Rojas de Potosí (2.8 de 4 km ya construidos) marca una prueba clave de la modernización para fortalecer la conectividad aérea regional. La obra, en dos fases, busca además la construcción de una nueva terminal y su integración futura a la red de BoA para vuelos comerciales.",
+      "summary_es": "El aterrizaje inaugural en la nueva pista del aeropuerto Capitán Nicolás Rojas de Potosí (2.8 de 4 km ya construidos) marca una prueba clave de la modernización para fortalecer la conectividad aérea regional. La obra, en dos fases, busca además la construcción de una nueva terminal y su integración futura a la red de BoA para vuelos comerciales.",
+      "summary_en": "The inaugural landing on the new runway at Captain Nicolás Rojas Airport in Potosí, with 2.8 kilometers of a 4-kilometer stretch completed, marks a key milestone in the modernization effort to strengthen regional air connectivity. The project, undertaken in two phases, also envisions building a new terminal and its eventual integration into BoA’s network for commercial flights.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-20T12:59:00-04:00",
+      "published_at_bo": "2026-03-20T12:59:00-04:00",
+      "fetched_at_utc": "2026-03-20T17:38:49.074721+00:00",
+      "day": "2026-03-20"
+    },
     {
       "source": "El Deber",
       "title": "YPFB denuncia daño económico por Bs 1.000 millones por contratos de biodiésel",
