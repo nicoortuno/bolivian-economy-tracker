@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-20T15:50:05.195277+00:00",
+  "generated_at_utc": "2026-03-20T15:58:25.344574+00:00",
   "count": 98,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB denuncia daño económico por Bs 1.000 millones por contratos de biodiésel",
+      "url": "https://eldeber.com.bo/economia/ypfb-denuncia-dano-economico-bs-1-000-millones-contratos-biodiesel_1774020341",
+      "summary": "El presidente de YPFB, Yussef Akly, anunció que una auditoría evidenció un daño económico de Bs 1.000 millones, originado por dos contratos de compra de aceite de soya para el programa de biodiesel.",
+      "summary_es": "El presidente de YPFB, Yussef Akly, anunció que una auditoría evidenció un daño económico de Bs 1.000 millones, originado por dos contratos de compra de aceite de soya para el programa de biodiesel.",
+      "summary_en": "The president of YPFB, Yussef Akly, announced that an audit revealed approximately Bs 1 billion in economic losses stemming from two contracts to purchase soybean oil for the biodiesel program.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-20T11:30:00-04:00",
+      "published_at_bo": "2026-03-20T11:30:00-04:00",
+      "fetched_at_utc": "2026-03-20T15:50:02.138587+00:00",
+      "day": "2026-03-20"
+    },
     {
       "source": "El Deber",
       "title": "Procuraduría alerta sobre daño de $us 425 millones  en las obras de El Sillar",
