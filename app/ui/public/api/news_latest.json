@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-21T02:29:25.857187+00:00",
+  "generated_at_utc": "2026-03-21T02:47:50.926083+00:00",
   "count": 101,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Contratos irregulares fueron conocidos por las exautoridades de YPFB",
+      "url": "https://eldeber.com.bo/economia/contratos-irregulares-fueron-conocidos-exautoridades-ypfb_1774057865",
+      "summary": "YPFB denuncia un daño económico de Bs 1.000 millones por dos contratos irregulares de compra de aceite de soya para biodiésel, que permitieron anticipos sin garantías y fueron avalados por la antigua dirección; 14 involucrados están siendo investigados.",
+      "summary_es": "YPFB denuncia un daño económico de Bs 1.000 millones por dos contratos irregulares de compra de aceite de soya para biodiésel, que permitieron anticipos sin garantías y fueron avalados por la antigua dirección; 14 involucrados están siendo investigados.",
+      "summary_en": "YPFB reports a Bs1,000 million economic loss linked to two irregular contracts to purchase soybean oil for biodiesel, which allowed upfront payments without guarantees and were endorsed by the former management; 14 people are under investigation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-20T21:58:00-04:00",
+      "published_at_bo": "2026-03-20T21:58:00-04:00",
+      "fetched_at_utc": "2026-03-21T02:29:22.904105+00:00",
+      "day": "2026-03-20"
+    },
+    {
+      "source": "El Deber",
+      "title": "Aduana Nacional y sector empresarial aúnan esfuerzos para conformar un Observatorio contra el Contrabando",
+      "url": "https://eldeber.com.bo/economia/aduana-nacional-sector-empresarial-aunan-esfuerzos-conformar-observatorio-contrabando_1774049782",
+      "summary": "El presidente de la Aduana Nacional anunció la creación del Observatorio de Lucha contra el Contrabando, con participación del sector privado para identificar puestos, rutas y galpones de mercadería ilegal y coordinar acciones de inteligencia y del Ministerio Público. Esta iniciativa busca reducir la informalidad, proteger la industria nacional y fortalecer la competencia leal, mediante mejoras en controles fronterizos, trámites más simples y una coordinación permanente con el sector empresarial.",
+      "summary_es": "El presidente de la Aduana Nacional anunció la creación del Observatorio de Lucha contra el Contrabando, con participación del sector privado para identificar puestos, rutas y galpones de mercadería ilegal y coordinar acciones de inteligencia y del Ministerio Público. Esta iniciativa busca reducir la informalidad, proteger la industria nacional y fortalecer la competencia leal, mediante mejoras en controles fronterizos, trámites más simples y una coordinación permanente con el sector empresarial.",
+      "summary_en": "The president of the National Customs Office announced the creation of the Observatory on the Fight Against Smuggling, with participation from the private sector to identify checkpoints, routes, and warehouses housing illegal merchandise, and to coordinate intelligence efforts with the Public Prosecutor’s Office. This initiative aims to reduce informality, protect the national industry, and strengthen fair competition, through improvements in border controls, simpler procedures, and ongoing coordination with the business sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-20T19:36:00-04:00",
+      "published_at_bo": "2026-03-20T19:36:00-04:00",
+      "fetched_at_utc": "2026-03-21T02:29:23.899915+00:00",
+      "day": "2026-03-20"
+    },
     {
       "source": "El Deber",
       "title": "Llega a Potosí el primer vuelo para probar la nueva pista del aeropuerto Nicolás Rojas",
