@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-21T16:47:50.768537+00:00",
-  "count": 102,
+  "generated_at_utc": "2026-03-21T17:30:25.532372+00:00",
+  "count": 100,
   "items": [
     {
       "source": "El Deber",
@@ -1387,48 +1387,6 @@
       "published_at_bo": "2026-03-08T08:30:00-04:00",
       "fetched_at_utc": "2026-03-08T17:28:01.842200+00:00",
       "day": "2026-03-08"
-    },
-    {
-      "source": "El Deber",
-      "title": "¿Por qué Bolivia aprobó la nueva biotecnología para la soya después de tanto tiempo?",
-      "url": "https://eldeber.com.bo/economia/bolivia-aprobo-nueva-biotecnologia-soya-despues-tanto-tiempo_1772924805",
-      "summary": "Bolivia autorizó el uso del evento transgénico HB4 para el cultivo de soya, con el objetivo de mejorar la tolerancia a la sequía y al estrés hídrico y fortalecer la productividad ante el cambio climático. Esta aprobación forma parte de un plan más amplio para evaluar y liberar progresivamente nuevas tecnologías agrícolas y reducir el rezago tecnológico en el sector, en un contexto de presión climática y volatilidad del agua.",
-      "summary_es": "Bolivia autorizó el uso del evento transgénico HB4 para el cultivo de soya, con el objetivo de mejorar la tolerancia a la sequía y al estrés hídrico y fortalecer la productividad ante el cambio climático. Esta aprobación forma parte de un plan más amplio para evaluar y liberar progresivamente nuevas tecnologías agrícolas y reducir el rezago tecnológico en el sector, en un contexto de presión climática y volatilidad del agua.",
-      "summary_en": "Bolivia has authorized the use of the transgenic event HB4 for soybean cultivation, aimed at improving drought tolerance and resilience to water stress, and boosting productivity in the face of climate change. The approval is part of a broader plan to evaluate and progressively release new agricultural technologies and to reduce the sector’s technology gap, in a context of growing climate pressure and water volatility.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-07T19:15:00-04:00",
-      "published_at_bo": "2026-03-07T19:15:00-04:00",
-      "fetched_at_utc": "2026-03-08T04:47:10.817988+00:00",
-      "day": "2026-03-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "YPFB despacha 4 millones de litros de gasolina para reabastecer Santa Cruz",
-      "url": "https://eldeber.com.bo/economia/ypfb-despacha-4-millones-litros-gasolina-reabastecer-santa-cruz_1772909088",
-      "summary": "YPFB programó despachar alrededor de 4 millones de litros de gasolina a Santa Cruz este sábado, con volúmenes similares al día anterior, para normalizar el abastecimiento y cubrir la demanda interna. La operación incluye convoyes de cisternas y un nuevo paquete de aditivos para mejorar la calidad y asegurar la continuidad del suministro, pese a que aún se reportan largas filas en algunos surtidores.",
-      "summary_es": "YPFB programó despachar alrededor de 4 millones de litros de gasolina a Santa Cruz este sábado, con volúmenes similares al día anterior, para normalizar el abastecimiento y cubrir la demanda interna. La operación incluye convoyes de cisternas y un nuevo paquete de aditivos para mejorar la calidad y asegurar la continuidad del suministro, pese a que aún se reportan largas filas en algunos surtidores.",
-      "summary_en": "YPFB scheduled to dispatch around 4 million liters of gasoline to Santa Cruz this Saturday, with volumes similar to the previous day, to normalize supply and meet domestic demand. The operation includes tanker convoys and a new set of additives to improve quality and ensure continuity of supply, even though long lines at some stations are still being reported.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-07T14:58:00-04:00",
-      "published_at_bo": "2026-03-07T14:58:00-04:00",
-      "fetched_at_utc": "2026-03-07T23:28:35.798295+00:00",
-      "day": "2026-03-07"
-    },
-    {
-      "source": "El Deber",
-      "title": "Gobierno autoriza el uso de la tecnología transgénica HB4 para la soya en Bolivia",
-      "url": "https://eldeber.com.bo/economia/gobierno-autoriza-uso-tecnologia-transgenica-hb4-soya-bolivia_1772908982",
-      "summary": "El Gobierno de Bolivia autorizó el uso del evento transgénico HB4 en la soya para aumentar la tolerancia a la sequía y la variabilidad climática, tras su anuncio en Exposoya. La medida permitirá a los productores desarrollar variedades HB4 a través de Anapo, buscando elevar la productividad y las exportaciones, acompañada de prácticas agrícolas sostenibles.",
-      "summary_es": "El Gobierno de Bolivia autorizó el uso del evento transgénico HB4 en la soya para aumentar la tolerancia a la sequía y la variabilidad climática, tras su anuncio en Exposoya. La medida permitirá a los productores desarrollar variedades HB4 a través de Anapo, buscando elevar la productividad y las exportaciones, acompañada de prácticas agrícolas sostenibles.",
-      "summary_en": "The Bolivian government has authorized the use of the HB4 transgenic event in soybeans to boost drought tolerance and resilience to climate variability, following its announcement at Exposoya. The move will allow producers to develop HB4 varieties through ANAPO, with the aim of increasing productivity and exports, paired with sustainable farming practices.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-07T14:43:00-04:00",
-      "published_at_bo": "2026-03-07T14:43:00-04:00",
-      "fetched_at_utc": "2026-03-07T23:28:37.635965+00:00",
-      "day": "2026-03-07"
     }
   ]
 }
