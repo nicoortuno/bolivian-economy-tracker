@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-24T20:49:53.892579+00:00",
+  "generated_at_utc": "2026-03-24T20:58:17.733555+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ximena Behoteguy: de abogada a líder de la banca inclusiva",
+      "url": "https://eldeber.com.bo/economia/ximena-behoteguy-abogada-lider-banca-inclusiva_1774374850",
+      "summary": "Ximena Behoteguy pasó de la academia y la abogacía a liderar Banco FIE, una institución nacida de una ONG que llevó microcréditos a sectores excluidos y consolidó un modelo de inclusión financiera con resultados sólidos. Su liderazgo femenino y su enfoque en impacto social han convertido la banca en una herramienta de desarrollo, resiliente ante crisis y orientada a transformar vidas desde la base.",
+      "summary_es": "Ximena Behoteguy pasó de la academia y la abogacía a liderar Banco FIE, una institución nacida de una ONG que llevó microcréditos a sectores excluidos y consolidó un modelo de inclusión financiera con resultados sólidos. Su liderazgo femenino y su enfoque en impacto social han convertido la banca en una herramienta de desarrollo, resiliente ante crisis y orientada a transformar vidas desde la base.",
+      "summary_en": "Ximena Behoteguy has moved from academia and the legal profession to lead Banco FIE, an institution born from an NGO that brought microloans to underserved sectors and built a solid financial inclusion model. Her leadership as a woman and her focus on social impact have turned banking into a development tool—resilient in crises and aimed at transforming lives from the ground up.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-24T16:27:00-04:00",
+      "published_at_bo": "2026-03-24T16:27:00-04:00",
+      "fetched_at_utc": "2026-03-24T20:49:40.297401+00:00",
+      "day": "2026-03-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Banco Mundial destaca mejora en la calificación de riesgo de Bolivia y la vincula con primeras señales de reforma",
+      "url": "https://eldeber.com.bo/economia/banco-mundial-destaca-mejora-calificacion-riesgo-bolivia-vincula-primeras-senales-reforma_1774382500",
+      "summary": "El Banco Mundial destacó la mejora en la calificación crediticia de Bolivia como una señal de mayor confianza en los primeros esfuerzos de reforma económica del país, mientras Moody’s anunció una revisión favorable de la nota de riesgo soberano. El ministro Espinoza indicó que este cambio marca un punto de inflexión y refleja avances en la derisking y en las señales de política económica, aunque persisten desafíos para la estabilidad macroeconómica.",
+      "summary_es": "El Banco Mundial destacó la mejora en la calificación crediticia de Bolivia como una señal de mayor confianza en los primeros esfuerzos de reforma económica del país, mientras Moody’s anunció una revisión favorable de la nota de riesgo soberano. El ministro Espinoza indicó que este cambio marca un punto de inflexión y refleja avances en la derisking y en las señales de política económica, aunque persisten desafíos para la estabilidad macroeconómica.",
+      "summary_en": "The World Bank highlighted Bolivia’s improvement in its credit rating as a sign of growing confidence in the country’s early economic reform efforts, while Moody’s announced a favorable review of its sovereign risk rating. Minister Espinoza said the change marks a turning point and reflects progress in de-risking and in economic policy signals, though challenges to macroeconomic stability remain.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-24T16:20:00-04:00",
+      "published_at_bo": "2026-03-24T16:20:00-04:00",
+      "fetched_at_utc": "2026-03-24T20:49:41.334532+00:00",
+      "day": "2026-03-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Presidente de YPFB  insta a chóferes reflexionar sobre el paro anunciado",
+      "url": "https://eldeber.com.bo/economia/presidente-ypfb-insta-choferes-reflexionar-paro-anunciado_1774380308",
+      "summary": "YPFB aseguró la calidad de la gasolina y pidió a la dirigencia de transportistas reflexionar sobre el paro de 24 horas, anunciando avances en control y transparencia de la cadena de suministro, así como la apertura del Sistema de Registro y Evaluación de Contingencias (SREC) para compensaciones hasta abril. Además, ya se ha pagado más de 1 millón de bolivianos a cerca de 1.000 beneficiarios afectados y se fortalecieron acuerdos y comisiones conjuntas para garantizar la vigilancia de la calidad del combustible.",
+      "summary_es": "YPFB aseguró la calidad de la gasolina y pidió a la dirigencia de transportistas reflexionar sobre el paro de 24 horas, anunciando avances en control y transparencia de la cadena de suministro, así como la apertura del Sistema de Registro y Evaluación de Contingencias (SREC) para compensaciones hasta abril. Además, ya se ha pagado más de 1 millón de bolivianos a cerca de 1.000 beneficiarios afectados y se fortalecieron acuerdos y comisiones conjuntas para garantizar la vigilancia de la calidad del combustible.",
+      "summary_en": "YPFB assured the quality of gasoline and urged transport union leadership to reconsider the 24-hour strike, announcing progress in controlling and increasing transparency of the supply chain, as well as the opening of the Contingencies Registration and Evaluation System (SREC) for compensation through April. In addition, more than 1 million bolivianos have already been paid to nearly 1,000 affected beneficiaries, and joint agreements and commissions have been strengthened to ensure oversight of fuel quality.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-24T15:34:00-04:00",
+      "published_at_bo": "2026-03-24T15:34:00-04:00",
+      "fetched_at_utc": "2026-03-24T20:49:42.341961+00:00",
+      "day": "2026-03-24"
+    },
     {
       "source": "El Deber",
       "title": "S&amp;P mejora calificación de Bolivia a CCC+ tras medidas para corregir \"desequilibrios\"",
