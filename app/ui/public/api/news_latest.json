@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-24T16:14:44.006344+00:00",
+  "generated_at_utc": "2026-03-24T17:15:01.198779+00:00",
   "count": 91,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Demoras en el puerto de Arica afectan exportaciones bolivianas y generan sobrecostos logísticos",
+      "url": "https://eldeber.com.bo/economia/demoras-puerto-arica-afectan-exportaciones-bolivianas-generan-sobrecostos-logisticos_1774365661",
+      "summary": "Las exportaciones bolivianas enfrentan demoras en el puerto de Arica por controles dentro de la terminal, donde aforos y revisiones se realizan con retrasos que pueden prolongarse días e incluso semanas, generando costos adicionales y riesgo de perder mercados. Cadexco pidió gestiones diplomáticas y evalúa acciones, incluida una misión empresarial, si no hay una solución rápida.",
+      "summary_es": "Las exportaciones bolivianas enfrentan demoras en el puerto de Arica por controles dentro de la terminal, donde aforos y revisiones se realizan con retrasos que pueden prolongarse días e incluso semanas, generando costos adicionales y riesgo de perder mercados. Cadexco pidió gestiones diplomáticas y evalúa acciones, incluida una misión empresarial, si no hay una solución rápida.",
+      "summary_en": "Bolivian exports are facing delays at the Arica port due to controls inside the terminal, where weighings and inspections are carried out with delays that can stretch for days or even weeks, adding costs and risking the loss of markets. Cadexco has requested diplomatic efforts and is weighing actions, including a business delegation, if a quick solution does not emerge.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-24T11:39:00-04:00",
+      "published_at_bo": "2026-03-24T11:39:00-04:00",
+      "fetched_at_utc": "2026-03-24T16:14:37.779599+00:00",
+      "day": "2026-03-24"
+    },
+    {
+      "source": "El Deber",
+      "title": "Transportistas dicen operar al 50% por daños de combustible y alistan protestas",
+      "url": "https://eldeber.com.bo/economia/transportistas-denuncian-operar-50-danos-combustible-alistan-protestas_1774363091",
+      "summary": "La presión crece sobre YPFB para pagar compensaciones por los daños atribuidos a la gasolina de mala calidad, mientras el sector del transporte denuncia que opera al 50% de su capacidad y acusa al Gobierno de no cumplir con el resarcimiento prometido. Además, la Federación de Choferes de El Alto anunció un paro de 24 horas para exigir avances y coordinación con otras federaciones del departamento.",
+      "summary_es": "La presión crece sobre YPFB para pagar compensaciones por los daños atribuidos a la gasolina de mala calidad, mientras el sector del transporte denuncia que opera al 50% de su capacidad y acusa al Gobierno de no cumplir con el resarcimiento prometido. Además, la Federación de Choferes de El Alto anunció un paro de 24 horas para exigir avances y coordinación con otras federaciones del departamento.",
+      "summary_en": "Pressure is mounting on YPFB to pay compensation for damages attributed to the poor-quality gasoline, while the transport sector says it is operating at 50% of its capacity and accuses the government of failing to fulfill the promised restitution. Additionally, the El Alto Drivers Federation announced a 24-hour strike to demand progress and better coordination with other federations in the department.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-24T11:08:00-04:00",
+      "published_at_bo": "2026-03-24T11:08:00-04:00",
+      "fetched_at_utc": "2026-03-24T16:14:38.748929+00:00",
+      "day": "2026-03-24"
+    },
     {
       "source": "El Deber",
       "title": "Presidente del Consejo Mundial del Petróleo destaca rol de YPFB en ajustes del sector hidrocarburífero",
