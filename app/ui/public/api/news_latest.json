@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-24T23:37:58.278162+00:00",
+  "generated_at_utc": "2026-03-24T23:47:14.864222+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Micro y pequeñas empresas alertan caída de ventas y cierre de unidades productivas",
+      "url": "https://eldeber.com.bo/economia/micro-pequenas-empresas-alertan-caida-ventas-cierre-unidades-productivas_1774391922",
+      "summary": "La Conamype advierte que la micro y pequeña empresa en Bolivia atraviesa una crisis por la caída del consumo, el incremento de costos de producción y la falta de medidas de apoyo a la industria nacional, lo que ha cobrado especial intensidad en el primer trimestre de 2026. Piden al Gobierno medidas urgentes, como eliminar aranceles a insumos no producidos localmente y facilitar créditos blandos, para evitar cierres y la pérdida de empleos.",
+      "summary_es": "La Conamype advierte que la micro y pequeña empresa en Bolivia atraviesa una crisis por la caída del consumo, el incremento de costos de producción y la falta de medidas de apoyo a la industria nacional, lo que ha cobrado especial intensidad en el primer trimestre de 2026. Piden al Gobierno medidas urgentes, como eliminar aranceles a insumos no producidos localmente y facilitar créditos blandos, para evitar cierres y la pérdida de empleos.",
+      "summary_en": "Conamype warns that micro and small enterprises in Bolivia are facing a crisis due to falling consumption, rising production costs, and the lack of support measures for the national industry, with the situation intensifying in the first quarter of 2026. They are urging the government to take urgent steps, such as removing tariffs on inputs not produced locally and easing access to soft credit, to prevent closures and job losses.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-24T18:48:00-04:00",
+      "published_at_bo": "2026-03-24T18:48:00-04:00",
+      "fetched_at_utc": "2026-03-24T23:37:45.134614+00:00",
+      "day": "2026-03-24"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno impulsa reforma minera con apoyo del Banco Mundial para atraer inversiones",
