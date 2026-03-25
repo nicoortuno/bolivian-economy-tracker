@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-25T19:03:42.314780+00:00",
+  "generated_at_utc": "2026-03-25T19:11:40.100882+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Escándalo en Senkata: frustran ingreso de más de 32 mil litros de combustible contaminado",
+      "url": "https://eldeber.com.bo/economia/escandalo-senkata-frustran-ingreso-32-mil-litros-combustible-contaminado_1774463613",
+      "summary": "La Policía Boliviana investiga a un chofer de una cisterna contratado por una empresa de transporte internacional por sabotaje al intentar descargar combustible contaminado en la planta de Senkata de YPFB. Las pesquisas apuntan a una posible red de manipulación de combustibles que involucraría a transportistas, cisterneros e intermediarios, con indicios de que la cisterna tenía un compartimento contaminado.",
+      "summary_es": "La Policía Boliviana investiga a un chofer de una cisterna contratado por una empresa de transporte internacional por sabotaje al intentar descargar combustible contaminado en la planta de Senkata de YPFB. Las pesquisas apuntan a una posible red de manipulación de combustibles que involucraría a transportistas, cisterneros e intermediarios, con indicios de que la cisterna tenía un compartimento contaminado.",
+      "summary_en": "The Bolivian police are investigating a tanker driver hired by an international transport company on suspicion of sabotage after attempting to unload contaminated fuel at YPFB’s Senkata plant. The probe points to a possible fuel-tampering network involving transporters, tanker drivers, and intermediaries, with indications that the tanker had a contaminated compartment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-25T14:43:00-04:00",
+      "published_at_bo": "2026-03-25T14:43:00-04:00",
+      "fetched_at_utc": "2026-03-25T19:03:37.994518+00:00",
+      "day": "2026-03-25"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gasolina: UMSA cuestiona gestión oficial y pide devolver carburantes fuera de norma",
+      "url": "https://eldeber.com.bo/economia/gasolina-umsa-cuestiona-gestion-oficial-pide-devolver-carburantes-fuera-norma_1774460205",
+      "summary": "La UMSA rechazó la gestión de la crisis por gasolina de baja calidad y pidió una auditoría técnica independiente, advirtiendo daños al parque automotor y mayores costos para hogares y la economía; además, insistió en que YPFB asuma controles estrictos y devuelva o reemplace combustibles fuera de norma.",
+      "summary_es": "La UMSA rechazó la gestión de la crisis por gasolina de baja calidad y pidió una auditoría técnica independiente, advirtiendo daños al parque automotor y mayores costos para hogares y la economía; además, insistió en que YPFB asuma controles estrictos y devuelva o reemplace combustibles fuera de norma.",
+      "summary_en": "The UMSA rejected the handling of the crisis over low-quality gasoline and called for an independent technical audit, warning of damage to the vehicle fleet and higher costs for households and the economy; it also urged YPFB to implement strict controls and to refund or replace fuels that do not meet standards.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-25T14:01:00-04:00",
+      "published_at_bo": "2026-03-25T14:01:00-04:00",
+      "fetched_at_utc": "2026-03-25T19:03:39.022254+00:00",
+      "day": "2026-03-25"
+    },
     {
       "source": "El Deber",
       "title": "Combustibles en la mira: industriales advierten que la calidad pone en riesgo la economía boliviana",
