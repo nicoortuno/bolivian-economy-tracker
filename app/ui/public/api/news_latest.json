@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-25T22:42:27.679539+00:00",
+  "generated_at_utc": "2026-03-25T22:56:35.566591+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Aduana digitaliza control clave de importaciones y apunta a mayor transparencia",
+      "url": "https://eldeber.com.bo/economia/aduana-digitaliza-control-clave-importaciones-apunta-mayor-transparencia_1774475801",
+      "summary": "La Aduana Nacional de Bolivia integró la Declaración Andina del Valor (DAV) en su sistema SUMA, con lo que busca aumentar el control, la transparencia y la agilidad en las importaciones. Esta digitalización facilita detectar inconsistencias, reduce trámites y tiempos, fortalece la recaudación fiscal y promueve una competencia leal al evitar la subfacturación.",
+      "summary_es": "La Aduana Nacional de Bolivia integró la Declaración Andina del Valor (DAV) en su sistema SUMA, con lo que busca aumentar el control, la transparencia y la agilidad en las importaciones. Esta digitalización facilita detectar inconsistencias, reduce trámites y tiempos, fortalece la recaudación fiscal y promueve una competencia leal al evitar la subfacturación.",
+      "summary_en": "The National Customs of Bolivia integrated the Andean Value Declaration (DAV) into its SUMA system, aiming to boost control, transparency, and efficiency in imports. This digitalization helps detect inconsistencies, reduces paperwork and processing times, strengthens tax collection, and promotes fair competition by preventing under-invoicing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-25T18:19:00-04:00",
+      "published_at_bo": "2026-03-25T18:19:00-04:00",
+      "fetched_at_utc": "2026-03-25T22:42:23.660902+00:00",
+      "day": "2026-03-25"
+    },
     {
       "source": "El Deber",
       "title": "Escándalo en Senkata: frustran ingreso de más de 32 mil litros de combustible contaminado",
