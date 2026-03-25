@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-25T23:40:29.317453+00:00",
+  "generated_at_utc": "2026-03-25T23:52:04.806349+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Pronostican un otoño con lluvias menos intensas en Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/pronostican-otono-lluvias-menos-intensas-santa-cruz_1774478303",
+      "summary": "Con el inicio del otoño se esperan días más templados y noches frías, mientras persiste un periodo de lluvias intensas que ha provocado pérdidas de aproximadamente 400,000 toneladas de soya en 1,3 millones de hectáreas. A partir del lunes 30 de marzo las lluvias disminuirán y se vislumbra una ventana favorable para trabajar el campo y dinamizar la economía agropecuaria, en especial para la soya, maíz, sorgo y arroz en Santa Cruz.",
+      "summary_es": "Con el inicio del otoño se esperan días más templados y noches frías, mientras persiste un periodo de lluvias intensas que ha provocado pérdidas de aproximadamente 400,000 toneladas de soya en 1,3 millones de hectáreas. A partir del lunes 30 de marzo las lluvias disminuirán y se vislumbra una ventana favorable para trabajar el campo y dinamizar la economía agropecuaria, en especial para la soya, maíz, sorgo y arroz en Santa Cruz.",
+      "summary_en": "With autumn underway, days are expected to be milder and nights cooler, while a spell of heavy rains continues to cause losses of about 400,000 tons of soy over 1.3 million hectares. Starting Monday, March 30, rainfall is set to ease, opening a favorable window to work the fields and boost the agricultural economy, particularly for soy, corn, sorghum, and rice in Santa Cruz.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-25T19:05:00-04:00",
+      "published_at_bo": "2026-03-25T19:05:00-04:00",
+      "fetched_at_utc": "2026-03-25T23:40:25.221963+00:00",
+      "day": "2026-03-25"
+    },
     {
       "source": "El Deber",
       "title": "Aduana digitaliza control clave de importaciones y apunta a mayor transparencia",
