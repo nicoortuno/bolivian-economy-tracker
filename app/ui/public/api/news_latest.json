@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-25T13:23:24.097631+00:00",
+  "generated_at_utc": "2026-03-25T13:50:11.455368+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Lluvias exponen fallas viales y reabren los cuestionamientos",
+      "url": "https://eldeber.com.bo/economia/lluvias-exponen-fallas-viales-reabren-cuestionamientos_1774439547",
+      "summary": "La prolongada temporada de lluvias ha puesto en evidencia la fragilidad de la red vial de Bolivia, con derrumbes y fallas que afectan tramos clave, incluido El Sillar en la ruta Cochabamba–Santa Cruz, y generan interrupciones y riesgos de aislamiento. Un informe de la Procuraduría señala 719 fallas técnicas en El Sillar, atribuidas a deficiencias de diseño, drenaje y estabilización de taludes, agravadas por modificaciones en la ejecución, pese a un costo de más de 426 millones de dólares y un avance de pago del 99,8%.",
+      "summary_es": "La prolongada temporada de lluvias ha puesto en evidencia la fragilidad de la red vial de Bolivia, con derrumbes y fallas que afectan tramos clave, incluido El Sillar en la ruta Cochabamba–Santa Cruz, y generan interrupciones y riesgos de aislamiento. Un informe de la Procuraduría señala 719 fallas técnicas en El Sillar, atribuidas a deficiencias de diseño, drenaje y estabilización de taludes, agravadas por modificaciones en la ejecución, pese a un costo de más de 426 millones de dólares y un avance de pago del 99,8%.",
+      "summary_en": "The prolonged rainy season in Bolivia has exposed the fragility of the country’s road network, with landslides and other failures hitting key sections, including El Sillar on the Cochabamba–Santa Cruz route, causing closures and risks of isolation. A report from the Attorney General’s Office identifies 719 technical faults at El Sillar, attributed to design deficiencies, drainage problems, and hillside stabilization issues, worsened by changes in execution, despite costs exceeding $426 million and 99.8% of the funds already disbursed.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-25T07:52:00-04:00",
+      "published_at_bo": "2026-03-25T07:52:00-04:00",
+      "fetched_at_utc": "2026-03-25T13:23:22.159483+00:00",
+      "day": "2026-03-25"
+    },
     {
       "source": "El Deber",
       "title": "Micro y pequeñas empresas alertan caída de ventas y cierre de unidades productivas",
