@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-27T23:38:39.953639+00:00",
+  "generated_at_utc": "2026-03-27T23:47:00.120301+00:00",
   "count": 106,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Según YPFB, pagos por compensación alcanzan los Bs 4,9 millones hasta este viernes",
+      "url": "https://eldeber.com.bo/economia/ypfb-pagos-compensacion-alcanzan-bs-4-9-millones-este-viernes_1774653392",
+      "summary": "Las compensaciones registradas por el SREC alcanzaron 4.998.248,93 Bs, con pagos y retiros disponibles en ventanilla en todas las sucursales de Banco Unión; el pago en ventanilla es personal y exige documento de identidad original y el número asignado por el SREC. Además, más de 20 dirigentes de choferes de La Paz inspeccionaron la Planta de Senkata para verificar la calidad de la gasolina de YPFB, y se extenderán las inspecciones a surtidores en todo el departamento, con comisiones encargadas de la verificación.",
+      "summary_es": "Las compensaciones registradas por el SREC alcanzaron 4.998.248,93 Bs, con pagos y retiros disponibles en ventanilla en todas las sucursales de Banco Unión; el pago en ventanilla es personal y exige documento de identidad original y el número asignado por el SREC. Además, más de 20 dirigentes de choferes de La Paz inspeccionaron la Planta de Senkata para verificar la calidad de la gasolina de YPFB, y se extenderán las inspecciones a surtidores en todo el departamento, con comisiones encargadas de la verificación.",
+      "summary_en": "Compensations recorded by the SREC totaled 4,998,248.93 Bs, with cash payments and withdrawals available at the tellers’ windows at all Banco Unión branches. Cash payments are personal and require the original ID and the number assigned by the SREC. \n\nIn addition, more than 20 drivers’ union leaders in La Paz inspected the Senkata Plant to verify the quality of YPFB gasoline, and the inspections will be extended to service stations across the department, with commissions in charge of the verification.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-27T19:23:00-04:00",
+      "published_at_bo": "2026-03-27T19:23:00-04:00",
+      "fetched_at_utc": "2026-03-27T23:38:37.015741+00:00",
+      "day": "2026-03-27"
+    },
     {
       "source": "El Deber",
       "title": "Senkata bajo lupa: Choferes revisan nuevo lote de gasolina tras días de conflicto",
