@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-27T14:56:09.509486+00:00",
+  "generated_at_utc": "2026-03-27T15:09:25.002446+00:00",
   "count": 102,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Reservas internacionales  en dólares del país caen tras pago de deuda externa",
+      "url": "https://eldeber.com.bo/economia/reservas-internacionales-dolares-pais-caen-pago-deuda-externa_1774609586",
+      "summary": "Las Reservas Internacionales Netas de Bolivia han mostrado una caída marcada del componente en divisas, dejando solo unos 52 millones de dólares disponibles para pagos yanki, frente a un alto peso del oro en las reservas. Analistas señalan que el problema central es la debilidad del stock en divisas ante obligaciones externas crecientes, por lo que se requiere recuperar flujo de dólares y mantener disciplina fiscal para sostener la estabilidad cambiaria.",
+      "summary_es": "Las Reservas Internacionales Netas de Bolivia han mostrado una caída marcada del componente en divisas, dejando solo unos 52 millones de dólares disponibles para pagos yanki, frente a un alto peso del oro en las reservas. Analistas señalan que el problema central es la debilidad del stock en divisas ante obligaciones externas crecientes, por lo que se requiere recuperar flujo de dólares y mantener disciplina fiscal para sostener la estabilidad cambiaria.",
+      "summary_en": "Bolivia’s Net International Reserves have shown a marked decline in the foreign-currency component, leaving only about $52 million available for dollar payments, with a large share of the reserves held in gold. Analysts say the core problem is the weakness of the stock in foreign currency amid growing external obligations, so the country needs to restore dollar inflows and maintain fiscal discipline to sustain exchange-rate stability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-27T07:06:00-04:00",
+      "published_at_bo": "2026-03-27T07:06:00-04:00",
+      "fetched_at_utc": "2026-03-27T14:56:07.315462+00:00",
+      "day": "2026-03-27"
+    },
     {
       "source": "El Deber",
       "title": "Expoforest 2026: ABT impulsa el mercado de bonos de carbono, ganadería regenerativa y finanzas sostenibles",
