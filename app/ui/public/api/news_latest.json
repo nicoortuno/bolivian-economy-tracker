@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-27T15:57:33.478340+00:00",
+  "generated_at_utc": "2026-03-27T16:07:14.702125+00:00",
   "count": 103,
   "items": [
     {
@@ -14,6 +14,20 @@
       "published_at_utc": "2026-03-27T07:06:00-04:00",
       "published_at_bo": "2026-03-27T07:06:00-04:00",
       "fetched_at_utc": "2026-03-27T15:57:30.725856+00:00",
+      "day": "2026-03-27"
+    },
+    {
+      "source": "El Deber",
+      "title": "Acuerdo fija resarcimiento más de una vez y  control de la gasolina en país de origen",
+      "url": "https://eldeber.com.bo/economia/acuerdo-fija-resarcimiento-vez-control-gasolina-pais-origen_1774609305",
+      "summary": "Un acuerdo entre una comisión gubernamental y las federaciones de choferes dio por terminado el paro en La Paz y El Alto, con medidas para resarcir a propietarios de vehículos dañados por la gasolina desestabilizada, posibilidad de compensaciones múltiples y la creación de comisiones para verificar la calidad del combustible en origen y en puertos. Además, se acordó facilitar créditos diferidos, abrir ventanillas en oficinas de YPFB y realizar verificaciones de combustible en Arica y Perú para garantizar el suministro.",
+      "summary_es": "Un acuerdo entre una comisión gubernamental y las federaciones de choferes dio por terminado el paro en La Paz y El Alto, con medidas para resarcir a propietarios de vehículos dañados por la gasolina desestabilizada, posibilidad de compensaciones múltiples y la creación de comisiones para verificar la calidad del combustible en origen y en puertos. Además, se acordó facilitar créditos diferidos, abrir ventanillas en oficinas de YPFB y realizar verificaciones de combustible en Arica y Perú para garantizar el suministro.",
+      "summary_en": "An agreement between a government commission and the drivers’ federations has ended the protests in La Paz and El Alto, with measures to compensate owners of vehicles damaged by tainted gasoline, the possibility of multiple compensation schemes, and the creation of commissions to verify fuel quality at the source and at ports. It also calls for facilitating deferred credit facilities, opening service counters at YPFB offices, and conducting fuel inspections in Arica and Peru to ensure supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-27T07:01:00-04:00",
+      "published_at_bo": "2026-03-27T07:01:00-04:00",
+      "fetched_at_utc": "2026-03-27T15:57:31.716529+00:00",
       "day": "2026-03-27"
     },
     {
