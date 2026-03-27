@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-27T20:46:10.229174+00:00",
+  "generated_at_utc": "2026-03-27T20:56:08.135617+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Senkata bajo lupa: Choferes revisan nuevo lote de gasolina tras días de conflicto",
+      "url": "https://eldeber.com.bo/economia/senkata-lupa-choferes-revisan-nuevo-lote-gasolina-dias-conflicto_1774638870",
+      "summary": "Una comisión de transportistas inspecciona la planta de Senkata de YPFB para verificar la calidad y el cumplimiento del suministro de gasolina tras un acuerdo con el Gobierno, en medio de tensiones por fallas en la provisión.",
+      "summary_es": "Una comisión de transportistas inspecciona la planta de Senkata de YPFB para verificar la calidad y el cumplimiento del suministro de gasolina tras un acuerdo con el Gobierno, en medio de tensiones por fallas en la provisión.",
+      "summary_en": "A commission of transporters is inspecting YPFB’s Senkata refinery to verify the quality and reliability of the gasoline supply, following an agreement with the government, amid tensions over supply disruptions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-27T15:45:00-04:00",
+      "published_at_bo": "2026-03-27T15:45:00-04:00",
+      "fetched_at_utc": "2026-03-27T20:46:07.370847+00:00",
+      "day": "2026-03-27"
+    },
     {
       "source": "El Deber",
       "title": "Feria de la Construcción: La Ficad 2026 trae descuentos en ladrillos, pinturas, puertas y cerámicas",
