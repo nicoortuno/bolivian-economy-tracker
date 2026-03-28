@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-03-28T20:49:03.749546+00:00",
-  "count": 106,
+  "generated_at_utc": "2026-03-28T21:35:00.805814+00:00",
+  "count": 103,
   "items": [
     {
       "source": "El Deber",
@@ -1415,62 +1415,6 @@
       "published_at_bo": "2026-03-14T11:33:00-04:00",
       "fetched_at_utc": "2026-03-14T20:35:08.063375+00:00",
       "day": "2026-03-14"
-    },
-    {
-      "source": "El Deber",
-      "title": "Bolivia concreta acuerdos estratégicos con la FAO para modernizar el sector agropecuario nacional",
-      "url": "https://eldeber.com.bo/economia/bolivia-concreta-acuerdos-estrategicos-fao-modernizar-sector-agropecuario-nacional_1773439572",
-      "summary": "El ministro Oscar Justiniano se reunió en Roma con Máximo Torero de la FAO para sellar alianzas en cuatro ejes: protección del trabajador rural, impulso a inversiones, uso tecnológico para trazabilidad y el intercambio de conocimientos entre exportadores de papa para abrir nuevos mercados. El objetivo es que el productor boliviano incremente su rendimiento e incorpore tecnología de punta, con cooperación técnica en innovación agrícola y seguridad alimentaria, posicionando a Bolivia como referente de desarrollo rural sostenible.",
-      "summary_es": "El ministro Oscar Justiniano se reunió en Roma con Máximo Torero de la FAO para sellar alianzas en cuatro ejes: protección del trabajador rural, impulso a inversiones, uso tecnológico para trazabilidad y el intercambio de conocimientos entre exportadores de papa para abrir nuevos mercados. El objetivo es que el productor boliviano incremente su rendimiento e incorpore tecnología de punta, con cooperación técnica en innovación agrícola y seguridad alimentaria, posicionando a Bolivia como referente de desarrollo rural sostenible.",
-      "summary_en": "Minister Oscar Justiniano met in Rome with Máximo Torero of the FAO to cement alliances in four areas: protecting rural workers, boosting investments, leveraging technology for traceability, and exchanging knowledge among potato exporters to open new markets. The goal is for Bolivian producers to raise yields and adopt cutting-edge technology, with technical cooperation in agricultural innovation and food security, positioning Bolivia as a reference in sustainable rural development.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-13T18:06:00-04:00",
-      "published_at_bo": "2026-03-13T18:06:00-04:00",
-      "fetched_at_utc": "2026-03-14T02:32:40.993846+00:00",
-      "day": "2026-03-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "BCB reingresa billetes de la serie A y abre el canje de billetes de la serie B",
-      "url": "https://eldeber.com.bo/economia/bcb-reingresa-billetes-serie-abre-canje-billetes-serie-b_1773433545",
-      "summary": "El presidente interino del Banco Central de Bolivia, David Espinoza, anunció el reingreso de los billetes de la serie A y habilitó el canje voluntario de los de la serie B a partir del 16 de marzo, para resolver el conflicto comercial y social originado por la rechazo a la serie B tras el siniestro en El Alto el 27 de febrero.",
-      "summary_es": "El presidente interino del Banco Central de Bolivia, David Espinoza, anunció el reingreso de los billetes de la serie A y habilitó el canje voluntario de los de la serie B a partir del 16 de marzo, para resolver el conflicto comercial y social originado por la rechazo a la serie B tras el siniestro en El Alto el 27 de febrero.",
-      "summary_en": "Bolivia’s interim president of the Central Bank, David Espinoza, announced the reintroduction of Series A banknotes and opened a voluntary exchange for Series B notes starting March 16, to resolve the commercial and social unrest sparked by the rejection of Series B after the incident in El Alto on February 27.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-13T16:34:00-04:00",
-      "published_at_bo": "2026-03-13T16:34:00-04:00",
-      "fetched_at_utc": "2026-03-13T23:34:09.656238+00:00",
-      "day": "2026-03-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "YPFB alista pagos, pero transportistas denuncian fallas en el registro",
-      "url": "https://eldeber.com.bo/economia/ypfb-alista-pagos-transportistas-denuncian-fallas-registro_1773400618",
-      "summary": "La disputa por los daños atribuidos a la gasolina desestabilizada en Bolivia sigue generando tensiones entre transportistas y el Gobierno, mientras YPFB prevé iniciar la próxima semana los primeros pagos de resarcimiento a los afectados. Sin embargo, sectores como el transporte urbano y los mototaxistas denuncian retrasos y fallos en el registro de reclamos (incluido el uso del RUAT) que dificultan la verificación de propiedad, y advierten con nuevas movilizaciones si no obtienen respuestas rápidas.",
-      "summary_es": "La disputa por los daños atribuidos a la gasolina desestabilizada en Bolivia sigue generando tensiones entre transportistas y el Gobierno, mientras YPFB prevé iniciar la próxima semana los primeros pagos de resarcimiento a los afectados. Sin embargo, sectores como el transporte urbano y los mototaxistas denuncian retrasos y fallos en el registro de reclamos (incluido el uso del RUAT) que dificultan la verificación de propiedad, y advierten con nuevas movilizaciones si no obtienen respuestas rápidas.",
-      "summary_en": "The dispute over damages attributed to the destabilized gasoline in Bolivia continues to fuel tensions between transport workers and the government, as YPFB plans to begin next week with the first compensation payments to those affected. However, sectors such as urban transport and motorcycle taxi drivers report delays and flaws in the claims registration process (including the use of RUAT), which hinder property verification, and they warn of further protests if they do not receive swift responses.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-13T07:16:00-04:00",
-      "published_at_bo": "2026-03-13T07:16:00-04:00",
-      "fetched_at_utc": "2026-03-13T16:48:59.923454+00:00",
-      "day": "2026-03-13"
-    },
-    {
-      "source": "El Deber",
-      "title": "Lluvias amenazan la mayor cosecha de soya, maíz y sorgo en  Santa Cruz",
-      "url": "https://eldeber.com.bo/economia/lluvias-amenazan-mayor-cosecha-soya-maiz-sorgo-santa-cruz_1773399413",
-      "summary": "Las lluvias persistentes en Santa Cruz amenazan la campaña de verano al coincidir con la cosecha y podrían afectar hasta 2,2 millones de hectáreas de cultivos, principalmente soya, maíz y sorgo. Además generan dificultades logísticas para el transporte de alimentos y elevan el riesgo de inundaciones en ríos como el Piraí, con autoridades desplegando medidas de mitigación.",
-      "summary_es": "Las lluvias persistentes en Santa Cruz amenazan la campaña de verano al coincidir con la cosecha y podrían afectar hasta 2,2 millones de hectáreas de cultivos, principalmente soya, maíz y sorgo. Además generan dificultades logísticas para el transporte de alimentos y elevan el riesgo de inundaciones en ríos como el Piraí, con autoridades desplegando medidas de mitigación.",
-      "summary_en": "Persistent rains in Santa Cruz threaten the summer farming season as they coincide with the harvest, potentially affecting up to 2.2 million hectares of crops, primarily soybeans, corn, and sorghum. They also create logistical challenges for transporting food and raise flood risk in rivers such as the Pirai, with authorities deploying mitigation measures.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-13T06:56:00-04:00",
-      "published_at_bo": "2026-03-13T06:56:00-04:00",
-      "fetched_at_utc": "2026-03-13T16:49:00.910026+00:00",
-      "day": "2026-03-13"
     }
   ]
 }
