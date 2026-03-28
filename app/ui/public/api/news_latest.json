@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-28T21:35:00.805814+00:00",
+  "generated_at_utc": "2026-03-28T21:45:11.991793+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia paga $us 500 millones de deuda, en medio de caída de las reservas",
+      "url": "https://eldeber.com.bo/economia/bolivia-paga-us-500-millones-deuda-medio-caida-reservas_1774731443",
+      "summary": "Bolivia pagó en marzo más de 500 millones de dólares de deuda externa con recursos propios, el pago mensual más alto de su historia, y simultáneamente redujo la deuda en bonos soberanos en más de 800 millones mediante operaciones de manejo de pasivos. Estas acciones se enmarcan en un contexto de restricciones de liquidez, caída de reservas y desafío fiscal, aunque el gobierno afirma haber mostrado capacidad de ordenar las finanzas sin incurrir en nueva deuda.",
+      "summary_es": "Bolivia pagó en marzo más de 500 millones de dólares de deuda externa con recursos propios, el pago mensual más alto de su historia, y simultáneamente redujo la deuda en bonos soberanos en más de 800 millones mediante operaciones de manejo de pasivos. Estas acciones se enmarcan en un contexto de restricciones de liquidez, caída de reservas y desafío fiscal, aunque el gobierno afirma haber mostrado capacidad de ordenar las finanzas sin incurrir en nueva deuda.",
+      "summary_en": "Bolivia paid in March more than $500 million of external debt with its own resources, the largest monthly payment on record, while simultaneously reducing sovereign-bond debt by more than $800 million through liability-management operations. The moves come amid liquidity constraints, falling reserves, and a fiscal challenge, though the government says it has demonstrated the ability to straighten finances without incurring new debt.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-28T17:01:00-04:00",
+      "published_at_bo": "2026-03-28T17:01:00-04:00",
+      "fetched_at_utc": "2026-03-28T21:34:58.748405+00:00",
+      "day": "2026-03-28"
+    },
     {
       "source": "El Deber",
       "title": "Según YPFB, pagos por compensación alcanzan los Bs 4,9 millones hasta este viernes",
