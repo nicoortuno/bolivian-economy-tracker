@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-30T03:17:05.903748+00:00",
+  "generated_at_utc": "2026-03-30T03:38:30.479510+00:00",
   "count": 105,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Precio del petróleo WTI supera nuevamente los $us 100 por barril",
+      "url": "https://eldeber.com.bo/economia/precio-petroleo-wti-supera-nuevamente-us-100-barril_1774832820",
+      "summary": "El petróleo sube con fuerza ante la intensificación del conflicto en Medio Oriente y la amenaza a las rutas de suministro, con el WTI por encima de $103 y el Brent cerca de $116 por barril. Los ataques hutíes y las restricciones en el estrecho de Ormuz elevan las preocupaciones de escasez y inducen proyecciones de hasta $200 por barril si el conflicto se prolonga.",
+      "summary_es": "El petróleo sube con fuerza ante la intensificación del conflicto en Medio Oriente y la amenaza a las rutas de suministro, con el WTI por encima de $103 y el Brent cerca de $116 por barril. Los ataques hutíes y las restricciones en el estrecho de Ormuz elevan las preocupaciones de escasez y inducen proyecciones de hasta $200 por barril si el conflicto se prolonga.",
+      "summary_en": "Oil rises sharply as the Middle East conflict intensifies and supply routes come under threat, with WTI above $103 and Brent near $116 a barrel. Houthi attacks and restrictions in the Strait of Hormuz heighten supply concerns and fuel forecasts of up to $200 a barrel if the conflict persists.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-29T22:39:00-04:00",
+      "published_at_bo": "2026-03-29T22:39:00-04:00",
+      "fetched_at_utc": "2026-03-30T03:17:01.700126+00:00",
+      "day": "2026-03-29"
+    },
     {
       "source": "El Deber",
       "title": "ABC cierra el paso total para camiones de alto tonelaje en tramo La Angostura-Bermejo",
