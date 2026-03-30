@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-30T15:09:24.421710+00:00",
+  "generated_at_utc": "2026-03-30T15:39:58.326618+00:00",
   "count": 100,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ministro Zamora avanza en la política de cielos abiertos y este lunes firma el MoU en Brasil",
+      "url": "https://eldeber.com.bo/economia/ministro-zamora-avanza-politica-cielos-abiertos-este-lunes-firma-mou-brasil_1774882676",
+      "summary": "El ministro de Obras Públicas, Mauricio Zamora, se encuentra en Brasil para firmar un Memorando de Entendimiento sobre la quinta libertad del aire, como parte de la implementación de la política de cielos abiertos de Bolivia, y anticipa hacer lo mismo con Chile. El objetivo es firmar acuerdos con países vecinos para aumentar la conectividad, la competencia y reducir costos, mientras Bolivia modifica su normativa aeronáutica y avanza con un cronograma de apertura de cielos tras su visita a la OACI.",
+      "summary_es": "El ministro de Obras Públicas, Mauricio Zamora, se encuentra en Brasil para firmar un Memorando de Entendimiento sobre la quinta libertad del aire, como parte de la implementación de la política de cielos abiertos de Bolivia, y anticipa hacer lo mismo con Chile. El objetivo es firmar acuerdos con países vecinos para aumentar la conectividad, la competencia y reducir costos, mientras Bolivia modifica su normativa aeronáutica y avanza con un cronograma de apertura de cielos tras su visita a la OACI.",
+      "summary_en": "Bolivia’s Minister of Public Works, Mauricio Zamora, is in Brazil to sign a Memorandum of Understanding on the fifth freedom of the air as part of the country’s open-skies policy. He plans to do the same with Chile. The aim is to strike agreements with neighboring nations to boost connectivity, enhance competition, and cut costs, while Bolivia updates its aviation regulations and moves ahead with a timetable for opening its skies after his visit to ICAO.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-30T10:57:00-04:00",
+      "published_at_bo": "2026-03-30T10:57:00-04:00",
+      "fetched_at_utc": "2026-03-30T15:09:21.598420+00:00",
+      "day": "2026-03-30"
+    },
+    {
+      "source": "El Deber",
+      "title": "Contrabandistas atacan operativo de la Aduana en Santa Cruz tras decomiso de harina",
+      "url": "https://eldeber.com.bo/economia/contrabandistas-atacan-efectivos-aduana-santa-cruz-decomiso-harina_1774879922",
+      "summary": "La Aduana Nacional denunció que contrabandistas atacaron a funcionarios y militares durante un operativo en Santa Cruz de la Sierra tras interceptar un camión con harina de procedencia extranjera sin documentación. A pesar de los enfrentamientos y el intento de recuperación de la mercancía, se resguardó el cargamento y se amplificarán los controles; además, en un operativo previo se decomisaron dos camiones con ropa usada.",
+      "summary_es": "La Aduana Nacional denunció que contrabandistas atacaron a funcionarios y militares durante un operativo en Santa Cruz de la Sierra tras interceptar un camión con harina de procedencia extranjera sin documentación. A pesar de los enfrentamientos y el intento de recuperación de la mercancía, se resguardó el cargamento y se amplificarán los controles; además, en un operativo previo se decomisaron dos camiones con ropa usada.",
+      "summary_en": "The National Customs Authority said smugglers attacked officers and soldiers during an operation in Santa Cruz de la Sierra after intercepting a truck carrying flour of foreign origin without documentation. Despite the clashes and the attempt to recover the merchandise, the cargo was secured and controls will be intensified. Additionally, in a prior operation two trucks loaded with used clothing were seized.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-30T10:20:00-04:00",
+      "published_at_bo": "2026-03-30T10:20:00-04:00",
+      "fetched_at_utc": "2026-03-30T15:09:22.603563+00:00",
+      "day": "2026-03-30"
+    },
     {
       "source": "El Deber",
       "title": "Precio del petróleo WTI supera nuevamente los $us 100 por barril",
