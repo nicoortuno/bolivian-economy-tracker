@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-03-30T19:07:40.896156+00:00",
+  "generated_at_utc": "2026-03-30T19:19:38.523878+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "“El Estado tranca le cuesta a Bolivia cerca del 6% del PIB”, advierte Lupo",
+      "url": "https://eldeber.com.bo/economia/estado-tranca-le-cuesta-bolivia-cerca-6-pib-advierte-lupo_1774893421",
+      "summary": "El ministro José Luis Lupo Flores afirmó que la burocracia estatal representa un costo aproximado del 6% del PIB y presentó el programa Tranca Cero para desregulación, digitalización y simplificación de trámites. El objetivo es modernizar la administración, reducir costos, mejorar la productividad y atraer inversiones mediante un Catálogo Nacional de Trámites y la plataforma de denuncia “Reporta tu Tranca”.",
+      "summary_es": "El ministro José Luis Lupo Flores afirmó que la burocracia estatal representa un costo aproximado del 6% del PIB y presentó el programa Tranca Cero para desregulación, digitalización y simplificación de trámites. El objetivo es modernizar la administración, reducir costos, mejorar la productividad y atraer inversiones mediante un Catálogo Nacional de Trámites y la plataforma de denuncia “Reporta tu Tranca”.",
+      "summary_en": "Minister José Luis Lupo Flores said that state bureaucracy accounts for about 6% of GDP and unveiled the Tranca Cero program to deregulate, digitize, and streamline procedures. The goal is to modernize the administration, cut costs, boost productivity, and attract investment through a National Catalog of Procedures and the reporting platform “Reporta tu Tranca.”",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-30T14:35:00-04:00",
+      "published_at_bo": "2026-03-30T14:35:00-04:00",
+      "fetched_at_utc": "2026-03-30T19:07:30.000939+00:00",
+      "day": "2026-03-30"
+    },
+    {
+      "source": "El Deber",
+      "title": "“Hay traidores que nos hicieron mucho daño y tendrán que rendir cuentas”: Paz advierte más detenciones",
+      "url": "https://eldeber.com.bo/economia/hay-traidores-nos-hicieron-mucho-dano-tendran-rendir-cuentas-paz-advierte-detenciones_1774895465",
+      "summary": "El presidente Rodrigo Paz Pereira afirmó que ya hay detenidos por corrupción en la gestión pública y anunció que habrá más procesos y encarcelamientos contra quienes traicionaron al país y se robaron recursos del Estado, buscando rendir cuentas ante la justicia. Además, vinculó la lucha contra la corrupción con reformas para desmantelar la burocracia estatal y garantizar mayor transparencia en el manejo de los recursos públicos.",
+      "summary_es": "El presidente Rodrigo Paz Pereira afirmó que ya hay detenidos por corrupción en la gestión pública y anunció que habrá más procesos y encarcelamientos contra quienes traicionaron al país y se robaron recursos del Estado, buscando rendir cuentas ante la justicia. Además, vinculó la lucha contra la corrupción con reformas para desmantelar la burocracia estatal y garantizar mayor transparencia en el manejo de los recursos públicos.",
+      "summary_en": "President Rodrigo Paz Pereira said that there are already detainees facing corruption charges in public administration and announced that there will be more prosecutions and imprisonments against those who betrayed the country and stole state resources, as they seek accountability before the courts. He also linked the fight against corruption to reforms aimed at dismantling the state bureaucracy and ensuring greater transparency in the handling of public resources.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-30T14:33:00-04:00",
+      "published_at_bo": "2026-03-30T14:33:00-04:00",
+      "fetched_at_utc": "2026-03-30T19:07:30.942865+00:00",
+      "day": "2026-03-30"
+    },
+    {
+      "source": "El Deber",
+      "title": "Lupo: “No se va a enviar un paquete entero de leyes, se va a mandar una por una”",
+      "url": "https://eldeber.com.bo/economia/lupo-no-va-enviar-paquete-entero-leyes-va-mandar_1774892261",
+      "summary": "El Gobierno no enviará un paquete único de leyes, sino que trabajará y socializará, ley por ley, las cinco reformas principales (hidrocarburos, energía, minería e inversiones) mediante mesas interinstitucionales y con la sociedad civil, con la expectativa de obtener aprobaciones en la Asamblea en abril.",
+      "summary_es": "El Gobierno no enviará un paquete único de leyes, sino que trabajará y socializará, ley por ley, las cinco reformas principales (hidrocarburos, energía, minería e inversiones) mediante mesas interinstitucionales y con la sociedad civil, con la expectativa de obtener aprobaciones en la Asamblea en abril.",
+      "summary_en": "The government will not send a single omnibus package of laws. Instead, it will work on and socialize each reform—one by one—the five main reforms (hydrocarbons, energy, mining, and investments) through interagency tables and in consultation with civil society, with the aim of securing approvals in the Assembly in April.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-30T14:23:00-04:00",
+      "published_at_bo": "2026-03-30T14:23:00-04:00",
+      "fetched_at_utc": "2026-03-30T19:07:31.869468+00:00",
+      "day": "2026-03-30"
+    },
     {
       "source": "El Deber",
       "title": "“Vamos a acabar con el maldito folder amarillo”, asegura el presidente Paz",
