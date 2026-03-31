@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-31T17:04:38.973120+00:00",
+  "generated_at_utc": "2026-03-31T17:14:29.675489+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno suspende contratos con Vitol y Trafigura por caso de gasolina desestabilizada",
+      "url": "https://eldeber.com.bo/economia/gobierno-suspende-contratos-vitol-trafigura-caso-gasolina-desestabilizada_1774972614",
+      "summary": "El Gobierno suspendió los contratos de recepción de gasolina con Vitol y Trafigura mientras avanza la investigación sobre la gasolina de mala calidad. También anunció la apertura a nuevos proveedores para diversificar la cadena de suministro y asegurar estándares de calidad desde la importación hasta la distribución.",
+      "summary_es": "El Gobierno suspendió los contratos de recepción de gasolina con Vitol y Trafigura mientras avanza la investigación sobre la gasolina de mala calidad. También anunció la apertura a nuevos proveedores para diversificar la cadena de suministro y asegurar estándares de calidad desde la importación hasta la distribución.",
+      "summary_en": "The government suspended the gasoline-receipt contracts with Vitol and Trafigura as the investigation into the substandard gasoline progresses. It also announced that it would open up opportunities to new suppliers to diversify the supply chain and ensure quality standards from import to distribution.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-31T12:09:00-04:00",
+      "published_at_bo": "2026-03-31T12:09:00-04:00",
+      "fetched_at_utc": "2026-03-31T17:04:33.583168+00:00",
+      "day": "2026-03-31"
+    },
     {
       "source": "El Deber",
       "title": "Productores tardan hasta 10 horas para transportar hortalizas por el mal estado de las carreteras",
