@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-03-31T15:07:58.111223+00:00",
+  "generated_at_utc": "2026-03-31T15:22:50.907795+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Productores tardan hasta 10 horas para transportar hortalizas por el mal estado de las carreteras",
+      "url": "https://eldeber.com.bo/economia/productores-tardan-10-horas-transportar-hortalizas-mal-estado-carreteras_1774968573",
+      "summary": "Los productores hortícolas de Santa Cruz enfrentan retrasos de hasta 10 horas para entregar sus cosechas por el mal estado de las carreteras, lo que aumenta las pérdidas por productos perecederos, especialmente el tomate, cuyo precio de venta ronda los 20 bolivianos por caja. Ante ello, muchos habrían dejado de sembrar y evaluating migración a Chile, mientras piden a las autoridades mejorar el mantenimiento vial y buscar soluciones de infraestructura para asegurar el abastecimiento urbano.",
+      "summary_es": "Los productores hortícolas de Santa Cruz enfrentan retrasos de hasta 10 horas para entregar sus cosechas por el mal estado de las carreteras, lo que aumenta las pérdidas por productos perecederos, especialmente el tomate, cuyo precio de venta ronda los 20 bolivianos por caja. Ante ello, muchos habrían dejado de sembrar y evaluating migración a Chile, mientras piden a las autoridades mejorar el mantenimiento vial y buscar soluciones de infraestructura para asegurar el abastecimiento urbano.",
+      "summary_en": "Fruit and vegetable producers in Santa Cruz are facing delays of up to 10 hours in delivering their harvests due to poor road conditions, leading to losses of perishable goods, especially tomatoes, which sell for about 20 bolivianos per box. In light of this, many have stopped planting and are evaluating migration to Chile, while calling on authorities to improve road maintenance and pursue infrastructure solutions to ensure urban supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-31T10:54:00-04:00",
+      "published_at_bo": "2026-03-31T10:54:00-04:00",
+      "fetched_at_utc": "2026-03-31T15:07:53.507834+00:00",
+      "day": "2026-03-31"
+    },
+    {
+      "source": "El Deber",
+      "title": "Reservas de gas caen a 3,7 TCF y YPFB advierte que Bolivia podría importar gas desde 2031",
+      "url": "https://eldeber.com.bo/economia/reservas-gas-caen-3-7-tcf-ypfb-advierte-bolivia-podria-importar-gas-2031_1774967101",
+      "summary": "YPFB informó que las reservas probadas de gas en Bolivia alcanzan 3,7 TCF, cifra que acentúa la declinación y podría obligar al país a importar gas para abastecer el mercado interno a partir de 2031 si no hay nuevos hallazgos. Además, se señaló una falta de exploración desde 2014 y la urgente necesidad de cambiar la política energética para reponer reservas, bajo la gestión de la nueva presidenta de YPFB, Claudia Cronenbold.",
+      "summary_es": "YPFB informó que las reservas probadas de gas en Bolivia alcanzan 3,7 TCF, cifra que acentúa la declinación y podría obligar al país a importar gas para abastecer el mercado interno a partir de 2031 si no hay nuevos hallazgos. Además, se señaló una falta de exploración desde 2014 y la urgente necesidad de cambiar la política energética para reponer reservas, bajo la gestión de la nueva presidenta de YPFB, Claudia Cronenbold.",
+      "summary_en": "YPFB said that Bolivia’s proved gas reserves now stand at 3.7 TCF, a figure that underscores a decline and could force the country to import gas to meet domestic demand from 2031 if there are no new discoveries. It also noted a lack of exploration since 2014 and the urgent need to change energy policy to replenish reserves, under the leadership of YPFB’s new president, Claudia Cronenbold.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-31T10:27:00-04:00",
+      "published_at_bo": "2026-03-31T10:27:00-04:00",
+      "fetched_at_utc": "2026-03-31T15:07:54.462391+00:00",
+      "day": "2026-03-31"
+    },
     {
       "source": "El Deber",
       "title": "Por decreto, Gobierno autoriza ajuste de precios en los contratos de obras",
