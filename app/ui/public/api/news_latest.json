@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-03-31T13:45:37.551884+00:00",
+  "generated_at_utc": "2026-03-31T14:02:41.531125+00:00",
   "count": 108,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Por decreto, Gobierno autoriza ajuste de precios en los contratos de obras",
+      "url": "https://eldeber.com.bo/economia/decreto-gobierno-autoriza-ajuste-precios-contratos-obras_1774961913",
+      "summary": "El Gobierno aprobó el Decreto Supremo 5597, que permite de forma excepcional ajustar los precios de materiales de construcción en contratos de obra y llave en mano de entidades públicas, aplicable a contratos suscritos antes o en ejecución y excluyendo materiales ya ajustados por el DS 5321/2025. El ajuste se hará mediante contratos modificatorios únicos hasta el 31 de diciembre de 2026, con posibles incrementos adicionales según disponibilidad financiera, y requiere actualización de la Garantía de Cumplimiento; la SIB lo recibió positivamente como una solución al desequilibrio económico del sector.",
+      "summary_es": "El Gobierno aprobó el Decreto Supremo 5597, que permite de forma excepcional ajustar los precios de materiales de construcción en contratos de obra y llave en mano de entidades públicas, aplicable a contratos suscritos antes o en ejecución y excluyendo materiales ya ajustados por el DS 5321/2025. El ajuste se hará mediante contratos modificatorios únicos hasta el 31 de diciembre de 2026, con posibles incrementos adicionales según disponibilidad financiera, y requiere actualización de la Garantía de Cumplimiento; la SIB lo recibió positivamente como una solución al desequilibrio económico del sector.",
+      "summary_en": "The Government approved Supreme Decree 5597, which allows, on an exceptional basis, the adjustment of construction material prices in turnkey construction contracts with public entities. The measure applies to contracts signed before or during execution and excludes materials already adjusted under Decree 5321/2025. Adjustments will be carried out through single modification contracts until December 31, 2026, with potential additional increases depending on financial availability, and requires updating the Performance Guarantee. The SIB welcomed the move as a solution to the sector’s economic imbalance.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-03-31T09:03:00-04:00",
+      "published_at_bo": "2026-03-31T09:03:00-04:00",
+      "fetched_at_utc": "2026-03-31T13:45:34.774055+00:00",
+      "day": "2026-03-31"
+    },
     {
       "source": "El Deber",
       "title": "Cronenbold releva a Akly en YPFB  durante crisis por la gasolina desestabilizada",
