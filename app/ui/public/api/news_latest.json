@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-01T11:03:18.633853+00:00",
+  "generated_at_utc": "2026-04-01T11:14:01.884102+00:00",
   "count": 103,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "YPFB admite que reservas de gas caen y riesgo de tener  que importar desde 2031",
+      "url": "https://eldeber.com.bo/economia/ypfb-admite-reservas-gas-caen-riesgo-tener-importar-2031_1775040628",
+      "summary": "YPFB admite que las reservas probadas de gas en Bolivia cayeron a 3,7 TCF, con una producción que pasó de ~59 MMmcd en 2014 a ~31,6 MMmcd, evidenciando un deterioro que compromete exportaciones y abastecimiento interno.  \nAdvierte que, sin nuevos descubrimientos, el país podría volverse importador de gas antes de 2031 y propone reformar el marco regulatorio para atraer inversiones en exploración y explotación ante un entorno internacional más competitivo.",
+      "summary_es": "YPFB admite que las reservas probadas de gas en Bolivia cayeron a 3,7 TCF, con una producción que pasó de ~59 MMmcd en 2014 a ~31,6 MMmcd, evidenciando un deterioro que compromete exportaciones y abastecimiento interno.  \nAdvierte que, sin nuevos descubrimientos, el país podría volverse importador de gas antes de 2031 y propone reformar el marco regulatorio para atraer inversiones en exploración y explotación ante un entorno internacional más competitivo.",
+      "summary_en": "YPFB admits that Bolivia’s proven gas reserves have fallen to 3.7 Tcf, with production dropping from about 59 million cubic metres per day in 2014 to about 31.6 million cubic metres per day, highlighting a deterioration that threatens exports and domestic supply.\n\nIt warns that, without new discoveries, the country could become a gas importer before 2031 and calls for reforming the regulatory framework to attract investment in exploration and production amid a more competitive international environment.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T06:50:00-04:00",
+      "published_at_bo": "2026-04-01T06:50:00-04:00",
+      "fetched_at_utc": "2026-04-01T11:03:15.247035+00:00",
+      "day": "2026-04-01"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno denuncia daño en 150 millones de litros de combustible importado",
+      "url": "https://eldeber.com.bo/economia/gobierno-denuncia-dano-150-millones-litros-combustible-importado_1775040315",
+      "summary": "Una investigación gubernamental señala que entre Chile y Bolivia operó una red criminal que adulteró entre 700 y 1.000 litros por una cisterna, sumando unos 150 millones de litros de gasolina y diésel contaminados con agua y aceite, ingresados desde Chile en unas 5.000 cisternas en cinco meses. El caso moviliza cooperación internacional con Chile y se ampliará a Paraguay y Argentina, mientras se suspenden contratos con Trafigura y Vitol para aclarar irregularidades, y el abastecimiento interno se garantiza.",
+      "summary_es": "Una investigación gubernamental señala que entre Chile y Bolivia operó una red criminal que adulteró entre 700 y 1.000 litros por una cisterna, sumando unos 150 millones de litros de gasolina y diésel contaminados con agua y aceite, ingresados desde Chile en unas 5.000 cisternas en cinco meses. El caso moviliza cooperación internacional con Chile y se ampliará a Paraguay y Argentina, mientras se suspenden contratos con Trafigura y Vitol para aclarar irregularidades, y el abastecimiento interno se garantiza.",
+      "summary_en": "A government investigation says that a criminal network operated between Chile and Bolivia, adulterating between 700 and 1,000 liters per tanker, totaling about 150 million liters of gasoline and diesel contaminated with water and oil. The illicit product entered from Chile in some 5,000 tankers over five months. The case is prompting international cooperation with Chile and will extend to Paraguay and Argentina. Contracts with Trafigura and Vitol are being suspended to clarify irregularities, while domestic supply is being guaranteed.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T06:45:00-04:00",
+      "published_at_bo": "2026-04-01T06:45:00-04:00",
+      "fetched_at_utc": "2026-04-01T11:03:16.146611+00:00",
+      "day": "2026-04-01"
+    },
     {
       "source": "El Deber",
       "title": "YPFB Andina ejecuta $us 86,3 millones y apunta a reponer reservas de gas",
