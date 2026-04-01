@@ -1,21 +1,7 @@
 {
-  "generated_at_utc": "2026-04-01T18:04:50.238875+00:00",
+  "generated_at_utc": "2026-04-01T19:11:00.603724+00:00",
   "count": 109,
   "items": [
-    {
-      "source": "El Deber",
-      "title": "Experto cuestiona acuerdos de “cielos abiertos” y pide una ley antes de firmar convenios internacionales",
-      "url": "https://eldeber.com.bo/economia/experto-cuestiona-acuerdos-cielos-abiertos-pide-ley-antes-firmar-convenios-internacionales_1775062480",
-      "summary": "El experto en derecho aeronáutico Jorge Valle cuestiona los convenios de cielos abiertos de Bolivia y sostiene que, antes de avanzar, el país debe promulgar una ley que defina una política nacional de cielos abiertos y elimine las restricciones existentes. También advierte que estos acuerdos deben ser suscritos por la Cancillería o un plenipotenciario, no por un ministro de Obras Públicas, para asegurarse de que se cumplen los procedimientos adecuados.",
-      "summary_es": "El experto en derecho aeronáutico Jorge Valle cuestiona los convenios de cielos abiertos de Bolivia y sostiene que, antes de avanzar, el país debe promulgar una ley que defina una política nacional de cielos abiertos y elimine las restricciones existentes. También advierte que estos acuerdos deben ser suscritos por la Cancillería o un plenipotenciario, no por un ministro de Obras Públicas, para asegurarse de que se cumplen los procedimientos adecuados.",
-      "summary_en": "Aviation law expert Jorge Valle questions Bolivia’s open skies agreements and argues that, before moving forward, the country must enact a law defining a national open skies policy and lift the existing restrictions. He also warns that these accords should be signed by the Foreign Ministry or a plenipotentiary, not by a Minister of Public Works, to ensure proper procedures are followed.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-04-01T12:57:00-04:00",
-      "published_at_bo": "2026-04-01T12:57:00-04:00",
-      "fetched_at_utc": "2026-04-01T17:54:46.635551+00:00",
-      "day": "2026-04-01"
-    },
     {
       "source": "El Deber",
       "title": "“Tenemos que ser más realistas”: Legisladores cuestionan a la COB por pedir 20% de alza salarial",
@@ -27,7 +13,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-01T12:40:00-04:00",
       "published_at_bo": "2026-04-01T12:40:00-04:00",
-      "fetched_at_utc": "2026-04-01T17:54:47.560566+00:00",
+      "fetched_at_utc": "2026-04-01T19:10:54.739212+00:00",
       "day": "2026-04-01"
     },
     {
@@ -41,7 +27,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-01T11:59:00-04:00",
       "published_at_bo": "2026-04-01T11:59:00-04:00",
-      "fetched_at_utc": "2026-04-01T17:54:48.483792+00:00",
+      "fetched_at_utc": "2026-04-01T19:10:55.668737+00:00",
       "day": "2026-04-01"
     },
     {
@@ -55,7 +41,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-01T11:40:00-04:00",
       "published_at_bo": "2026-04-01T11:40:00-04:00",
-      "fetched_at_utc": "2026-04-01T17:54:49.421329+00:00",
+      "fetched_at_utc": "2026-04-01T19:10:56.586731+00:00",
       "day": "2026-04-01"
     },
     {
@@ -69,7 +55,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-01T11:04:00-04:00",
       "published_at_bo": "2026-04-01T11:04:00-04:00",
-      "fetched_at_utc": "2026-04-01T17:54:50.345738+00:00",
+      "fetched_at_utc": "2026-04-01T19:10:57.504654+00:00",
       "day": "2026-04-01"
     },
     {
@@ -83,7 +69,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-01T10:16:00-04:00",
       "published_at_bo": "2026-04-01T10:16:00-04:00",
-      "fetched_at_utc": "2026-04-01T17:54:51.283014+00:00",
+      "fetched_at_utc": "2026-04-01T19:10:58.431946+00:00",
       "day": "2026-04-01"
     },
     {
@@ -1513,6 +1499,20 @@
       "published_at_bo": "2026-03-18T06:49:00-04:00",
       "fetched_at_utc": "2026-03-18T15:09:17.087939+00:00",
       "day": "2026-03-18"
+    },
+    {
+      "source": "El Deber",
+      "title": "Economía",
+      "url": "https://eldeber.com.bo/economia/experto-cuestiona-acuerdos-cielos-abiertos-pide-ley-antes-firmar-convenios-internacionales_1775062480",
+      "summary": "El experto en derecho aeronáutico Jorge Valle cuestiona los convenios de cielos abiertos de Bolivia y sostiene que, antes de avanzar, el país debe promulgar una ley que defina una política nacional de cielos abiertos y elimine las restricciones existentes. También advierte que estos acuerdos deben ser suscritos por la Cancillería o un plenipotenciario, no por un ministro de Obras Públicas, para asegurarse de que se cumplen los procedimientos adecuados.",
+      "summary_es": "El experto en derecho aeronáutico Jorge Valle cuestiona los convenios de cielos abiertos de Bolivia y sostiene que, antes de avanzar, el país debe promulgar una ley que defina una política nacional de cielos abiertos y elimine las restricciones existentes. También advierte que estos acuerdos deben ser suscritos por la Cancillería o un plenipotenciario, no por un ministro de Obras Públicas, para asegurarse de que se cumplen los procedimientos adecuados.",
+      "summary_en": "Aviation law expert Jorge Valle questions Bolivia’s open skies agreements and argues that, before moving forward, the country must enact a law defining a national open skies policy and lift the existing restrictions. He also warns that these accords should be signed by the Foreign Ministry or a plenipotentiary, not by a Minister of Public Works, to ensure proper procedures are followed.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": null,
+      "published_at_bo": null,
+      "fetched_at_utc": "2026-04-01T19:10:53.799238+00:00",
+      "day": "2026-04-01"
     }
   ]
 }
