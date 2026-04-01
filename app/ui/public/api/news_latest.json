@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-04-01T20:52:36.125438+00:00",
+  "generated_at_utc": "2026-04-01T21:01:47.403756+00:00",
   "count": 112,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El clima seco de Semana Santa permitirá acelerar la cosecha de granos en Santa Cruz",
+      "url": "https://eldeber.com.bo/economia/clima-seco-semana-santa-permitira-acelerar-cosecha-granos-santa-cruz_1775075620",
+      "summary": "Las condiciones secas y temperaturas elevadas previstas para Semana Santa permitirán reanudar la cosecha en Santa Cruz, tras las lluvias intensas que retrasaron al sector productivo. La soja apenas lleva un 18% recolectado y aún quedan más de un millón de hectáreas, con pérdidas y una posible reducción de 400 mil toneladas, mientras maíz y sorgo también presentan grandes pendientes; la mejora climática podría dinamizar la producción, abastecer al país y generar excedentes para exportación.",
+      "summary_es": "Las condiciones secas y temperaturas elevadas previstas para Semana Santa permitirán reanudar la cosecha en Santa Cruz, tras las lluvias intensas que retrasaron al sector productivo. La soja apenas lleva un 18% recolectado y aún quedan más de un millón de hectáreas, con pérdidas y una posible reducción de 400 mil toneladas, mientras maíz y sorgo también presentan grandes pendientes; la mejora climática podría dinamizar la producción, abastecer al país y generar excedentes para exportación.",
+      "summary_en": "The dry conditions and higher temperatures forecast for Holy Week will allow harvests to resume in Santa Cruz, after heavy rains delayed the agricultural sector.\n\nSoybeans are only about 18% harvested, with more than a million hectares still to be harvested, along with losses and a possible reduction of 400,000 tonnes, while corn and sorghum also face large hurdles; the improved weather could boost production, meet domestic needs, and create exportable surpluses.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T16:38:00-04:00",
+      "published_at_bo": "2026-04-01T16:38:00-04:00",
+      "fetched_at_utc": "2026-04-01T20:52:28.778885+00:00",
+      "day": "2026-04-01"
+    },
+    {
+      "source": "El Deber",
+      "title": "Ministerio de Gobierno de Bolivia denuncia sabotaje por adulteración de diésel en planta de Senkata",
+      "url": "https://eldeber.com.bo/economia/ministerio-gobierno-bolivia-denuncia-sabotaje-adulteracion-diesel-planta-senkata_1775074459",
+      "summary": "El Ministerio de Gobierno de Bolivia informó que se detectó y neutralizó un sabotaje por adulteración de diésel en la planta de Senkata de YPFB, tras lo cual se paralizó la descarga y se inició un proceso penal. El conductor del camión cisterna fue aprehendido y, según su declaración, habría sustraído y sustituido parte del combustible en territorio chileno; se mantiene la investigación y la cooperación bilateral con Chile para esclarecer responsabilidades.",
+      "summary_es": "El Ministerio de Gobierno de Bolivia informó que se detectó y neutralizó un sabotaje por adulteración de diésel en la planta de Senkata de YPFB, tras lo cual se paralizó la descarga y se inició un proceso penal. El conductor del camión cisterna fue aprehendido y, según su declaración, habría sustraído y sustituido parte del combustible en territorio chileno; se mantiene la investigación y la cooperación bilateral con Chile para esclarecer responsabilidades.",
+      "summary_en": "The Bolivian Ministry of Government said a sabotage act involving diesel adulteration at the YPFB Senkata plant was detected and neutralized. As a result, unloading was halted and a criminal case opened. The driver of the tanker truck was detained, and, according to his account, he would have stolen and replaced part of the fuel on Chilean territory. The investigation is ongoing, with bilateral cooperation with Chile to determine responsibilities.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T16:25:00-04:00",
+      "published_at_bo": "2026-04-01T16:25:00-04:00",
+      "fetched_at_utc": "2026-04-01T20:52:29.709017+00:00",
+      "day": "2026-04-01"
+    },
+    {
+      "source": "El Deber",
+      "title": "YPFB reporta entrega de Bs 7,4 millones en compensaciones por gasolina desestabilizada",
+      "url": "https://eldeber.com.bo/economia/ypfb-reporta-entrega-bs-7-4-millones-compensaciones-gasolina-desestabilizada_1775073659",
+      "summary": "YPFB informó que 7,4 millones de bolivianos en compensaciones ya están pagados y disponibles para retiro para 3.914 usuarios verificados a través del Sistema de Registro y Evaluación de Contingencias (SREC), por los daños causados por la gasolina desestabilizada de 2025.  \nLos pagos se otorgan tras la revisión técnica y emisión de un comprobante en el SREC, y la estatal activó canales de atención para facilitar consultas y seguimiento del proceso.",
+      "summary_es": "YPFB informó que 7,4 millones de bolivianos en compensaciones ya están pagados y disponibles para retiro para 3.914 usuarios verificados a través del Sistema de Registro y Evaluación de Contingencias (SREC), por los daños causados por la gasolina desestabilizada de 2025.  \nLos pagos se otorgan tras la revisión técnica y emisión de un comprobante en el SREC, y la estatal activó canales de atención para facilitar consultas y seguimiento del proceso.",
+      "summary_en": "YPFB said that 7.4 million bolivianos in compensation have already been paid and are available for withdrawal for 3,914 verified users through the Contingencies Registration and Evaluation System (SREC), for damages caused by the destabilized gasoline of 2025. \n\nPayments are issued after a technical review and the generation of a payment receipt in the SREC, and the state oil company has activated contact channels to facilitate inquiries and track the process.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T16:11:00-04:00",
+      "published_at_bo": "2026-04-01T16:11:00-04:00",
+      "fetched_at_utc": "2026-04-01T20:52:30.646442+00:00",
+      "day": "2026-04-01"
+    },
     {
       "source": "El Deber",
       "title": "“Tenemos que ser más realistas”: Legisladores cuestionan a la COB por pedir 20% de alza salarial",
