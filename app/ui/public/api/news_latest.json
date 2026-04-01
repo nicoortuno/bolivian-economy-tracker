@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-01T22:44:55.610610+00:00",
+  "generated_at_utc": "2026-04-01T22:58:45.173214+00:00",
   "count": 115,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno y transportistas firman acuerdo y evitan paro por la gasolina desestabilizada",
+      "url": "https://eldeber.com.bo/economia/gobierno-transportistas-firman-acuerdo-evitan-paro-gasolina-desestabilizada_1775080495",
+      "summary": "El Gobierno de Santa Cruz y el sector del transporte suscribieron un acta para suspender el paro indefinido, con compromisos sobre calidad del combustible, resarcimiento por daños y aceleración de la conversión vehicular a gas, además de mejoras en vías y comisiones técnicas. Los transportistas levantaron la medida y vigilarán el cumplimiento de lo acordado.",
+      "summary_es": "El Gobierno de Santa Cruz y el sector del transporte suscribieron un acta para suspender el paro indefinido, con compromisos sobre calidad del combustible, resarcimiento por daños y aceleración de la conversión vehicular a gas, además de mejoras en vías y comisiones técnicas. Los transportistas levantaron la medida y vigilarán el cumplimiento de lo acordado.",
+      "summary_en": "The Government of Santa Cruz and the transport sector signed an agreement to suspend the indefinite strike, with commitments on fuel quality, compensation for damages, and accelerating the shift to gas-powered vehicles, along with road improvements and technical commissions. The transport operators lifted the measure and will monitor compliance with what was agreed.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T18:07:00-04:00",
+      "published_at_bo": "2026-04-01T18:07:00-04:00",
+      "fetched_at_utc": "2026-04-01T22:44:48.982805+00:00",
+      "day": "2026-04-01"
+    },
+    {
+      "source": "El Deber",
+      "title": "YPFB corre riesgo de arrastrar al país a una crisis energética si no se reforma el sector, advierte especialista",
+      "url": "https://eldeber.com.bo/economia/ypfb-corre-riesgo-arrastrar-pais-crisis-energetica-si-no-reforma-sector-advierte-especialista_1775078537",
+      "summary": "Carlos Delius advierte que, con reservas de gas en 3,7 TCF y problemas estructurales de YPFB, Bolivia enfrenta una crisis económica si no se aplican reformas profundas y se atrae inversión privada. Pide reestructurar YPFB, separar áreas de negocio, mejorar controles y avanzar hacia un nuevo modelo institucional para garantizar inversiones, producción y seguridad energética.",
+      "summary_es": "Carlos Delius advierte que, con reservas de gas en 3,7 TCF y problemas estructurales de YPFB, Bolivia enfrenta una crisis económica si no se aplican reformas profundas y se atrae inversión privada. Pide reestructurar YPFB, separar áreas de negocio, mejorar controles y avanzar hacia un nuevo modelo institucional para garantizar inversiones, producción y seguridad energética.",
+      "summary_en": "Carlos Delius warns that, with gas reserves of 3.7 TCF and structural problems at YPFB, Bolivia faces an economic crisis if deep reforms are not implemented and private investment is not attracted. He calls for restructuring YPFB, separating business areas, strengthening controls, and moving toward a new institutional model to guarantee investment, production, and energy security.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T17:49:00-04:00",
+      "published_at_bo": "2026-04-01T17:49:00-04:00",
+      "fetched_at_utc": "2026-04-01T22:44:49.892681+00:00",
+      "day": "2026-04-01"
+    },
     {
       "source": "El Deber",
       "title": "Constructores ven una “tabla de salvación” en el decreto que permitirá ajustar precios en obras públicas",
