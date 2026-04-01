@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-01T15:10:51.658428+00:00",
+  "generated_at_utc": "2026-04-01T15:41:38.825813+00:00",
   "count": 104,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Lluvias y derrumbes complican la transitabilidad en Santa Cruz; varios tramos están cerrados",
+      "url": "https://eldeber.com.bo/economia/lluvias-derrumbes-complican-transitabilidad-santa-cruz-varios-tramos-estan-cerrados_1775052451",
+      "summary": "Las intensas lluvias mantienen varios tramos en Santa Cruz intransitables o con riesgo, entre ellos San Lorenzo–Salinas, Bermejo–Angostura y La Angostura–Samaipata, debido a inundaciones, derrumbes y deslizamientos. En la jornada reciente se registró un accidente en La Angostura–Samaipata que dejó un fallecido y varios heridos, evidenciando el peligro de la temporada; la ABC recomienda evitar estas vías, respetar la señalización y consultar los reportes oficiales antes de viajar.",
+      "summary_es": "Las intensas lluvias mantienen varios tramos en Santa Cruz intransitables o con riesgo, entre ellos San Lorenzo–Salinas, Bermejo–Angostura y La Angostura–Samaipata, debido a inundaciones, derrumbes y deslizamientos. En la jornada reciente se registró un accidente en La Angostura–Samaipata que dejó un fallecido y varios heridos, evidenciando el peligro de la temporada; la ABC recomienda evitar estas vías, respetar la señalización y consultar los reportes oficiales antes de viajar.",
+      "summary_en": "Intense rains have left several routes in Santa Cruz impassable or hazardous, including San Lorenzo–Salinas, Bermejo–Angostura, and La Angostura–Samaipata, due to flooding, landslides, and rockslides. In a recent incident on La Angostura–Samaipata, one person died and several were injured, underscoring the season’s danger; the Bolivian road authority (ABC) urges travelers to avoid these routes, obey signage, and check official reports before traveling.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-01T10:16:00-04:00",
+      "published_at_bo": "2026-04-01T10:16:00-04:00",
+      "fetched_at_utc": "2026-04-01T15:10:47.774942+00:00",
+      "day": "2026-04-01"
+    },
     {
       "source": "El Deber",
       "title": "YPFB admite que reservas de gas caen y riesgo de tener  que importar desde 2031",
