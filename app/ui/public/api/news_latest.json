@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-02T15:01:48.966597+00:00",
+  "generated_at_utc": "2026-04-02T15:16:06.792977+00:00",
   "count": 112,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Airbus prueba uno de sus aviones en aeropuerto de Alcantarí, a 3.104 metros de altitud",
+      "url": "https://eldeber.com.bo/economia/airbus-prueba-uno-aviones-aeropuerto-bolivia-3-104-metros-altitud_1775141829",
+      "summary": "Airbus inició en Alcantarí, Chuquisaca, Bolivia, pruebas de certificación en altitud del A321 XLR con una delegación francesa y la supervisión de Naabol, que durarán seis días para evaluar desempeño, consumo de combustible y procedimientos en condiciones elevadas. Estas pruebas buscan fortalecer la conectividad aérea, impulsar el desarrollo económico y posicionar al aeropuerto como un centro estratégico para pruebas internacionales de tecnología aeronáutica.",
+      "summary_es": "Airbus inició en Alcantarí, Chuquisaca, Bolivia, pruebas de certificación en altitud del A321 XLR con una delegación francesa y la supervisión de Naabol, que durarán seis días para evaluar desempeño, consumo de combustible y procedimientos en condiciones elevadas. Estas pruebas buscan fortalecer la conectividad aérea, impulsar el desarrollo económico y posicionar al aeropuerto como un centro estratégico para pruebas internacionales de tecnología aeronáutica.",
+      "summary_en": "Airbus has begun altitude-certification tests for the A321 XLR at Alcantarí, Chuquisaca, Bolivia, with a French delegation and under the supervision of Naabol. The six-day program will assess performance, fuel consumption, and procedures at high-altitude conditions. The tests are aimed at strengthening air connectivity, spurring economic development, and positioning the airport as a strategic hub for international aeronautical technology testing.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-02T10:57:00-04:00",
+      "published_at_bo": "2026-04-02T10:57:00-04:00",
+      "fetched_at_utc": "2026-04-02T15:01:43.481513+00:00",
+      "day": "2026-04-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "El diésel se ha encarecido un 30 % en la UE desde el inicio de la guerra de Irán",
+      "url": "https://eldeber.com.bo/economia/diesel-ha-encarecido-30-ue-inicio-guerra-iran_1775136714",
+      "summary": "El diésel promedia más de 2 euros por litro en la UE, subiendo alrededor de un 30% desde finales de febrero debido al conflicto en Oriente Medio, mientras que la gasolina sin plomo 95 octanos sube alrededor de un 14% hasta 1,87 euros por litro. En España, a 30 de marzo el diésel costaba 1,78 €/l y la gasolina 95 octanos 1,56 €/l, con subidas del 24,9% y 5,9% respectivamente desde el 23 de febrero.",
+      "summary_es": "El diésel promedia más de 2 euros por litro en la UE, subiendo alrededor de un 30% desde finales de febrero debido al conflicto en Oriente Medio, mientras que la gasolina sin plomo 95 octanos sube alrededor de un 14% hasta 1,87 euros por litro. En España, a 30 de marzo el diésel costaba 1,78 €/l y la gasolina 95 octanos 1,56 €/l, con subidas del 24,9% y 5,9% respectivamente desde el 23 de febrero.",
+      "summary_en": "Diesel averages more than €2 per liter across the EU, up about 30% since the end of February due to the Middle East conflict, while unleaded 95-octane petrol has risen about 14% to €1.87 per liter. In Spain, as of March 30, diesel was €1.78 per liter and 95-octane petrol €1.56, up 24.9% and 5.9% respectively since February 23.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-02T09:31:00-04:00",
+      "published_at_bo": "2026-04-02T09:31:00-04:00",
+      "fetched_at_utc": "2026-04-02T15:01:44.382868+00:00",
+      "day": "2026-04-02"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno impulsa cielos abiertos para posicionar a Viru Viru como hub regional",
