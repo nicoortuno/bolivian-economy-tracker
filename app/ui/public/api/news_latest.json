@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-04-02T11:51:04.725869+00:00",
+  "generated_at_utc": "2026-04-02T11:58:45.833785+00:00",
   "count": 110,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno impulsa cielos abiertos para posicionar a Viru Viru como hub regional",
+      "url": "https://eldeber.com.bo/economia/gobierno-impulsa-cielos-abiertos-posicionar-viru-viru-hub-regional_1775129649",
+      "summary": "Bolivia avanza en una política de cielos abiertos para ampliar la conectividad aérea y convertir Viru Viru en un hub regional de pasajeros y carga, con memorandos de entendimiento ya firmados con Brasil y acciones previstas con otros países de la región. La iniciativa busca mayor competencia y tarifas más bajas mediante la quinta libertad del aire, modernización normativa y atracción de inversiones, aunque enfrenta retos regulatorios y de implementación.",
+      "summary_es": "Bolivia avanza en una política de cielos abiertos para ampliar la conectividad aérea y convertir Viru Viru en un hub regional de pasajeros y carga, con memorandos de entendimiento ya firmados con Brasil y acciones previstas con otros países de la región. La iniciativa busca mayor competencia y tarifas más bajas mediante la quinta libertad del aire, modernización normativa y atracción de inversiones, aunque enfrenta retos regulatorios y de implementación.",
+      "summary_en": "Bolivia is moving forward with an open-skies policy to expand air connectivity and turn Viru Viru into a regional hub for passengers and cargo, with memoranda of understanding already signed with Brazil and planned steps with other regional countries. The initiative aims to boost competition and lower fares through fifth-freedom rights, regulatory modernization, and attracting investment, though it faces regulatory and implementation challenges.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-02T07:34:00-04:00",
+      "published_at_bo": "2026-04-02T07:34:00-04:00",
+      "fetched_at_utc": "2026-04-02T11:51:01.001856+00:00",
+      "day": "2026-04-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "El clima seco durante Semana Santa impulsa la cosecha de granos",
+      "url": "https://eldeber.com.bo/economia/clima-seco-semana-santa-impulsa-cosecha-granos_1775129390",
+      "summary": "El pronóstico de varios días sin lluvias durante Semana Santa abre una ventana clave para reactivar la cosecha en Santa Cruz, frente a pérdidas y retrasos provocados por lluvias intensas en los últimos meses. Aun así, persiste un gran volumen pendiente de soya, maíz y sorgo, con efectos en costos, logística y el suministro interno y externo de granos.",
+      "summary_es": "El pronóstico de varios días sin lluvias durante Semana Santa abre una ventana clave para reactivar la cosecha en Santa Cruz, frente a pérdidas y retrasos provocados por lluvias intensas en los últimos meses. Aun así, persiste un gran volumen pendiente de soya, maíz y sorgo, con efectos en costos, logística y el suministro interno y externo de granos.",
+      "summary_en": "A forecast of several days with no rain during Holy Week offers a key window to restart the harvest in Santa Cruz, after losses and delays caused by heavy rains in recent months. Still, a large volume of soybeans, corn, and sorghum remains to be harvested, with impacts on costs, logistics, and both domestic and international grain supply.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-02T07:29:00-04:00",
+      "published_at_bo": "2026-04-02T07:29:00-04:00",
+      "fetched_at_utc": "2026-04-02T11:51:01.944586+00:00",
+      "day": "2026-04-02"
+    },
+    {
+      "source": "El Deber",
+      "title": "Detectan gasolina adulterada y suman cuestionamientos a YPFB",
+      "url": "https://eldeber.com.bo/economia/detectan-gasolina-adulterada-suman-cuestionamientos-ypfb_1775129167",
+      "summary": "La detección de una cisterna con diésel fuera de especificación en la refinería de Senkata reactivó la denuncia de un supuesto sabotaje en la cadena de suministro de carburantes, señalando una estructura irregular que habría afectado millones de litros importados. El episodio desató críticas técnicas y debates en el sector, cuestionando controles y la responsabilidad de las autoridades, y dejando la pregunta de por qué no surgió antes una crisis de esta magnitud.",
+      "summary_es": "La detección de una cisterna con diésel fuera de especificación en la refinería de Senkata reactivó la denuncia de un supuesto sabotaje en la cadena de suministro de carburantes, señalando una estructura irregular que habría afectado millones de litros importados. El episodio desató críticas técnicas y debates en el sector, cuestionando controles y la responsabilidad de las autoridades, y dejando la pregunta de por qué no surgió antes una crisis de esta magnitud.",
+      "summary_en": "The detection of a diesel storage tank outside of specifications at the Senkata refinery reignited accusations of alleged sabotage in the fuel supply chain, pointing to irregularities that would have affected millions of liters of imported fuel. The episode sparked technical criticism and debate within the sector, calling into question the controls and the authorities’ responsibility, and leaving open why a crisis of this magnitude hadn’t emerged sooner.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-02T07:26:00-04:00",
+      "published_at_bo": "2026-04-02T07:26:00-04:00",
+      "fetched_at_utc": "2026-04-02T11:51:02.872127+00:00",
+      "day": "2026-04-02"
+    },
     {
       "source": "El Deber",
       "title": "Sector cisternero respalda operativos del gobierno y alerta de un \"mercado negro\" creciente",
