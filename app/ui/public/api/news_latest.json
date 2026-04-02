@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-02T19:03:36.020459+00:00",
+  "generated_at_utc": "2026-04-02T19:15:16.327420+00:00",
   "count": 115,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia reporta superávit comercial de 801 millones de dólares entre enero y febrero",
+      "url": "https://eldeber.com.bo/economia/bolivia-reporta-superavit-comercial-801-millones-dolares-enero-febrero_1775154342",
+      "summary": "Entre enero y febrero de 2026 Bolivia registró un superávit comercial de 801 millones de dólares, con exportaciones por 2.221 millones y importaciones por 1.420 millones, y el mayor saldo favorable fue con Emiratos Árabes Unidos (314 millones), mientras los déficits más significativos se dieron con Chile, Argentina y Brasil, con China, EAU y Japón como principales destinos de las exportaciones.",
+      "summary_es": "Entre enero y febrero de 2026 Bolivia registró un superávit comercial de 801 millones de dólares, con exportaciones por 2.221 millones y importaciones por 1.420 millones, y el mayor saldo favorable fue con Emiratos Árabes Unidos (314 millones), mientras los déficits más significativos se dieron con Chile, Argentina y Brasil, con China, EAU y Japón como principales destinos de las exportaciones.",
+      "summary_en": "Between January and February 2026, Bolivia posted a trade surplus of $801 million, with exports totaling $2.221 billion and imports at $1.420 billion. The largest positive balance was with the United Arab Emirates ($314 million), while the most significant deficits were with Chile, Argentina, and Brazil. China, the UAE, and Japan emerged as the main destinations for Bolivian exports.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-02T14:25:00-04:00",
+      "published_at_bo": "2026-04-02T14:25:00-04:00",
+      "fetched_at_utc": "2026-04-02T19:03:30.308557+00:00",
+      "day": "2026-04-02"
+    },
     {
       "source": "El Deber",
       "title": "Aduana destruye mercancía perecedera y refuerza control sanitario en Santa Cruz",
