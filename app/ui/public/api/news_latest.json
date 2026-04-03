@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-03T21:40:06.651744+00:00",
+  "generated_at_utc": "2026-04-03T21:50:03.993249+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia rompe el monopolio eléctrico y abre el mercado internacional con el Decreto 5598",
+      "url": "https://eldeber.com.bo/economia/bolivia-rompe-monopolio-electrico-abre-mercado-internacional-decreto-5598_1775249643",
+      "summary": "El Decreto Supremo 5598 elimina el monopolio de ENDE sobre las interconexiones internacionales y permite que cualquier actor del sistema eléctrico desarrolle proyectos de interconexión con países vecinos, con el objetivo de convertir a Bolivia en un nodo energético regional y favorecer inversiones en transmisión, generación y energías renovables. Además, la norma facilita la importación y exportación de electricidad, rehabilita la autogeneración industrial y busca sostener subsidios cruzados para garantizar el suministro a sectores vulnerables.",
+      "summary_es": "El Decreto Supremo 5598 elimina el monopolio de ENDE sobre las interconexiones internacionales y permite que cualquier actor del sistema eléctrico desarrolle proyectos de interconexión con países vecinos, con el objetivo de convertir a Bolivia en un nodo energético regional y favorecer inversiones en transmisión, generación y energías renovables. Además, la norma facilita la importación y exportación de electricidad, rehabilita la autogeneración industrial y busca sostener subsidios cruzados para garantizar el suministro a sectores vulnerables.",
+      "summary_en": "Supreme Decree 5598 ends ENDE’s monopoly on international interconnections and allows any actor in the electricity system to develop interconnection projects with neighboring countries, with the aim of turning Bolivia into a regional energy hub and encouraging investments in transmission, generation, and renewable energy. The regulation also facilitates the import and export of electricity, reinstates industrial self-generation, and seeks to sustain cross-subsidies to ensure supply to vulnerable sectors.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-03T17:11:00-04:00",
+      "published_at_bo": "2026-04-03T17:11:00-04:00",
+      "fetched_at_utc": "2026-04-03T21:40:03.770560+00:00",
+      "day": "2026-04-03"
+    },
     {
       "source": "El Deber",
       "title": "YPFB pacta con Vitol mientras persiste tensión con Trafigura",
