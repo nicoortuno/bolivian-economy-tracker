@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-03T23:39:53.586505+00:00",
+  "generated_at_utc": "2026-04-03T23:49:27.595099+00:00",
   "count": 112,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Un operativo militar frena contrabando en el Titicaca y decomisa mercadería ilegal por Bs 1 millón",
+      "url": "https://eldeber.com.bo/economia/operativo-militar-frena-contrabando-titicaca-decomisa-mercaderia-ilegal-bs-1-millon_1775254955",
+      "summary": "Un operativo militar en la península de Taraco, en el lago Titicaca, interceptó embarcaciones con mercadería ilegal procedente de Perú, valuada en aproximadamente un millón de bolivianos e integrada por aceite, repuestos, lubricantes y carne de cerdo, entregándose los cargamentos a las autoridades correspondientes. La acción evidencia la persistencia del contrabando por rutas lacustres y la estrategia de control reforzado en la frontera, ante múltiples incidentes como fugas de tripulantes y mercancías que amenazan la recaudación estatal y la sanidad animal.",
+      "summary_es": "Un operativo militar en la península de Taraco, en el lago Titicaca, interceptó embarcaciones con mercadería ilegal procedente de Perú, valuada en aproximadamente un millón de bolivianos e integrada por aceite, repuestos, lubricantes y carne de cerdo, entregándose los cargamentos a las autoridades correspondientes. La acción evidencia la persistencia del contrabando por rutas lacustres y la estrategia de control reforzado en la frontera, ante múltiples incidentes como fugas de tripulantes y mercancías que amenazan la recaudación estatal y la sanidad animal.",
+      "summary_en": "A military operation on the Taraco peninsula, Lake Titicaca, intercepted vessels carrying illegal goods from Peru, valued at about 1 million bolivianos. The cargo, which included oil, spare parts, lubricants, and pork, was turned over to the appropriate authorities. The action highlights the ongoing smuggling along lake routes and the reinforced border-control strategy, in the face of multiple incidents such as crew escapes and shipments that threaten state revenue and animal health.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-03T18:49:00-04:00",
+      "published_at_bo": "2026-04-03T18:49:00-04:00",
+      "fetched_at_utc": "2026-04-03T23:39:50.852427+00:00",
+      "day": "2026-04-03"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia rompe el monopolio eléctrico y abre el mercado internacional con el Decreto 5598",
