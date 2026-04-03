@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-03T14:50:31.043006+00:00",
+  "generated_at_utc": "2026-04-03T15:02:01.725072+00:00",
   "count": 109,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Buen dato o ilusión? Las claves del superávit comercial en Bolivia",
+      "url": "https://eldeber.com.bo/economia/buen-dato-ilusion-claves-superavit-comercial-bolivia_1775224339",
+      "summary": "Bolivia cerró enero–febrero de 2026 con un superávit comercial de 801 millones de dólares, liderado por minerales y una caída de importaciones, especialmente de combustibles, lo que rompe tres años consecutivos de déficit. Según el IBCE, este resultado parece coyuntural, dependiente de precios elevados y ajustes internos, y subraya la necesidad de diversificar hacia exportaciones no tradicionales para convertirlo en una tendencia sostenible.",
+      "summary_es": "Bolivia cerró enero–febrero de 2026 con un superávit comercial de 801 millones de dólares, liderado por minerales y una caída de importaciones, especialmente de combustibles, lo que rompe tres años consecutivos de déficit. Según el IBCE, este resultado parece coyuntural, dependiente de precios elevados y ajustes internos, y subraya la necesidad de diversificar hacia exportaciones no tradicionales para convertirlo en una tendencia sostenible.",
+      "summary_en": "Bolivia closed January–February 2026 with a trade surplus of $801 million, led by minerals and a drop in imports, particularly fuels, breaking three consecutive years of deficits. According to the IBCE, the result appears temporary, dependent on high prices and internal adjustments, and underscores the need to diversify toward non-traditional exports to turn it into a sustainable trend.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-03T10:21:00-04:00",
+      "published_at_bo": "2026-04-03T10:21:00-04:00",
+      "fetched_at_utc": "2026-04-03T14:50:29.064764+00:00",
+      "day": "2026-04-03"
+    },
     {
       "source": "El Deber",
       "title": "Menos impuestos y más liquidez: impacto económico de eliminar el ITF",
