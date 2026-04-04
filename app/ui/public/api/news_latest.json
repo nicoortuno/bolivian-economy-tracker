@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-04T22:36:20.645917+00:00",
+  "generated_at_utc": "2026-04-04T22:49:37.482987+00:00",
   "count": 119,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ABC reporta rutas cerradas y restricciones en varias carreteras del país",
+      "url": "https://eldeber.com.bo/economia/abc-reporta-rutas-cerradas-restricciones-varias-carreteras-pais_1775337450",
+      "summary": "La ABC informó que varias rutas de la Red Vial Fundamental presentan restricciones, desvíos y cierres totales por derrumbes, inundaciones y trabajos, especialmente en La Paz, Cochabamba y Santa Cruz. También hay tramos con circulación con precaución y desvíos en Pando y Tarija, y se recomienda verificar el estado actualizado de las carreteras antes de viajar.",
+      "summary_es": "La ABC informó que varias rutas de la Red Vial Fundamental presentan restricciones, desvíos y cierres totales por derrumbes, inundaciones y trabajos, especialmente en La Paz, Cochabamba y Santa Cruz. También hay tramos con circulación con precaución y desvíos en Pando y Tarija, y se recomienda verificar el estado actualizado de las carreteras antes de viajar.",
+      "summary_en": "ABC reported that several routes in the Fundamental Road Network are experiencing restrictions, detours, and full closures due to landslides, floods, and roadworks, with the most affected areas in La Paz, Cochabamba, and Santa Cruz. There are also sections with cautious traffic and detours in Pando and Tarija. It is recommended to check the latest road conditions before traveling.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T17:50:00-04:00",
+      "published_at_bo": "2026-04-04T17:50:00-04:00",
+      "fetched_at_utc": "2026-04-04T22:36:13.358740+00:00",
+      "day": "2026-04-04"
+    },
     {
       "source": "El Deber",
       "title": "San Javier sorprende con el queso más grande de Bolivia en la FexpoJavier 2026",
