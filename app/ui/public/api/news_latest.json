@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-04T15:37:33.757726+00:00",
+  "generated_at_utc": "2026-04-04T15:48:52.588692+00:00",
   "count": 111,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Minería impulsa las exportaciones y los hidrocarburos pierden peso en la balanza comercial",
+      "url": "https://eldeber.com.bo/economia/mineria-impulsa-exportaciones-hidrocarburos-pierden-peso-balanza-comercial_1775315174",
+      "summary": "Bolivia registró en febrero de 2026 un superávit comercial de 430 millones de dólares, con exportaciones subiendo 20% a 1.213 millones, impulsadas principalmente por la minería (plata, zinc y oro) gracias a mejores cotizaciones. Las importaciones aumentaron 23% a 784 millones, y la caída de hidrocarburos, junto con el auge de otros sectores como agricultura e industria manufacturera, señala una reconfiguración exportadora hacia la minería y una mayor dependencia de este sector.",
+      "summary_es": "Bolivia registró en febrero de 2026 un superávit comercial de 430 millones de dólares, con exportaciones subiendo 20% a 1.213 millones, impulsadas principalmente por la minería (plata, zinc y oro) gracias a mejores cotizaciones. Las importaciones aumentaron 23% a 784 millones, y la caída de hidrocarburos, junto con el auge de otros sectores como agricultura e industria manufacturera, señala una reconfiguración exportadora hacia la minería y una mayor dependencia de este sector.",
+      "summary_en": "Bolivia posted a February 2026 trade surplus of $430 million, as exports rose 20% to $1.213 billion, led mainly by mining (silver, zinc, and gold) thanks to higher prices. Imports climbed 23% to $784 million, and the drop in hydrocarbons, together with gains in other sectors such as agriculture and manufacturing, point to a reconfiguration of exports toward mining and greater dependence on that sector.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T11:24:00-04:00",
+      "published_at_bo": "2026-04-04T11:24:00-04:00",
+      "fetched_at_utc": "2026-04-04T15:37:30.071687+00:00",
+      "day": "2026-04-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno analiza concesión o alianzas para reactivar el aeropuerto de Chimoré, paralizado desde 2024",
+      "url": "https://eldeber.com.bo/economia/gobierno-analiza-concesion-alianzas-reactivar-aeropuerto-chimore-paralizado-2024_1775312962",
+      "summary": "El Gobierno evalúa reactivar el aeropuerto de Chimoré, cerrado desde finales de 2024, mediante concesiones o alianzas público-privadas para darle nuevamente funcionalidad tras incidentes de seguridad que afectaron la pista. El plan, aún sin valoración final, se trabajará en coordinación con autoridades regionales y podría extenderse a otros aeropuertos con baja actividad.",
+      "summary_es": "El Gobierno evalúa reactivar el aeropuerto de Chimoré, cerrado desde finales de 2024, mediante concesiones o alianzas público-privadas para darle nuevamente funcionalidad tras incidentes de seguridad que afectaron la pista. El plan, aún sin valoración final, se trabajará en coordinación con autoridades regionales y podría extenderse a otros aeropuertos con baja actividad.",
+      "summary_en": "The Government is weighing the reactivation of Chimoré airport, closed since late 2024, through concessions or public-private partnerships to restore its functionality after security incidents that affected the runway. The plan, still without a final assessment, will be developed in coordination with regional authorities and could be extended to other low-traffic airports.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T10:57:00-04:00",
+      "published_at_bo": "2026-04-04T10:57:00-04:00",
+      "fetched_at_utc": "2026-04-04T15:37:30.991818+00:00",
+      "day": "2026-04-04"
+    },
     {
       "source": "El Deber",
       "title": "Cisterneros rechazan acusaciones del Gobierno y piden no generalizar por caso de “gasolina adulterada”",
