@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-04T18:51:38.814643+00:00",
+  "generated_at_utc": "2026-04-04T19:02:24.913021+00:00",
   "count": 114,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Llegan al país dos motores para reforzar la flota de Boliviana de Aviación",
+      "url": "https://eldeber.com.bo/economia/llegan-pais-dos-motores-reforzar-flota-boliviana-aviacion_1775325628",
+      "summary": "El Ministerio de Obras Públicas informó la llegada de un avión carguero con dos motores para BoA, destinados a recuperar un Boeing 737-300 y un CRJ200. Este refuerzo forma parte de un plan de tres etapas para ampliar la flota de BoA de 8 a 18 aeronaves, con metas de 16 en julio y 18 en noviembre, además de mejoras en eficiencia, puntualidad y atención al usuario.",
+      "summary_es": "El Ministerio de Obras Públicas informó la llegada de un avión carguero con dos motores para BoA, destinados a recuperar un Boeing 737-300 y un CRJ200. Este refuerzo forma parte de un plan de tres etapas para ampliar la flota de BoA de 8 a 18 aeronaves, con metas de 16 en julio y 18 en noviembre, además de mejoras en eficiencia, puntualidad y atención al usuario.",
+      "summary_en": "The Ministry of Public Works announced the arrival of a two-engine cargo aircraft for BoA, intended to recover a Boeing 737-300 and a CRJ200. This upgrade is part of a three-stage plan to expand BoA’s fleet from 8 to 18 aircraft, with targets of 16 by July and 18 by November, in addition to improvements in efficiency, on-time performance, and customer service.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T14:02:00-04:00",
+      "published_at_bo": "2026-04-04T14:02:00-04:00",
+      "fetched_at_utc": "2026-04-04T18:51:32.353671+00:00",
+      "day": "2026-04-04"
+    },
     {
       "source": "El Deber",
       "title": "Experto de la UMSA advierte que controles móviles no garantizan la calidad de la gasolina",
