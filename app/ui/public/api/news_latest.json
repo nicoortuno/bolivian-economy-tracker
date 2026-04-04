@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-04T17:37:00.206947+00:00",
+  "generated_at_utc": "2026-04-04T17:48:22.863778+00:00",
   "count": 113,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Experto de la UMSA advierte que controles móviles no garantizan la calidad de la gasolina",
+      "url": "https://eldeber.com.bo/economia/experto-umsa-advierte-controles-moviles-no-garantizan-calidad-gasolina_1775320999",
+      "summary": "El director Jaime Sánchez señaló que las pruebas con laboratorios móviles en estaciones de servicio no garantizan la calidad de la gasolina y solo evalúan indicios iniciales, debiéndose realizar análisis más complejos en laboratorios especializados para confirmar la calidad del combustible. Además, advirtió que Bolivia, con estándares Euro 2, aún está rezagada tecnológicamente y requiere controles más rigurosos de múltiples parámetros (al menos 16) para evitar daños en motores.",
+      "summary_es": "El director Jaime Sánchez señaló que las pruebas con laboratorios móviles en estaciones de servicio no garantizan la calidad de la gasolina y solo evalúan indicios iniciales, debiéndose realizar análisis más complejos en laboratorios especializados para confirmar la calidad del combustible. Además, advirtió que Bolivia, con estándares Euro 2, aún está rezagada tecnológicamente y requiere controles más rigurosos de múltiples parámetros (al menos 16) para evitar daños en motores.",
+      "summary_en": "Director Jaime Sánchez said that tests with mobile laboratories at service stations do not guarantee gasoline quality and only assess initial indicators. More complex analyses in specialized laboratories are needed to confirm the fuel’s quality. He also warned that Bolivia, with Euro 2 standards, remains technologically behind and requires stricter controls of multiple parameters (at least 16) to prevent engine damage.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T12:48:00-04:00",
+      "published_at_bo": "2026-04-04T12:48:00-04:00",
+      "fetched_at_utc": "2026-04-04T17:36:54.715443+00:00",
+      "day": "2026-04-04"
+    },
     {
       "source": "El Deber",
       "title": "Agropecruz 2026 se inicia con el ingreso de más de 700 animales y exhibición de razas cebuinas",
