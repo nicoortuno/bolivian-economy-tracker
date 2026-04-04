@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-04T20:39:02.945409+00:00",
+  "generated_at_utc": "2026-04-04T20:50:36.584707+00:00",
   "count": 116,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Choferes de Oruro anuncian paro y bloqueos desde el lunes por gasolina",
+      "url": "https://eldeber.com.bo/economia/choferes-oruro-anuncian-paro-bloqueos-lunes-gasolina_1775334157",
+      "summary": "Los transportistas de Oruro anunciaron un paro indefinido con cierre de carreteras desde la medianoche del lunes 6 de abril, denunciando mala calidad de combustible (exigiendo reponer la gasolina especial y eliminar la gasolina plus) y advirtiendo que ya más de 400 vehículos resultaron dañados, con faltas de atención por parte del Gobierno. Paralelamente, dirigentes de La Paz indicaron que podrían sumarse movilizaciones a nivel nacional si no se atienden sus demandas, respaldando la acción de Oruro y buscando un ampliado nacional.",
+      "summary_es": "Los transportistas de Oruro anunciaron un paro indefinido con cierre de carreteras desde la medianoche del lunes 6 de abril, denunciando mala calidad de combustible (exigiendo reponer la gasolina especial y eliminar la gasolina plus) y advirtiendo que ya más de 400 vehículos resultaron dañados, con faltas de atención por parte del Gobierno. Paralelamente, dirigentes de La Paz indicaron que podrían sumarse movilizaciones a nivel nacional si no se atienden sus demandas, respaldando la acción de Oruro y buscando un ampliado nacional.",
+      "summary_en": "Transport operators in Oruro announced an indefinite strike with road closures starting at midnight on Monday, April 6, denouncing poor quality fuel (calling for the replenishment of special gasoline and the elimination of plus gasoline) and warning that more than 400 vehicles have already been damaged, with the government not paying enough attention. In parallel, leaders in La Paz said they could join nationwide protests if their demands are not met, backing Oruro’s action and seeking a national plenary meeting.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T16:27:00-04:00",
+      "published_at_bo": "2026-04-04T16:27:00-04:00",
+      "fetched_at_utc": "2026-04-04T20:38:56.037655+00:00",
+      "day": "2026-04-04"
+    },
+    {
+      "source": "El Deber",
+      "title": "De pagos sin respaldo a obras de mala calidad, alertan cinco irregularidades en AE Vivienda",
+      "url": "https://eldeber.com.bo/economia/pagos-respaldo-obras-mala-calidad-alertan-cinco-irregularidades-ae-vivienda_1775332247",
+      "summary": "La rendición de cuentas de 2025 de AE Vivienda revela irregularidades como pago por materiales inexistentes, desaparición de documentación, obras sin cierre operativo y construcciones en áreas protegidas sin permiso, además de vivienda de mala calidad que ha requerido costos de mantenimiento adicional. Solo se cumplió el 31% de las metas de viviendas frente al 98% de ejecución presupuestaria, con auditorías en curso para esclarecer obras inexistentes y otros desvíos heredados por la gestión anterior.",
+      "summary_es": "La rendición de cuentas de 2025 de AE Vivienda revela irregularidades como pago por materiales inexistentes, desaparición de documentación, obras sin cierre operativo y construcciones en áreas protegidas sin permiso, además de vivienda de mala calidad que ha requerido costos de mantenimiento adicional. Solo se cumplió el 31% de las metas de viviendas frente al 98% de ejecución presupuestaria, con auditorías en curso para esclarecer obras inexistentes y otros desvíos heredados por la gestión anterior.",
+      "summary_en": "AE Vivienda’s 2025 accountability report reveals irregularities such as payments for nonexistent materials, missing documentation, projects not closed out, and constructions in protected areas without permits, as well as substandard housing that has required additional maintenance costs. Only 31% of housing targets were met, compared with 98% of the budget actually executed, with audits underway to clarify nonexistent works and other mismanagement inherited from the previous administration.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-04T16:18:00-04:00",
+      "published_at_bo": "2026-04-04T16:18:00-04:00",
+      "fetched_at_utc": "2026-04-04T20:38:56.954237+00:00",
+      "day": "2026-04-04"
+    },
     {
       "source": "El Deber",
       "title": "Llegan al país dos motores para reforzar la flota de Boliviana de Aviación",
