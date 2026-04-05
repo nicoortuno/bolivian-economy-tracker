@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-05T20:39:56.993895+00:00",
+  "generated_at_utc": "2026-04-05T20:51:14.423565+00:00",
   "count": 123,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gasolina: en medio de anuncios de bloqueos, YPFB reporta que las compensaciones suman Bs 8,9 MM",
+      "url": "https://eldeber.com.bo/economia/gasolina-medio-anuncios-bloqueos-ypfb-reporta-compensaciones-suman-bs-8-9-mm_1775420068",
+      "summary": "YPFB avanza con el proceso de compensación por vehículos dañados por la gasolina “desestabilizada”, reportando pagos que hasta el domingo alcanzaron 8,956 millones de bolivianos, y manteniendo plazos y canales de contacto para reclamos. Mientras tanto, choferes en Oruro anuncian paro indefinido con bloqueos y mototaxistas en Santa Cruz amenazan con bloquear vías por la mala calidad de la gasolina.",
+      "summary_es": "YPFB avanza con el proceso de compensación por vehículos dañados por la gasolina “desestabilizada”, reportando pagos que hasta el domingo alcanzaron 8,956 millones de bolivianos, y manteniendo plazos y canales de contacto para reclamos. Mientras tanto, choferes en Oruro anuncian paro indefinido con bloqueos y mototaxistas en Santa Cruz amenazan con bloquear vías por la mala calidad de la gasolina.",
+      "summary_en": "YPFB is moving forward with the compensation process for vehicles damaged by “unstabilized” gasoline, reporting payments that, as of Sunday, total 8.956 billion bolivianos and keeping the deadlines and contact channels for claims. Meanwhile, drivers in Oruro have announced an indefinite strike with road blockades, and motor-taxi drivers in Santa Cruz threaten to block roads over the poor quality of the gasoline.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-05T16:14:00-04:00",
+      "published_at_bo": "2026-04-05T16:14:00-04:00",
+      "fetched_at_utc": "2026-04-05T20:39:51.252948+00:00",
+      "day": "2026-04-05"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia necesita descubrir tres megacampos de gas natural para retomar la producción del 2015",
