@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-06T13:46:29.687409+00:00",
+  "generated_at_utc": "2026-04-06T14:54:50.328785+00:00",
   "count": 125,
   "items": [
     {
@@ -1709,20 +1709,6 @@
       "published_at_bo": "2026-03-24T07:56:00-04:00",
       "fetched_at_utc": "2026-03-24T16:14:41.143900+00:00",
       "day": "2026-03-24"
-    },
-    {
-      "source": "El Deber",
-      "title": "Elección en Cobija se mantiene ajustada: Diego Suárez lidera con 28,88% y Erik Mollinedo lo sigue de cerca",
-      "url": "https://eldeber.com.bo/economia/eleccion-cobija-mantiene-ajustada-diego-suarez-lidera-28-88-erik-mollinedo-sigue-cerca_1774237601",
-      "summary": "La elección para la Alcaldía de Cobija se mantiene ajustada, con Diego Suárez (Libre Pando) a la cabeza con 28,88% y Erik Mollinedo (Movimiento Autonomista) muy cerca con 27,2%, a menos de dos puntos de diferencia. El resultado final dependerá del avance del conteo de actas y del cómputo oficial del órgano electoral.",
-      "summary_es": "La elección para la Alcaldía de Cobija se mantiene ajustada, con Diego Suárez (Libre Pando) a la cabeza con 28,88% y Erik Mollinedo (Movimiento Autonomista) muy cerca con 27,2%, a menos de dos puntos de diferencia. El resultado final dependerá del avance del conteo de actas y del cómputo oficial del órgano electoral.",
-      "summary_en": "The Cobija mayoral race remains tight, with Diego Suárez (Libre Pando) leading on 28.88% and Erik Mollinedo (Movimiento Autonomista) close behind at 27.2%, a margin of less than two points. The final result will depend on how quickly the actas are tallied and the electoral body’s official count.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-23T00:27:00-04:00",
-      "published_at_bo": "2026-03-23T00:27:00-04:00",
-      "fetched_at_utc": "2026-03-23T09:04:05.266081+00:00",
-      "day": "2026-03-23"
     },
     {
       "source": "El Deber",
