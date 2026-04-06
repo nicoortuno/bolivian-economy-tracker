@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-06T20:42:08.518868+00:00",
+  "generated_at_utc": "2026-04-06T20:56:50.925667+00:00",
   "count": 133,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Qué podrá hacer ahora con sus tarjetas tras el levantamiento de las restricciones",
+      "url": "https://eldeber.com.bo/economia/podra-hacer-ahora-tarjetas-levantamiento-restricciones_1775506477",
+      "summary": "El Gobierno de Bolivia anunció la reapertura del uso de tarjetas para compras por internet, pagos de servicios digitales y operaciones en el extranjero para más de 2,7 millones de usuarios y 8 millones de tarjetas. Las tarjetas de crédito quedan sin restricciones (salvo la capacidad de pago) y las de débito tendrán un límite inicial de $500 en operaciones internacionales, con posibilidad de ampliar según la disponibilidad de divisas.",
+      "summary_es": "El Gobierno de Bolivia anunció la reapertura del uso de tarjetas para compras por internet, pagos de servicios digitales y operaciones en el extranjero para más de 2,7 millones de usuarios y 8 millones de tarjetas. Las tarjetas de crédito quedan sin restricciones (salvo la capacidad de pago) y las de débito tendrán un límite inicial de $500 en operaciones internacionales, con posibilidad de ampliar según la disponibilidad de divisas.",
+      "summary_en": "The Bolivian government announced the resumption of card use for online purchases, payments for digital services, and overseas transactions for more than 2.7 million users and 8 million cards. Credit cards will be unrestricted (aside from payment capacity), while debit cards will have an initial limit of $500 for international operations, with the possibility of increasing it depending on foreign currency availability.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-06T16:20:00-04:00",
+      "published_at_bo": "2026-04-06T16:20:00-04:00",
+      "fetched_at_utc": "2026-04-06T20:41:59.097125+00:00",
+      "day": "2026-04-06"
+    },
+    {
+      "source": "El Deber",
+      "title": "De Orinoca a hospitales inconclusos: el Gobierno calcula un daño de más Bs 7.900 millones en contrataciones directas en la gestión del MAS",
+      "url": "https://eldeber.com.bo/economia/orinoca-hospitales-inconclusos-gobierno-calcula-dano-bs-7-900-millones-contrataciones-directas-gestion_1775500763",
+      "summary": "El Gobierno de Bolivia anunció un Decreto Supremo que elimina 161 normas para contrataciones directas sin licitación, con el objetivo de transparentar procesos y auditar contratos, luego de señalar que, en dos décadas de MAS, se gastaron más de 100 millones de dólares y miles de millones de bolivianos en obras inconclusas y con adjudicaciones discrecionales. El plan busca reactivar proyectos y recuperar la confianza pública, calificando esas prácticas de corrupción estructural.",
+      "summary_es": "El Gobierno de Bolivia anunció un Decreto Supremo que elimina 161 normas para contrataciones directas sin licitación, con el objetivo de transparentar procesos y auditar contratos, luego de señalar que, en dos décadas de MAS, se gastaron más de 100 millones de dólares y miles de millones de bolivianos en obras inconclusas y con adjudicaciones discrecionales. El plan busca reactivar proyectos y recuperar la confianza pública, calificando esas prácticas de corrupción estructural.",
+      "summary_en": "The Government of Bolivia announced a Supreme Decree that eliminates 161 rules governing direct contracting without bidding, aiming to make procurement processes more transparent and to audit contracts. It noted that over two decades under the MAS administration, more than 100 million dollars and billions of bolivianos were spent on unfinished projects and discretionary awards. The plan seeks to revive projects and restore public trust, describing those practices as structural corruption.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-06T15:11:00-04:00",
+      "published_at_bo": "2026-04-06T15:11:00-04:00",
+      "fetched_at_utc": "2026-04-06T20:42:00.381547+00:00",
+      "day": "2026-04-06"
+    },
     {
       "source": "El Deber",
       "title": "“Estamos derrotando al estado tranca y cloaca”: Paz abroga decretos de contrataciones directas",
