@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-06T21:42:04.443337+00:00",
+  "generated_at_utc": "2026-04-06T21:51:58.453985+00:00",
   "count": 134,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Qué dice el Decreto Supremo 5600 que elimina las contrataciones directas?",
+      "url": "https://eldeber.com.bo/economia/dice-decreto-supremo-5600-elimina-contrataciones-directas_1775509668",
+      "summary": "El Decreto Supremo 5600 elimina las autorizaciones para contrataciones directas, deroga el artículo 83 Bis del DS 0181 y ordena a los ministerios revisar los procesos de contratación realizados para detectar posibles irregularidades, buscando restablecer una contratación pública más transparente y competitiva. Establece una transición que permite concluir contratos iniciados bajo normas anteriores y mantiene dos excepciones, además de exigir una reglamentación bi-ministerial en 30 días hábiles y que no requerirá recursos del Tesoro.",
+      "summary_es": "El Decreto Supremo 5600 elimina las autorizaciones para contrataciones directas, deroga el artículo 83 Bis del DS 0181 y ordena a los ministerios revisar los procesos de contratación realizados para detectar posibles irregularidades, buscando restablecer una contratación pública más transparente y competitiva. Establece una transición que permite concluir contratos iniciados bajo normas anteriores y mantiene dos excepciones, además de exigir una reglamentación bi-ministerial en 30 días hábiles y que no requerirá recursos del Tesoro.",
+      "summary_en": "Supreme Decree 5600 eliminates authorizations for direct contracting, repeals Article 83 Bis of DS 0181, and orders ministries to review procurement processes to detect potential irregularities, in an effort to restore a more transparent and competitive public procurement system. It establishes a transition that allows contracts begun under the previous regulations to be completed and maintains two exceptions. It also requires a bi-ministerial regulation within 30 business days, which will not require Treasury resources.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-06T17:22:00-04:00",
+      "published_at_bo": "2026-04-06T17:22:00-04:00",
+      "fetched_at_utc": "2026-04-06T21:41:58.060395+00:00",
+      "day": "2026-04-06"
+    },
     {
       "source": "El Deber",
       "title": "Qué podrá hacer ahora con sus tarjetas tras el levantamiento de las restricciones",
