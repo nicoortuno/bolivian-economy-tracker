@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-07T13:42:14.170266+00:00",
+  "generated_at_utc": "2026-04-07T14:01:12.624059+00:00",
   "count": 116,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno anula161 decretos y restringe la contratación directa tras daño millonario",
+      "url": "https://eldeber.com.bo/economia/gobierno-anula161-decretos-restringe-contratacion-directa-dano-millonario_1775564109",
+      "summary": "El Gobierno de Rodrigo Paz eliminó 161 decretos que permitían la contratación directa y promulgó el Decreto Supremo 5600 para restringir ese mecanismo, obligando a regirse principalmente por el marco de licitaciones establecido en el Decreto 0181 y a auditar las contrataciones anteriores. Analistas y exautoridades señalan que, si bien es un paso positivo para recuperar la institucionalidad y la transparencia, el impacto real dependerá de la profundidad de las auditorías y de la implementación efectiva.",
+      "summary_es": "El Gobierno de Rodrigo Paz eliminó 161 decretos que permitían la contratación directa y promulgó el Decreto Supremo 5600 para restringir ese mecanismo, obligando a regirse principalmente por el marco de licitaciones establecido en el Decreto 0181 y a auditar las contrataciones anteriores. Analistas y exautoridades señalan que, si bien es un paso positivo para recuperar la institucionalidad y la transparencia, el impacto real dependerá de la profundidad de las auditorías y de la implementación efectiva.",
+      "summary_en": "The government of Rodrigo Paz scrapped 161 decrees that allowed direct contracting and issued Supreme Decree 5600 to curb that practice, mandating that contracting be conducted mainly under the bidding framework established in Decree 0181 and that prior contracts be audited. Analysts and former officials say that, while this is a positive step toward restoring institutional integrity and transparency, the real impact will depend on the depth of the audits and the effectiveness of the implementation.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T08:15:00-04:00",
+      "published_at_bo": "2026-04-07T08:15:00-04:00",
+      "fetched_at_utc": "2026-04-07T13:42:11.455859+00:00",
+      "day": "2026-04-07"
+    },
+    {
+      "source": "El Deber",
+      "title": "Liberan pagos  con tarjetas  de crédito y suben a $us 500 el límite para las de débito",
+      "url": "https://eldeber.com.bo/economia/liberan-pagos-tarjetas-credito-suben-us-500-limite-debito_1775563508",
+      "summary": "El Gobierno levantó las restricciones de montos para tarjetas de crédito y estableció un tope de 500 dólares para las tarjetas de débito en el exterior, restableciendo pagos y compras en el extranjero con un tipo de cambio referencial. Se estima que más de 2,7 millones de usuarios y 8 millones de tarjetas se verán beneficiados, pero economistas advierten que aumentará la demanda de dólares y podría presionar las reservas si no se mejora la oferta de divisas y la disciplina fiscal.",
+      "summary_es": "El Gobierno levantó las restricciones de montos para tarjetas de crédito y estableció un tope de 500 dólares para las tarjetas de débito en el exterior, restableciendo pagos y compras en el extranjero con un tipo de cambio referencial. Se estima que más de 2,7 millones de usuarios y 8 millones de tarjetas se verán beneficiados, pero economistas advierten que aumentará la demanda de dólares y podría presionar las reservas si no se mejora la oferta de divisas y la disciplina fiscal.",
+      "summary_en": "The government has lifted spending limits on credit cards and set a $500 cap for debit cards used abroad, allowing payments and purchases overseas again at a reference exchange rate. It’s estimated that more than 2.7 million users and 8 million cards will benefit, but economists warn that the move could boost demand for dollars and strain reserves if foreign-currency supply isn’t improved and fiscal discipline isn’t maintained.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T08:05:00-04:00",
+      "published_at_bo": "2026-04-07T08:05:00-04:00",
+      "fetched_at_utc": "2026-04-07T13:42:12.404355+00:00",
+      "day": "2026-04-07"
+    },
     {
       "source": "El Deber",
       "title": "Ministro de Economía confirma que el sistema bancario cuenta con divisas",
