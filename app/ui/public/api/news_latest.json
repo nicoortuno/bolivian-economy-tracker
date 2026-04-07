@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-07T15:15:10.133739+00:00",
+  "generated_at_utc": "2026-04-07T15:42:52.050921+00:00",
   "count": 117,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bancos esperan normativa para aplicar liberación del uso de tarjetas en compras por internet",
+      "url": "https://eldeber.com.bo/economia/bancos-esperan-normativa-aplicar-liberacion-uso-tarjetas-compras-internet_1775570564",
+      "summary": "La liberación del uso de tarjetas para compras por internet en Bolivia sigue en pausa, ya que no se ha emitido la normativa de aplicación que permita a los bancos implementarla. Una conferencia de Asoban fue pospuesta hasta nuevo aviso y, una vez publicada la reglamentación, se informarán alcances y procedimientos; la medida podría beneficiar a millones de usuarios y tarjetas, pero depende de la normativa oficial.",
+      "summary_es": "La liberación del uso de tarjetas para compras por internet en Bolivia sigue en pausa, ya que no se ha emitido la normativa de aplicación que permita a los bancos implementarla. Una conferencia de Asoban fue pospuesta hasta nuevo aviso y, una vez publicada la reglamentación, se informarán alcances y procedimientos; la medida podría beneficiar a millones de usuarios y tarjetas, pero depende de la normativa oficial.",
+      "summary_en": "Bolivia’s plan to allow card use for online purchases remains on hold, as implementing regulations enabling banks to roll it out have not been issued. A conference hosted by Asoban was postponed until further notice, and once the regulation is published, the scope and procedures will be announced. The measure could benefit millions of cardholders, but its rollout depends on official rules.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T10:21:00-04:00",
+      "published_at_bo": "2026-04-07T10:21:00-04:00",
+      "fetched_at_utc": "2026-04-07T15:15:06.462448+00:00",
+      "day": "2026-04-07"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno anula161 decretos y restringe la contratación directa tras daño millonario",
