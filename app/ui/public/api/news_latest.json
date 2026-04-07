@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-07T23:42:22.899825+00:00",
+  "generated_at_utc": "2026-04-07T23:55:16.826723+00:00",
   "count": 128,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Industriales rechazan pedido de aumento salarial y advierten más inflación, desempleo y contrabando",
+      "url": "https://eldeber.com.bo/economia/industriales-rechazan-pedido-aumento-salarial-advierten-inflacion-desempleo-contrabando_1775603528",
+      "summary": "La Cámara Nacional de Industrias rechazó la propuesta de un aumento salarial del 20% de la COB, advirtiendo que podría profundizar la crisis económica, incrementar la inflación y afectar el empleo formal. Señala que la economía boliviana está en bajo crecimiento y que un incremento así elevaría costos laborales, reduciría la competitividad y beneficiaría sólo a una minoría, proponiendo en su lugar medidas de crecimiento y reactivación productiva.",
+      "summary_es": "La Cámara Nacional de Industrias rechazó la propuesta de un aumento salarial del 20% de la COB, advirtiendo que podría profundizar la crisis económica, incrementar la inflación y afectar el empleo formal. Señala que la economía boliviana está en bajo crecimiento y que un incremento así elevaría costos laborales, reduciría la competitividad y beneficiaría sólo a una minoría, proponiendo en su lugar medidas de crecimiento y reactivación productiva.",
+      "summary_en": "The National Chamber of Industries rejected COB’s proposed 20% wage increase, warning that it could deepen the economic crisis, push inflation higher, and affect formal employment. It notes that Bolivia’s economy is experiencing weak growth and that such an increase would raise labor costs, undermine competitiveness, and benefit only a minority, proposing instead growth and productive-activation measures.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T19:28:00-04:00",
+      "published_at_bo": "2026-04-07T19:28:00-04:00",
+      "fetched_at_utc": "2026-04-07T23:42:15.123858+00:00",
+      "day": "2026-04-07"
+    },
     {
       "source": "El Deber",
       "title": "La inflación en Bolivia cae en marzo, pero la tasa anual se mantiene por encima del 15%",
