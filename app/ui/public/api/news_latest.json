@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-07T22:44:38.699974+00:00",
+  "generated_at_utc": "2026-04-07T22:59:35.680181+00:00",
   "count": 127,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "La inflación en Bolivia cae en marzo, pero la tasa anual se mantiene por encima del 15%",
+      "url": "https://eldeber.com.bo/economia/inflacion-bolivia-cae-marzo-tasa-anual-mantiene-encima-15_1775596274",
+      "summary": "La inflación en Bolivia cayó un 0,34% en marzo respecto a febrero, pero mantiene una inflación anual elevada de 15,05% y una variación acumulada anual de 0,34%. Aunque el IPC bajó por caídas en alimentos y transporte, hubo incrementos en carne de pollo, arveja, lechuga y otros, manteniendo presionado el costo de vida.",
+      "summary_es": "La inflación en Bolivia cayó un 0,34% en marzo respecto a febrero, pero mantiene una inflación anual elevada de 15,05% y una variación acumulada anual de 0,34%. Aunque el IPC bajó por caídas en alimentos y transporte, hubo incrementos en carne de pollo, arveja, lechuga y otros, manteniendo presionado el costo de vida.",
+      "summary_en": "Bolivia’s inflation fell 0.34% in March from February, but it remains a high annual inflation rate of 15.05% and an annual accumulated variation of 0.34%. Although the CPI declined due to drops in food and transport, there were increases in chicken meat, peas, lettuce, and other items, keeping upward pressure on the cost of living.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T18:01:00-04:00",
+      "published_at_bo": "2026-04-07T18:01:00-04:00",
+      "fetched_at_utc": "2026-04-07T22:44:31.170267+00:00",
+      "day": "2026-04-07"
+    },
+    {
+      "source": "El Deber",
+      "title": "Un gigante de 1.235 kilos: el Nelore más pesado se roba la atención en Agropecruz",
+      "url": "https://eldeber.com.bo/economia/gigante-1-235-kilos-nelore-pesado-roba-atencion-agropecruz_1775598555",
+      "summary": "En la Agropecruz 2026, Jaron FIV LS de Nelori se llevó el título de bovino más pesado de la muestra cebuina, al alcanzar 1.235 kg y una ganancia diaria de 1.438 g. Destacan también Satoshi FIV Sausalito (1.155 kg, 1.370 g/d) en Nelore Mocho y Mr EMIR FIV de Stevital (940 kg, 1.078 g/d) en Brahman, evidenciando el avance de la ganadería cebuina en Bolivia.",
+      "summary_es": "En la Agropecruz 2026, Jaron FIV LS de Nelori se llevó el título de bovino más pesado de la muestra cebuina, al alcanzar 1.235 kg y una ganancia diaria de 1.438 g. Destacan también Satoshi FIV Sausalito (1.155 kg, 1.370 g/d) en Nelore Mocho y Mr EMIR FIV de Stevital (940 kg, 1.078 g/d) en Brahman, evidenciando el avance de la ganadería cebuina en Bolivia.",
+      "summary_en": "At Agropecruz 2026, Jaron FIV LS of Nelore earned the title of the heaviest bovine among the zebuine herd, reaching 1,235 kg with a daily gain of about 1.44 kg. Also noteworthy are Satoshi FIV Sausalito (1,155 kg, 1.370 kg/day) in Nelore Mocho and Mr EMIR FIV of Stevital (940 kg, 1.078 kg/day) in Brahman, highlighting the progress of zebu cattle farming in Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T17:51:00-04:00",
+      "published_at_bo": "2026-04-07T17:51:00-04:00",
+      "fetched_at_utc": "2026-04-07T22:44:32.121102+00:00",
+      "day": "2026-04-07"
+    },
     {
       "source": "El Deber",
       "title": "Crece la porcicultura, pero falta competitividad para exportar",
