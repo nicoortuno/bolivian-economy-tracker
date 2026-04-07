@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-07T02:52:21.759116+00:00",
+  "generated_at_utc": "2026-04-07T03:30:25.256367+00:00",
   "count": 136,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Ministro de Economía confirma que el sistema bancario cuenta con divisas",
+      "url": "https://eldeber.com.bo/economia/ministro-economia-confirma-sistema-bancario-cuenta-divisas_1775527290",
+      "summary": "El ministro José Gabriel Espinoza afirmó que el sistema financiero tiene suficientes divisas y que, gracias a la unificación del tipo de cambio, mayor transparencia y intervenciones ordenadas, puede atender la demanda de divisas y garantizar al menos 500 dólares mensuales en débito, con la posibilidad de más para quienes entren en competencia bancaria. También señaló que, pese a anuncios de devolución de depósitos en dólares, la confianza de los ahorristas ha llevado a que muchos mantengan sus depósitos en la banca, y anticipó que entre el segundo y tercer trimestre podrán devolver esos depósitos, con un contexto de medidas como la eliminación del ITF y de límites en tarjetas en el exterior.",
+      "summary_es": "El ministro José Gabriel Espinoza afirmó que el sistema financiero tiene suficientes divisas y que, gracias a la unificación del tipo de cambio, mayor transparencia y intervenciones ordenadas, puede atender la demanda de divisas y garantizar al menos 500 dólares mensuales en débito, con la posibilidad de más para quienes entren en competencia bancaria. También señaló que, pese a anuncios de devolución de depósitos en dólares, la confianza de los ahorristas ha llevado a que muchos mantengan sus depósitos en la banca, y anticipó que entre el segundo y tercer trimestre podrán devolver esos depósitos, con un contexto de medidas como la eliminación del ITF y de límites en tarjetas en el exterior.",
+      "summary_en": "Minister José Gabriel Espinoza said the financial system has ample foreign currency and that, thanks to the unification of the exchange rate, greater transparency, and orderly interventions, it can meet demand for hard currency and guarantee at least $500 a month via debit, with the possibility of more for those entering banking competition. He also noted that despite announcements of refunds of dollar-denominated deposits, depositor confidence has led many to keep their deposits in banks, and he anticipated that those deposits could be returned between the second and third quarters, in a context of measures such as the elimination of the ITF and limits on cards abroad.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-06T21:45:00-04:00",
+      "published_at_bo": "2026-04-06T21:45:00-04:00",
+      "fetched_at_utc": "2026-04-07T02:52:14.736776+00:00",
+      "day": "2026-04-06"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno mantiene plan para devolver depósitos en dólares hasta agosto",
