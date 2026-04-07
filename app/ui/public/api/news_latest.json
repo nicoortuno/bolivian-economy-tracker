@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-04-07T15:42:52.050921+00:00",
-  "count": 117,
+  "generated_at_utc": "2026-04-07T17:07:06.553026+00:00",
+  "count": 120,
   "items": [
     {
       "source": "El Deber",
@@ -13,12 +13,12 @@
       "sentiment": null,
       "published_at_utc": "2026-04-07T10:21:00-04:00",
       "published_at_bo": "2026-04-07T10:21:00-04:00",
-      "fetched_at_utc": "2026-04-07T15:15:06.462448+00:00",
+      "fetched_at_utc": "2026-04-07T17:07:02.326270+00:00",
       "day": "2026-04-07"
     },
     {
       "source": "El Deber",
-      "title": "Gobierno anula161 decretos y restringe la contratación directa tras daño millonario",
+      "title": "Gobierno anula 161 decretos y restringe la contratación directa tras daño millonario",
       "url": "https://eldeber.com.bo/economia/gobierno-anula161-decretos-restringe-contratacion-directa-dano-millonario_1775564109",
       "summary": "El Gobierno de Rodrigo Paz eliminó 161 decretos que permitían la contratación directa y promulgó el Decreto Supremo 5600 para restringir ese mecanismo, obligando a regirse principalmente por el marco de licitaciones establecido en el Decreto 0181 y a auditar las contrataciones anteriores. Analistas y exautoridades señalan que, si bien es un paso positivo para recuperar la institucionalidad y la transparencia, el impacto real dependerá de la profundidad de las auditorías y de la implementación efectiva.",
       "summary_es": "El Gobierno de Rodrigo Paz eliminó 161 decretos que permitían la contratación directa y promulgó el Decreto Supremo 5600 para restringir ese mecanismo, obligando a regirse principalmente por el marco de licitaciones establecido en el Decreto 0181 y a auditar las contrataciones anteriores. Analistas y exautoridades señalan que, si bien es un paso positivo para recuperar la institucionalidad y la transparencia, el impacto real dependerá de la profundidad de las auditorías y de la implementación efectiva.",
@@ -27,7 +27,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-07T08:15:00-04:00",
       "published_at_bo": "2026-04-07T08:15:00-04:00",
-      "fetched_at_utc": "2026-04-07T15:15:07.381959+00:00",
+      "fetched_at_utc": "2026-04-07T17:07:03.286709+00:00",
       "day": "2026-04-07"
     },
     {
@@ -41,7 +41,7 @@
       "sentiment": null,
       "published_at_utc": "2026-04-07T08:05:00-04:00",
       "published_at_bo": "2026-04-07T08:05:00-04:00",
-      "fetched_at_utc": "2026-04-07T15:15:08.317248+00:00",
+      "fetched_at_utc": "2026-04-07T17:07:04.211003+00:00",
       "day": "2026-04-07"
     },
     {
