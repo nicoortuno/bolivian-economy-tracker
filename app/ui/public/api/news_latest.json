@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-07T19:12:52.869846+00:00",
+  "generated_at_utc": "2026-04-07T19:22:08.021195+00:00",
   "count": 121,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El Banco Central cambia la forma de calcular el dólar referencial para reflejar mejor las operaciones reales del mercado",
+      "url": "https://eldeber.com.bo/economia/banco-central-cambia-forma-calcular-dolar-referencial-reflejar-mejor-operaciones-reales-mercado_1775581150",
+      "summary": "El Banco Central de Bolivia presentó cambios para que el dólar referencial refleje mejor las operaciones reales, incorporando ahora más tipos de operaciones, incluidas las vinculadas a cuentas en bancos extranjeros, y publicando más datos sobre cómo se forma el indicador. No hubo cambios en el precio referencial de venta, que continuará calculándose con la metodología previa.",
+      "summary_es": "El Banco Central de Bolivia presentó cambios para que el dólar referencial refleje mejor las operaciones reales, incorporando ahora más tipos de operaciones, incluidas las vinculadas a cuentas en bancos extranjeros, y publicando más datos sobre cómo se forma el indicador. No hubo cambios en el precio referencial de venta, que continuará calculándose con la metodología previa.",
+      "summary_en": "The Central Bank of Bolivia announced changes to ensure the reference dollar more accurately reflects actual transactions, now incorporating a wider range of operations, including those linked to accounts at foreign banks, and publishing more data on how the indicator is formed. There were no changes to the selling reference price, which will continue to be calculated using the previous methodology.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T13:27:00-04:00",
+      "published_at_bo": "2026-04-07T13:27:00-04:00",
+      "fetched_at_utc": "2026-04-07T19:12:47.444777+00:00",
+      "day": "2026-04-07"
+    },
     {
       "source": "El Deber",
       "title": "Bancos aún ajustan detalles técnicos, legales y disponibilidad de dólares para liberar tarjetas",
