@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-04-07T17:07:06.553026+00:00",
+  "generated_at_utc": "2026-04-07T17:16:29.595412+00:00",
   "count": 120,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bancos aún ajustan detalles técnicos, legales y disponibilidad de dólares para liberar tarjetas",
+      "url": "https://eldeber.com.bo/economia/bancos-aun-ajustan-detalles-tecnicos-legales-disponibilidad-dolares-liberar-tarjetas_1775579645",
+      "summary": "Las tarjetas para compras por internet y en el exterior podrían reactivarse en breve, pero su implementación depende de una instrucción formal de la ASFI y de ajustes operativos, técnicos y de liquidez en dólares por parte de los bancos. Aunque se considera inminente la apertura, la llegada plena de las transacciones internacionales aún no es inmediata y requiere coordinación regulatoria y operativa.",
+      "summary_es": "Las tarjetas para compras por internet y en el exterior podrían reactivarse en breve, pero su implementación depende de una instrucción formal de la ASFI y de ajustes operativos, técnicos y de liquidez en dólares por parte de los bancos. Aunque se considera inminente la apertura, la llegada plena de las transacciones internacionales aún no es inmediata y requiere coordinación regulatoria y operativa.",
+      "summary_en": "Cards for online and international purchases could be reactivated soon, but their rollout depends on a formal directive from ASFI and on banks making operational, technical, and dollar-liquidity adjustments. While the reopening is viewed as imminent, full access to international transactions is not immediate and requires regulatory and operational coordination.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T12:39:00-04:00",
+      "published_at_bo": "2026-04-07T12:39:00-04:00",
+      "fetched_at_utc": "2026-04-07T17:06:59.485869+00:00",
+      "day": "2026-04-07"
+    },
+    {
+      "source": "El Deber",
+      "title": "Juzgamientos, ordeñas y remates marcan la agenda pecuaria de Agropecruz",
+      "url": "https://eldeber.com.bo/economia/juzgamientos-ordenas-remates-marcan-agenda-pecuaria-agropecruz_1775574866",
+      "summary": "En Agropecruz 2026, Asocebú presenta un día intenso de competencia y evaluación genética con ordeñas de las razas Gyr y Girolando, pesajes de Nelore/Nelore Mocho y el juzgamiento de la raza Sindi, además de espacios comerciales y una remate ganadero por la noche. La jornada incluye actividades para prensa, culminando con la exhibición de ganaderías destacadas y la definición de grandes campeones.",
+      "summary_es": "En Agropecruz 2026, Asocebú presenta un día intenso de competencia y evaluación genética con ordeñas de las razas Gyr y Girolando, pesajes de Nelore/Nelore Mocho y el juzgamiento de la raza Sindi, además de espacios comerciales y una remate ganadero por la noche. La jornada incluye actividades para prensa, culminando con la exhibición de ganaderías destacadas y la definición de grandes campeones.",
+      "summary_en": "At Agropecruz 2026, Asocebú presents an intense day of competition and genetic evaluation, featuring milking demonstrations of the Gyr and Girolando breeds, weigh-ins for Nelore/Nelore Mocho, and the judging of the Sindhi breed, along with trade spaces and a livestock auction in the evening. The day includes media activities, culminating in the exhibition of standout herds and the naming of the grand champions.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T11:55:00-04:00",
+      "published_at_bo": "2026-04-07T11:55:00-04:00",
+      "fetched_at_utc": "2026-04-07T17:07:00.416417+00:00",
+      "day": "2026-04-07"
+    },
+    {
+      "source": "El Deber",
+      "title": "Construcción: Bajan los precios del fierro y de materiales eléctricos, pero suben los de áridos",
+      "url": "https://eldeber.com.bo/economia/construccion-bajan-precios-fierro-materiales-electricos-suben-aridos_1775574056",
+      "summary": "El ICC–CBDI de marzo muestra costos mixtos: bajan fierro, instalaciones eléctricas y grifería, mientras que suben los áridos en algunas regiones, con variaciones por tipo de insumo y condiciones de mercado. Aun así, el índice acumula aumentos significativos desde diciembre de 2023, con un incremento de 51,18% en viviendas unifamiliares y 50,6% en edificios residenciales, calculado a partir de tres cotizaciones de proveedores por componente.",
+      "summary_es": "El ICC–CBDI de marzo muestra costos mixtos: bajan fierro, instalaciones eléctricas y grifería, mientras que suben los áridos en algunas regiones, con variaciones por tipo de insumo y condiciones de mercado. Aun así, el índice acumula aumentos significativos desde diciembre de 2023, con un incremento de 51,18% en viviendas unifamiliares y 50,6% en edificios residenciales, calculado a partir de tres cotizaciones de proveedores por componente.",
+      "summary_en": "The ICC–CBDI for March shows mixed costs: ironwork, electrical installations, and fixtures are down, while aggregates have risen in some regions, with variations by input type and market conditions. Still, the index has climbed significantly since December 2023, with increases of 51.18% for single-family homes and 50.6% for residential buildings, calculated from three supplier quotes per component.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-07T11:19:00-04:00",
+      "published_at_bo": "2026-04-07T11:19:00-04:00",
+      "fetched_at_utc": "2026-04-07T17:07:01.350097+00:00",
+      "day": "2026-04-07"
+    },
     {
       "source": "El Deber",
       "title": "Bancos esperan normativa para aplicar liberación del uso de tarjetas en compras por internet",
