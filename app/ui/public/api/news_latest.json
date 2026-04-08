@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-04-08T20:52:12.742292+00:00",
+  "generated_at_utc": "2026-04-08T21:02:40.502796+00:00",
   "count": 135,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Presidente Paz critica manejo de YPFB y cuestiona resultados de la nacionalización",
+      "url": "https://eldeber.com.bo/economia/presidente-paz-critica-manejo-ypfb-cuestiona-resultados-nacionalizacion_1775680097",
+      "summary": "El presidente Rodrigo Paz cuestionó la gestión de YPFB y el modelo nacionalizador de los últimos 20 años, afirmando que el país debe estar al servicio de los bolivianos y apostar por un modelo centrado en producir, invertir y reinvertir para generar crecimiento y reducir la pobreza. También prometió fortalecer la inversión privada, ampliar mercados y vínculos con vecinos como Brasil, y avanzar en acuerdos subnacionales para mejorar la conectividad e la infraestructura productiva.",
+      "summary_es": "El presidente Rodrigo Paz cuestionó la gestión de YPFB y el modelo nacionalizador de los últimos 20 años, afirmando que el país debe estar al servicio de los bolivianos y apostar por un modelo centrado en producir, invertir y reinvertir para generar crecimiento y reducir la pobreza. También prometió fortalecer la inversión privada, ampliar mercados y vínculos con vecinos como Brasil, y avanzar en acuerdos subnacionales para mejorar la conectividad e la infraestructura productiva.",
+      "summary_en": "President Rodrigo Paz questioned YPFB’s management and the nationalization model of the past 20 years, arguing that the country must be at the service of Bolivians and pursue a model focused on producing, investing, and reinvesting to generate growth and reduce poverty. He also pledged to strengthen private investment, expand markets and ties with neighboring countries such as Brazil, and advance subnational agreements to improve connectivity and productive infrastructure.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-08T16:33:00-04:00",
+      "published_at_bo": "2026-04-08T16:33:00-04:00",
+      "fetched_at_utc": "2026-04-08T20:52:03.354267+00:00",
+      "day": "2026-04-08"
+    },
+    {
+      "source": "El Deber",
+      "title": "Interpelación a ministro de Hidrocarburos avanza en la Asamblea en medio de debate por su ausencia",
+      "url": "https://eldeber.com.bo/economia/interpelacion-ministro-hidrocarburos-avanza-asamblea-medio-debate-ausencia_1775677615",
+      "summary": "La sesión de interpelación al ministro de Hidrocarburos, Mauricio Medinaceli, fue reinstalada con fuertes disputas sobre su validez y continuidad, ya que el ministro no asistió y el pleno debate divergió entre declarar nula la sesión, convocar de nuevo o seguir adelante con la votación de censura. El ambiente queda en expectativa mientras se discute si la interpelación puede proseguir y qué mayoría se requeriría para censurar al ministro.",
+      "summary_es": "La sesión de interpelación al ministro de Hidrocarburos, Mauricio Medinaceli, fue reinstalada con fuertes disputas sobre su validez y continuidad, ya que el ministro no asistió y el pleno debate divergió entre declarar nula la sesión, convocar de nuevo o seguir adelante con la votación de censura. El ambiente queda en expectativa mientras se discute si la interpelación puede proseguir y qué mayoría se requeriría para censurar al ministro.",
+      "summary_en": "The interpellation session with Energy Minister Mauricio Medinaceli was reinstated amid sharp disagreements over its validity and continuation, as the minister did not attend and the plenary debate split over whether to declare the session null, reconvene, or proceed with the vote of censure. The atmosphere remains tense as lawmakers debate whether the interpellation can proceed and what majority would be required to censure the minister.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-08T16:00:00-04:00",
+      "published_at_bo": "2026-04-08T16:00:00-04:00",
+      "fetched_at_utc": "2026-04-08T20:52:04.269261+00:00",
+      "day": "2026-04-08"
+    },
+    {
+      "source": "El Deber",
+      "title": "Zamora plantea una red ferroviaria interoceánica para integrar a Bolivia con la región",
+      "url": "https://eldeber.com.bo/economia/zamora-plantea-red-ferroviaria-interoceanica-integrar-bolivia-region_1775676471",
+      "summary": "El ministro de Obras Públicas, Mauricio Zamora, afirmó que una red ferroviaria de integración regional podría convertirse en pilar para la competitividad y el crecimiento de Bolivia, conectando al país con Perú, Chile y Brasil y reduciendo tiempos y costos logísticos mediante una red interoceánica. Además, destacó que la empresa forma parte de una estrategia de conectividad más amplia, que incluye carreteras y un hub en Viru Viru, para consolidar a Bolivia como eje regional de integración logística.",
+      "summary_es": "El ministro de Obras Públicas, Mauricio Zamora, afirmó que una red ferroviaria de integración regional podría convertirse en pilar para la competitividad y el crecimiento de Bolivia, conectando al país con Perú, Chile y Brasil y reduciendo tiempos y costos logísticos mediante una red interoceánica. Además, destacó que la empresa forma parte de una estrategia de conectividad más amplia, que incluye carreteras y un hub en Viru Viru, para consolidar a Bolivia como eje regional de integración logística.",
+      "summary_en": "The Minister of Public Works, Mauricio Zamora, said that a regional integration railway network could become a cornerstone for Bolivia’s competitiveness and growth, connecting the country with Peru, Chile and Brazil and reducing travel times and logistics costs through an interoceanic network. He also noted that the company is part of a broader connectivity strategy that includes highways and a hub at Viru Viru, aimed at cementing Bolivia as a regional hub for logistics integration.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-08T15:49:00-04:00",
+      "published_at_bo": "2026-04-08T15:49:00-04:00",
+      "fetched_at_utc": "2026-04-08T20:52:05.190846+00:00",
+      "day": "2026-04-08"
+    },
     {
       "source": "El Deber",
       "title": "El presidente Paz promulga ley que permite convertir pequeñas propiedades en medianas para facilitar acceso al crédito",
