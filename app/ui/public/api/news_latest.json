@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-08T15:16:16.502930+00:00",
+  "generated_at_utc": "2026-04-08T15:48:03.145153+00:00",
   "count": 125,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "“Es algo que tenemos que mejorar”, afirma el Gobierno por la demora en la aplicación de anuncios económicos",
+      "url": "https://eldeber.com.bo/economia/algo-tenemos-mejorar-afirma-gobierno-demora-aplicacion-anuncios-economicos_1775655492",
+      "summary": "El gobierno informó sobre la reactivación de las tarjetas para compras online y pagos digitales, pero su implementación plena aún no se ha materializado. También falta la publicación en la Gaceta Oficial de las leyes que eliminan el ITF y restituyen el crédito fiscal por combustibles, a pesar de haber sido sancionadas.",
+      "summary_es": "El gobierno informó sobre la reactivación de las tarjetas para compras online y pagos digitales, pero su implementación plena aún no se ha materializado. También falta la publicación en la Gaceta Oficial de las leyes que eliminan el ITF y restituyen el crédito fiscal por combustibles, a pesar de haber sido sancionadas.",
+      "summary_en": "The government announced the reactivation of cards for online purchases and digital payments, but full implementation has not yet materialized. Publication in the Official Gazette of the laws eliminating the ITF and restoring the fuel tax credit remains pending, despite having been enacted.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-08T09:38:00-04:00",
+      "published_at_bo": "2026-04-08T09:38:00-04:00",
+      "fetched_at_utc": "2026-04-08T15:16:12.708570+00:00",
+      "day": "2026-04-08"
+    },
     {
       "source": "El Deber",
       "title": "Aguardan publicación en la Gaceta para implementar medidas económicas",
