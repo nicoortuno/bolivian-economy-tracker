@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-09T19:16:00.536245+00:00",
+  "generated_at_utc": "2026-04-09T19:40:18.839481+00:00",
   "count": 137,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Gobierno activa reglamento para uso de tarjetas en el exterior",
+      "url": "https://eldeber.com.bo/economia/gobierno-activa-reglamento-uso-tarjetas-exterior_1775760212",
+      "summary": "La reglamentación para el uso de tarjetas en Bolivia ya fue emitida y está operativa, con el objetivo de ordenar y transparentar las transacciones, mejorar la trazabilidad y reducir riesgos de fraude, al tiempo que se fomenta el uso de pagos electrónicos y la inclusión financiera. Además, busca acompañar la estabilidad cambiaria ante la presión de las divisas, adaptándose a la creciente digitalización del sistema financiero.",
+      "summary_es": "La reglamentación para el uso de tarjetas en Bolivia ya fue emitida y está operativa, con el objetivo de ordenar y transparentar las transacciones, mejorar la trazabilidad y reducir riesgos de fraude, al tiempo que se fomenta el uso de pagos electrónicos y la inclusión financiera. Además, busca acompañar la estabilidad cambiaria ante la presión de las divisas, adaptándose a la creciente digitalización del sistema financiero.",
+      "summary_en": "The regulations governing the use of card payments in Bolivia have already been issued and are now in force, aimed at ordering and increasing transparency of transactions, improving traceability, and reducing fraud risk, while promoting electronic payments and financial inclusion. They also seek to support exchange-rate stability amid currency pressures, adapting to the growing digitization of the financial system.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T14:47:00-04:00",
+      "published_at_bo": "2026-04-09T14:47:00-04:00",
+      "fetched_at_utc": "2026-04-09T19:15:54.651872+00:00",
+      "day": "2026-04-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Precio del dólar referencial del BCB supera al del mercado paralelo",
+      "url": "https://eldeber.com.bo/economia/precio-dolar-referencial-bcb-supera-mercado-paralelo_1775758992",
+      "summary": "El dólar referencial del Banco Central de Bolivia subió a 9,61 bolivianos para la venta y 9,41 para la compra (un incremento de 40 puntos respecto al 8 de abril), superando por primera vez al dólar paralelo de 9,31. El BCB anunció cambios para que el referencial refleje mejor las operaciones reales de los bancos y sea más transparente, buscando convertirse en la única orientación en las transacciones de divisas; el 7 de abril el valor era 9,19 para la venta y 9,00 para la compra.",
+      "summary_es": "El dólar referencial del Banco Central de Bolivia subió a 9,61 bolivianos para la venta y 9,41 para la compra (un incremento de 40 puntos respecto al 8 de abril), superando por primera vez al dólar paralelo de 9,31. El BCB anunció cambios para que el referencial refleje mejor las operaciones reales de los bancos y sea más transparente, buscando convertirse en la única orientación en las transacciones de divisas; el 7 de abril el valor era 9,19 para la venta y 9,00 para la compra.",
+      "summary_en": "The Central Bank of Bolivia’s reference dollar rose to 9.61 bolivianos for selling and 9.41 for buying (an increase of 40 basis points from April 8), surpassing for the first time the parallel dollar at 9.31. The BCB announced changes so that the reference reflects banks’ actual operations more accurately and is more transparent, with the aim of becoming the sole benchmark for currency transactions; on April 7 the rate stood at 9.19 for selling and 9.00 for buying.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T14:28:00-04:00",
+      "published_at_bo": "2026-04-09T14:28:00-04:00",
+      "fetched_at_utc": "2026-04-09T19:15:55.580518+00:00",
+      "day": "2026-04-09"
+    },
     {
       "source": "El Deber",
       "title": "Fiscalía impulsa coordinación con el sector productivo para combatir avasallamiento y abigeato",
