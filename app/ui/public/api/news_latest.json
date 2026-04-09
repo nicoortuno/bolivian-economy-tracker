@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-09T23:41:07.802548+00:00",
+  "generated_at_utc": "2026-04-09T23:54:27.397119+00:00",
   "count": 140,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Claves para entender la nueva regulación de tarjetas en el exterior",
+      "url": "https://eldeber.com.bo/economia/claves-entender-nueva-regulacion-tarjetas-exterior_1775774326",
+      "summary": "La ASFI modificó el reglamento de tasas y comisiones para tarjetas en el exterior, adoptando como referencia el tipo de cambio de venta del dólar del BCB y estableciendo límites y mayor transparencia en operaciones internacionales, incluidas compras por Internet y pagos en el exterior. No prohíbe el uso de tarjetas en el exterior, pero exige divulgación clara de condiciones y costos, con comisiones variables y rangos que pueden ir del 3% (compras online) al 5–10% (giros al exterior) e incluso hasta 20% en montos mayores.",
+      "summary_es": "La ASFI modificó el reglamento de tasas y comisiones para tarjetas en el exterior, adoptando como referencia el tipo de cambio de venta del dólar del BCB y estableciendo límites y mayor transparencia en operaciones internacionales, incluidas compras por Internet y pagos en el exterior. No prohíbe el uso de tarjetas en el exterior, pero exige divulgación clara de condiciones y costos, con comisiones variables y rangos que pueden ir del 3% (compras online) al 5–10% (giros al exterior) e incluso hasta 20% en montos mayores.",
+      "summary_en": "ASFI has amended the regulation on fees and charges for cards used abroad, adopting the Bank of Bolivia’s (BCB) selling exchange rate as a reference and setting limits to improve transparency in international transactions, including online purchases and payments overseas. The measure does not ban the use of cards abroad, but requires clear disclosure of terms and costs, with variable commissions ranging from about 3% for online purchases, to 5–10% for outbound transfers, and up to 20% for larger amounts.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T19:16:00-04:00",
+      "published_at_bo": "2026-04-09T19:16:00-04:00",
+      "fetched_at_utc": "2026-04-09T23:41:01.750738+00:00",
+      "day": "2026-04-09"
+    },
+    {
+      "source": "El Deber",
+      "title": "Readecuarán la terminal presidencial de Viru Viru para descongestionar el tráfico de pasajeros",
+      "url": "https://eldeber.com.bo/economia/readecuaran-terminal-presidencial-viru-viru-descongestionar-trafico-pasajeros_1775770120",
+      "summary": "El Ministerio de Obras Públicas anunció que la Terminal Presidencial de Viru Viru dejará de ser exclusiva para el presidente y se reconvertirá para vuelos no presidenciales, con el fin de descongestionar el aeropuerto y mejorar la experiencia de los usuarios. Esta transformación, ordenada por el presidente Rodrigo Paz y ejecutada por el ministro Mauricio Zamora, busca convertir un espacio históricamente lujoso en una terminal moderna y más productiva para Bolivia.",
+      "summary_es": "El Ministerio de Obras Públicas anunció que la Terminal Presidencial de Viru Viru dejará de ser exclusiva para el presidente y se reconvertirá para vuelos no presidenciales, con el fin de descongestionar el aeropuerto y mejorar la experiencia de los usuarios. Esta transformación, ordenada por el presidente Rodrigo Paz y ejecutada por el ministro Mauricio Zamora, busca convertir un espacio históricamente lujoso en una terminal moderna y más productiva para Bolivia.",
+      "summary_en": "The Ministry of Public Works announced that the Presidential Terminal at Viru Viru will no longer be reserved for the president and will be repurposed for non-presidential flights, to ease congestion at the airport and improve the traveler experience. This transformation, ordered by President Rodrigo Paz and carried out by Minister Mauricio Zamora, aims to turn a space historically associated with luxury into a modern, more productive terminal for Bolivia.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T18:47:00-04:00",
+      "published_at_bo": "2026-04-09T18:47:00-04:00",
+      "fetched_at_utc": "2026-04-09T23:41:02.804992+00:00",
+      "day": "2026-04-09"
+    },
     {
       "source": "El Deber",
       "title": "Bancos reactivan pagos con tarjeta en el exterior tras 3 años de cepo",
