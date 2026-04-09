@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-09T15:26:38.305497+00:00",
+  "generated_at_utc": "2026-04-09T16:44:01.025427+00:00",
   "count": 133,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "¿Cómo evitar estafas financieras? BCB da claves tras robo de dinero y datos",
+      "url": "https://eldeber.com.bo/economia/evitar-estafas-financieras-bcb-da-claves-robo-dinero-datos_1775745923",
+      "summary": "El BC B alertó sobre un aumento de fraudes de phishing que falsifican su identidad y logotipos para engañar a través de correos, mensajes y llamadas, prometiendo beneficios ficticios y así obtener contraseñas, números de cuenta y códigos de verificación para vaciar recursos.",
+      "summary_es": "El BC B alertó sobre un aumento de fraudes de phishing que falsifican su identidad y logotipos para engañar a través de correos, mensajes y llamadas, prometiendo beneficios ficticios y así obtener contraseñas, números de cuenta y códigos de verificación para vaciar recursos.",
+      "summary_en": "BC B has warned of a rise in phishing scams that counterfeit its identity and logos to dupe people through emails, messages and phone calls, promising fictitious benefits and thus stealing passwords, account numbers and verification codes to drain funds.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T11:07:00-04:00",
+      "published_at_bo": "2026-04-09T11:07:00-04:00",
+      "fetched_at_utc": "2026-04-09T15:26:34.465707+00:00",
+      "day": "2026-04-09"
+    },
     {
       "source": "El Deber",
       "title": "Paz propone inversión, seguridad jurídica y un giro en el modelo económico",
