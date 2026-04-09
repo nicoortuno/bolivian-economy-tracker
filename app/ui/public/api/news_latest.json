@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-09T21:50:08.316718+00:00",
+  "generated_at_utc": "2026-04-09T21:58:21.141389+00:00",
   "count": 138,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bancos reactivan pagos con tarjeta en el exterior tras 3 años de cepo",
+      "url": "https://eldeber.com.bo/economia/bancos-reactivan-pagos-tarjeta-exterior-3-anos-cepo_1775767552",
+      "summary": "Asoban anunció que, tras casi tres años de restricciones por la escasez de dólares, desde este jueves se habilita el uso regular de tarjetas de débito y crédito para consumos internacionales, con un tope de 500 dólares mensuales en débito y un límite de crédito según la capacidad de pago del cliente. Esto ocurre tras la finalización de la normativa del BCB y ASFI y busca normalizar los pagos internacionales y la economía digital.",
+      "summary_es": "Asoban anunció que, tras casi tres años de restricciones por la escasez de dólares, desde este jueves se habilita el uso regular de tarjetas de débito y crédito para consumos internacionales, con un tope de 500 dólares mensuales en débito y un límite de crédito según la capacidad de pago del cliente. Esto ocurre tras la finalización de la normativa del BCB y ASFI y busca normalizar los pagos internacionales y la economía digital.",
+      "summary_en": "Asoban announced that, after nearly three years of restrictions due to dollar shortages, regular use of debit and credit cards for international purchases will be enabled starting this Thursday, with a monthly debit limit of $500 and a credit limit based on the cardholder’s ability to pay. This follows the termination of the regulations by the BCB and ASFI and aims to normalize international payments and the digital economy.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T17:11:00-04:00",
+      "published_at_bo": "2026-04-09T17:11:00-04:00",
+      "fetched_at_utc": "2026-04-09T21:50:02.621719+00:00",
+      "day": "2026-04-09"
+    },
     {
       "source": "El Deber",
       "title": "Gobierno activa reglamento para uso de tarjetas en el exterior",
