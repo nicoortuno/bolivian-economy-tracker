@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-04-10T09:38:08.293128+00:00",
-  "count": 141,
+  "generated_at_utc": "2026-04-10T11:00:49.971711+00:00",
+  "count": 138,
   "items": [
     {
       "source": "El Deber",
@@ -1891,76 +1891,6 @@
       "published_at_bo": "2026-03-28T17:01:00-04:00",
       "fetched_at_utc": "2026-03-29T02:55:41.077657+00:00",
       "day": "2026-03-28"
-    },
-    {
-      "source": "El Deber",
-      "title": "Según YPFB, pagos por compensación alcanzan los Bs 4,9 millones hasta este viernes",
-      "url": "https://eldeber.com.bo/economia/ypfb-pagos-compensacion-alcanzan-bs-4-9-millones-este-viernes_1774653392",
-      "summary": "Las compensaciones registradas por el SREC alcanzaron 4.998.248,93 Bs, con pagos y retiros disponibles en ventanilla en todas las sucursales de Banco Unión; el pago en ventanilla es personal y exige documento de identidad original y el número asignado por el SREC. Además, más de 20 dirigentes de choferes de La Paz inspeccionaron la Planta de Senkata para verificar la calidad de la gasolina de YPFB, y se extenderán las inspecciones a surtidores en todo el departamento, con comisiones encargadas de la verificación.",
-      "summary_es": "Las compensaciones registradas por el SREC alcanzaron 4.998.248,93 Bs, con pagos y retiros disponibles en ventanilla en todas las sucursales de Banco Unión; el pago en ventanilla es personal y exige documento de identidad original y el número asignado por el SREC. Además, más de 20 dirigentes de choferes de La Paz inspeccionaron la Planta de Senkata para verificar la calidad de la gasolina de YPFB, y se extenderán las inspecciones a surtidores en todo el departamento, con comisiones encargadas de la verificación.",
-      "summary_en": "Compensations recorded by the SREC totaled 4,998,248.93 Bs, with cash payments and withdrawals available at the tellers’ windows at all Banco Unión branches. Cash payments are personal and require the original ID and the number assigned by the SREC. \n\nIn addition, more than 20 drivers’ union leaders in La Paz inspected the Senkata Plant to verify the quality of YPFB gasoline, and the inspections will be extended to service stations across the department, with commissions in charge of the verification.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-27T19:23:00-04:00",
-      "published_at_bo": "2026-03-27T19:23:00-04:00",
-      "fetched_at_utc": "2026-03-28T04:57:59.376233+00:00",
-      "day": "2026-03-27"
-    },
-    {
-      "source": "El Deber",
-      "title": "Senkata bajo lupa: Choferes revisan nuevo lote de gasolina tras días de conflicto",
-      "url": "https://eldeber.com.bo/economia/senkata-lupa-choferes-revisan-nuevo-lote-gasolina-dias-conflicto_1774638870",
-      "summary": "Una comisión de transportistas inspecciona la planta de Senkata de YPFB para verificar la calidad y el cumplimiento del suministro de gasolina tras un acuerdo con el Gobierno, en medio de tensiones por fallas en la provisión.",
-      "summary_es": "Una comisión de transportistas inspecciona la planta de Senkata de YPFB para verificar la calidad y el cumplimiento del suministro de gasolina tras un acuerdo con el Gobierno, en medio de tensiones por fallas en la provisión.",
-      "summary_en": "A commission of transporters is inspecting YPFB’s Senkata refinery to verify the quality and reliability of the gasoline supply, following an agreement with the government, amid tensions over supply disruptions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-27T15:45:00-04:00",
-      "published_at_bo": "2026-03-27T15:45:00-04:00",
-      "fetched_at_utc": "2026-03-27T23:38:38.005930+00:00",
-      "day": "2026-03-27"
-    },
-    {
-      "source": "El Deber",
-      "title": "Feria de la Construcción: La Ficad 2026 trae descuentos en ladrillos, pinturas, puertas y cerámicas",
-      "url": "https://eldeber.com.bo/economia/feria-construccion-ficad-2026-trae-descuentos-ladrillos-pinturas-puertas-ceramicas_1774631028",
-      "summary": "La Ficad reúne a más de 200 marcas y cuenta con la presencia internacional de Brasil, China y España, con importantes descuentos en ladrillos, pinturas, puertas y cerámicas en el pabellón Brasil. En los pabellones de China y España se realiza la Décima Bienal Internacional de Arquitectura y se presenta la exposición “São Paulo Ciudad Invitada”, junto a conferencias, presentaciones y concursos asociados.",
-      "summary_es": "La Ficad reúne a más de 200 marcas y cuenta con la presencia internacional de Brasil, China y España, con importantes descuentos en ladrillos, pinturas, puertas y cerámicas en el pabellón Brasil. En los pabellones de China y España se realiza la Décima Bienal Internacional de Arquitectura y se presenta la exposición “São Paulo Ciudad Invitada”, junto a conferencias, presentaciones y concursos asociados.",
-      "summary_en": "FICAD brings together more than 200 brands and features an international presence from Brazil, China, and Spain, with substantial discounts on bricks, paints, doors, and ceramics at the Brazil Pavilion. In the China and Spain pavilions, the Tenth International Architecture Biennial is held, and the exhibition “São Paulo Invited City” is presented, alongside lectures, talks, and related competitions.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-27T13:09:00-04:00",
-      "published_at_bo": "2026-03-27T13:09:00-04:00",
-      "fetched_at_utc": "2026-03-27T22:38:58.721627+00:00",
-      "day": "2026-03-27"
-    },
-    {
-      "source": "El Deber",
-      "title": "Reservas internacionales  en dólares del país caen tras pago de deuda externa",
-      "url": "https://eldeber.com.bo/economia/reservas-internacionales-dolares-pais-caen-pago-deuda-externa_1774609586",
-      "summary": "Las Reservas Internacionales Netas de Bolivia han mostrado una caída marcada del componente en divisas, dejando solo unos 52 millones de dólares disponibles para pagos yanki, frente a un alto peso del oro en las reservas. Analistas señalan que el problema central es la debilidad del stock en divisas ante obligaciones externas crecientes, por lo que se requiere recuperar flujo de dólares y mantener disciplina fiscal para sostener la estabilidad cambiaria.",
-      "summary_es": "Las Reservas Internacionales Netas de Bolivia han mostrado una caída marcada del componente en divisas, dejando solo unos 52 millones de dólares disponibles para pagos yanki, frente a un alto peso del oro en las reservas. Analistas señalan que el problema central es la debilidad del stock en divisas ante obligaciones externas crecientes, por lo que se requiere recuperar flujo de dólares y mantener disciplina fiscal para sostener la estabilidad cambiaria.",
-      "summary_en": "Bolivia’s Net International Reserves have shown a marked decline in the foreign-currency component, leaving only about $52 million available for dollar payments, with a large share of the reserves held in gold. Analysts say the core problem is the weakness of the stock in foreign currency amid growing external obligations, so the country needs to restore dollar inflows and maintain fiscal discipline to sustain exchange-rate stability.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-27T07:06:00-04:00",
-      "published_at_bo": "2026-03-27T07:06:00-04:00",
-      "fetched_at_utc": "2026-03-27T17:00:15.452108+00:00",
-      "day": "2026-03-27"
-    },
-    {
-      "source": "El Deber",
-      "title": "Acuerdo fija resarcimiento más de una vez y  control de la gasolina en país de origen",
-      "url": "https://eldeber.com.bo/economia/acuerdo-fija-resarcimiento-vez-control-gasolina-pais-origen_1774609305",
-      "summary": "Un acuerdo entre una comisión gubernamental y las federaciones de choferes dio por terminado el paro en La Paz y El Alto, con medidas para resarcir a propietarios de vehículos dañados por la gasolina desestabilizada, posibilidad de compensaciones múltiples y la creación de comisiones para verificar la calidad del combustible en origen y en puertos. Además, se acordó facilitar créditos diferidos, abrir ventanillas en oficinas de YPFB y realizar verificaciones de combustible en Arica y Perú para garantizar el suministro.",
-      "summary_es": "Un acuerdo entre una comisión gubernamental y las federaciones de choferes dio por terminado el paro en La Paz y El Alto, con medidas para resarcir a propietarios de vehículos dañados por la gasolina desestabilizada, posibilidad de compensaciones múltiples y la creación de comisiones para verificar la calidad del combustible en origen y en puertos. Además, se acordó facilitar créditos diferidos, abrir ventanillas en oficinas de YPFB y realizar verificaciones de combustible en Arica y Perú para garantizar el suministro.",
-      "summary_en": "An agreement between a government commission and the drivers’ federations has ended the protests in La Paz and El Alto, with measures to compensate owners of vehicles damaged by tainted gasoline, the possibility of multiple compensation schemes, and the creation of commissions to verify fuel quality at the source and at ports. It also calls for facilitating deferred credit facilities, opening service counters at YPFB offices, and conducting fuel inspections in Arica and Peru to ensure supply.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-27T07:01:00-04:00",
-      "published_at_bo": "2026-03-27T07:01:00-04:00",
-      "fetched_at_utc": "2026-03-27T17:00:16.440962+00:00",
-      "day": "2026-03-27"
     },
     {
       "source": "El Deber",
