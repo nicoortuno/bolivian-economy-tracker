@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-10T03:19:11.261936+00:00",
+  "generated_at_utc": "2026-04-10T03:40:39.195563+00:00",
   "count": 141,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "ASFI fija nuevas reglas para comisiones y uso de tarjetas en el exterior",
+      "url": "https://eldeber.com.bo/economia/asfi-fija-nuevas-reglas-comisiones-uso-tarjetas-exterior_1775780436",
+      "summary": "La ASFI aprobó una modificación al Reglamento de Tasas de Interés, Comisiones y Tarifas para reforzar el control de cobros y proteger a los usuarios ante cargos excesivos. Entre los cambios, las transacciones con tarjetas en el exterior deberán regirse por el tipo de cambio referencial de venta del dólar publicado por el BCB y se introducen bandas tarifarias para transferencias y giros al exterior, manteniéndose gratuitos los servicios financieros básicos.",
+      "summary_es": "La ASFI aprobó una modificación al Reglamento de Tasas de Interés, Comisiones y Tarifas para reforzar el control de cobros y proteger a los usuarios ante cargos excesivos. Entre los cambios, las transacciones con tarjetas en el exterior deberán regirse por el tipo de cambio referencial de venta del dólar publicado por el BCB y se introducen bandas tarifarias para transferencias y giros al exterior, manteniéndose gratuitos los servicios financieros básicos.",
+      "summary_en": "The Bolivian Financial System Supervisory Authority (ASFI) approved a modification to the Regulation on Interest Rates, Fees, and Charges to strengthen the control of charges and protect users from excessive fees. Among the changes, card transactions conducted abroad must be governed by the selling reference exchange rate for the dollar published by the Central Bank (BCB), and tariff bands will be introduced for transfers and remittances abroad, with basic financial services remaining free.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-09T20:26:00-04:00",
+      "published_at_bo": "2026-04-09T20:26:00-04:00",
+      "fetched_at_utc": "2026-04-10T03:19:07.406132+00:00",
+      "day": "2026-04-09"
+    },
     {
       "source": "El Deber",
       "title": "Claves para entender la nueva regulación de tarjetas en el exterior",
