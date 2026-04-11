@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-11T22:38:15.492125+00:00",
+  "generated_at_utc": "2026-04-11T22:52:12.094297+00:00",
   "count": 139,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Bolivia autoriza al sector privado a importar y exportar electricidad en fronteras",
+      "url": "https://eldeber.com.bo/economia/bolivia-autoriza-sector-privado-importar-exportar-electricidad-fronteras_1775945159",
+      "summary": "El Gobierno de Bolivia autorizó al sector privado la exportación e importación de electricidad, iniciando la liberalización del mercado y rompiendo el monopolio estatal de ENDE en las interconexiones internacionales para favorecer la competencia y la integración regional, con miras a impulsar inversiones en energías renovables y reducir la dependencia del gas.",
+      "summary_es": "El Gobierno de Bolivia autorizó al sector privado la exportación e importación de electricidad, iniciando la liberalización del mercado y rompiendo el monopolio estatal de ENDE en las interconexiones internacionales para favorecer la competencia y la integración regional, con miras a impulsar inversiones en energías renovables y reducir la dependencia del gas.",
+      "summary_en": "Bolivia's government has allowed the private sector to export and import electricity, launching a liberalization of the market and breaking ENDE's state monopoly over international interconnections to promote competition and regional integration, with a view to boosting investment in renewable energy and reducing dependence on gas.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-11T18:05:00-04:00",
+      "published_at_bo": "2026-04-11T18:05:00-04:00",
+      "fetched_at_utc": "2026-04-11T22:38:13.599524+00:00",
+      "day": "2026-04-11"
+    },
     {
       "source": "El Deber",
       "title": "La Aduana Nacional coordina acciones para mejorar la atención en el Aeropuerto de Viru Viru",
