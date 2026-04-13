@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-13T09:03:34.992846+00:00",
+  "generated_at_utc": "2026-04-13T09:11:14.853795+00:00",
   "count": 138,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "El dólar oficial pierde peso tras 14 años y el referencial domina la economía real",
+      "url": "https://eldeber.com.bo/economia/dolar-oficial-pierde-peso-14-anos-referencial-domina-economia-real_1776053385",
+      "summary": "En Bolivia coexisten un tipo de cambio oficial, un tipo referencial y un mercado paralelo, pero las transacciones reales se calculan cada vez más con referencias cercanas al dólar paralelo y, en muchos casos, en moneda nacional. Esto ha debilitado la relevancia del tipo oficial y generado distorsiones en precios y pagos, mientras economistas sostienen que sólo una unificación cambiaria y fortalecimiento de reservas podrían brindar una referencia clara.",
+      "summary_es": "En Bolivia coexisten un tipo de cambio oficial, un tipo referencial y un mercado paralelo, pero las transacciones reales se calculan cada vez más con referencias cercanas al dólar paralelo y, en muchos casos, en moneda nacional. Esto ha debilitado la relevancia del tipo oficial y generado distorsiones en precios y pagos, mientras economistas sostienen que sólo una unificación cambiaria y fortalecimiento de reservas podrían brindar una referencia clara.",
+      "summary_en": "In Bolivia, an official exchange rate, a reference rate, and a parallel market coexist, but actual transactions are increasingly calculated using references close to the parallel dollar and, in many cases, in local currency. This has weakened the relevance of the official rate and created distortions in prices and payments, while economists argue that only a unified exchange rate and stronger reserves could provide a clear benchmark.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-13T04:00:00-04:00",
+      "published_at_bo": "2026-04-13T04:00:00-04:00",
+      "fetched_at_utc": "2026-04-13T09:03:33.081804+00:00",
+      "day": "2026-04-13"
+    },
+    {
+      "source": "El Deber",
+      "title": "Mora de Bs 595 millones en créditos públicos complica financiamientos",
+      "url": "https://eldeber.com.bo/economia/mora-bs-595-millones-creditos-publicos-complica-financiamientos_1776055569",
+      "summary": "Un bloqueo en Yapacaní en demanda de un crédito del FNDR refleja las dificultades de financiamiento de obras públicas ante una mora que en 2025 alcanzó el 11,04%, concentrada principalmente en Beni y Pando, y que complica la aprobación de proyectos como pavimentación en accesos a escuelas. El FNDR advierte vacíos normativos y una alta exposición al riesgo ante la caída de ingresos y la deuda de las gobernaciones, lo que amenaza su continuidad operativa.",
+      "summary_es": "Un bloqueo en Yapacaní en demanda de un crédito del FNDR refleja las dificultades de financiamiento de obras públicas ante una mora que en 2025 alcanzó el 11,04%, concentrada principalmente en Beni y Pando, y que complica la aprobación de proyectos como pavimentación en accesos a escuelas. El FNDR advierte vacíos normativos y una alta exposición al riesgo ante la caída de ingresos y la deuda de las gobernaciones, lo que amenaza su continuidad operativa.",
+      "summary_en": "A blockade in Yapacaní demanding a credit from the Regional Development Fund (FNDR) highlights the financing hurdles for public works as the 2025 delinquency rate reached 11.04%, concentrated mainly in Beni and Pando, complicating the approval of projects such as paving access to schools. The FNDR warns of regulatory gaps and a high risk exposure due to declining revenues and the debt carried by the regional governments, threatening its operational continuity.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-13T04:00:00-04:00",
+      "published_at_bo": "2026-04-13T04:00:00-04:00",
+      "fetched_at_utc": "2026-04-13T09:03:32.154231+00:00",
+      "day": "2026-04-13"
+    },
     {
       "source": "El Deber",
       "title": "Bolivia autoriza al sector privado a importar y exportar electricidad en fronteras",
