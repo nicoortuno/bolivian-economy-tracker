@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-04-13T06:26:35.535845+00:00",
-  "count": 139,
+  "generated_at_utc": "2026-04-13T09:03:34.992846+00:00",
+  "count": 138,
   "items": [
     {
       "source": "El Deber",
@@ -1891,48 +1891,6 @@
       "published_at_bo": "2026-03-30T10:20:00-04:00",
       "fetched_at_utc": "2026-03-30T19:07:38.823886+00:00",
       "day": "2026-03-30"
-    },
-    {
-      "source": "El Deber",
-      "title": "Precio del petróleo WTI supera nuevamente los $us 100 por barril",
-      "url": "https://eldeber.com.bo/economia/precio-petroleo-wti-supera-nuevamente-us-100-barril_1774832820",
-      "summary": "El petróleo sube con fuerza ante la intensificación del conflicto en Medio Oriente y la amenaza a las rutas de suministro, con el WTI por encima de $103 y el Brent cerca de $116 por barril. Los ataques hutíes y las restricciones en el estrecho de Ormuz elevan las preocupaciones de escasez y inducen proyecciones de hasta $200 por barril si el conflicto se prolonga.",
-      "summary_es": "El petróleo sube con fuerza ante la intensificación del conflicto en Medio Oriente y la amenaza a las rutas de suministro, con el WTI por encima de $103 y el Brent cerca de $116 por barril. Los ataques hutíes y las restricciones en el estrecho de Ormuz elevan las preocupaciones de escasez y inducen proyecciones de hasta $200 por barril si el conflicto se prolonga.",
-      "summary_en": "Oil rises sharply as the Middle East conflict intensifies and supply routes come under threat, with WTI above $103 and Brent near $116 a barrel. Houthi attacks and restrictions in the Strait of Hormuz heighten supply concerns and fuel forecasts of up to $200 a barrel if the conflict persists.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-29T22:39:00-04:00",
-      "published_at_bo": "2026-03-29T22:39:00-04:00",
-      "fetched_at_utc": "2026-03-30T06:00:56.355952+00:00",
-      "day": "2026-03-29"
-    },
-    {
-      "source": "El Deber",
-      "title": "ABC cierra el paso total para camiones de alto tonelaje en tramo La Angostura-Bermejo",
-      "url": "https://eldeber.com.bo/economia/abc-cierra-paso-total-camiones-alto-tonelaje-tramo-angostura-bermejo_1774820364",
-      "summary": "La ABC Santa Cruz anunció el cierre total del paso para camiones de alto tonelaje en el tramo La Angostura-Bermejo por lluvias y derrumbes, desde las 16:00 de este 29 de marzo hasta las 09:00 del lunes 30, pudiendo reabrir si las condiciones mejoran. Se recomienda viajar durante el día por mayor visibilidad y para evitar quedar varados, manteniendo libre el paso para vehículos livianos.",
-      "summary_es": "La ABC Santa Cruz anunció el cierre total del paso para camiones de alto tonelaje en el tramo La Angostura-Bermejo por lluvias y derrumbes, desde las 16:00 de este 29 de marzo hasta las 09:00 del lunes 30, pudiendo reabrir si las condiciones mejoran. Se recomienda viajar durante el día por mayor visibilidad y para evitar quedar varados, manteniendo libre el paso para vehículos livianos.",
-      "summary_en": "ABC Santa Cruz announced a complete closure of the La Angostura–Bermejo stretch to high-tonnage trucks due to rain and landslides, effective from 4:00 p.m. today, March 29, until 9:00 a.m. Monday, March 30, with the possibility of reopening if conditions improve. Travelers are advised to use daytime hours for better visibility and to avoid being stranded, keeping the route clear for light vehicles.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-29T17:42:00-04:00",
-      "published_at_bo": "2026-03-29T17:42:00-04:00",
-      "fetched_at_utc": "2026-03-30T03:17:04.136470+00:00",
-      "day": "2026-03-29"
-    },
-    {
-      "source": "El Deber",
-      "title": "Control y sostenibilidad: ABT firma acuerdo para modernizar el sector forestal",
-      "url": "https://eldeber.com.bo/economia/control-sostenibilidad-abt-firma-acuerdo-modernizar-sector-forestal_1774818096",
-      "summary": "La ABT firmó un acuerdo con Control Union para modernizar la gestión forestal sostenible en Bolivia, promover certificaciones internacionales y mejorar la trazabilidad, con miras a facilitar el acceso de productos forestales bolivianos a mercados exigentes como Europa y Norteamérica. Esta alianza, integrada al programa ABT 360, busca reducir la ilegalidad, impulsar la productividad responsable y fortalecer las oportunidades económicas de comunidades dependientes del bosque.",
-      "summary_es": "La ABT firmó un acuerdo con Control Union para modernizar la gestión forestal sostenible en Bolivia, promover certificaciones internacionales y mejorar la trazabilidad, con miras a facilitar el acceso de productos forestales bolivianos a mercados exigentes como Europa y Norteamérica. Esta alianza, integrada al programa ABT 360, busca reducir la ilegalidad, impulsar la productividad responsable y fortalecer las oportunidades económicas de comunidades dependientes del bosque.",
-      "summary_en": "ABT has signed an agreement with Control Union to modernize sustainable forest management in Bolivia, promote international certifications, and improve traceability. The goal is to facilitate Bolivian forest products’ access to demanding markets such as Europe and North America. Integrated within the ABT 360 program, the alliance aims to curb illegal logging, boost responsible productivity, and strengthen the economic opportunities of communities that depend on the forest.",
-      "tags": null,
-      "sentiment": null,
-      "published_at_utc": "2026-03-29T17:25:00-04:00",
-      "published_at_bo": "2026-03-29T17:25:00-04:00",
-      "fetched_at_utc": "2026-03-29T23:38:31.274877+00:00",
-      "day": "2026-03-29"
     },
     {
       "source": "El Deber",
