@@ -1,7 +1,21 @@
 {
-  "generated_at_utc": "2026-04-13T14:53:04.971954+00:00",
+  "generated_at_utc": "2026-04-13T15:44:55.303058+00:00",
   "count": 139,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Dólar referencial llega a Bs 9,45 y su cotización sigue por encima del paralelo",
+      "url": "https://eldeber.com.bo/economia/dolar-referencial-llega-bs-9-45-cotizacion-sigue-encima-paralelo_1776089103",
+      "summary": "El dólar referencial cerró este lunes 13 de abril a 9,45 Bs para venta, superando al paralelo que se cotizaba alrededor de 9,32 Bs, impulsado por un alto volumen de compras de 53,17 millones de dólares y por la nueva metodología que refleja de forma más directa las presiones reales del mercado. El Banco Unión emergió como principal comprador, con 16 operaciones y 33% del total, lo que elevó la cotización y podría anticipar nuevas presiones en el corto plazo.",
+      "summary_es": "El dólar referencial cerró este lunes 13 de abril a 9,45 Bs para venta, superando al paralelo que se cotizaba alrededor de 9,32 Bs, impulsado por un alto volumen de compras de 53,17 millones de dólares y por la nueva metodología que refleja de forma más directa las presiones reales del mercado. El Banco Unión emergió como principal comprador, con 16 operaciones y 33% del total, lo que elevó la cotización y podría anticipar nuevas presiones en el corto plazo.",
+      "summary_en": "The reference dollar closed this Monday, April 13, at 9.45 bolivianos for selling, surpassing the parallel rate which was around 9.32, driven by a high purchase volume of 53.17 million dollars and by the new methodology that more directly reflects real market pressures. Banco Unión emerged as the main buyer, with 16 transactions and 33% of the total, which pushed up the rate and could signal further pressures in the short term.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-13T10:14:00-04:00",
+      "published_at_bo": "2026-04-13T10:14:00-04:00",
+      "fetched_at_utc": "2026-04-13T14:53:03.014339+00:00",
+      "day": "2026-04-13"
+    },
     {
       "source": "El Deber",
       "title": "El dólar oficial pierde peso tras 14 años y el referencial domina la economía real",
