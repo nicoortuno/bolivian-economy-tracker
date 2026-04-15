@@ -1,7 +1,35 @@
 {
-  "generated_at_utc": "2026-04-15T15:10:42.695231+00:00",
+  "generated_at_utc": "2026-04-15T15:24:16.143238+00:00",
   "count": 136,
   "items": [
+    {
+      "source": "El Deber",
+      "title": "Mototaxistas se encadenan en YPFB y denuncian incumplimiento de compromisos por gasolina defectuosa",
+      "url": "https://eldeber.com.bo/economia/mototaxistas-encadenan-ypfb-denuncian-incumplimiento-compromisos-gasolina-defectuosa_1776263006",
+      "summary": "Mototaxistas se encadenaron frente a YPFB para exigir resarcimientos por daños a sus motos tras la gasolina desestabilizada, denunciando incumplimientos de compromisos firmados el 6 de abril. Advierten que, si no obtienen respuestas, podrían radicalizar las protestas y paralizar el transporte en Santa Cruz.",
+      "summary_es": "Mototaxistas se encadenaron frente a YPFB para exigir resarcimientos por daños a sus motos tras la gasolina desestabilizada, denunciando incumplimientos de compromisos firmados el 6 de abril. Advierten que, si no obtienen respuestas, podrían radicalizar las protestas y paralizar el transporte en Santa Cruz.",
+      "summary_en": "Motorcycle taxi drivers chained themselves outside YPFB to demand compensation for damage to their bikes caused by destabilized gasoline, alleging that commitments signed on April 6 have not been fulfilled. They warned that if they do not receive a response, they could escalate the protests and shut down transport in Santa Cruz.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-15T10:30:00-04:00",
+      "published_at_bo": "2026-04-15T10:30:00-04:00",
+      "fetched_at_utc": "2026-04-15T15:10:37.882124+00:00",
+      "day": "2026-04-15"
+    },
+    {
+      "source": "El Deber",
+      "title": "Gobierno permitirá al Ministerio de Economía redirigir fondos sociales de la banca",
+      "url": "https://eldeber.com.bo/economia/gobierno-permitira-ministerio-economia-redirigir-fondos-sociales-banca_1776260301",
+      "summary": "El Gobierno de Bolivia aprobó un decreto que otorga al Ministerio de Economía la facultad de reorientar y crear mecanismos para el uso de fondos sociales financiados con utilidades de los bancos, sin necesidad de otro decreto, con el objetivo de responder más rápido a necesidades productivas y sociales. También se mantiene la protección de préstamos vigentes, y la Autoridad de Supervisión del Sistema Financiero deberá adaptar sus normas; además, se amplía hasta el 19 de junio de 2026 el beneficio y alcance del PEPE.",
+      "summary_es": "El Gobierno de Bolivia aprobó un decreto que otorga al Ministerio de Economía la facultad de reorientar y crear mecanismos para el uso de fondos sociales financiados con utilidades de los bancos, sin necesidad de otro decreto, con el objetivo de responder más rápido a necesidades productivas y sociales. También se mantiene la protección de préstamos vigentes, y la Autoridad de Supervisión del Sistema Financiero deberá adaptar sus normas; además, se amplía hasta el 19 de junio de 2026 el beneficio y alcance del PEPE.",
+      "summary_en": "The Bolivian government approved a decree authorizing the Ministry of Economy to reorient and create mechanisms for using social funds financed with bank profits, without the need for another decree, in order to respond more quickly to productive and social needs. The protection of existing loans is maintained, and the Financial System Supervisory Authority (ASFI) will need to adapt its rules; additionally, the benefit and scope of PEPE are extended until June 19, 2026.",
+      "tags": null,
+      "sentiment": null,
+      "published_at_utc": "2026-04-15T10:01:00-04:00",
+      "published_at_bo": "2026-04-15T10:01:00-04:00",
+      "fetched_at_utc": "2026-04-15T15:10:38.840317+00:00",
+      "day": "2026-04-15"
+    },
     {
       "source": "El Deber",
       "title": "FMI proyecta contracción de la economía en Bolivia en un escenario global “frágil”",
